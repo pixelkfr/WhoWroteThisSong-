@@ -1,0 +1,18 @@
+{mind}{world}{collide}	sup=2
+{mind}{ocean}{divide}	sup=2
+{something}{inside}{go}	sup=2
+{still}{keep}{go}	sup=2
+{still}{keep}{holding}	sup=2
+{know}{belong}	sup=2
+{feel}{anonymous}	sup=2
+{mind}	sup=4
+{go}	sup=4
+{still}{keep}	sup=4
+{problem}{like}	sup=4
+{like}	sup=5
+{shut}{anonymous}	sup=6
+{get}{world}{conscience}	sup=7
+{hello}{hello}{hello}	sup=7
+{world}	sup=9
+{anonymous}	sup=10
+

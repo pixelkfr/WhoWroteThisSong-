@@ -1,0 +1,10 @@
+{nobody}{know}	sup=2
+{today}	sup=2
+{won}{go}{unnoticed}	sup=2
+{tonight}	sup=2
+{maybe}{need}{want}	sup=5
+{blame}{family}	sup=6
+{blame}{bully}	sup=6
+{maybe}{need}	sup=6
+{want}	sup=6
+{blame}	sup=18

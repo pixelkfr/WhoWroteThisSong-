@@ -1,0 +1,6 @@
+{future}{get}{thrill}	sup=2
+{let}{kill}{squid}{make}{rot}	sup=2
+{pirate}{power}{murder}{skill}	sup=2
+{shot}{heart}{flintlock}{gun}	sup=2
+{mash}{brain}{bottle}{rum}	sup=2
+

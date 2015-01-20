@@ -1,0 +1,24 @@
+{every}{morning}	sup=2
+{drive}	sup=2
+{wanna}	sup=2
+{turn}	sup=2
+{road}	sup=2
+{feel}{alright}	sup=2
+{every}	sup=3
+{alone}	sup=3
+{tension}{us}{time}	sup=3
+{need}{moment}{cause}{spread}{thin}	sup=3
+{need}{moment}{life}	sup=3
+{get}	sup=3
+{work}{hard}{day}{long}	sup=3
+{begin}	sup=3
+{tension}	sup=4
+{cause}	sup=4
+{life}	sup=4
+{work}	sup=4
+{feel}	sup=4
+{time}	sup=5
+{day}	sup=5
+{need}{moment}	sup=6
+{need}	sup=7
+

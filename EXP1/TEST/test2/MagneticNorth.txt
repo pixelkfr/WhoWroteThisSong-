@@ -1,0 +1,12 @@
+{snow}{fall}{hard}{frozen}{sea}	sup=2
+{quest}{magnetic}{north}	sup=2
+{far}{beyond}{ice}{snow}	sup=2
+{beyond}{snow}{magnetic}{north}	sup=2
+{voyage}{carry}	sup=2
+{blood}{gold}{sell}{soul}	sup=2
+{redemption}{lie}{magnetic}{north}	sup=2
+{set}{course}{magnetic}{north}	sup=2
+{die}{magnetic}{north}	sup=2
+{beyond}{snow}	sup=4
+{magnetic}{north}	sup=10
+

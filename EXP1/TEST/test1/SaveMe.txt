@@ -1,0 +1,18 @@
+{hear}{know}{hear}{let}{know}	sup=2
+{hear}{let}{know}{hear}{know}	sup=2
+{hear}{let}{know}{hear}{let}	sup=2
+{hear}{let}{know}{let}{know}	sup=2
+{hear}{let}{hear}{let}{know}	sup=2
+{leave}{us}	sup=2
+{help}{find}{way}	sup=2
+{mind}{find}	sup=2
+{us}{behind}	sup=2
+{lose}{dream}	sup=3
+{something}{say}	sup=3
+{trap}{vile}{world}	sup=3
+{ending}{every}	sup=3
+{use}{guide}{light}{place}{go}	sup=3
+{hear}{let}{know}	sup=3
+{tonight}{die}{young}	sup=7
+{tonight}{die}	sup=8
+

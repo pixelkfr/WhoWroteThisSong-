@@ -1,0 +1,24 @@
+{NN_ blame}	sup=18
+{NNS_ won}{VBP_ go}{unnoticed JJ_}	sup=2
+{nobody NN_}{know VBZ_}	sup=2
+{NN_ today}	sup=2
+{VBZ_}{NN_}	sup=2
+{VB_}	sup=2
+{VBG_}	sup=2
+{tonight}	sup=2
+{VBZ_}	sup=3
+{JJ_}	sup=3
+{NNS_}{VBP_}	sup=4
+{RB_ maybe}{VBN_ need}{VBD_ want}	sup=5
+{NNS_}	sup=6
+{VBD_ want}	sup=6
+{NN_ blame}{NN_ family}	sup=6
+{NN_ blame}{NN_ bully}	sup=6
+{RB_ maybe}{VBN_ need}	sup=6
+{VBN_}	sup=7
+{NN_}	sup=24
+{VBD_}	sup=8
+{RB_}	sup=8
+{NN_ blame}{NN_}	sup=12
+{NN_}{NN_}	sup=14
+

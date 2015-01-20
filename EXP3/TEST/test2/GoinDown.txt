@@ -1,0 +1,26 @@
+{take VBD_}{river NN_}	sup=2
+{VBD_ come}{around RP_}	sup=2
+{NN_}{NN_}	sup=2
+{could MD_}{drown VB_}{drown VB_}{drown VB_}	sup=2
+{VB_ feel}{like IN_}{VBG_}	sup=2
+{look}{NN_}	sup=2
+{get}{NN_}	sup=2
+{take}{NN_}	sup=3
+{VB_}{NN_}	sup=3
+{VB_}{IN_}	sup=3
+{VBN_}{NN_}	sup=3
+{around}	sup=3
+{VBD_}{NN_}	sup=4
+{VBD_ walk}	sup=5
+{never RB_}{VBN_ think}{d. NP_}{one CD_}{laughing JJ_}	sup=5
+{one CD_}	sup=6
+{never RB_}{VBN_ think}{JJ_}	sup=6
+{VB_}	sup=7
+{never RB_}	sup=7
+{VBN_}	sup=9
+{VBD_}	sup=11
+{NN_}	sup=11
+{VBG_ go}	sup=13
+{go}	sup=14
+{VBG_}	sup=16
+

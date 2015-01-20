@@ -1,0 +1,7 @@
+{red}{sky}	sup=2
+{sand}{time}{remember}{name}	sup=3
+{history}{written}{today}	sup=3
+{sea}{ablaze}{flame}	sup=6
+{sky}{burn}{thunder}	sup=6
+{set}{course}{cartagena}	sup=6
+

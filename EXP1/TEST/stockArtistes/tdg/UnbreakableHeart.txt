@@ -1,0 +1,17 @@
+{hijack}{weren}{look}	sup=2
+{behind}{back}{people}{talk}	sup=2
+{use}{word}{cut}{size}	sup=2
+{want}{fight}{back}	sup=2
+{worth}{fighting}	sup=2
+{try}{take}{control}	sup=2
+{feel}{crazy}	sup=2
+{thing}{fall}{apart}	sup=2
+{listen}{head}	sup=2
+{try}{take}{pride}	sup=3
+{try}{take}{soul}	sup=3
+{fill}{full}{lie}	sup=3
+{believe}{gonna}{try}	sup=3
+{look}{eye}	sup=4
+{fill}{lie}	sup=4
+{unbreakable}{heart}	sup=6
+{try}{take}	sup=8

@@ -1,0 +1,13 @@
+{sign}{time}	sup=2
+{another}{mountain}{climb}	sup=2
+{sun}{burn}{hot}{flame}{devil}	sup=2
+{sun}{burn}{hot}{flame}{eye}	sup=2
+{sun}{burn}{hot}{devil}{eye}	sup=2
+{sun}{burn}{flame}{devil}{eye}	sup=2
+{sun}{hot}{flame}{devil}{eye}	sup=2
+{chaos}{rise}	sup=3
+{sky}{rain}{knife}	sup=3
+{mistaken}	sup=5
+{toll}{take}	sup=5
+{give}{need}	sup=6
+

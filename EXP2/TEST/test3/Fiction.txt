@@ -1,0 +1,16 @@
+{give}	sup=2
+{life}	sup=2
+{could}	sup=2
+{would}	sup=2
+{skin}	sup=2
+{hope}{worth}	sup=2
+{tell}{everybody}	sup=2
+{one}{walk}{beside}{yeah}	sup=2
+{tonight}	sup=2
+{hope}	sup=3
+{know}{find}{way}	sup=3
+{find}{way}	sup=4
+{let}{burn}	sup=4
+{yeah}	sup=4
+{find}	sup=6
+

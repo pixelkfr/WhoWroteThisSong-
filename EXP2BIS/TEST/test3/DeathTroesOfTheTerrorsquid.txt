@@ -1,0 +1,25 @@
+{deep}	sup=2
+{terror}	sup=2
+{great}	sup=2
+{eye}	sup=2
+{course}	sup=2
+{rage}	sup=2
+{monster}	sup=2
+{quest}{vengeful}{slaughter}	sup=2
+{god}{shall}{master}	sup=2
+{ship}	sup=2
+{defeat}	sup=2
+{terrorsquid}	sup=2
+{death}	sup=2
+{bow}	sup=2
+{fire}	sup=3
+{leviathan}	sup=3
+{time}	sup=3
+{slaughter}	sup=3
+{beast}	sup=4
+{deathsworn}{oathbound}	sup=4
+{sail}{hall}{doom}	sup=4
+{black}{flag}{raise}{sky}	sup=4
+{sail}	sup=5
+{doom}	sup=8
+

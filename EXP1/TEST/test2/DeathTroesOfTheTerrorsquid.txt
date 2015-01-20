@@ -1,0 +1,6 @@
+{quest}{vengeful}{slaughter}	sup=2
+{god}{shall}{master}	sup=2
+{deathsworn}{oathbound}	sup=4
+{sail}{hall}{doom}	sup=4
+{black}{flag}{raise}{sky}	sup=4
+

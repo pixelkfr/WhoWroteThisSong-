@@ -1,0 +1,9 @@
+{take}{aggression}	sup=2
+{man}{mean}	sup=2
+{may}{hard}	sup=2
+{take}{one}{idea}	sup=3
+{common}{place}{lazy}{old}{tired}	sup=3
+{idea}{fuck}{uninspired}	sup=3
+{one}{person}{fight}{fight}	sup=3
+{many}{time}{teach}{conspire}	sup=3
+{one}{fight}	sup=4

@@ -1,0 +1,7 @@
+{cause}{need}	sup=2
+{need}{little}	sup=2
+{seem}{shelter}{pain}{inside}	sup=3
+{say}{real}	sup=3
+{lose}{power}{feel}{tonight}	sup=3
+{go}{regain}	sup=3
+{victim}{crime}	sup=7

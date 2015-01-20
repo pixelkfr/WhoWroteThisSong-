@@ -1,0 +1,10 @@
+{alcohol}{store}{run}{low}	sup=2
+{deep}{blue}{yonder}{go}	sup=2
+{end}{quest}{follow}{smell}	sup=2
+{lead}{us}{mead}{hell}	sup=2
+{infernal}{hydromel}	sup=2
+{set}{sail}{across}{wave}	sup=4
+{stop}{man}{say}	sup=4
+{mead}{hell}	sup=5
+{set}{sail}	sup=6
+

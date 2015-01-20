@@ -1,0 +1,9 @@
+1) on clean les corpus de chansons
+2) on clean chaque chanson de test
+
+3) on extrait les motifs des corpus
+4) on extrait les motifs des chansons de test avec les mêmes paramètres
+
+5) on extrait les motifs emergents des corpus comparés aux autres (7 fichiers en sortie) => on a trois classifieurs
+
+6) on compare les motifs de chaque chanson avec les classifieurs et on sort des resultats

@@ -1,0 +1,21 @@
+{light}	sup=2
+{hide}	sup=3
+{everything}{pay}{tonight}	sup=3
+{party}{dead}{dancing}{grave}	sup=3
+{drink}{free}	sup=3
+{relax}	sup=3
+{enjoy}{sight}{dead}{dancing}{grave}	sup=3
+{world}{build}	sup=3
+{tell}{em}{change}	sup=3
+{tell}{em}{listen}	sup=3
+{keep}	sup=3
+{midnight}{come}	sup=3
+{room}{watch}{dead}{dancing}{grave}	sup=3
+{feel}{come}{strain}	sup=4
+{late}	sup=4
+{tell}{em}	sup=6
+{change}	sup=7
+{come}	sup=7
+{dead}{dancing}{grave}	sup=9
+{dead}	sup=10
+

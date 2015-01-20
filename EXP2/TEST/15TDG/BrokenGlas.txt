@@ -1,0 +1,15 @@
+{fight}	sup=2
+{first}{day}{rest}{life}	sup=2
+{didn}{know}{couldn}{go}{forever}	sup=2
+{believe}{go}{forever}	sup=2
+{know}	sup=3
+{break}{glass}	sup=4
+{throw}{floor}{never}{mean}{last}	sup=4
+{empty}{shell}	sup=4
+{try}{pick}{us}{gonna}{cut}	sup=4
+{go}{forever}	sup=4
+{never}	sup=5
+{forever}	sup=5
+{gonna}{cut}	sup=6
+{gonna}	sup=7
+{cut}	sup=7

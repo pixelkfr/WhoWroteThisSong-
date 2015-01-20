@@ -1,0 +1,22 @@
+{sail}	sup=2
+{red}{sky}	sup=2
+{fight}	sup=2
+{war}	sup=2
+{lash}	sup=2
+{across}	sup=2
+{battle}	sup=2
+{foe}	sup=2
+{legend}	sup=2
+{death}	sup=2
+{man}	sup=3
+{sand}{time}{remember}{name}	sup=3
+{history}{written}{today}	sup=3
+{time}	sup=4
+{sea}{ablaze}{flame}	sup=6
+{sky}{burn}{thunder}	sup=6
+{set}{course}{cartagena}	sup=6
+{set}	sup=7
+{sky}	sup=8
+{cartagena}	sup=8
+{sea}	sup=9
+

@@ -1,0 +1,15 @@
+{take}{river}	sup=2
+{could}{drown}{drown}{drown}	sup=2
+{look}	sup=2
+{feel}{like}	sup=2
+{get}	sup=2
+{come}{around}	sup=2
+{take}	sup=3
+{around}	sup=3
+{never}{think}{d.}{one}{laughing}	sup=5
+{walk}	sup=5
+{one}	sup=6
+{never}{think}	sup=6
+{never}	sup=7
+{go}	sup=9
+

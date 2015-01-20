@@ -1,0 +1,10 @@
+{time}{die}{end}{nigh}	sup=2
+{aware}{lie}{beneath}	sup=2
+{razor}{sharp}{pointy}{tooth}	sup=2
+{life}{pay}{price}	sup=2
+{boot}{lead}{blood}{run}{red}	sup=2
+{descend}{black}{come}{back}	sup=2
+{eye}{fill}{soul}{dread}	sup=2
+{fury}{hammerhead}	sup=2
+{walk}{plank}	sup=8
+

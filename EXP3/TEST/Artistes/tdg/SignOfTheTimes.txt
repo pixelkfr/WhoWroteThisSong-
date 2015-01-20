@@ -1,0 +1,15 @@
+{sign NN_}{time NNS_}	sup=2
+{NN_ sun}{burn VBZ_}{hot JJ_}{NN_ flame}{NN_ devil}{NNS_ eye}	sup=2
+{another DT_}{NN_ mountain}{NN_ climb}	sup=2
+{NN_}	sup=24
+{NN_ chaos}{NN_ rise}	sup=3
+{NN_ sky}{rain VBG_}{NNS_ knife}	sup=3
+{NN_ toll}{take VBN_}	sup=5
+{JJ_ mistaken}	sup=5
+{VBN_}	sup=6
+{give VBD_}{NN_ need}	sup=6
+{NN_}{NNS_}	sup=7
+{NN_}{NN_}	sup=8
+{NNS_}	sup=8
+{JJ_}	sup=8
+

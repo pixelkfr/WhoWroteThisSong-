@@ -1,0 +1,21 @@
+{get}{little}{bit}{last}{night}	sup=2
+{wanna}{go}{keep}{go}{come}	sup=2
+{wanna}{go}{keep}{keep}{come}	sup=2
+{wanna}{keep}{go}{go}{come}	sup=2
+{wanna}{keep}{go}{keep}{come}	sup=2
+{wanna}{keep}{keep}{go}{come}	sup=2
+{wanna}{keep}{keep}{keep}{come}	sup=2
+{get}{empty}{cup}{pour}	sup=3
+{get}{little}{bit}	sup=3
+{drink}{much}{sure}	sup=3
+{drink}{throw}	sup=3
+{go}{close}	sup=3
+{ever}{ever}{want}{grow}	sup=3
+{wanna}{go}{keep}{keep}{go}	sup=3
+{wanna}{keep}{go}{keep}{go}	sup=3
+{wanna}{keep}{go}{keep}{keep}	sup=3
+{wanna}{keep}{keep}{keep}{go}	sup=3
+{get}{little}	sup=4
+{go}{go}	sup=4
+{get}{hangover}	sup=7
+

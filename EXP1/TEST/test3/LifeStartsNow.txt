@@ -1,0 +1,5 @@
+{cause}{life}{start}	sup=2
+{do}{thing}	sup=4
+{could}{kill}{somehow}	sup=4
+{life}{start}	sup=7
+

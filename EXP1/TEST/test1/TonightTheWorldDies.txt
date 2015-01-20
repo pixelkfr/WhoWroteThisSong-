@@ -1,0 +1,7 @@
+{seem}{find}{good}{way}	sup=2
+{consciously}{pretend}	sup=2
+{run}{away}	sup=2
+{read}{write}{wall}	sup=3
+{mother}{cry}	sup=3
+{tortured}{voice}{crawl}	sup=3
+{find}{well}{days.}{lose}	sup=3

@@ -1,0 +1,10 @@
+{nightmare}{come}{life}	sup=2
+{one}{call}	sup=2
+{everybody}{fear}	sup=2
+{tragic}{fate}{look}{clear}{yeah}	sup=2
+{die}{die}	sup=2
+{come}{life}	sup=3
+{price}{evil}	sup=3
+{hurt}{know}	sup=3
+{belong}{yeah}	sup=3
+{ooh}{fuckin}{nightmare}	sup=3

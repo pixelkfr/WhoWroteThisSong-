@@ -1,0 +1,14 @@
+{rum}{rum}{rum}{yarr}	sup=12
+{time}{come}	sup=2
+{time}{drink}	sup=2
+{get}{nothing}{lose}	sup=2
+{mission}{get}{totally}{drunk}	sup=2
+{rum}{power}	sup=2
+{rum}{key}	sup=2
+{rum}{thing}{set}{us}{free}	sup=2
+{rum}{rum}	sup=24
+{get}{drunk}	sup=3
+{rum}{rum}{gimme}{rum}	sup=3
+{rum}{rum}{rum}	sup=15
+{rum}{rum}{ahoy}	sup=6
+

@@ -1,0 +1,19 @@
+{know}{place}{man}	sup=2
+{sea}	sup=2
+{come}	sup=2
+{quest}{quest}{boat}	sup=2
+{quest}{find}{craft}	sup=2
+{sailing}{get}{kick}	sup=2
+{mad}{anything}{float}	sup=2
+{barge}{bark}{dinghy}{raft}	sup=2
+{fix}	sup=2
+{one}	sup=2
+{know}{place}	sup=4
+{man}	sup=4
+{quest}{quest}{ship}	sup=4
+{know}	sup=5
+{place}	sup=6
+{ship}	sup=6
+{quest}{quest}	sup=6
+{quest}	sup=10
+

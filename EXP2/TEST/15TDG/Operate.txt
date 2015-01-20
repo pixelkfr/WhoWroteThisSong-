@@ -1,0 +1,16 @@
+{leave}{alone}	sup=2
+{make}	sup=2
+{wanna}	sup=2
+{want}{see}{phone}	sup=2
+{like}{pill}	sup=3
+{want}	sup=3
+{know}{operate}	sup=4
+{come}{around}{know}{need}	sup=4
+{cut}{heart}{leave}{bleeding}	sup=4
+{one}{bring}{demon}	sup=4
+{like}	sup=4
+{one}	sup=5
+{leave}	sup=7
+{know}	sup=8
+{bring}	sup=9
+

@@ -1,0 +1,6 @@
+{prom}{queen}{miss}{america}	sup=2
+{small}{town}{scene}	sup=2
+{never}{miss}{america}	sup=2
+{backseat}{pair}{cuff}	sup=3
+{miss}{america}	sup=4
+{go}{hell}	sup=6

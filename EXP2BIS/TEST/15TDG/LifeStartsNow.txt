@@ -1,0 +1,13 @@
+{say}	sup=2
+{make}	sup=2
+{cause}{life}{start}	sup=2
+{hate}	sup=2
+{take}	sup=2
+{survive}	sup=3
+{do}{thing}	sup=4
+{could}{kill}{somehow}	sup=4
+{far}	sup=4
+{life}{start}	sup=7
+{somehow}	sup=7
+{life}	sup=8
+

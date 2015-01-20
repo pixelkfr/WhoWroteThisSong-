@@ -1,0 +1,8923 @@
+{VBN_}{NNS_}{NN_}{RB_} sup=2
+
+{JJ_ distant}{NNS_} sup=3
+
+{see VB_}{RB_} sup=2
+
+{NN_ scream}{NN_ pleasure}{VB_ unmask}{NN_ desire} sup=3
+
+{rest} sup=5
+
+{VBN_}{IN_}{NN_} sup=3
+
+{NN_}{NN_}{RB_}{know} sup=3
+
+{VB_ take}{NN_} sup=24
+{NN_}{RB_}{VBZ_} sup=4
+
+{eat} sup=4
+
+{VBN_}{back}{JJ_} sup=2
+
+{creature} sup=3
+
+{RB_ yeah}{RB_} sup=4
+
+{VBG_}{VBG_}{RB_} sup=4
+
+{NN_}{NN_}{fall} sup=2
+
+{pleasure} sup=7
+
+{good}{NN_}{NN_} sup=4
+
+{VB_ take}{NN_}{NN_}{NN_} sup=3
+
+{NN_}{cause}{RB_} sup=3
+
+{VB_}{VB_}{time} sup=6
+
+{VB_ find}{NN_} sup=2
+
+{VBN_ run}{NN_ hide} sup=3
+
+{NNS_ piece}{NN_} sup=2
+
+{VBN_}{escape} sup=4
+
+{VB_ die}{VB_} sup=3
+
+{NN_ tavern}{NN_} sup=3
+
+{JJ_ deep}{NN_} sup=10
+{come}{NN_}{NNS_} sup=3
+
+{map}{JJ_} sup=2
+
+{RB_}{VBD_ know}{NN_} sup=5
+
+{VB_}{RB_ away} sup=17
+
+{NN_ help} sup=4
+
+{VBD_}{IN_} sup=4
+
+{VB_}{JJR_}{NN_} sup=2
+
+{NN_ something}{wrong} sup=3
+
+{VBG_ eviscerate}{NN_ whim} sup=3
+
+{soul}{NN_} sup=4
+
+{NN_}{vessel} sup=3
+
+{NN_}{fail} sup=3
+
+{meet}{NN_} sup=3
+
+{JJ_}{NNS_ soul} sup=3
+
+{NNS_}{fall} sup=2
+
+{RB_}{JJ_}{NN_ time} sup=3
+
+{VBZ_}{NN_}{NN_} sup=29
+{NN_}{NN_ night} sup=15
+{NN_}{NN_}{NN_ night} sup=5
+
+{run}{NN_} sup=8
+
+{NNS_}{NN_ hell} sup=4
+
+{forget}{RB_ away} sup=4
+
+{VB_ sail}{VBG_ rage}{NNS_ sea} sup=2
+
+{VBG_}{RB_} sup=35
+{NN_}{MD_}{VB_}{RB_} sup=2
+
+{NN_ time}{NNS_} sup=11
+{VBP_}{VB_} sup=55
+{VBD_}{JJ_}{NN_} sup=30
+{NN_}{rage}{NNS_} sup=3
+
+{VBZ_ lie} sup=3
+
+{NNS_ lead}{NN_ darkness}{VBZ_ emerge}{JJ_ light} sup=2
+
+{VB_}{NN_ way} sup=8
+
+{NN_ sail}{JJ_}{NN_} sup=3
+
+{RB_}{RB_}{VB_} sup=9
+{NN_}{bring} sup=2
+
+{VBN_ lose}{NN_}{NN_} sup=2
+
+{perfect}{RB_}{JJ_} sup=2
+
+{VBN_}{NN_ life} sup=12
+
+{NN_}{away RP_} sup=2
+
+{JJ_}{NNS_ heart} sup=4
+
+{NNS_ won}{VBP_}{VB_} sup=5
+
+{want}{VB_} sup=4
+
+{NNS_ man}{NN_} sup=3
+
+{VBN_}{NN_}{VBP_} sup=3
+
+{quest}{JJ_} sup=4
+
+{limb}{NN_} sup=6
+
+{NN_}{go}{NN_} sup=2
+
+{VBD_}{JJ_} sup=49
+{step} sup=7
+
+{VB_}{still} sup=2
+
+{know}{VBG_}{NN_} sup=3
+
+{VB_ feel}{NN_ anger}{VBG_ rage}{NN_ body}{NNS_ tire} sup=2
+
+{NN_ d} sup=6
+
+{hope}{NN_} sup=8
+
+{one PP_}{MD_}{VB_} sup=2
+
+{NNS_ thing} sup=10
+
+{VB_ give}{NN_} sup=4
+
+{NN_ mercy} sup=5
+
+{VBD_}{NN_ sail} sup=4
+
+{VB_}{VB_}{VB_}{NN_} sup=10
+
+{NN_ road} sup=7
+
+{VB_}{VB_ make} sup=10
+
+{cause}{NN_} sup=22
+
+{NN_}{NN_ light} sup=5
+
+{VBG_}{DT_ every} sup=3
+
+{JJ_}{MD_ could}{VB_} sup=4
+
+{NN_}{sea} sup=19
+
+{oh UH_}{NN_} sup=4
+
+{NN_}{NN_}{JJ_}{NN_} sup=31
+{MD_ shall} sup=8
+
+{VB_ grow} sup=2
+
+{NN_ time}{VBG_} sup=5
+
+{VBD_}{NN_}{VBD_}{NN_} sup=3
+
+{VB_}{MD_} sup=4
+
+{right}{VB_} sup=10
+
+{lad} sup=3
+
+{JJ_ sound} sup=3
+
+{VB_}{NN_}{NN_}{JJ_} sup=5
+{make}{JJ_} sup=4
+
+{NN_}{JJ_}{NNS_} sup=27
+{NN_ midget}{NN_} sup=7
+
+{VB_ keelhaul}{JJ_ filthy}{NN_ landlubber} sup=2
+
+{RB_}{VBG_}{RB_} sup=3
+
+{NN_ fade} sup=2
+
+{NNS_}{NNS_}{NN_ blood} sup=2
+
+{live}{man} sup=2
+
+{NN_}{MD_ could}{VB_}{NN_} sup=4
+
+{NNS_ life} sup=11
+{see VBP_} sup=9
+
+{RB_}{VBD_}{NN_} sup=8
+
+{VB_}{VB_ die} sup=4
+
+{like IN_}{NN_} sup=6
+
+{NN_ cause} sup=35
+{VBN_ go}{VBN_ go} sup=2
+
+{good} sup=11
+
+{JJ_}{NN_}{NN_}{VBN_} sup=3
+
+{NN_}{NN_}{NN_}{RB_} sup=12
+{JJ_}{see} sup=7
+
+{VB_ try} sup=4
+
+{JJ_ eternal}{NN_ rest}{NN_ time} sup=2
+
+{JJ_ human}{NN_} sup=2
+
+{NNS_ one}{RB_ around} sup=5
+
+{NN_}{NNS_ thing} sup=7
+
+{NN_ taste} sup=8
+
+{VBN_ chop}{NNS_} sup=6
+
+{NN_ o}{NN_}{NN_} sup=3
+
+{NN_}{one}{VBP_} sup=3
+
+{NN_}{RB_}{VBD_} sup=3
+
+{VBP_}{need}{NN_} sup=2
+
+{damn} sup=3
+
+{VBD_}{get}{NN_} sup=3
+
+{RB_}{NN_}{RB_} sup=10
+
+{NN_ something}{NN_ wrong}{RB_ though}{feel VBD_}{stay VB_} sup=2
+
+{NN_}{set}{NN_} sup=4
+
+{VBD_}{map}{NN_} sup=3
+
+{face} sup=15
+{IN_}{IN_} sup=2
+
+{NNS_}{NNS_}{VBP_} sup=4
+
+{PP_ one}{VBP_ drink}{JJ_ sunk}{NN_ n}{NN_ norwegian} sup=12
+
+{kill VB_} sup=4
+
+{strike} sup=7
+
+{NN_}{NN_}{know} sup=4
+
+{JJ_}{VB_} sup=22
+{JJ_}{treasure}{JJ_} sup=4
+
+{VB_ bring}{back RB_}{NN_ time} sup=2
+
+{VB_ see}{NN_ slaughter}{NN_ cutlass}{NNS_ swing}{NNS_ pistol}{NN_ fire} sup=2
+
+{back}{RB_} sup=18
+
+{NN_ hair} sup=2
+
+{JJ_ last}{NN_}{RB_} sup=2
+
+{NN_}{NN_}{NNS_ body} sup=3
+
+{NN_ man}{NN_}{NN_}{NN_} sup=4
+
+{NN_ blood} sup=21
+{NN_}{find} sup=5
+
+{NNS_ eye}{RB_} sup=7
+
+{PP_}{VBP_}{NN_} sup=14
+
+{place}{NN_} sup=9
+
+{JJ_}{NN_}{NN_}{VBZ_} sup=2
+
+{NN_}{NN_ rest}{NN_ life} sup=5
+
+{JJ_}{ol} sup=8
+
+{viking}{VBD_} sup=5
+
+{NN_ trust} sup=3
+
+{NNS_}{VBP_}{NN_}{NN_} sup=13
+{VB_}{NN_}{fire} sup=4
+
+{NN_}{NN_}{NN_ fear} sup=2
+
+{NN_ life}{JJ_ free} sup=2
+
+{VBP_ say}{JJ_ final}{NNS_ word}{NN_ friend} sup=3
+
+{day}{VBP_}{NNS_} sup=2
+
+{fall}{RB_} sup=5
+
+{accuse} sup=2
+
+{JJ_}{NN_ gold} sup=2
+
+{set}{NN_ sail}{VB_} sup=5
+
+{RB_}{VBN_}{NN_} sup=17
+{JJ_}{IN_}{NN_} sup=7
+{VB_ know}{VBN_} sup=10
+
+{VB_ find}{RB_} sup=2
+
+{NN_}{RB_}{RB_ away} sup=5
+
+{need}{VB_} sup=6
+{lie}{JJ_}{NN_}{NN_} sup=2
+
+{NNS_}{VBN_ do} sup=2
+
+{NN_ fight}{NN_} sup=8
+
+{NN_ time}{VBD_ soak}{NN_ blood}{NNS_ turn}{back RB_} sup=2
+
+{PP_}{NN_} sup=35
+{JJ_}{NN_ light} sup=4
+
+{NN_}{PP_ us} sup=8
+
+{feel}{JJ_} sup=4
+
+{NNS_}{RB_}{VBP_}{NN_} sup=4
+
+{RB_}{VBN_}{RB_} sup=6
+
+{MD_ would}{VB_} sup=8
+
+{NN_}{NNS_ sword} sup=2
+
+{VB_ know}{RB_ late}{VBN_ waste}{NN_ time} sup=3
+
+{NN_ price}{NN_ pay}{VBN_ gotta}{JJ_ strong} sup=3
+
+{VBD_ live} sup=4
+
+{NN_}{stay VB_} sup=6
+
+{NN_}{VBD_}{us PP_}{NN_} sup=4
+
+{NNS_}{see VBP_} sup=7
+
+{NN_ breath} sup=6
+
+{VB_}{NN_}{NN_ right} sup=8
+
+{treasure} sup=15
+
+{NN_}{NNS_}{VBN_} sup=3
+
+{VBG_ fuck} sup=6
+
+{NN_}{one CD_} sup=8
+
+{much}{JJ_} sup=2
+
+{VBN_ kill} sup=2
+
+{VBD_ set}{NN_ sail} sup=3
+
+{NN_}{NN_}{NN_}{NN_} sup=67
+{come}{VBG_} sup=5
+
+{RB_}{turn} sup=11
+
+{NN_}{JJ_ full}{NN_} sup=10
+{RB_ long}{NN_} sup=2
+
+{VB_}{come} sup=5
+
+{JJ_}{NN_}{NN_ time} sup=4
+
+{inside}{NN_} sup=10
+
+{place}{VBP_} sup=2
+
+{NN_ watch}{NN_ call}{NN_ calling} sup=2
+
+{JJ_}{NN_}{VBP_}{NN_} sup=2
+
+{NN_ hope}{VBZ_} sup=2
+
+{NN_}{NN_ call} sup=3
+
+{NN_}{NN_}{JJ_}{JJ_} sup=2
+
+{NNS_}{VBP_}{RB_} sup=17
+{hear}{NNS_} sup=5
+
+{NN_}{MD_ could}{RB_} sup=2
+
+{VBD_ take}{NN_}{VBD_}{NN_} sup=2
+
+{NNS_ one}{VBP_ confide}{VBN_ go}{JJ_ black}{NN_ night} sup=3
+
+{NNS_}{RB_ hard} sup=3
+
+{IN_}{NN_}{VBN_} sup=2
+
+{tear} sup=8
+
+{VB_}{VBG_ rage}{NNS_} sup=4
+
+{NNS_}{NN_ sail} sup=2
+
+{VB_}{VB_}{hide} sup=2
+
+{VBG_ haunt}{NN_} sup=2
+
+{NN_}{NN_ breath} sup=2
+
+{RB_}{RB_}{VBN_} sup=3
+
+{feel}{NN_}{NN_} sup=6
+
+{VB_ get}{JJ_ drunk}{NN_}{NN_} sup=2
+
+{VB_ know}{RB_} sup=8
+
+{reach} sup=6
+
+{NN_}{NN_}{NN_ face} sup=2
+
+{JJ_}{NN_}{JJ_}{JJ_} sup=2
+
+{NN_}{RB_ right} sup=4
+
+{NN_}{JJ_ free} sup=10
+{let}{VB_ make} sup=4
+
+{NN_ nothing}{JJ_}{NN_} sup=5
+
+{VB_}{tonight} sup=4
+
+{VBN_}{RB_}{NN_} sup=11
+{NN_}{NNS_}{MD_ would}{VB_} sup=2
+
+{JJ_ closed}{NNS_ brother}{NNS_ eye}{RB_ tonight} sup=2
+
+{long} sup=18
+
+{reach}{NNS_} sup=5
+
+{VB_}{VB_}{VB_ go} sup=2
+
+{NN_}{NNS_ tear} sup=3
+
+{IN_ since} sup=2
+
+{call}{NN_} sup=8
+{NN_}{NN_ destiny}{hand} sup=3
+
+{NN_ time}{come VBP_}{VB_} sup=2
+
+{NN_}{NN_ fire} sup=3
+
+{VBG_}{NN_ time} sup=2
+
+{day}{NN_} sup=5
+
+{NNS_}{JJ_} sup=68
+{JJ_ cold}{NN_}{NNS_} sup=4
+
+{VB_}{VB_}{JJ_}{NNS_} sup=11
+
+{VB_ feel}{NN_} sup=9
+
+{dark} sup=7
+
+{VB_}{JJ_}{VBP_} sup=7
+
+{NN_ face}{NN_} sup=5
+
+{JJ_}{turn}{NN_} sup=3
+
+{leave} sup=35
+{NNS_}{leave} sup=2
+
+{JJ_ grave} sup=2
+
+{NN_}{JJ_}{JJ_}{NN_} sup=6
+
+{know}{right} sup=9
+
+{RB_}{NN_ time} sup=11
+
+{see VB_}{JJ_ fine}{NN_ life} sup=3
+
+{want}{VBD_ win} sup=2
+
+{regret} sup=5
+
+{VBG_ gonna}{NN_} sup=5
+
+{VBN_}{NN_}{NN_}{NN_} sup=13
+{NN_}{VBN_}{RB_} sup=12
+
+{JJ_}{NN_}{NN_}{VBP_} sup=4
+{MD_ must}{VBD_ stab}{fifty CD_}{VBG_ fuck}{NNS_ time} sup=2
+
+{walk}{NN_} sup=9
+{NN_ sail} sup=15
+
+{land}{NN_} sup=3
+
+{NN_}{NN_}{VBZ_}{NN_} sup=3
+
+{return} sup=4
+
+{JJ_}{NN_}{NN_ sky} sup=2
+
+{NN_ o}{NN_ flower}{NN_ scotland}{VBP_ see} sup=2
+
+{VB_ count}{JJ_} sup=2
+
+{VBG_}{dream NN_} sup=2
+
+{see}{JJ_}{NN_} sup=11
+{NNS_}{NNS_}{NN_} sup=16
+{JJ_ evil}{NN_} sup=3
+
+{NN_ nightmare}{JJ_ full}{NN_ pain} sup=2
+
+{NN_}{NNS_ god}{VB_} sup=4
+
+{NN_}{MD_}{VB_} sup=36
+{NN_ need} sup=6
+
+{NN_ man} sup=26
+{NN_ fear} sup=15
+{NNS_}{VBP_ change} sup=2
+
+{JJ_}{NN_}{NN_}{RB_ ever}{know} sup=2
+
+{NN_}{MD_}{RB_} sup=4
+
+{make}{NN_ walk}{NN_ plank} sup=3
+
+{NNS_ day} sup=8
+{NN_}{RB_}{VBG_} sup=3
+
+{MD_ shall}{VB_}{NN_} sup=4
+
+{choose} sup=4
+
+{NNS_}{IN_} sup=12
+
+{VBN_}{NN_}{NN_}{hand} sup=3
+
+{RB_ right}{JJ_ wrong} sup=4
+
+{JJ_ deep}{inside} sup=6
+
+{NN_ bottle}{NN_ rum}{NN_ yo}{NN_ ho}{NN_ ho} sup=2
+
+{VBN_ leave}{VBN_} sup=2
+
+{VB_ conquer}{NN_} sup=7
+
+{VBN_ take}{JJ_}{NN_} sup=2
+
+{know}{VB_} sup=22
+{NN_}{life} sup=22
+{NNS_ prayer}{VBD_} sup=4
+
+{JJ_}{NN_ way} sup=2
+
+{JJ_ port}{NN_} sup=2
+
+{map}{NN_} sup=4
+
+{JJ_}{bear} sup=4
+
+{though}{NN_} sup=2
+
+{NNS_}{RB_}{NN_} sup=10
+{NN_ monkey} sup=3
+
+{night}{VBG_} sup=3
+
+{know}{NN_}{NN_} sup=9
+
+{JJ_ selfish}{NN_} sup=2
+
+{hard}{VB_} sup=7
+
+{NN_}{NN_ map}{VBP_}{NN_} sup=2
+
+{VBN_}{NN_ time} sup=6
+
+{NN_ slaying}{NNS_ foe} sup=4
+
+{VBN_}{JJ_}{NN_}{NNS_} sup=2
+
+{NN_}{MD_ would}{VB_} sup=5
+
+{NN_}{VBN_ go}{RB_} sup=4
+
+{NN_}{starboard JJ_}{NN_ bow} sup=2
+
+{call}{VBD_} sup=2
+
+{RB_ sometimes}{NN_ life}{VBD_ alter} sup=4
+
+{NNS_ man}{NN_ sea} sup=2
+
+{VBN_}{JJ_ young} sup=3
+
+{NNS_}{sail} sup=4
+
+{NN_ scream}{NN_ life}{leave VBD_}{VBG_ vanish} sup=3
+
+{VBG_}{fight} sup=4
+
+{NN_}{break}{NN_} sup=2
+
+{NN_ move}{NN_} sup=2
+
+{NNS_ sea}{NN_} sup=3
+
+{NN_ side}{NNS_ start}{VBP_ fade} sup=3
+
+{UH_}{NN_} sup=8
+{NN_}{know} sup=23
+{many} sup=17
+
+{close}{NN_} sup=5
+
+{yet}{NNS_} sup=3
+
+{time}{VBD_} sup=3
+
+{VBD_ stand} sup=4
+
+{NN_ mouth}{NN_}{NN_ flame} sup=4
+
+{NN_ place} sup=18
+{VB_ take}{NN_ time} sup=7
+
+{RB_}{VBN_}{NN_ time} sup=4
+
+{land}{VBD_} sup=2
+
+{NN_ quest} sup=15
+
+{JJ_ lonely}{JJ_} sup=5
+
+{NN_}{NN_}{NN_}{VBD_}{NN_} sup=4
+
+{NNS_}{NN_}{NN_}{NNS_} sup=2
+
+{NN_}{quest} sup=7
+
+{waste} sup=8
+
+{NN_ nothing}{NNS_} sup=3
+
+{look}{NN_ way} sup=6
+
+{NN_}{VBN_ bear}{NN_} sup=6
+
+{NN_}{NN_ tonight} sup=5
+
+{NN_}{RB_ near} sup=2
+
+{gotta}{RB_} sup=9
+
+{NN_ none}{RB_}{VB_} sup=2
+
+{away}{RB_} sup=5
+
+{rest}{JJ_ dead} sup=2
+
+{NN_}{VBP_ get}{drunk} sup=2
+
+{fire} sup=8
+
+{VBN_}{NN_ sail} sup=9
+
+{NN_ infamy}{NN_ plunder}{NN_ ride} sup=3
+
+{NN_ fate}{VBD_ expose}{NN_ won}{VBD_ let}{stay VB_} sup=2
+
+{RB_ sometimes} sup=5
+
+{VBG_}{VBN_}{NNS_} sup=3
+
+{wench}{NN_ mead} sup=4
+
+{VB_ gotta}{VB_} sup=6
+
+{NN_ treasure} sup=13
+
+{RP_}{NNS_} sup=4
+
+{know}{NN_} sup=48
+{NN_ time}{VBD_} sup=5
+
+{NN_ way}{VBD_} sup=2
+
+{JJ_ last}{NN_} sup=12
+{lot} sup=2
+
+{love}{RB_}{RB_}{JJ_} sup=2
+
+{die} sup=48
+{ask}{IN_} sup=2
+
+{NNS_}{NN_ pain} sup=3
+
+{much} sup=5
+
+{battle}{JJ_} sup=8
+
+{NNS_}{VB_ go} sup=4
+
+{IN_}{RB_ yeah} sup=3
+
+{fire}{NN_} sup=3
+
+{VBP_}{NN_}{VBD_ win} sup=2
+
+{NN_}{NN_}{lose} sup=2
+
+{NN_ fate}{await VBZ_}{NNS_ vessel}{NN_ circle}{NN_ round} sup=2
+
+{JJ_}{NN_}{NNS_}{VBP_ turn} sup=2
+
+{RB_ right}{RB_} sup=5
+
+{VBD_ find} sup=6
+
+{time}{RB_}{RB_} sup=4
+
+{NN_}{NN_}{tell} sup=2
+
+{NN_ part} sup=7
+
+{one}{RB_}{JJ_} sup=3
+
+{VBP_ acknowledge}{RB_ right}{VB_ dwell}{JJ_ wrong} sup=3
+
+{VBN_}{right} sup=3
+
+{JJ_}{NN_ d}{NN_} sup=3
+
+{NN_}{one CD_}{NN_} sup=4
+
+{NN_}{JJ_}{VBP_}{JJ_} sup=2
+
+{JJ_}{NN_}{VBD_}{NN_} sup=16
+{know}{VBG_} sup=4
+
+{JJ_}{year}{NNS_} sup=3
+
+{MD_ would}{RB_} sup=2
+
+{NNS_}{turn} sup=7
+
+{see VB_}{VBG_} sup=2
+
+{wife} sup=2
+
+{VBG_ fuck}{NN_ bitch} sup=2
+
+{VB_}{JJ_ endless} sup=4
+
+{NN_}{back RB_} sup=13
+{NN_}{NN_ ale} sup=12
+
+{NN_ end}{come} sup=2
+
+{NN_ cry}{RB_ alone}{VBN_ go}{RB_ away} sup=2
+
+{JJ_}{NNS_}{RB_}{RB_} sup=2
+
+{NN_ steel} sup=3
+
+{NNS_}{VBP_ find} sup=2
+
+{VB_ pray} sup=4
+
+{one PP_}{VBD_ win}{NN_ care} sup=2
+
+{NN_ time}{VBG_ come}{NN_ home} sup=4
+
+{VBG_}{NN_}{NNS_} sup=4
+
+{NN_}{NN_}{NN_ youth} sup=3
+
+{NN_}{JJ_}{inside} sup=4
+
+{NN_}{VBD_ set}{NN_} sup=3
+
+{NN_}{NN_ something} sup=6
+
+{NNS_}{VBD_ shake} sup=2
+
+{NN_}{mind} sup=3
+
+{cause}{VB_}{VB_} sup=5
+
+{VBP_}{RB_}{VB_ go} sup=3
+
+{NNS_ ship}{NN_}{NN_} sup=2
+
+{know}{go}{NN_} sup=2
+
+{NN_ raise} sup=8
+
+{NN_}{NN_}{man} sup=3
+
+{NN_}{PP_} sup=13
+
+{VBP_}{VB_}{RB_ right} sup=5
+
+{NN_}{NNS_ god} sup=7
+
+{RB_}{VBP_ say} sup=2
+
+{JJ_}{NN_ die} sup=3
+
+{one CD_}{NN_} sup=20
+
+{JJ_}{NN_ treasure}{NN_} sup=3
+
+{dead}{NN_} sup=8
+
+{NN_}{JJ_ high}{NN_} sup=2
+
+{VBD_}{NN_}{VBD_} sup=8
+{NNS_}{NN_ fight} sup=2
+
+{take}{time} sup=9
+
+{stand}{NN_} sup=9
+
+{NN_ time}{pass}{regret} sup=4
+
+{NN_}{look} sup=5
+
+{VBN_}{NNS_ man} sup=5
+
+{bastard}{NN_} sup=6
+
+{say} sup=24
+{NN_}{NN_}{MD_}{VB_} sup=12
+{gotta}{VB_} sup=9
+
+{NN_}{NN_}{MD_}{RB_} sup=2
+
+{NNS_ won}{VBP_ turn}{RB_ right}{VB_ turn}{RB_ right} sup=4
+
+{miss} sup=7
+
+{NNS_}{NN_}{MD_} sup=2
+
+{NN_ bed}{VBG_} sup=2
+
+{give}{JJ_} sup=3
+
+{dare} sup=6
+
+{VBZ_}{know}{RB_ yeah} sup=2
+
+{help}{RB_} sup=2
+
+{VBD_}{NNS_}{VBN_} sup=2
+
+{NN_ way}{JJ_}{NN_} sup=2
+
+{VBD_}{RB_ away} sup=4
+
+{VBD_}{MD_ would}{VB_} sup=2
+
+{NNS_}{NN_}{NN_}{JJ_} sup=2
+
+{NN_ break}{NNS_} sup=4
+
+{six CD_}{CD_ hundred}{NNS_ year}{JJ_ past} sup=3
+
+{NN_}{JJ_}{VBD_} sup=5
+
+{JJ_}{NNS_}{VBP_}{JJ_} sup=4
+
+{VBN_}{port}{NN_} sup=2
+
+{VB_}{RB_ far}{long} sup=4
+
+{VB_}{PP_} sup=17
+{NNS_}{JJ_}{NN_}{NN_} sup=4
+
+{NN_ fate}{NN_} sup=8
+{NN_}{NN_ heart}{NN_} sup=4
+
+{fall}{NN_}{NN_} sup=5
+
+{draw} sup=4
+
+{control} sup=3
+
+{VB_}{NN_ time} sup=20
+
+{JJ_ famous}{NNS_ ol}{VBD_ spice} sup=7
+
+{VB_}{NN_}{NN_}{VB_} sup=4
+
+{remain} sup=3
+
+{VBD_}{VBD_}{NN_} sup=5
+
+{VBN_}{NN_}{VBG_} sup=5
+
+{VBN_}{JJ_}{NN_}{NN_ hand} sup=2
+
+{show}{map}{NN_} sup=2
+
+{win} sup=21
+
+{VBG_}{NN_}{VB_} sup=2
+
+{deep}{JJ_} sup=4
+
+{NN_}{NN_}{VBP_}{VB_} sup=5
+
+{one CD_}{one CD_}{NN_} sup=2
+
+{VB_}{VB_ make}{NN_} sup=9
+
+{NN_}{NNS_ thing}{VBP_} sup=3
+
+{NN_}{NNS_}{JJ_} sup=9
+
+{NN_ world} sup=11
+
+{JJ_}{NNS_}{VBN_} sup=6
+{VBD_}{NNS_}{VBD_} sup=5
+
+{mine}{NN_} sup=3
+
+{VB_}{NN_}{NN_}{VB_ wanna} sup=3
+
+{know}{VB_}{PP_}{JJ_} sup=3
+
+{NN_ cause}{NN_}{JJ_} sup=3
+
+{VBN_}{RB_}{VB_} sup=8
+{quest}{VBN_ begin} sup=3
+
+{NNS_}{MD_ could} sup=3
+
+{VBD_ shipwreck}{VB_ cease} sup=3
+
+{NN_}{take}{NN_} sup=7
+
+{NN_}{NN_}{VBG_} sup=7
+
+{RB_ right} sup=18
+
+{JJ_ convinced}{JJ_ grown}{VBD_ find} sup=3
+
+{RB_}{RB_ yeah} sup=8
+
+{CD_}{NN_ day} sup=2
+
+{NN_}{JJ_}{NN_}{JJ_} sup=3
+
+{JJ_ past} sup=4
+
+{NNS_ man} sup=11
+
+{find}{VB_} sup=2
+
+{VB_}{RBR_}{JJ_} sup=2
+
+{one CD_}{RB_} sup=3
+
+{NN_}{NNS_ wall} sup=3
+
+{VB_}{RBR_} sup=3
+
+{VBG_}{JJ_}{NNS_}{JJ_} sup=2
+
+{regret}{NN_} sup=4
+
+{NN_}{NN_ treasure} sup=2
+
+{VB_ come}{RB_ far}{RB_ long} sup=3
+
+{leave}{JJ_} sup=8
+{wrong}{RB_} sup=4
+
+{VB_}{VB_ call}{JJ_} sup=2
+
+{NN_ nancy}{NN_ harbour}{NN_} sup=2
+
+{MD_}{RB_} sup=20
+{NN_}{IN_}{RB_} sup=3
+
+{VB_ come}{NN_} sup=2
+
+{NN_ mercy}{NN_} sup=3
+
+{NN_ man}{NN_}{NN_}{JJ_}{NN_} sup=3
+
+{perfect} sup=7
+
+{VB_ know}{VB_ make}{VB_ wanna}{VBN_ run}{NN_ baby} sup=3
+
+{VBN_ abandon}{NN_ fate}{NN_ chance}{NN_ return} sup=2
+
+{NNS_ man}{VBP_} sup=3
+
+{NN_ god}{NN_} sup=4
+
+{NNS_}{VBP_ fade} sup=4
+
+{fight}{VBN_} sup=3
+
+{NN_}{would MD_}{VB_}{NN_} sup=2
+
+{VB_ let}{VB_} sup=7
+
+{RB_ never}{VBN_}{NN_}{VB_}{NN_} sup=3
+
+{find}{RB_} sup=3
+
+{JJ_}{lie} sup=2
+
+{DT_}{NN_} sup=26
+{MD_}{VB_}{JJ_} sup=11
+{VB_}{RB_}{VBN_} sup=4
+
+{CD_ one}{JJ_} sup=4
+
+{VBG_}{VB_}{NN_} sup=2
+
+{take}{NN_ share} sup=2
+
+{MD_}{VB_}{VBN_}{NN_} sup=2
+
+{UH_ hey} sup=22
+
+{NNS_}{RB_}{VBP_}{VB_} sup=4
+
+{come}{NN_}{NN_} sup=6
+
+{path} sup=2
+
+{please}{NN_} sup=4
+
+{NNS_}{MD_} sup=15
+
+{RB_}{JJ_ wrong} sup=6
+
+{RB_}{sail} sup=2
+
+{captain NN_}{NN_ stand}{NN_ bridge}{NN_ sing} sup=4
+
+{live}{NN_ fear}{NN_} sup=4
+
+{NN_ man}{VBN_}{NN_} sup=3
+
+{NN_}{NNS_}{VBG_}{NN_} sup=2
+
+{night}{VBG_ come}{JJ_ fast}{NNS_ sun}{VBG_ go} sup=2
+
+{NN_}{NN_ time}{JJ_} sup=2
+
+{VBG_}{VBD_}{NN_} sup=6
+
+{JJ_}{JJ_} sup=88
+{NN_}{JJ_ strong} sup=6
+
+{NN_ misery}{NN_}{NN_ burning}{NN_} sup=3
+
+{NN_ goodbye} sup=3
+
+{NN_}{d} sup=9
+
+{hope}{RB_} sup=5
+
+{VBZ_ go} sup=6
+
+{NN_ slaughter}{NN_}{NN_} sup=4
+
+{won}{VBD_} sup=5
+
+{NN_}{NN_ land} sup=6
+
+{song}{NNS_} sup=2
+
+{NN_}{NN_}{VBD_}{NN_}{NN_} sup=4
+
+{VBN_}{NN_}{VB_} sup=15
+{NN_}{friend} sup=8
+
+{VBZ_}{NNS_} sup=16
+{NN_}{fade} sup=4
+
+{JJ_ convinced} sup=4
+
+{take VBG_}{NN_} sup=2
+
+{UH_}{VB_}{VB_}{VB_} sup=2
+
+{NNS_ god} sup=8
+
+{JJ_}{NN_ chest} sup=3
+
+{NN_ cause}{NN_ waiting} sup=2
+
+{JJ_}{NNS_}{VBN_}{NN_} sup=3
+
+{NN_}{NN_ calling} sup=3
+
+{NN_}{NN_ way}{NN_} sup=3
+
+{NN_}{NN_}{JJ_}{NNS_} sup=9
+{IN_}{JJ_}{NN_} sup=5
+
+{find}{NN_} sup=9
+{NNS_ memory} sup=8
+
+{NN_ ride}{NN_} sup=4
+
+{NN_}{hope}{NN_} sup=3
+
+{VB_}{JJ_ little} sup=2
+
+{VB_}{NN_}{NNS_}{JJ_} sup=3
+
+{VB_}{NN_ girl} sup=2
+
+{barrel} sup=10
+
+{NNS_ feeling} sup=6
+
+{NN_ hell} sup=14
+{NN_}{want} sup=3
+
+{VB_}{right} sup=21
+
+{NN_}{VBP_}{NN_} sup=24
+{run}{NNS_} sup=3
+
+{VB_ keep}{VBG_} sup=3
+
+{NNS_}{MD_}{JJ_} sup=3
+
+{one CD_}{NN_}{NN_} sup=5
+
+{VBN_}{NN_}{JJ_}{NN_} sup=14
+{VBN_}{go} sup=3
+
+{NN_}{JJ_}{NN_ life} sup=3
+
+{IN_ like}{NN_} sup=5
+
+{NN_}{NN_}{NN_}{NN_ way} sup=3
+
+{dwell}{JJ_} sup=4
+
+{NN_ fate}{RB_ late} sup=2
+
+{beer}{NNS_} sup=4
+
+{VB_ love}{RB_} sup=2
+
+{NN_ honour}{VBD_} sup=2
+
+{JJ_}{VBG_}{NNS_} sup=2
+
+{one}{NN_ time} sup=3
+
+{perfect}{RB_} sup=5
+
+{VBG_}{NNS_}{VBG_} sup=7
+{NN_}{IN_}{ship} sup=3
+
+{back}{JJ_} sup=18
+
+{one}{JJ_}{NN_}{NN_} sup=14
+
+{keep} sup=11
+
+{NN_ beer} sup=6
+
+{VB_}{NNS_ time} sup=3
+
+{NN_}{VBD_ win}{VB_} sup=3
+
+{NN_}{VBD_}{VBG_} sup=5
+
+{VB_}{VB_ feel} sup=6
+
+{back}{VB_}{RB_} sup=2
+
+{NNS_}{NN_ insanity} sup=9
+
+{VB_ raise}{NN_} sup=7
+
+{NN_ cry} sup=12
+{VBP_}{place} sup=2
+
+{NN_ nothing}{VB_ take} sup=5
+
+{time}{VBP_} sup=2
+
+{NN_ hope}{NN_}{NNS_} sup=3
+
+{NNS_ time} sup=11
+{VBZ_}{NN_} sup=60
+{NN_ barrel}{NN_} sup=8
+
+{NN_ day} sup=15
+
+{NN_}{NN_ face} sup=5
+
+{NN_}{NN_}{land} sup=6
+
+{NNS_}{RBR_} sup=2
+
+{NN_ look}{NN_ face} sup=4
+
+{JJ_ black}{NN_}{NN_} sup=3
+
+{NN_ hope}{NN_ fall}{RB_ tonight}{VBN_ break}{NNS_ wing} sup=2
+
+{another DT_}{NN_} sup=15
+{VB_ sail}{JJ_ endless}{NNS_} sup=3
+
+{sea}{VBP_} sup=4
+
+{NNS_}{VBN_}{NNS_} sup=3
+
+{NN_ power} sup=5
+
+{NNS_ tear} sup=5
+
+{NN_}{RB_}{VB_}{NN_} sup=2
+
+{think} sup=15
+{VB_}{VB_}{RB_} sup=9
+
+{JJ_}{right} sup=3
+
+{RB_ sure} sup=2
+
+{VBD_ get} sup=2
+
+{NN_}{MD_}{VB_ go} sup=5
+
+{VBG_}{NNS_}{VBP_} sup=4
+
+{VBN_ stick}{RB_ alone}{IN_ inside}{NN_ head} sup=2
+
+{NN_}{VBD_}{VB_}{NN_} sup=4
+
+{fall}{NN_}{JJ_} sup=5
+
+{put VBN_}{NN_} sup=6
+
+{NN_}{RB_ hard}{VB_ find} sup=3
+
+{NN_ blood}{VBD_ spill}{NN_ man}{VB_ follow} sup=2
+
+{shark}{NN_} sup=4
+
+{JJ_ countless}{NNS_}{VBD_}{JJ_}{NNS_} sup=2
+
+{VBG_ call} sup=2
+
+{NNS_}{RB_}{RB_} sup=11
+{JJ_}{NN_}{NN_}{NNS_}{VBD_} sup=2
+
+{VBN_}{realize} sup=2
+
+{NNS_}{VBD_}{RB_} sup=5
+
+{JJ_ warm} sup=2
+
+{NN_}{say} sup=3
+
+{like IN_}{NN_}{RB_ long} sup=2
+
+{VB_ tear} sup=3
+
+{NN_}{back RB_}{NN_} sup=8
+{NN_}{VBD_}{VBD_} sup=3
+
+{NNS_}{VBD_}{VB_} sup=5
+
+{VBG_ point}{NNS_ finger} sup=2
+
+{JJ_}{one CD_}{NN_} sup=3
+
+{RB_}{VB_}{NN_}{NN_} sup=2
+
+{JJ_ old}{NN_} sup=5
+
+{VBD_}{MD_}{VB_} sup=3
+
+{NN_}{silence} sup=4
+
+{JJ_}{JJ_}{NNS_ way} sup=2
+
+{VB_ take}{NN_}{RB_}{VB_} sup=3
+
+{VBG_ scrape}{NN_ barrel}{NN_ friend} sup=6
+
+{VBN_}{die} sup=15
+{IN_}{ship} sup=4
+
+{VBG_ descend}{NN_ entity} sup=2
+
+{NN_}{NN_}{JJ_}{NN_ night} sup=4
+
+{NN_}{NN_ name}{NN_} sup=3
+
+{get} sup=31
+{NN_}{VBD_ take}{NN_} sup=2
+
+{come VBD_}{JJ_}{NN_} sup=2
+
+{lad}{VBP_}{NN_} sup=2
+
+{VB_}{PP_}{VB_} sup=3
+
+{VBD_}{us PP_}{VBP_ map}{NN_} sup=2
+
+{back RB_} sup=51
+{JJ_}{NN_}{JJ_}{NN_} sup=15
+{away}{VBN_} sup=2
+
+{NN_}{JJ_ many}{NNS_ year} sup=2
+
+{VB_}{JJ_ mighty}{NN_} sup=2
+
+{NN_}{NNS_ word}{speak} sup=4
+
+{NN_}{come VB_} sup=8
+
+{NN_ time}{VBZ_ go} sup=2
+
+{NN_ fight}{NN_ end}{days.}{JJ_} sup=2
+
+{NN_}{win} sup=6
+
+{JJ_ old}{NN_}{NN_} sup=3
+
+{know}{NN_}{VBZ_} sup=2
+
+{DT_}{NN_}{VB_} sup=4
+
+{wanna} sup=15
+
+{RB_}{VB_}{VB_} sup=11
+
+{NN_ pain}{JJ_}{NN_} sup=2
+
+{VB_}{RB_ right} sup=12
+
+{NN_}{VB_}{VBN_} sup=4
+
+{VBD_}{RB_}{VB_}{NN_} sup=5
+
+{VB_ take}{NN_}{NN_ death}{NN_ rest}{JJ_ unnatural}{NN_ life} sup=2
+
+{NN_}{VBD_}{JJ_} sup=24
+{come VBP_}{VBZ_ let}{VB_ give}{NN_ em}{NN_ hell} sup=2
+
+{NN_ drink}{NN_} sup=8
+
+{follow} sup=17
+
+{NNS_}{RB_ tonight} sup=6
+
+{VB_ take}{NNS_ chain}{RB_ away}{VBG_ hold} sup=2
+
+{NN_}{drink} sup=3
+
+{VBN_ set}{NN_ sail}{quest}{JJ_} sup=3
+
+{JJ_}{MD_}{VB_} sup=11
+{RB_}{VB_}{RB_} sup=9
+
+{NN_}{VBZ_}{JJ_}{NN_} sup=6
+{NN_}{VBD_}{VBN_} sup=12
+{RB_ nowhere}{VBN_ run}{NN_} sup=3
+
+{JJ_}{NNS_ life}{VBP_} sup=2
+
+{NNS_ pirate} sup=9
+
+{VBD_ shoot} sup=2
+
+{NNS_ heart}{NN_} sup=3
+
+{way}{RB_} sup=5
+
+{IN_ inside}{NN_} sup=5
+
+{JJ_ close}{NNS_ eye}{VBP_ look}{RB_ away} sup=2
+
+{show}{NNS_} sup=6
+
+{NN_}{NN_}{VB_ die} sup=7
+
+{NN_}{MD_}{VB_}{JJ_}{NN_} sup=3
+
+{RB_ still} sup=10
+{nothing}{VB_ take} sup=7
+
+{JJ_ terrifying}{JJ_ deadly}{NN_ trip} sup=2
+
+{NNS_}{VB_}{RB_} sup=6
+
+{NNS_ regret}{VBP_ live}{NN_ day} sup=2
+
+{NN_ waste} sup=2
+
+{VBG_}{RP_}{NNS_} sup=3
+
+{lead}{NN_} sup=13
+{JJ_}{land} sup=6
+
+{NNS_}{NNS_}{dare} sup=2
+
+{NN_ regret}{NN_} sup=2
+
+{NN_ friend} sup=21
+{reason}{VBD_} sup=2
+
+{RB_ far}{RB_ away}{NN_ land}{MD_ must}{VB_ go} sup=2
+
+{NNS_ echo}{VBG_ reach}{NNS_ ear} sup=2
+
+{NN_}{NN_ fall} sup=5
+
+{JJ_ first}{VBZ_}{NN_} sup=2
+
+{NN_}{VBN_}{NNS_} sup=2
+
+{NN_}{NN_}{strike} sup=2
+
+{VBD_}{NNS_} sup=36
+{VB_}{strong} sup=2
+
+{NNS_}{man} sup=2
+
+{VB_}{RB_}{RB_}{RB_} sup=4
+
+{NN_ tomorrow} sup=3
+
+{cannon}{NN_} sup=5
+
+{NN_ sin} sup=12
+{VBN_ do} sup=10
+{NNS_}{VBG_}{RB_} sup=5
+{JJ_}{sign} sup=2
+
+{NN_ quest}{RB_ never}{VBG_ end} sup=2
+
+{JJ_}{NN_}{lose} sup=8
+
+{VB_}{CD_} sup=4
+
+{VB_}{PP_ us} sup=7
+
+{NNS_ child} sup=2
+
+{JJ_}{MD_} sup=8
+
+{NNS_ storey}{NNS_} sup=7
+
+{NN_ monkey}{NN_} sup=2
+
+{NN_ heart}{NNS_} sup=5
+
+{JJ_}{NN_}{VBD_}{memory} sup=3
+
+{grow} sup=6
+
+{NN_ world}{NN_} sup=6
+
+{care} sup=7
+
+{RP_} sup=11
+
+{RB_ far}{RB_ away}{go} sup=3
+
+{VBP_}{JJS_}{NNS_} sup=3
+
+{RB_}{JJ_}{NN_}{RB_}{VBG_} sup=2
+
+{NN_ peace}{NN_}{RB_} sup=2
+
+{VBP_}{VB_}{NN_} sup=20
+{VB_}{JJ_}{NNS_} sup=26
+{NN_ need}{NN_ person}{JJ_ true} sup=3
+
+{VBD_}{NN_ time} sup=2
+
+{perfect}{NN_} sup=2
+
+{VB_ hold}{RB_ around} sup=3
+
+{NN_}{change} sup=3
+
+{NN_}{NN_}{NN_ ride} sup=5
+
+{NN_ cause}{NN_ everybody}{VBN_ gotta}{NN_ die}{RB_ sometime} sup=3
+
+{see VB_}{NN_}{NN_} sup=3
+
+{VBN_}{NN_ fate} sup=5
+{JJ_ black}{NNS_}{NN_} sup=5
+
+{NNS_}{VBN_} sup=41
+{way}{NN_} sup=9
+
+{NNS_ pirate}{strike VBP_}{starboard JJ_}{NN_ bow} sup=3
+
+{VBG_}{one} sup=3
+
+{VBN_ scar} sup=5
+
+{VBD_ tell} sup=13
+{NN_ regret} sup=2
+
+{face}{NN_} sup=6
+
+{NN_}{NN_ ain} sup=2
+
+{NN_}{VB_}{VB_} sup=8
+
+{VBN_ go}{take}{NN_} sup=4
+
+{VB_ come}{VB_ kill} sup=2
+
+{NNS_ sea} sup=22
+
+{pirate}{NNS_} sup=2
+
+{NN_}{JJ_ good}{NNS_} sup=2
+
+{know}{RB_ yeah} sup=3
+
+{JJ_}{NN_}{sea} sup=8
+
+{sing} sup=8
+
+{sail} sup=28
+
+{NN_ nothing}{matter} sup=3
+
+{NN_ fall}{NN_}{JJ_} sup=3
+
+{UH_}{NN_}{RB_} sup=2
+
+{VB_ kill} sup=3
+
+{VBP_}{back RB_}{VB_} sup=4
+
+{VBZ_ lie}{NN_}{NN_} sup=2
+
+{VBD_ say} sup=10
+{NN_}{IN_} sup=22
+{NN_}{MD_ could}{VB_} sup=11
+{NN_}{NN_}{NNS_}{VBP_} sup=5
+{regret}{NN_ day} sup=3
+
+{take} sup=63
+{NN_}{VB_}{JJ_}{NNS_} sup=3
+
+{JJ_}{VBG_}{JJ_} sup=4
+
+{grant} sup=3
+
+{NNS_ life}{VBP_}{NN_} sup=3
+
+{VBD_}{NN_ isle} sup=2
+
+{late}{NN_} sup=4
+
+{look}{NN_} sup=21
+{NNS_}{VBP_}{RB_}{VB_} sup=6
+
+{JJ_ back}{NN_} sup=5
+
+{JJ_}{VBP_}{JJ_} sup=9
+{NN_}{NN_}{VBN_ gotta} sup=6
+
+{VB_}{NN_}{NN_ life} sup=4
+
+{NNS_}{see}{RB_ tonight} sup=3
+
+{RB_ never}{RB_}{VBG_} sup=2
+
+{NN_}{VBP_}{RB_} sup=18
+{NN_ wealth} sup=3
+
+{VB_}{time} sup=23
+
+{JJ_}{tale} sup=2
+
+{lead} sup=11
+
+{JJ_}{forever} sup=2
+
+{VBD_ pass} sup=2
+
+{come}{JJ_}{NNS_}{JJ_} sup=2
+
+{hold} sup=19
+{NN_ pain}{NN_} sup=6
+
+{NN_ nothing}{JJ_} sup=6
+
+{VBG_}{NNS_} sup=53
+{VBZ_ let}{NN_}{NN_} sup=3
+
+{cause VB_}{JJ_} sup=7
+
+{VB_}{VB_}{NN_}{VB_} sup=2
+
+{RB_}{VB_ let}{VB_} sup=4
+
+{PP_ us}{NN_ ain}{NN_ right} sup=8
+
+{VB_ go}{NN_ sight}{one CD_} sup=2
+
+{NN_ fall}{NN_} sup=4
+
+{NNS_}{back RB_} sup=3
+
+{NN_ inn} sup=4
+
+{VBN_ make}{NN_} sup=3
+
+{PP_}{VB_} sup=8
+{NN_ essence}{leave VBD_}{NN_ heart}{NN_ tonight} sup=2
+
+{VB_}{true} sup=2
+
+{JJ_}{sail} sup=6
+
+{back RB_}{VB_}{NN_} sup=10
+{NN_}{captain NN_} sup=5
+
+{RB_ everywhere}{NN_ turn}{NN_ hatred}{VBZ_ surround}{PP_ us} sup=5
+
+{NN_}{NN_}{come} sup=5
+
+{RB_ inside} sup=6
+
+{close} sup=15
+{NN_}{VBZ_}{JJ_} sup=7
+
+{VBN_ come}{JJ_ back}{NNS_ day} sup=2
+
+{NN_ fear}{VBP_ look}{back RB_}{NN_ afterlife}{await VBZ_} sup=3
+
+{walk VB_}{NN_ center}{NNS_ rule}{NN_ guide} sup=3
+
+{NN_ punishment}{JJ_ great}{NN_ bear} sup=2
+
+{away RP_} sup=7
+
+{CD_}{NN_}{NN_}{NN_} sup=3
+
+{DT_ every}{last}{NN_} sup=4
+
+{NNS_}{VBG_}{VB_} sup=2
+
+{JJ_}{NN_}{NN_ sea} sup=7
+
+{VBP_}{NN_}{VBZ_} sup=4
+
+{nothing}{VB_ take}{time} sup=5
+
+{VB_}{NN_ place}{VB_} sup=3
+
+{NN_}{MD_}{VB_}{JJ_} sup=5
+
+{NN_ til}{NN_}{NN_} sup=2
+
+{NNS_}{RB_}{VB_} sup=12
+{create}{RB_} sup=3
+
+{NN_}{VBZ_ come}{RB_} sup=2
+
+{NN_}{MD_}{VB_ take} sup=2
+
+{JJ_ final}{NN_} sup=5
+
+{raise}{NN_} sup=14
+
+{RB_ never}{JJ_} sup=3
+
+{fight}{NNS_} sup=2
+
+{NN_}{JJ_} sup=204
+{VB_ feel} sup=13
+
+{VBN_ sell} sup=2
+
+{RB_ hard} sup=7
+
+{try}{RB_ away} sup=4
+
+{NN_ fear}{NN_}{NN_} sup=3
+
+{NN_}{sleep} sup=4
+
+{RB_ live}{JJ_ wrong} sup=2
+
+{silence} sup=5
+
+{NNS_}{see VBP_}{VB_} sup=2
+
+{NN_}{NNS_}{VBD_}{NN_} sup=2
+
+{RB_ never}{NN_}{RB_} sup=4
+
+{NN_}{MD_} sup=43
+{JJ_}{JJ_}{NN_ time} sup=3
+
+{NN_ hope}{VBN_} sup=4
+
+{NN_}{VBD_ know} sup=4
+
+{NN_}{NN_ fight} sup=8
+
+{see}{NN_ face} sup=2
+
+{one CD_}{NN_ fall} sup=2
+
+{JJ_}{NNS_ time} sup=3
+
+{NNS_}{IN_}{VBN_} sup=4
+
+{VB_}{VBZ_} sup=4
+
+{viking NNS_}{VBD_}{NN_} sup=2
+
+{JJ_}{NN_}{reflect}{NN_} sup=2
+
+{NN_ fate}{VBD_} sup=3
+
+{NN_}{come VBP_} sup=5
+
+{show}{JJ_} sup=6
+
+{NN_}{NN_ time}{NN_} sup=6
+
+{NN_}{NN_}{RB_} sup=45
+{didn}{would MD_}{VB_} sup=2
+
+{NN_}{captain} sup=6
+
+{JJ_}{NN_}{VBN_} sup=12
+{NNS_}{NNS_ foot} sup=3
+
+{know}{PP_ us} sup=6
+
+{NN_}{NN_}{NN_} sup=230
+{JJ_}{heart} sup=5
+
+{drink}{much} sup=2
+
+{would MD_}{RB_}{VB_} sup=2
+
+{RB_}{turn}{NN_} sup=7
+
+{taste}{NN_} sup=7
+
+{NN_ question} sup=5
+
+{lie}{NN_}{NN_} sup=3
+
+{VB_}{VBD_}{NN_} sup=5
+
+{VB_ know}{RB_}{NN_} sup=6
+
+{CD_}{NNS_}{NN_}{NN_} sup=2
+
+{arrive}{JJ_} sup=3
+
+{know}{NN_}{RB_} sup=5
+{JJ_}{NN_}{RB_}{VBN_} sup=2
+
+{NN_ taste}{NN_} sup=5
+
+{NN_}{cannon}{NNS_} sup=3
+
+{NN_ stare} sup=7
+
+{let}{NN_} sup=4
+
+{NNS_}{VBP_}{VB_}{NN_} sup=2
+
+{hurt} sup=6
+
+{RB_}{VBG_}{NNS_} sup=2
+
+{VBN_}{JJ_}{JJ_} sup=3
+
+{NN_}{many} sup=7
+
+{VB_ feel}{VB_} sup=4
+
+{good}{NN_}{VBD_}{NN_} sup=3
+
+{hand} sup=26
+{want} sup=9
+
+{NN_ sea} sup=23
+
+{NN_ show}{NN_ mercy}{NN_ fight} sup=2
+
+{CD_}{NNS_} sup=19
+{RB_ forever}{VBN_ tell} sup=2
+
+{RB_}{NN_ part} sup=4
+
+{VBN_}{one CD_}{NN_} sup=4
+
+{make} sup=38
+{JJ_}{VBP_}{NN_}{NN_} sup=2
+
+{NN_}{NNS_}{VBP_}{NNS_} sup=3
+
+{take}{NNS_} sup=8
+
+{NN_}{blame} sup=4
+
+{go}{RB_} sup=13
+
+{NN_}{man}{VBP_} sup=2
+
+{NN_ aim} sup=2
+
+{NNS_}{NN_}{NN_} sup=56
+{JJ_ last}{NN_}{JJ_} sup=3
+
+{NN_}{VBZ_ begin}{NN_} sup=2
+
+{JJ_}{JJ_ full} sup=2
+
+{VBG_}{fear} sup=3
+
+{RB_}{RB_ far} sup=5
+
+{VBD_ know}{NN_}{VB_} sup=3
+
+{VB_}{NN_ friend} sup=5
+
+{VB_ stand} sup=3
+
+{come VBP_}{NN_}{NN_} sup=4
+
+{NN_ curse}{NN_ curse} sup=4
+
+{JJ_}{inside} sup=7
+
+{CD_ one}{NN_ drink}{NN_ die} sup=6
+
+{NN_ blood}{NN_} sup=3
+
+{feeling} sup=7
+
+{VB_}{VB_}{NN_ face} sup=4
+
+{NN_ vengeance} sup=10
+{NN_}{turn} sup=6
+
+{VBN_}{NN_ fight} sup=2
+
+{JJ_}{NNS_ god} sup=2
+
+{tie} sup=5
+
+{NNS_}{heart} sup=2
+
+{VB_ head} sup=2
+
+{give}{hand}{NN_} sup=3
+
+{NN_ fate} sup=23
+{come}{NNS_} sup=11
+{VBG_}{NN_}{NN_}{VBD_} sup=2
+
+{VBP_}{VB_}{JJ_ wrong} sup=4
+
+{VB_}{NN_}{NNS_ land} sup=3
+
+{VB_}{VBP_}{VB_} sup=6
+
+{RB_}{NN_}{VB_}{RB_} sup=2
+
+{VBG_}{NN_}{NN_}{NN_} sup=3
+
+{VBG_}{go} sup=2
+
+{VB_}{NN_ pain} sup=2
+
+{VB_}{NN_ crew} sup=2
+
+{sail}{NNS_} sup=10
+
+{RB_}{NN_}{VBZ_} sup=4
+
+{DT_}{JJ_}{NN_} sup=4
+
+{NN_}{NN_}{NN_ glory} sup=3
+
+{VB_}{NN_ quest} sup=3
+
+{VBN_} sup=351
+{JJ_}{NN_}{NN_}{NN_}{NN_} sup=4
+
+{VBG_}{deep} sup=2
+
+{VB_}{UH_ oh}{RB_ yeah} sup=2
+
+{wish}{MD_} sup=3
+
+{NN_}{NN_}{NN_ man} sup=5
+{NN_}{JJ_ true}{NN_} sup=2
+
+{VBN_}{VBD_}{VB_} sup=4
+
+{cause}{know} sup=4
+
+{NN_ life}{VBD_} sup=9
+
+{NNS_}{get}{drunk} sup=2
+
+{start} sup=10
+
+{NN_ pirate}{captain} sup=2
+
+{NN_ cause}{NN_}{RB_}{RB_} sup=6
+
+{NN_ time}{JJ_}{NN_} sup=2
+
+{NN_ party}{NN_ night} sup=3
+
+{VBP_}{RB_}{NN_} sup=7
+
+{NN_}{VBZ_}{PP_ us} sup=7
+
+{JJ_}{VBG_}{NN_} sup=14
+{NN_}{do} sup=3
+
+{NN_ country} sup=2
+
+{NN_}{NN_}{NN_ time} sup=5
+
+{road} sup=8
+
+{NN_}{NN_}{VB_} sup=42
+{VB_ try}{VB_} sup=2
+
+{see}{RB_} sup=4
+
+{VBD_ take}{NN_} sup=10
+{oh UH_}{VB_ pour}{NN_ slug} sup=3
+
+{know}{day} sup=3
+
+{CD_} sup=60
+{VB_}{NN_ name} sup=3
+
+{VB_ seek}{NN_ vengeance} sup=2
+
+{NN_}{NN_}{VBN_}{JJ_} sup=5
+
+{JJ_}{NN_ sail} sup=2
+
+{NNS_ action} sup=2
+
+{VB_ come}{RB_} sup=15
+
+{VBN_}{RB_}{MD_ could} sup=2
+
+{VB_}{VB_ know}{NN_} sup=5
+
+{come VBP_}{VB_}{NN_} sup=3
+
+{leave}{JJ_}{NNS_} sup=2
+
+{sword}{NN_} sup=4
+
+{VB_}{back RB_}{RB_} sup=13
+
+{NNS_ friend} sup=7
+{NN_}{NN_}{NN_ land} sup=3
+
+{NN_}{DT_}{NN_} sup=7
+
+{VBP_}{back RB_} sup=11
+{NN_}{NN_ vengeance} sup=5
+
+{NN_ nothing}{VB_ take}{RB_ away} sup=2
+
+{NN_ curse}{captain NN_}{NN_ morgan}{VBD_ lead}{us PP_}{NN_ fate} sup=3
+
+{RB_ much} sup=4
+
+{cause}{right} sup=5
+
+{VBG_ miss}{UH_ oh} sup=3
+
+{JJ_ perfect}{RB_} sup=4
+
+{VBG_ live}{NN_ fear}{JJ_ endless}{NN_ shame}{JJ_ countless}{NNS_ year} sup=2
+
+{JJ_}{VBN_} sup=26
+{NNS_ one} sup=12
+
+{VB_}{nothing} sup=4
+
+{NN_}{cry} sup=9
+
+{JJ_}{moon}{JJ_} sup=2
+
+{way}{VB_} sup=8
+
+{RB_}{NN_}{NNS_} sup=4
+
+{plunder} sup=4
+
+{VBP_}{VBN_ do} sup=2
+
+{RB_}{VB_}{NNS_} sup=4
+{NN_ shh}{NN_ quiet}{might MD_}{VB_ piss}{NN_ somebody} sup=3
+
+{RB_}{RB_}{NN_} sup=10
+
+{back RB_}{NN_ time}{NN_ voyage}{must MD_}{VB_ go} sup=3
+
+{NN_}{back}{NN_} sup=5
+
+{JJ_ bastard}{NN_}{NN_} sup=3
+
+{NNS_ demon}{VBP_ follow} sup=9
+
+{call}{NNS_}{VBD_} sup=2
+
+{NN_ time}{come} sup=11
+{hold}{RB_} sup=7
+{fight}{NN_} sup=2
+
+{tie}{NN_}{NN_} sup=2
+
+{come VB_} sup=13
+
+{RB_ far}{RB_ long} sup=6
+
+{know}{NN_}{VB_} sup=4
+
+{VB_}{back}{NN_ time} sup=8
+
+{JJ_}{NNS_}{RB_} sup=14
+{NN_ side} sup=6
+
+{NNS_}{VBP_}{NN_}{RB_} sup=3
+
+{across IN_}{sea} sup=2
+
+{NN_ ground} sup=3
+
+{NN_ need}{NN_} sup=5
+
+{NN_ break}{NNS_ rope}{NNS_ hand}{VBD_ tie} sup=3
+
+{step}{NN_} sup=6
+
+{VBG_}{away RP_} sup=4
+
+{VB_ take}{back RB_}{IN_ inside}{NN_ time}{NN_ right} sup=2
+
+{NNS_ prayer}{make VBD_}{RB_ yeah} sup=3
+
+{VB_ throw}{RB_ overboard} sup=2
+
+{NN_ cause}{NN_ everybody}{gotta}{die}{RB_ sometime} sup=6
+
+{VBN_ draw} sup=2
+
+{NNS_}{NN_}{NN_}{VBN_} sup=2
+
+{JJ_}{VBZ_} sup=13
+{NN_ misery} sup=4
+
+{VB_ keep}{NN_} sup=2
+
+{NN_}{NNS_ man} sup=5
+
+{NN_}{NN_}{NNS_ sea} sup=2
+
+{NNS_}{VBD_}{JJ_}{NNS_}{NN_} sup=2
+
+{ho} sup=11
+
+{dear}{NN_} sup=6
+
+{NN_ life}{NN_}{RB_} sup=4
+
+{beer} sup=7
+
+{NNS_}{pit} sup=2
+
+{year}{JJ_} sup=5
+
+{NN_}{way} sup=14
+
+{NN_}{VBN_} sup=68
+{IN_ like}{JJ_}{NN_} sup=2
+
+{JJ_}{NN_}{VBG_}{NN_} sup=5
+{VBN_}{RB_ yeah} sup=7
+
+{JJR_}{NN_} sup=5
+{IN_}{VBN_} sup=10
+{NN_ call}{NN_} sup=3
+
+{NN_ sky} sup=12
+
+{VB_}{DT_}{JJ_} sup=4
+
+{MD_}{VB_}{NNS_}{NN_} sup=3
+
+{sea}{NN_} sup=5
+
+{NN_}{NN_}{right}{NN_} sup=4
+
+{NN_ midget}{VBD_ see}{JJ_ deadly}{NN_ fate} sup=3
+
+{NNS_}{good}{NNS_} sup=3
+
+{VBN_ forget} sup=4
+
+{NN_}{VBD_ make} sup=2
+
+{NN_}{NN_ taste} sup=4
+
+{VBN_ shipwreck}{VBD_ shipwreck}{VB_ get}{JJ_ drunk}{NN_ die} sup=2
+
+{NN_}{VBD_}{NN_ blood} sup=5
+
+{JJ_ lost}{NNS_} sup=2
+
+{NNS_}{NNS_} sup=81
+{NN_}{NN_ hand} sup=8
+{hold}{NN_} sup=3
+
+{VB_ change} sup=6
+
+{take}{JJ_}{JJ_}{NN_} sup=2
+
+{way}{JJ_} sup=7
+
+{NN_ something}{RB_} sup=4
+
+{VBN_ lose}{NN_ life} sup=8
+
+{JJ_}{NN_ rest}{NN_ time} sup=3
+
+{JJ_ cold}{NN_}{NN_} sup=3
+
+{create} sup=4
+
+{VBN_ leave}{NN_} sup=5
+
+{VBD_ take} sup=4
+
+{JJ_}{NNS_}{NN_}{NN_} sup=6
+{JJ_}{JJ_}{NN_ beer} sup=3
+
+{NNS_}{VBD_ rule}{NN_ land}{sea} sup=2
+
+{NNS_ night} sup=4
+
+{NN_ midget}{VBD_ see}{NN_} sup=6
+
+{VBN_}{RBR_} sup=2
+
+{NN_}{NN_}{VBD_}{VBG_} sup=4
+
+{one PP_}{VBP_ stand} sup=2
+
+{see VB_}{JJ_}{NN_} sup=5
+
+{lead}{us PP_} sup=9
+
+{NN_ peace}{VB_} sup=2
+
+{VB_}{VB_ wanna} sup=12
+
+{go}{RB_}{NN_} sup=3
+
+{NNS_ sea}{MD_ shall}{VB_ ride} sup=3
+
+{NNS_ leave}{NNS_ foot}{VBN_ blow}{NN_ ground} sup=2
+
+{NN_ feel}{NN_} sup=4
+
+{VB_}{RB_}{VB_} sup=14
+{VBG_}{RB_ long} sup=5
+
+{JJ_ back} sup=6
+
+{VB_}{NN_}{MD_} sup=2
+
+{NN_ try} sup=2
+
+{NN_}{VB_}{NNS_} sup=11
+{MD_}{VB_}{RB_}{VB_} sup=4
+
+{NN_ viking}{NNS_ god}{VBD_ win}{VB_ save} sup=3
+
+{RB_}{VBD_} sup=22
+{VB_}{NN_ hand} sup=4
+
+{give}{map}{NN_} sup=2
+
+{NNS_}{buy} sup=2
+
+{RBR_} sup=10
+{thing}{VBP_} sup=4
+
+{VBP_}{RB_}{VB_}{JJ_} sup=7
+
+{VB_ sail} sup=7
+
+{NN_}{VBD_ lose} sup=4
+
+{say}{RB_} sup=2
+
+{RB_}{NN_}{RB_ away} sup=3
+
+{NN_}{VBP_}{VB_}{VB_} sup=4
+
+{NN_}{VBN_ get}{NN_} sup=2
+
+{NN_ move} sup=5
+
+{VB_ bring}{JJ_} sup=5
+
+{JJ_}{VBP_ know}{RB_} sup=2
+
+{JJ_ weak}{NN_}{JJ_} sup=2
+
+{back RB_}{NN_} sup=29
+{see} sup=52
+{VBN_}{RB_}{VBD_} sup=4
+
+{VB_}{NN_} sup=277
+{fall}{NN_} sup=8
+
+{NN_ terror}{NNS_ sea} sup=5
+
+{JJ_}{JJ_}{NNS_} sup=14
+{make}{NNS_} sup=4
+
+{NN_}{NN_ blame} sup=3
+
+{RB_}{NN_}{VBP_} sup=2
+
+{VB_ wanna}{VBP_} sup=2
+
+{NN_}{VBG_} sup=51
+{give VBD_} sup=3
+
+{VB_ stand}{NN_}{NN_} sup=2
+
+{JJ_}{NN_}{NN_}{JJ_}{NN_} sup=7
+{RB_}{slip}{away} sup=3
+
+{JJ_}{VBG_} sup=24
+{NN_ air}{JJ_} sup=2
+
+{NN_ breath}{NN_} sup=4
+
+{NN_}{speak} sup=2
+
+{go}{JJ_}{NN_} sup=2
+
+{JJ_}{VBN_}{VB_} sup=2
+
+{man}{know}{NN_} sup=2
+
+{take}{NN_}{NN_} sup=12
+{MD_ could}{RB_}{VB_} sup=4
+
+{NN_}{RB_ tonight} sup=4
+
+{VBG_}{NN_}{JJ_}{JJ_} sup=3
+
+{NN_}{NN_}{die} sup=13
+
+{RB_ still}{NN_} sup=3
+
+{NN_}{face}{JJ_}{NN_} sup=3
+
+{VBN_}{NN_ fear} sup=4
+
+{sign} sup=5
+
+{NN_}{NN_}{VBP_}{NN_} sup=4
+
+{VBN_}{VBP_}{RB_} sup=5
+
+{NNS_}{MD_}{VB_}{NN_} sup=2
+
+{JJ_}{JJ_ strong} sup=2
+
+{time} sup=94
+{VBN_ gotta}{RB_} sup=6
+
+{d}{JJ_}{NN_} sup=5
+
+{MD_ would}{VB_ see} sup=2
+
+{JJR_} sup=3
+
+{JJ_}{VBP_} sup=38
+{VB_ choose}{DT_ either}{JJ_ naughty}{JJ_ nice} sup=3
+
+{time}{change} sup=2
+
+{oh UH_}{VB_} sup=4
+
+{man}{JJ_} sup=3
+
+{JJS_ good}{NN_} sup=3
+
+{VBD_}{VB_}{JJ_} sup=4
+
+{NN_ want}{NNS_ wench} sup=4
+
+{VBG_}{VBN_} sup=9
+
+{NN_}{deep} sup=7
+
+{NN_}{go}{RB_} sup=6
+
+{NN_}{VBG_ come} sup=9
+
+{one CD_}{NN_ man}{NN_ honour} sup=3
+
+{inside} sup=19
+
+{NN_}{VBG_ go} sup=2
+
+{NN_}{NN_ dark}{NN_} sup=3
+
+{VBN_}{JJ_}{NNS_} sup=17
+{JJ_}{NNS_ way} sup=3
+
+{NN_ hook}{NN_} sup=2
+
+{VB_}{VBP_}{RB_} sup=6
+
+{VB_ take}{away} sup=8
+
+{VBN_ go}{JJ_}{NN_} sup=5
+
+{RB_}{NN_}{NN_ fate} sup=2
+
+{NN_}{NN_ something}{JJ_} sup=4
+
+{NN_}{NNS_}{VBP_}{JJ_} sup=3
+
+{RB_}{NN_}{VBD_} sup=8
+{NN_ burning}{NN_} sup=7
+
+{NN_ nothing}{VB_} sup=10
+{VBN_}{NN_}{VBD_}{VB_} sup=3
+
+{VBG_}{NNS_}{VBN_} sup=3
+
+{VB_}{time}{NNS_} sup=2
+
+{sword}{NN_}{NN_} sup=2
+
+{NN_}{foe} sup=10
+
+{JJ_}{NN_ see} sup=5
+
+{fall}{JJ_}{NN_} sup=9
+{IN_}{many} sup=2
+
+{love} sup=13
+
+{JJ_}{NNS_}{NN_} sup=38
+{NNS_ one}{VBP_} sup=6
+
+{NN_}{see VBP_} sup=3
+
+{come}{back} sup=16
+
+{VBD_}{sea} sup=11
+
+{NN_}{MD_}{PP_} sup=3
+
+{NN_}{face} sup=8
+{friend}{VBD_} sup=6
+
+{NN_}{NN_ rum} sup=6
+
+{one PP_} sup=18
+
+{say}{NNS_}{NN_} sup=4
+
+{VB_ go}{one} sup=4
+
+{VB_ go}{NN_} sup=8
+{run} sup=28
+{hand}{NN_} sup=5
+
+{sea}{JJ_}{NN_} sup=2
+
+{see}{VB_} sup=6
+
+{VBP_}{NNS_}{NN_} sup=7
+
+{need} sup=19
+{NN_}{NN_}{get} sup=3
+
+{RB_ hard}{RB_} sup=3
+
+{VBN_}{NN_}{RB_} sup=13
+
+{VB_}{VBG_}{RB_ away} sup=4
+
+{NN_ step} sup=2
+
+{cause}{RB_} sup=17
+
+{leave}{memory} sup=4
+
+{JJ_}{JJ_ cold} sup=3
+
+{NN_}{NN_ direction} sup=2
+
+{try}{NN_} sup=3
+
+{NN_}{NN_ crew} sup=4
+
+{NN_ life}{VB_} sup=4
+
+{RB_}{NN_}{NN_}{NN_} sup=5
+
+{run}{RB_} sup=11
+
+{NN_}{VB_}{NN_} sup=43
+{JJ_ flash}{NN_ blade} sup=3
+
+{NN_ death}{NN_} sup=4
+
+{NN_ slaying} sup=7
+
+{VBG_}{NNS_}{NN_}{NN_} sup=5
+
+{VBD_}{get} sup=4
+
+{JJ_}{JJ_}{VBD_} sup=8
+
+{VB_ make}{JJ_ bastard}{NN_ walk}{NN_ plank} sup=2
+
+{VBP_ believe}{NNS_} sup=4
+
+{NN_}{NN_}{tale} sup=3
+
+{VBD_ turn} sup=2
+
+{ol}{NN_} sup=4
+
+{love}{JJ_} sup=3
+
+{early} sup=3
+
+{RB_}{VBN_}{NN_}{NN_}{RB_} sup=3
+
+{feel} sup=25
+
+{NN_ sky}{NN_ burn}{NN_ blood}{NN_ night} sup=2
+
+{VBD_}{VBP_}{NN_} sup=3
+
+{VB_}{NN_}{NNS_}{VBP_} sup=4
+
+{MD_ would} sup=9
+
+{NN_ cause}{RB_} sup=12
+
+{JJ_}{NN_}{DT_}{NN_} sup=3
+
+{yet}{RB_ still} sup=2
+
+{VBD_ lose} sup=9
+
+{JJ_ dead}{NN_ meet} sup=2
+
+{NN_}{ship} sup=4
+
+{VBD_}{VB_}{NN_} sup=17
+{NN_ power}{NN_ ale}{MD_ could}{VB_ fail} sup=2
+
+{raise}{NN_}{NN_} sup=12
+
+{move} sup=10
+
+{CD_ two}{NNS_}{RB_} sup=2
+
+{NN_}{NN_ waiting} sup=6
+
+{VB_}{VB_}{NN_}{NN_} sup=5
+
+{VB_ dare}{VB_ oppose} sup=4
+
+{sell} sup=3
+
+{JJ_ eternal}{NN_} sup=4
+
+{NNS_}{JJ_}{NN_}{NNS_} sup=2
+
+{oh UH_}{RB_} sup=2
+
+{good}{NNS_} sup=9
+{NN_ god} sup=6
+
+{NN_ man}{NN_}{NN_} sup=3
+
+{NN_}{NN_}{along} sup=2
+
+{cause} sup=43
+
+{VBD_ take}{NN_}{NN_} sup=3
+
+{think}{NNS_} sup=2
+
+{JJ_}{NN_}{VB_} sup=12
+{VB_}{NN_}{one CD_} sup=4
+
+{VB_}{VBG_}{JJ_}{NNS_} sup=2
+
+{NNS_}{NNS_ memory} sup=2
+
+{still} sup=4
+
+{waste}{away} sup=2
+
+{NN_}{IN_ without}{NN_} sup=2
+
+{wench}{NN_} sup=5
+
+{VB_}{VB_} sup=107
+{VB_}{PP_}{RB_} sup=3
+
+{cause VB_}{JJ_}{JJ_} sup=4
+
+{would MD_}{JJ_ cold}{VBN_ get}{NN_ heater}{NNS_ thigh} sup=3
+
+{VB_}{move}{NN_} sup=4
+
+{VBD_}{NN_}{JJ_} sup=5
+
+{NN_}{NN_}{back RB_} sup=3
+
+{JJ_ cold}{NNS_}{VBP_} sup=2
+
+{MD_}{VBN_}{NN_} sup=4
+
+{VBP_}{NNS_}{NNS_} sup=3
+
+{NN_ destiny} sup=16
+
+{NN_}{JJ_ untold} sup=2
+
+{JJ_}{go} sup=15
+{VBN_}{NNS_}{VBP_} sup=12
+{NN_}{d}{VB_} sup=3
+
+{NN_}{fire} sup=5
+
+{NN_}{VBD_}{NNS_}{VBD_} sup=2
+
+{sit}{NN_} sup=3
+
+{VB_ come}{back RB_}{JJ_} sup=12
+
+{RB_ way} sup=7
+
+{NN_}{NN_}{NNS_}{NN_ side} sup=3
+
+{NNS_ friend}{NN_} sup=2
+
+{VBP_}{VB_}{RB_} sup=8
+
+{JJ_}{NNS_}{turn} sup=3
+
+{JJ_}{NN_}{NN_ hand} sup=3
+
+{JJ_}{NN_}{thing} sup=4
+
+{NN_}{JJ_}{NN_} sup=111
+{UH_ oh} sup=9
+
+{JJ_}{JJ_ last}{NN_ time} sup=2
+
+{NNS_}{MD_ would}{VB_} sup=3
+
+{come}{back RB_}{RB_} sup=11
+
+{VBP_}{VB_}{JJ_}{NN_} sup=3
+
+{VB_}{NN_ til}{NN_} sup=4
+
+{NNS_}{quest} sup=4
+
+{RB_ right}{JJ_} sup=7
+
+{VBN_}{RB_ alone}{NN_} sup=4
+
+{NN_}{know}{NN_} sup=7
+{NN_}{RB_ yeah} sup=12
+
+{NN_ lust}{NN_} sup=3
+
+{VBN_}{stand} sup=2
+
+{NNS_ shore} sup=3
+
+{VBN_}{NNS_}{JJ_} sup=2
+
+{VBG_ cry}{NN_} sup=2
+
+{NN_ scream}{NN_ scream}{NN_ scream}{NN_ way}{would MD_} sup=2
+
+{VB_}{NNS_}{RB_} sup=7
+{land}{sea} sup=3
+
+{JJ_ jolly} sup=7
+
+{JJ_}{NNS_}{JJ_}{NNS_} sup=2
+
+{VB_}{VBG_}{NNS_} sup=4
+
+{RB_ tonight} sup=13
+
+{seem}{NN_} sup=5
+
+{JJ_}{NNS_}{NN_}{VBD_} sup=2
+
+{look}{RB_}{NN_} sup=4
+
+{NN_}{see} sup=19
+{captain} sup=14
+
+{JJ_}{NN_}{NNS_}{NN_}{NN_} sup=2
+
+{VB_ go}{JJ_} sup=3
+
+{take}{NN_ life} sup=5
+
+{VBG_}{NN_} sup=111
+{share} sup=3
+
+{way} sup=33
+
+{NNS_}{NN_}{VBN_} sup=5
+
+{NNS_}{care} sup=3
+
+{JJ_}{JJ_ old} sup=3
+
+{NN_ day}{NN_}{NN_} sup=2
+
+{NN_ truth} sup=2
+
+{JJ_}{year}{JJ_}{NNS_ sea} sup=2
+
+{RB_ alone}{JJ_} sup=2
+
+{JJS_}{NNS_} sup=6
+{JJ_}{seem}{NN_}{NN_} sup=2
+
+{NN_}{NN_ die} sup=11
+
+{NN_}{MD_ could} sup=9
+
+{VBN_ make}{NN_ change} sup=2
+
+{pirate}{NN_} sup=12
+
+{VBN_}{back} sup=5
+
+{come VB_}{VB_ take}{NN_ drink}{VB_ drown}{NNS_ sorrow} sup=2
+
+{NN_}{VBN_}{NN_} sup=23
+{NN_ fight}{VBZ_ go} sup=2
+
+{VBP_}{RB_ way}{VB_} sup=6
+
+{JJ_}{NN_ treasure} sup=7
+
+{see VB_}{NN_} sup=13
+
+{NN_}{would MD_}{VB_}{RB_ still} sup=2
+
+{NNS_ sea}{VBD_}{NN_} sup=2
+
+{NN_}{NN_ blood}{NNS_}{RB_} sup=3
+
+{put VBN_}{NN_ cannons}{NNS_ whore} sup=3
+
+{RB_ hard}{VB_} sup=6
+
+{VBN_}{NN_}{JJ_}{NN_}{NN_} sup=2
+
+{VB_}{VBD_} sup=21
+{JJ_}{ocean} sup=3
+
+{say}{VB_} sup=4
+
+{NNS_}{RB_}{NN_}{RB_} sup=3
+
+{NN_}{would MD_}{VB_} sup=6
+
+{NN_}{VBP_ know} sup=10
+
+{NN_}{NN_ battle}{NN_}{NN_} sup=4
+
+{NN_}{begin}{VB_} sup=2
+
+{RB_}{good}{NN_} sup=3
+
+{NN_}{NN_}{VBD_}{VBN_} sup=2
+
+{RB_ around}{VBN_} sup=2
+
+{NN_}{NN_ time}{NN_}{NN_} sup=4
+
+{NNS_}{VBD_}{NN_}{NN_} sup=3
+
+{MD_ may}{VBN_ create}{VBG_ begin}{RB_} sup=2
+
+{viking NNS_}{NN_} sup=3
+
+{VB_}{RB_ tonight} sup=2
+
+{come VBD_} sup=11
+{VBD_ win}{VB_} sup=5
+
+{VBG_}{time} sup=6
+{NN_ clone} sup=3
+
+{VBG_}{thing} sup=2
+
+{MD_}{VB_}{RB_}{NN_} sup=2
+
+{JJ_}{NN_ time} sup=12
+
+{one CD_} sup=29
+
+{NN_ pirate}{NN_} sup=7
+
+{JJ_}{NN_}{NN_}{RB_} sup=3
+
+{NN_}{MD_}{NN_} sup=10
+
+{VB_}{NN_}{NNS_} sup=29
+{VB_ take}{JJ_}{NN_} sup=6
+
+{VBD_}{VBD_} sup=13
+{NN_}{JJ_}{NNS_}{VBP_ go} sup=2
+
+{NNS_}{NN_ land} sup=4
+
+{feel}{NNS_} sup=4
+
+{VBD_}{NN_}{JJ_}{NN_} sup=2
+
+{see}{NN_}{VB_} sup=4
+
+{JJ_ old}{NN_}{NN_}{NN_} sup=2
+
+{RB_}{JJ_}{NN_} sup=23
+{man}{know} sup=3
+
+{NN_ light}{VBZ_} sup=2
+
+{RB_}{VBN_}{NNS_} sup=4
+
+{VBN_}{VBP_}{VB_} sup=4
+
+{VBN_ bind}{JJ_ close}{NN_ sea} sup=4
+
+{call} sup=13
+{NN_}{NN_}{NN_ desire} sup=5
+
+{RB_}{VB_} sup=97
+{JJ_ grown} sup=4
+
+{JJ_}{VBD_} sup=58
+{turn}{NN_} sup=11
+
+{would MD_}{RB_ still}{NN_} sup=2
+
+{NNS_ depth} sup=7
+
+{VBN_}{RP_} sup=2
+
+{NN_}{RB_}{RB_} sup=12
+
+{wanna}{VB_}{VB_ feel}{JJ_} sup=2
+
+{first} sup=4
+
+{VB_ cover}{JJ_ unwanted}{NN_ clemency} sup=3
+
+{VBD_}{NN_ sea} sup=8
+
+{well RBR_}{JJ_ dead} sup=2
+
+{VBN_ make} sup=5
+
+{NN_ drink}{NN_ party}{NN_ night}{RB_ long} sup=2
+
+{JJ_}{time}{RB_} sup=3
+
+{VB_}{RB_}{RB_} sup=26
+
+{NN_ time}{come}{NN_} sup=3
+
+{VBZ_ live} sup=2
+
+{forget} sup=7
+
+{NN_}{fall} sup=6
+
+{build} sup=3
+
+{IN_ towards}{NNS_} sup=4
+
+{blame} sup=6
+
+{NNS_}{suffer}{MD_ could} sup=2
+
+{VB_}{NN_ man} sup=2
+
+{NN_}{live} sup=6
+{hand}{VBD_} sup=5
+
+{JJ_}{NNS_}{NN_}{NN_}{NN_} sup=2
+
+{VB_ sail}{NNS_ sea} sup=3
+
+{VB_}{bastard}{NN_} sup=5
+
+{NN_ sin}{NN_} sup=3
+
+{VB_}{start} sup=7
+
+{JJ_ forbidden}{NN_ treasure}{JJ_ old} sup=2
+
+{RB_ around} sup=12
+
+{NN_}{NN_ earth} sup=2
+
+{NN_}{VBN_}{RB_ away} sup=6
+
+{RB_}{VBZ_} sup=6
+
+{NNS_}{RB_}{JJ_} sup=4
+
+{VBN_}{NN_ ship} sup=2
+
+{NN_ pain}{NNS_ life}{VBP_ know}{NN_ misery} sup=2
+
+{NNS_}{see} sup=11
+{NN_}{VBD_}{time} sup=2
+
+{VBP_}{NN_} sup=96
+{move}{NN_} sup=6
+
+{VB_}{JJ_}{NN_}{VBD_} sup=2
+
+{VB_ make}{NN_} sup=16
+{NN_}{RB_ alone} sup=5
+
+{bad JJR_} sup=2
+
+{ride} sup=15
+
+{NN_}{man} sup=17
+{VB_}{kill} sup=3
+
+{VB_}{VBP_}{RB_}{VB_} sup=5
+
+{NN_ drink} sup=13
+
+{VBD_}{hand} sup=3
+
+{JJ_}{us PP_} sup=4
+
+{feel}{NN_}{NN_}{NN_} sup=4
+
+{NNS_ wench}{NN_ mead} sup=2
+
+{NNS_ fear}{VBN_ go}{IN_ till}{NN_ tomorrow} sup=2
+
+{JJ_ good}{NN_ friend}{VBD_ tell}{NN_ memory} sup=2
+
+{NN_ place}{NN_} sup=10
+{NN_}{NNS_ foe} sup=7
+
+{NN_ time}{RB_} sup=10
+
+{CD_ one}{JJ_}{NN_} sup=3
+
+{look}{VBN_} sup=2
+
+{tonight} sup=22
+{VB_}{back RB_}{JJ_}{NN_} sup=2
+
+{NNS_}{VBD_}{NNS_} sup=10
+
+{NNS_}{VBP_}{IN_}{NN_} sup=4
+
+{NN_}{NN_}{NN_}{NN_}{NN_} sup=4
+
+{NNS_}{VBP_}{NN_} sup=43
+{VBP_}{JJ_}{NNS_} sup=8
+
+{RB_ soon}{VB_} sup=2
+
+{VB_ see}{NN_} sup=6
+
+{NN_ sky}{NN_} sup=3
+
+{VBG_}{NN_ sin} sup=2
+
+{VBN_}{RB_} sup=48
+{RB_}{JJ_}{JJ_} sup=2
+
+{NN_ den}{NN_}{NN_ violence}{NN_ sin} sup=2
+
+{VB_}{move}{RB_} sup=4
+
+{NN_ something}{VB_} sup=4
+
+{NN_}{VB_}{JJ_}{NN_} sup=7
+
+{NN_ nightmare}{JJ_ full}{NN_ sorrow} sup=3
+
+{NN_}{NNS_ foe}{NN_} sup=2
+
+{NN_}{JJ_ alive} sup=3
+
+{VBG_}{VBD_} sup=7
+
+{NN_ haunting} sup=3
+
+{VB_ take}{NNS_} sup=7
+{put VBN_}{NN_ faith}{NN_ odin}{NN_ thor} sup=3
+
+{NN_}{viking}{NN_} sup=4
+
+{back RB_}{time}{VB_} sup=4
+
+{VBN_ shipwreck}{NN_ destiny} sup=3
+
+{NN_}{MD_}{VB_}{NNS_}{NN_} sup=2
+
+{JJ_}{RB_ always} sup=2
+
+{NN_}{NN_}{VBD_}{stay VB_} sup=4
+
+{NNS_ song} sup=2
+
+{VB_}{VB_}{away} sup=2
+
+{JJS_ good}{NNS_} sup=3
+
+{VBN_ leave} sup=10
+
+{sink} sup=3
+
+{RB_ far} sup=27
+{make}{NN_} sup=20
+{NN_}{VB_ go} sup=10
+{VBZ_ lead}{us PP_}{NN_ destiny} sup=2
+
+{NN_}{VBD_}{land} sup=2
+
+{NN_}{VBP_}{JJ_}{NN_} sup=5
+
+{VBP_ sit}{back RB_}{VB_ sing}{NN_ song} sup=2
+
+{NN_ friend}{VBD_}{NN_} sup=3
+
+{treasure}{JJ_}{NNS_} sup=2
+
+{UH_ hey}{UH_ hey} sup=12
+
+{NN_}{NN_ huntmaster} sup=10
+
+{VBN_ run} sup=8
+
+{JJ_}{VBN_ tie} sup=2
+
+{VB_ know}{RB_ right}{JJ_ stuck}{dream NN_} sup=3
+
+{NN_ cause}{NN_ time}{NN_ right}{NN_ move}{RB_ far}{RB_ away} sup=3
+
+{sword} sup=5
+
+{VBD_ know}{VB_}{NN_} sup=3
+
+{VB_ want}{VB_}{VB_}{NN_} sup=2
+
+{VBN_}{JJ_ old}{NN_} sup=2
+
+{NN_ leave} sup=2
+
+{JJ_}{would MD_} sup=4
+
+{NN_}{RB_}{find} sup=4
+
+{VBN_ hear}{NN_} sup=2
+
+{VBD_}{JJ_}{NN_}{NN_} sup=3
+
+{VBN_ come}{NNS_} sup=3
+
+{JJ_}{NN_ time}{RB_} sup=2
+
+{VBG_}{right} sup=3
+
+{JJ_}{NN_}{NN_}{come} sup=3
+
+{VB_ herald}{NN_} sup=2
+
+{VB_}{UH_} sup=3
+
+{find} sup=22
+{JJ_}{life}{JJ_} sup=2
+
+{one CD_}{NN_ light} sup=4
+
+{VBD_ set}{NN_} sup=4
+
+{NNS_}{VBD_}{sail} sup=2
+
+{JJ_ insane}{NN_} sup=6
+
+{JJ_}{NNS_}{VBD_}{NN_} sup=4
+
+{NN_}{fear} sup=5
+
+{NNS_ wench} sup=10
+
+{NNS_ ocean}{NNS_} sup=3
+
+{VBD_}{begin} sup=2
+
+{NNS_ sword}{NN_} sup=3
+
+{VBN_ live}{NN_} sup=5
+
+{NN_}{NNS_ cannon} sup=3
+
+{NNS_}{JJ_ dead}{NN_} sup=2
+
+{JJ_ many}{year}{VBD_} sup=3
+
+{taste} sup=10
+
+{RB_ well} sup=3
+
+{JJ_}{NN_ fate} sup=3
+
+{RB_}{PP_} sup=10
+
+{VBN_ set}{quest} sup=4
+
+{NN_}{NN_}{VBD_ build} sup=2
+
+{NN_}{RB_}{RB_}{RB_} sup=5
+
+{VBD_ shipwreck}{VB_} sup=5
+
+{VB_ keep}{RB_ away} sup=6
+
+{ask} sup=8
+
+{NN_ beginning}{come VBD_} sup=2
+
+{VBP_}{VBP_} sup=3
+
+{NNS_ thing}{VBN_ bind}{NN_ change} sup=2
+
+{NNS_}{VBD_} sup=79
+{NN_ die}{NN_} sup=3
+
+{JJ_}{year}{VBD_}{NNS_} sup=2
+
+{VBN_}{MD_ could}{VB_} sup=2
+
+{VBZ_ happen} sup=2
+
+{man}{JJ_}{NN_} sup=2
+
+{tonight}{NN_} sup=2
+
+{JJ_ nasty}{NN_} sup=2
+
+{VBZ_ say}{NNS_} sup=4
+
+{say}{VBN_ do} sup=2
+
+{NNS_}{hold} sup=4
+
+{VB_}{back RB_}{NN_} sup=6
+
+{try}{away} sup=5
+
+{NNS_}{VBD_}{JJ_}{NNS_} sup=5
+
+{VBP_}{day} sup=4
+
+{VBN_ fall}{NN_ place}{VBG_ give}{JJ_ small}{NN_ taste} sup=2
+
+{IN_}{RB_} sup=7
+
+{dark}{NN_} sup=5
+
+{NNS_}{RB_}{VBG_} sup=4
+
+{VBN_ go}{NN_ nothing}{VB_ take}{JJ_ back}{NN_ time} sup=2
+
+{go}{take}{NN_} sup=5
+
+{wait}{NN_} sup=8
+{take}{JJ_}{NN_} sup=3
+
+{NN_}{NN_}{NN_ fight} sup=3
+
+{VB_}{RB_ right}{JJ_} sup=4
+
+{VB_}{show} sup=6
+
+{VBN_ rip}{NNS_ shred} sup=3
+
+{JJ_}{VBN_}{NN_} sup=13
+{CD_ three}{NNS_}{NN_} sup=2
+
+{RB_ far}{RB_ away}{VB_} sup=3
+
+{love}{NN_} sup=4
+
+{wind}{VBD_} sup=2
+
+{JJ_}{NNS_ sea} sup=8
+
+{VBN_}{NN_ nothing}{VB_} sup=4
+
+{viking} sup=9
+
+{black} sup=7
+
+{VB_}{NN_}{NN_ land} sup=2
+
+{NN_}{d SYM_} sup=4
+
+{VBP_}{VBN_} sup=12
+{NN_}{VBD_}{stay VB_} sup=5
+
+{NNS_}{JJ_}{NNS_}{JJ_} sup=2
+
+{RB_}{NN_ life}{JJ_} sup=2
+
+{NN_ story}{VBZ_} sup=2
+
+{MD_ could}{VB_}{JJ_} sup=2
+
+{d SYM_}{VB_ make}{NNS_ mistake} sup=3
+
+{take}{NN_} sup=41
+{NN_ gun} sup=2
+
+{JJ_ deadly}{NN_} sup=7
+
+{NN_}{VB_}{JJ_} sup=15
+{RB_}{MD_}{VB_} sup=4
+
+{NN_}{JJ_ many}{NNS_} sup=3
+
+{VB_}{NN_}{NN_}{VBP_}{VB_} sup=3
+
+{captain NN_} sup=13
+
+{JJ_ go}{NN_} sup=2
+
+{JJ_ wrong} sup=19
+
+{realize} sup=6
+
+{JJ_}{NN_}{come} sup=6
+{one}{NN_ care} sup=4
+
+{MD_ would}{NN_} sup=5
+
+{VBD_}{JJ_}{NNS_} sup=10
+{NN_}{NNS_ sea} sup=10
+
+{please UH_}{VB_ forget} sup=2
+
+{VB_}{know} sup=13
+
+{VB_ belong}{VBN_ gotta}{VBP_ move}{RB_ dear}{VB_ escape}{NN_ afterlife} sup=3
+
+{please UH_}{VB_}{NN_} sup=2
+
+{NN_ stay}{VBD_ unbind} sup=2
+
+{NNS_}{RB_}{NNS_} sup=3
+
+{NN_}{take} sup=14
+
+{NN_}{NN_} sup=723
+{NN_}{JJ_}{see} sup=2
+
+{NN_}{NN_ cold}{JJ_} sup=2
+
+{NN_ cause}{NN_}{NN_} sup=8
+
+{NNS_ night}{NN_ pain} sup=2
+
+{VB_}{NN_}{VBP_}{RB_} sup=3
+
+{NN_}{NN_ code} sup=4
+
+{back RB_}{NN_ time}{NN_} sup=6
+
+{JJ_}{light}{NN_}{NN_} sup=3
+
+{VB_}{VB_}{NNS_} sup=16
+{VB_}{NNS_}{VBP_} sup=13
+{VB_}{back RB_}{VB_}{NN_} sup=3
+
+{NN_}{NN_ pain} sup=6
+
+{VB_ throw}{NN_ mug} sup=3
+
+{NN_ peace}{RB_} sup=3
+
+{VBN_}{JJ_}{NN_}{NN_} sup=9
+{JJ_ dark}{NNS_ heart} sup=2
+
+{NNS_}{NN_ day} sup=6
+
+{VBN_}{VBZ_}{JJ_} sup=2
+
+{JJ_}{NN_}{VBP_}{JJ_} sup=2
+
+{NN_ something}{VBD_}{stay VB_} sup=3
+
+{RB_}{VB_}{NN_ way} sup=5
+
+{VBN_}{place}{NN_} sup=3
+
+{NNS_}{NN_}{NN_}{NN_} sup=3
+
+{light} sup=16
+{NN_}{NN_}{MD_} sup=17
+{VB_ know}{VB_} sup=13
+
+{NN_}{JJ_}{VBP_} sup=8
+{NN_}{mark} sup=2
+
+{NN_}{dead} sup=10
+{NNS_}{NN_}{VBD_}{JJ_} sup=2
+
+{JJ_}{us PP_}{VBP_} sup=2
+
+{know}{NN_}{RB_ yeah} sup=2
+
+{RB_}{JJ_} sup=65
+{bring}{VB_} sup=5
+
+{VBN_ care} sup=3
+
+{NN_ man}{NN_} sup=7
+
+{JJ_}{NN_}{see} sup=2
+
+{NN_ sail}{JJ_} sup=5
+
+{NN_}{captain NN_}{VBD_} sup=4
+
+{RB_}{VB_}{NN_} sup=40
+{VB_}{VB_}{RB_ yeah} sup=4
+
+{VB_}{RB_ forever} sup=3
+
+{JJ_ mighty}{NN_} sup=5
+
+{come VBD_}{NN_} sup=3
+
+{back RB_}{IN_}{NN_} sup=4
+
+{JJ_}{life} sup=10
+
+{VB_ live} sup=2
+
+{VB_}{VB_}{VB_}{NN_ life} sup=2
+
+{VBZ_ say}{NNS_ leg}{must MD_}{VB_ go} sup=3
+
+{RB_ away} sup=53
+{RB_}{VB_ let}{NN_} sup=4
+
+{JJ_}{RB_}{NN_} sup=2
+
+{NN_}{hold} sup=3
+
+{nothing}{VB_} sup=9
+
+{JJ_}{NN_ land} sup=3
+
+{one CD_}{NN_ time} sup=2
+
+{NN_ place}{JJ_ full}{NN_ peace}{NN_ light}{NN_ d}{hope VBD_}{NN_ might} sup=2
+
+{NNS_}{VBZ_} sup=7
+
+{NN_}{VBD_}{JJ_ deadly}{NN_} sup=4
+
+{VBP_}{NN_ praise} sup=2
+
+{NN_ liar} sup=2
+
+{NN_}{JJ_}{NNS_ man} sup=2
+
+{RB_}{right} sup=7
+
+{NN_}{RB_}{miss} sup=3
+
+{RB_ hard}{VB_}{VB_} sup=2
+
+{VBN_}{NN_}{slip}{away} sup=3
+
+{JJ_ young}{VBN_} sup=2
+
+{JJ_ many}{NNS_} sup=16
+{NNS_}{NN_}{VBZ_} sup=3
+
+{VB_ sail}{NNS_} sup=5
+
+{god} sup=9
+
+{MD_ could}{RB_} sup=5
+
+{NN_}{RBR_ harder} sup=2
+
+{NN_}{NN_ pain}{NN_} sup=3
+
+{NN_}{RB_ forever} sup=2
+
+{NN_}{come}{VB_} sup=4
+
+{VB_}{RB_}{RB_}{JJ_}{NN_} sup=5
+
+{swear}{NN_} sup=3
+
+{NN_ friend}{VBD_} sup=4
+
+{JJ_}{NNS_ eye}{VBP_} sup=3
+
+{JJ_ perishing} sup=3
+
+{VBP_}{NNS_}{JJ_} sup=3
+
+{great}{NN_}{NN_} sup=2
+
+{fall VBD_}{RB_ apart}{VB_ let}{VB_ make}{JJ_ new}{NN_ start} sup=3
+
+{NNS_ sword} sup=4
+
+{NN_}{VBD_}{NN_ fate} sup=6
+
+{treasure}{NNS_} sup=3
+
+{yet} sup=5
+
+{NN_ time}{VB_} sup=11
+{VB_}{VBN_}{NN_} sup=12
+
+{RB_ still}{JJ_} sup=2
+
+{VBN_ break} sup=4
+
+{NNS_ cannon}{VBG_ rage}{NNS_ torch}{RB_ aflame} sup=2
+
+{sky} sup=17
+{VB_}{NN_ mind} sup=2
+
+{VB_ know}{NN_ time} sup=7
+
+{one PP_}{NN_} sup=4
+
+{VBN_}{JJ_}{NNS_ man} sup=3
+
+{one PP_}{VBD_} sup=3
+
+{VB_ take}{away RP_} sup=2
+
+{NN_ matter} sup=6
+
+{tear}{NNS_}{NN_} sup=4
+
+{NNS_}{RB_}{turn} sup=5
+
+{VBN_ go}{RB_ alone}{VBD_ take}{NN_ strength} sup=2
+
+{JJ_}{NNS_}{VBD_}{JJ_}{NN_} sup=2
+
+{NN_}{VBP_}{RB_}{VB_}{VB_} sup=3
+
+{like} sup=10
+
+{VBP_ go} sup=8
+
+{unmask}{NN_} sup=4
+
+{VBN_}{NN_ sea} sup=5
+
+{VBD_ win}{NN_} sup=5
+
+{give}{VBP_}{NN_} sup=2
+
+{fire}{cannon} sup=4
+
+{NNS_}{change} sup=6
+
+{JJ_ tired}{NN_}{NN_} sup=2
+
+{scream}{NNS_ ear} sup=2
+
+{PP_} sup=69
+{NN_}{JJ_ wrong} sup=7
+
+{leave}{VB_} sup=2
+
+{NN_}{VBD_}{VBN_}{NN_} sup=3
+
+{man} sup=39
+{VBN_ take} sup=3
+
+{JJ_ jolly}{NN_ roger}{NN_} sup=2
+
+{NN_}{NN_}{do} sup=2
+
+{set}{NNS_} sup=3
+
+{VBG_ tear}{NNS_ body}{NN_ limb}{NN_ limb} sup=3
+
+{NN_}{thing} sup=11
+
+{VB_}{RB_}{NN_}{NN_} sup=3
+
+{port}{NN_} sup=3
+
+{NNS_}{VBP_ need} sup=5
+
+{look}{JJ_}{NN_} sup=3
+
+{VBN_ set}{NN_ sail}{VB_ conquer}{NN_ destiny}{NNS_ hand} sup=2
+
+{NN_ look}{NN_}{NN_} sup=8
+
+{VBD_}{VBG_} sup=12
+
+{VB_}{NN_}{VBP_} sup=11
+{d}{NN_}{NN_} sup=2
+
+{kill} sup=16
+{heart} sup=27
+
+{NN_ quest}{JJ_} sup=3
+
+{NN_ inside} sup=5
+
+{head} sup=13
+{NN_}{VBD_}{NN_}{JJ_} sup=2
+
+{NN_ death}{NN_ mast} sup=2
+
+{loot} sup=2
+
+{VB_ stop}{NN_ dawn}{NN_ sun} sup=2
+
+{RB_}{back RB_} sup=2
+
+{VBN_}{VBN_} sup=11
+{CD_}{VBN_} sup=2
+
+{cannon}{fire} sup=2
+
+{VBN_ ask} sup=2
+
+{NN_}{VBP_}{head} sup=2
+
+{VB_ follow} sup=3
+
+{RB_ far}{NN_} sup=3
+
+{NN_}{VBD_}{another DT_}{NN_} sup=4
+
+{NN_}{NN_}{NNS_ eye} sup=6
+{NNS_ answer} sup=2
+
+{NN_}{NN_}{NN_}{VBP_}{NN_} sup=2
+
+{cause}{die} sup=8
+
+{NN_}{NNS_ depth} sup=5
+
+{NNS_}{VBD_}{NNS_}{VBD_}{NN_} sup=3
+
+{VB_}{know}{NN_} sup=8
+
+{wrong}{VB_} sup=3
+
+{VB_}{NN_}{IN_}{NN_} sup=2
+
+{VB_ bleed}{RB_ forever} sup=2
+
+{NN_}{JJ_}{NNS_}{go} sup=3
+
+{RB_ never}{VBD_}{NN_} sup=3
+
+{VB_}{NN_}{VB_} sup=21
+{NN_}{JJ_}{NNS_}{VBD_} sup=2
+
+{gold}{NNS_} sup=2
+
+{VB_ need}{back RB_}{RB_ nothing}{VB_ take}{JJ_ back}{NN_ time} sup=2
+
+{NN_ death} sup=11
+
+{get}{NNS_} sup=2
+
+{NN_ time}{NN_}{NN_} sup=14
+{us PP_} sup=18
+
+{RB_}{NN_}{NN_} sup=31
+{JJ_ past}{JJ_}{NN_} sup=2
+
+{NN_}{NN_ man} sup=10
+{VB_}{DT_} sup=8
+
+{nothing} sup=26
+
+{RB_ never}{know} sup=3
+
+{good}{friend}{VBD_}{NN_} sup=3
+
+{VB_}{RB_}{RB_ far} sup=2
+
+{NNS_}{VBD_}{JJ_}{NN_} sup=4
+
+{NN_ pirate} sup=8
+
+{NN_}{away} sup=18
+
+{man}{VBP_} sup=4
+
+{NN_}{IN_}{NN_}{RB_} sup=2
+
+{NN_}{NN_}{JJ_ dead} sup=2
+
+{NN_}{man}{know} sup=2
+
+{know}{one PP_} sup=3
+
+{RB_}{VB_}{RB_ forever} sup=2
+
+{VBP_ want} sup=3
+
+{hear} sup=12
+{NN_ beast}{NNS_} sup=2
+
+{VB_}{back RB_}{JJ_} sup=17
+{answer} sup=3
+
+{NNS_ wave} sup=6
+
+{soul} sup=9
+{VBN_}{VBP_} sup=10
+
+{captain}{JJ_} sup=2
+
+{PP_}{JJ_} sup=17
+
+{NN_}{VBZ_ go} sup=5
+
+{JJ_}{time} sup=15
+
+{RB_ hard}{VB_}{RB_} sup=2
+
+{VBP_ stand}{NN_} sup=5
+
+{dream} sup=10
+{VBD_}{CD_} sup=4
+
+{VBG_ run}{RB_} sup=9
+
+{VB_ see} sup=7
+
+{JJ_}{NN_ need} sup=2
+
+{VBN_ set}{NN_ sail}{VB_ conquer}{NN_ quest}{JJ_ distant}{NNS_ land} sup=2
+
+{NN_}{NN_ sign}{NN_} sup=2
+
+{VB_ see}{NN_ city}{NN_ fall} sup=2
+
+{CD_ two}{RB_} sup=3
+
+{right}{JJ_} sup=8
+
+{seem VBZ_}{NN_} sup=2
+
+{cause}{NNS_} sup=7
+
+{NN_}{NNS_ life} sup=3
+
+{VB_}{NNS_ way} sup=2
+
+{RB_ live} sup=3
+
+{JJ_}{JJ_}{NN_} sup=45
+{RB_ yeah} sup=26
+
+{come}{back}{NN_} sup=2
+
+{man}{VBD_} sup=3
+
+{RB_ away}{go} sup=5
+
+{VBD_}{NN_}{NN_}{NN_} sup=4
+
+{d SYM_}{JJ_}{NN_} sup=4
+
+{JJ_}{NN_}{JJ_ wrong} sup=2
+
+{live}{NN_} sup=13
+{NN_}{RB_ hard}{VB_} sup=4
+
+{VB_}{NN_}{know} sup=2
+
+{VB_}{VBG_}{NN_} sup=11
+{lie}{NN_}{NN_}{NN_} sup=2
+
+{reason} sup=3
+
+{day}{NNS_} sup=4
+
+{JJ_}{NN_ tide} sup=2
+
+{NN_}{come}{NNS_} sup=2
+
+{NN_}{JJ_ dire} sup=2
+
+{thing}{NN_} sup=3
+
+{VBD_}{RB_ long} sup=2
+
+{CD_ two}{heart}{VB_} sup=2
+
+{call}{RB_} sup=2
+
+{NN_}{NN_ time}{RB_} sup=6
+
+{VB_}{JJ_}{NN_}{VBZ_} sup=2
+
+{VB_}{NN_}{NN_}{NN_} sup=23
+{VB_}{NN_ chance} sup=3
+
+{JJ_}{RB_ away} sup=3
+
+{end}{RB_} sup=2
+
+{JJ_}{know} sup=4
+
+{go VBD_} sup=2
+
+{win}{NN_} sup=15
+
+{VBG_}{VB_} sup=4
+
+{CD_ one}{NN_}{NN_} sup=8
+
+{JJ_}{NN_}{chest} sup=2
+
+{VB_ know}{JJ_}{NN_} sup=5
+
+{NN_}{fast} sup=2
+
+{get}{VB_} sup=7
+{VBG_ go} sup=4
+
+{NN_ heart}{VBZ_ bleed}{JJ_ fellow}{NNS_ man} sup=2
+
+{JJ_}{NN_}{RB_} sup=22
+{know}{RB_} sup=12
+
+{NN_ cry}{RB_ away} sup=4
+
+{NN_}{time} sup=20
+
+{NN_}{VB_}{NN_}{JJ_}{NN_ friend} sup=3
+
+{way}{VB_}{JJ_} sup=3
+
+{VBN_ torment}{JJ_ young}{NNS_ soul}{NN_ haunting} sup=2
+
+{prepare}{NN_} sup=2
+
+{VB_}{back RB_}{IN_}{NN_} sup=3
+
+{one PP_}{VBP_} sup=6
+
+{VB_ know}{VBG_ hurt}{NN_ killing} sup=2
+
+{JJ_ fast}{NNS_} sup=3
+
+{NN_}{NN_ peace} sup=4
+
+{VB_ learn}{NN_ lesson} sup=2
+
+{NN_}{NN_ power} sup=3
+
+{NN_}{draw} sup=3
+
+{RB_}{tell} sup=3
+
+{know}{PP_} sup=9
+
+{JJ_ yer}{JJ_ wee}{NN_ bit}{NN_ hill}{NN_ glen}{VBD_ stand} sup=2
+
+{NN_}{NN_}{NN_ move}{RB_} sup=4
+
+{hard}{NN_}{VB_} sup=2
+
+{VB_}{JJ_ wrong} sup=6
+
+{NN_ ride}{NNS_}{NN_} sup=3
+
+{one}{care} sup=5
+
+{VB_}{RB_}{RB_ yeah} sup=5
+
+{JJ_ many}{VBD_} sup=6
+
+{reason}{NN_} sup=4
+
+{NN_}{NN_}{right} sup=6
+
+{VBN_ get}{NN_ nothing}{RB_ surely}{VB_ miss} sup=2
+
+{NN_}{VBN_ do} sup=2
+
+{VBN_}{IN_} sup=6
+
+{NN_}{JJ_ dead} sup=6
+{VBD_}{RB_}{VB_} sup=6
+
+{NNS_ depth}{NN_} sup=3
+
+{VBN_}{NN_ crew}{NNS_} sup=3
+
+{scotland} sup=3
+
+{VB_}{NN_}{give}{NN_} sup=2
+
+{back RB_}{JJ_}{NN_} sup=8
+{NN_}{let}{VB_} sup=4
+
+{JJ_}{soul} sup=6
+{VB_ know}{VB_ know} sup=5
+
+{NN_}{NN_}{turn} sup=3
+
+{NN_}{sight} sup=2
+
+{sure} sup=4
+
+{JJ_}{NN_}{VBG_} sup=7
+
+{NN_ time}{NN_ right} sup=5
+
+{JJ_ dead}{NN_ daylight} sup=2
+
+{VBG_ hoist}{NN_ flag}{JJ_ free} sup=5
+
+{see}{NN_} sup=30
+{JJ_}{memory} sup=5
+
+{MD_ could}{VB_} sup=18
+{make}{NN_ mind} sup=2
+
+{hope}{JJ_} sup=3
+
+{VBD_}{away} sup=5
+
+{NN_ lie} sup=2
+
+{NN_}{NN_}{VBZ_} sup=19
+{fear} sup=21
+{JJ_}{JJ_}{NN_}{NN_}{NN_}{VBD_} sup=3
+
+{JJ_}{NN_}{NN_ light}{NN_} sup=3
+
+{NN_}{NN_}{VBD_}{NN_} sup=12
+{NN_ creature} sup=2
+
+{VB_}{VB_ conquer}{NN_} sup=3
+
+{NN_}{VBP_}{VB_} sup=18
+{IN_}{NN_}{NN_}{NN_} sup=4
+
+{CD_}{time} sup=5
+
+{NN_ pride} sup=6
+
+{NNS_}{IN_ like} sup=5
+
+{NN_ right} sup=17
+
+{JJ_ dead} sup=13
+{VBN_}{JJ_}{NN_}{VBP_} sup=2
+
+{VBN_}{JJ_}{man} sup=4
+
+{MD_}{NN_}{NN_} sup=3
+
+{VBG_}{RB_ away} sup=10
+
+{NN_ power}{MD_} sup=3
+
+{dream NN_} sup=7
+
+{NN_ cause}{VBN_}{RB_} sup=4
+
+{VBG_}{look} sup=2
+
+{time}{NNS_} sup=10
+
+{NN_}{VBD_ stand} sup=3
+
+{VB_}{good}{NN_} sup=3
+
+{JJ_ insane}{NN_ insane} sup=5
+
+{NN_}{VBD_}{NN_} sup=77
+{NN_}{NN_ person} sup=4
+
+{NN_}{NN_ blood}{NNS_ cry} sup=3
+
+{JJ_}{matter} sup=3
+
+{VB_}{JJ_}{NN_}{NN_} sup=10
+{let}{VB_} sup=10
+
+{CD_ two}{NNS_} sup=3
+
+{NN_ man}{know} sup=2
+
+{NN_ head}{NN_ tavern}{NN_ drink} sup=2
+
+{VBN_}{JJ_} sup=69
+{NNS_}{VBP_}{VBG_} sup=2
+
+{many}{VBN_} sup=2
+
+{VBG_}{around} sup=2
+
+{VBG_ rage}{NNS_} sup=6
+
+{JJ_}{NN_}{NN_ night} sup=2
+
+{JJ_}{NNS_ memory} sup=3
+
+{VBN_}{NNS_}{NNS_} sup=2
+
+{JJ_ foreign} sup=2
+
+{NN_}{see VB_} sup=3
+
+{NN_ song} sup=3
+
+{VBN_}{NNS_} sup=63
+{lead}{JJ_} sup=5
+
+{VB_ hold} sup=4
+
+{VBN_ confide}{NN_ heart} sup=2
+
+{IN_}{NN_}{NN_} sup=11
+{NN_}{NN_ life} sup=18
+{NNS_ eye}{RB_ easy}{VBP_ eat}{VB_ eat}{VB_ eat} sup=2
+
+{VBN_ leave}{NNS_} sup=2
+
+{VB_ see}{NN_}{NN_} sup=5
+
+{NN_}{NN_}{NN_ time}{NN_} sup=2
+
+{NN_}{NN_}{VBD_} sup=40
+{JJ_ full} sup=4
+
+{look} sup=29
+{JJ_}{NN_ wall} sup=2
+
+{VBN_ run}{NN_} sup=7
+
+{VB_}{VB_}{NN_} sup=52
+{NN_ fight} sup=18
+{NN_}{NN_}{hand} sup=5
+
+{VBN_ win}{NN_ struggle} sup=3
+
+{JJ_ many}{NNS_ year}{VBD_} sup=2
+
+{RB_}{PP_ us} sup=8
+
+{try} sup=13
+
+{sit} sup=4
+
+{NN_ shame}{NNS_} sup=3
+
+{JJ_}{way} sup=5
+
+{VBN_ ravage}{NN_} sup=2
+
+{one}{JJ_} sup=25
+{NN_}{come}{NN_}{NN_} sup=3
+
+{VBN_ get} sup=8
+
+{NNS_}{VBN_}{VBD_} sup=2
+
+{NN_}{RB_}{NN_}{NN_} sup=2
+
+{MD_ shall}{VB_} sup=7
+
+{VB_}{NN_ die} sup=4
+
+{RB_}{away} sup=17
+
+{JJ_}{get} sup=6
+{JJ_ many}{NN_} sup=6
+
+{JJ_}{NN_}{VBZ_} sup=11
+{NNS_}{VBP_}{see} sup=2
+
+{VB_}{RB_ yeah} sup=9
+
+{oh UH_} sup=5
+
+{NN_}{NN_ sail} sup=4
+
+{make}{NN_ change} sup=3
+
+{NN_ something} sup=9
+
+{go}{NN_}{NN_} sup=6
+{NN_}{back} sup=9
+
+{JJ_}{NN_}{MD_ would}{VB_} sup=2
+
+{VB_ die}{NN_} sup=5
+{NNS_ fear} sup=6
+{dead}{NNS_}{NN_} sup=2
+
+{NN_ destiny}{JJ_ last} sup=3
+
+{NNS_}{ride} sup=4
+
+{RB_}{inside} sup=5
+
+{VBD_ know}{NN_ end} sup=2
+
+{see VB_} sup=19
+
+{VBN_ get}{RB_} sup=4
+
+{VBG_ run}{away} sup=9
+
+{NNS_}{sea}{VBD_} sup=2
+
+{NN_}{NN_}{VB_}{NN_} sup=13
+{fast} sup=4
+
+{NN_}{JJ_}{time} sup=4
+
+{VB_}{VB_}{RB_}{RB_} sup=4
+
+{VB_}{NN_}{RB_} sup=14
+{VBD_}{go} sup=3
+
+{NN_ taste}{NN_ blood}{NNS_ cry} sup=2
+
+{NN_}{VB_ take} sup=15
+{NNS_}{VBN_}{JJ_} sup=2
+
+{life}{VBP_} sup=11
+{NNS_}{one CD_}{NN_} sup=3
+
+{VB_ go}{run}{hide} sup=2
+
+{VB_}{NNS_}{NN_} sup=15
+{NN_}{NNS_}{get} sup=2
+
+{lose} sup=27
+{NN_}{VBD_ lose}{NN_ control} sup=2
+
+{NN_ tie}{NN_ rope} sup=2
+
+{RB_}{thing} sup=2
+
+{NN_ battle} sup=7
+
+{JJ_ long} sup=2
+
+{NN_}{VBD_}{JJ_}{NNS_} sup=2
+
+{feel}{VBN_}{NN_} sup=2
+
+{NN_ cause}{NNS_} sup=6
+
+{NN_ tankard}{NN_ ale} sup=3
+
+{see VB_}{VB_}{NNS_ eye} sup=2
+
+{JJ_}{NN_}{grave} sup=2
+
+{JJ_ lonely}{NN_ road}{VBD_ cross}{another DT_}{JJ_ cold}{NN_ state}{NN_ line} sup=2
+
+{JJ_}{NNS_ year}{VBD_} sup=3
+
+{NN_}{VBZ_}{NN_ life} sup=5
+
+{VBZ_}{NN_}{NNS_} sup=4
+
+{VBP_}{RB_}{VB_}{NN_} sup=13
+{RB_ ever} sup=5
+
+{hand}{NN_}{NNS_} sup=2
+
+{VBN_}{NN_}{die} sup=7
+
+{VB_ raise}{NN_ pint}{NN_ rum}{VB_ take}{another DT_}{NN_ swig} sup=3
+
+{NNS_}{NN_ rest}{NN_} sup=4
+
+{end} sup=28
+{RB_ away}{NN_ land}{MD_ must}{VB_ go} sup=4
+
+{RB_ heart}{JJS_ least}{NN_ part} sup=3
+
+{NN_ time}{NNS_ pass}{VBZ_ regret}{NN_ rest}{NN_ life} sup=3
+
+{NNS_}{RB_ away} sup=6
+
+{deserve} sup=2
+
+{VBD_}{us PP_} sup=8
+
+{easy} sup=15
+
+{JJ_ young}{NN_} sup=4
+
+{look}{see}{NN_} sup=2
+
+{say}{NN_} sup=5
+
+{treasure}{NN_} sup=9
+
+{NN_ nothing}{VB_ take}{VBN_ grant} sup=2
+
+{must MD_}{VB_ go} sup=6
+
+{NN_}{VBZ_}{JJ_}{NN_}{NN_} sup=3
+
+{one}{drink}{NN_} sup=18
+
+{another DT_}{NN_ way} sup=2
+
+{pint}{NN_} sup=4
+
+{NNS_ day}{NNS_} sup=3
+
+{NN_}{VBD_ win}{NN_} sup=3
+
+{JJ_ dark}{NN_}{RB_} sup=2
+
+{RB_ long}{RB_} sup=4
+
+{NN_}{RB_ alright} sup=2
+
+{JJ_}{VBP_}{JJ_}{NN_} sup=2
+
+{RB_ far}{RB_} sup=17
+
+{JJ_}{fall} sup=5
+
+{live}{JJ_}{NNS_} sup=4
+
+{NN_ hail} sup=4
+
+{VB_ survive}{PP_ one}{VB_ tell} sup=2
+
+{sea} sup=45
+
+{VBP_}{see VB_} sup=2
+
+{NNS_ shore}{VBD_} sup=2
+
+{VBD_}{NN_ day} sup=3
+
+{back RB_}{RB_} sup=17
+
+{NN_}{NN_}{VBP_}{JJ_}{NN_} sup=3
+
+{NN_}{JJ_ mighty} sup=2
+
+{VBG_}{RB_}{RB_} sup=6
+
+{RB_}{NN_ beer}{NNS_} sup=3
+
+{NN_}{NN_}{VBD_ say} sup=2
+
+{look}{NNS_} sup=3
+
+{MD_ may}{JJ_} sup=2
+
+{NN_}{run} sup=5
+{RB_ never}{VBG_ fuck} sup=2
+
+{VB_}{NN_}{VBZ_} sup=3
+
+{VB_ gotta}{VB_ go} sup=2
+
+{leave}{alone} sup=3
+
+{NN_}{gotta} sup=10
+
+{IN_}{NNS_} sup=5
+
+{NN_}{come VBP_}{VB_} sup=3
+
+{NNS_}{VBP_ go} sup=6
+
+{NN_}{days.}{JJ_} sup=3
+
+{NN_ baby} sup=9
+
+{UH_} sup=43
+{VBN_ win}{NN_}{VBD_ die} sup=5
+
+{NN_}{NNS_}{hold} sup=2
+
+{NN_ place}{JJ_} sup=7
+
+{VBZ_}{RB_}{VB_} sup=4
+
+{JJ_ many}{NNS_}{JJ_} sup=2
+
+{back} sup=35
+
+{love}{RB_} sup=5
+
+{good}{NN_ friend} sup=4
+
+{NN_}{whore} sup=4
+
+{sail}{JJ_} sup=8
+
+{NNS_}{VBG_}{VBG_} sup=2
+
+{VB_}{VB_}{know} sup=2
+
+{VBN_}{NNS_}{NN_}{NN_} sup=5
+
+{VBG_}{move} sup=2
+
+{MD_}{VB_}{VB_} sup=5
+
+{NNS_ pirate}{VBP_}{JJ_}{NN_} sup=4
+
+{come}{NN_} sup=38
+{NNS_}{VBD_ win}{VB_ help} sup=2
+
+{NN_}{NN_}{VBD_ get} sup=2
+
+{NN_ peace}{NN_}{NN_} sup=3
+
+{NNS_}{VBD_}{sea} sup=4
+
+{live} sup=27
+{NN_}{NN_}{NN_}{NN_ side} sup=3
+
+{MD_}{JJ_}{NNS_} sup=4
+
+{JJ_ little}{NN_} sup=2
+
+{MD_ could} sup=22
+{JJ_ proud}{JJ_ edward}{NN_ army}{VBD_ send}{RB_ homeward} sup=4
+
+{NN_}{VBP_}{NN_}{NN_} sup=5
+{dear}{VB_} sup=6
+
+{NN_ heart} sup=18
+
+{MD_ may}{RB_} sup=3
+
+{VB_}{forever} sup=4
+
+{fight} sup=26
+{NN_ cause}{RB_}{RB_} sup=7
+
+{VBN_ come}{NNS_}{NN_} sup=2
+
+{NN_ road}{JJ_} sup=5
+
+{VB_ give} sup=6
+
+{lie} sup=14
+{friend}{VBD_ win}{VB_} sup=2
+
+{hope} sup=13
+
+{VBN_}{RB_ away} sup=8
+
+{MD_ would}{VB_ take}{NN_} sup=2
+
+{back RB_}{IN_ beyond}{NN_ grave} sup=2
+
+{NN_ murder}{NN_ vengeance} sup=3
+
+{VBP_}{NN_}{NN_} sup=33
+{god}{NN_} sup=3
+
+{NN_ sail}{NN_} sup=9
+
+{VBP_ stand}{RB_ alone}{bow VB_}{NN_ ship} sup=2
+
+{come}{JJ_} sup=17
+
+{CD_ two}{NN_} sup=2
+
+{NN_}{NNS_}{sail} sup=2
+
+{come} sup=86
+{NN_ barrel} sup=9
+
+{NN_}{IN_}{VBN_} sup=2
+
+{NNS_}{VBN_ slay}{NNS_} sup=2
+
+{VB_}{NN_ fall} sup=3
+
+{strong} sup=8
+
+{NN_}{right} sup=20
+
+{NN_}{days.}{JJ_}{NN_} sup=2
+
+{VB_ rise}{RB_ ever} sup=2
+
+{NN_}{NN_ slaughter} sup=3
+
+{NN_}{NN_ day}{NN_} sup=2
+
+{VB_ feel}{NN_ time} sup=2
+
+{VBG_}{NN_}{NN_} sup=36
+{NN_}{NNS_}{VBG_} sup=5
+
+{JJ_}{NN_ crew} sup=2
+
+{NNS_}{MD_}{VB_} sup=15
+{VB_}{NN_}{NN_} sup=84
+{NNS_ tae}{VBP_ think} sup=4
+
+{VBG_}{RB_}{NN_} sup=2
+
+{JJ_}{NNS_}{time} sup=2
+
+{VBN_ leave}{VBD_ find} sup=3
+
+{leave}{JJ_}{JJ_} sup=2
+
+{VBD_}{NN_}{VBD_ get} sup=2
+
+{know}{RB_}{JJ_} sup=5
+
+{VBD_ kill}{steal VB_}{NN_ gold} sup=2
+
+{back RB_}{back} sup=3
+
+{NN_ breath}{NN_ inside} sup=2
+
+{VB_ come}{back RB_}{RB_ almost}{JJ_ easy} sup=10
+
+{NN_}{win}{NNS_} sup=2
+
+{NN_ call} sup=5
+
+{VB_ raise}{NN_ head}{NN_ taste}{NN_ courage} sup=2
+
+{VB_}{day} sup=3
+
+{RB_}{VBN_ run} sup=4
+
+{NN_ ship}{JJ_}{NN_} sup=2
+
+{VBN_}{NNS_ eye} sup=4
+
+{VBN_}{NN_ crew} sup=4
+
+{fire}{NNS_} sup=5
+
+{back}{VB_} sup=6
+
+{cause}{NN_ face} sup=4
+
+{JJ_}{NNS_ thing}{VBP_} sup=2
+
+{back RB_}{RB_}{RB_} sup=4
+
+{RB_}{see VB_}{NN_} sup=2
+
+{VB_}{VB_}{NN_ time} sup=5
+
+{JJ_}{NN_}{NNS_ memory} sup=2
+
+{VBN_ go}{RB_ far} sup=6
+
+{NN_}{VBD_}{JJ_}{JJ_} sup=4
+
+{NNS_ heart} sup=6
+
+{JJ_ cold} sup=10
+
+{NN_ nothing}{VBZ_ hurt}{NN_ world} sup=2
+
+{day} sup=25
+{PP_}{VB_}{NN_} sup=2
+
+{VB_}{JJ_}{VBD_} sup=9
+
+{VBN_}{NN_ quest} sup=4
+
+{NNS_}{VBP_}{NN_}{VB_} sup=4
+
+{NN_}{NN_}{NN_}{come VBN_} sup=2
+
+{VB_ let} sup=9
+
+{RB_}{know} sup=7
+
+{gotta}{NN_} sup=7
+
+{VBZ_} sup=118
+{UH_ hey}{VBN_ banjaxed}{UH_ hey}{VBD_ screw} sup=6
+
+{NN_}{NN_ tale} sup=3
+
+{NN_}{NNS_ land} sup=4
+
+{NN_ name} sup=6
+
+{NN_ none}{RB_} sup=3
+
+{NN_}{VBP_}{JJ_ wrong} sup=2
+
+{NN_}{NN_}{RB_ yeah} sup=6
+
+{VBN_ set}{NN_} sup=7
+
+{JJ_ content}{NN_ nothing} sup=2
+
+{NN_ sailor}{JJ_} sup=3
+
+{hold}{away} sup=2
+
+{MD_}{VB_}{RB_} sup=10
+{JJ_}{shore} sup=3
+
+{NNS_}{VBD_ win}{VB_} sup=3
+
+{MD_}{NNS_} sup=6
+
+{NN_}{die}{NN_} sup=3
+
+{NN_}{VB_}{away} sup=2
+
+{NN_}{VBP_}{back RB_} sup=7
+{NN_}{VBN_ betray} sup=2
+
+{NNS_}{treasure} sup=2
+
+{great}{NN_} sup=3
+
+{drink}{JJ_}{NN_} sup=13
+
+{RB_}{RB_}{JJ_}{NN_} sup=6
+
+{JJ_}{NN_}{NN_ ale} sup=2
+
+{NN_ fall}{NN_ grace}{JJ_ unholy}{NN_ night} sup=2
+
+{VB_ feel}{NN_}{NNS_} sup=2
+
+{NN_ mouth}{NN_ burning}{NN_ flame} sup=3
+
+{JJ_}{NNS_}{JJ_}{NN_} sup=3
+
+{NN_}{yet} sup=2
+
+{VB_}{RB_}{NN_ time} sup=9
+
+{VBG_}{NN_}{VBN_} sup=2
+
+{NN_}{NNS_ hand} sup=7
+{NN_ night}{VBG_} sup=2
+
+{JJ_}{go}{JJ_} sup=2
+
+{NNS_ won}{VBP_ believe}{NNS_ storey}{VBD_ tell} sup=3
+
+{VBN_}{NNS_}{JJ_}{NN_} sup=2
+
+{RB_}{RB_ enough} sup=3
+
+{NNS_ friend}{VBD_} sup=2
+
+{back RB_}{RB_}{NN_} sup=4
+
+{NN_}{VBN_}{RB_}{NN_} sup=2
+
+{see}{NN_}{NN_ man} sup=2
+
+{NN_}{VBD_}{NN_}{VB_} sup=6
+
+{VBN_ find}{NN_} sup=2
+
+{NN_}{leave VBD_} sup=7
+
+{NNS_}{sea}{NN_} sup=2
+
+{back RB_}{time} sup=7
+
+{VB_}{VB_ take}{NN_} sup=8
+{come}{back}{JJ_} sup=13
+
+{NNS_}{MD_ shall}{VB_} sup=4
+
+{VBN_}{one}{NN_} sup=5
+
+{VB_ die} sup=12
+{NN_}{keep} sup=2
+
+{VBP_}{NNS_} sup=31
+{NN_}{RB_}{NN_} sup=14
+{VBZ_ lie}{RB_ inside}{VB_ head}{JJS_ good}{NN_ friend} sup=2
+
+{VB_ take}{NN_ life} sup=3
+
+{NNS_}{CD_}{NN_} sup=2
+
+{good}{NN_} sup=8
+
+{RB_ far}{RB_}{VBN_} sup=2
+
+{VB_}{IN_}{NN_}{NN_} sup=3
+
+{VBD_ know} sup=15
+{VBG_}{NN_}{RB_} sup=5
+
+{CD_ two} sup=4
+
+{do} sup=5
+
+{NN_}{VB_}{RB_ yeah} sup=4
+
+{DT_} sup=18
+
+{NN_}{RB_}{JJ_} sup=6
+{VBN_ chop}{NNS_ limb}{VBP_ become}{NN_ shark}{NN_ bait} sup=3
+
+{VBN_ win}{NN_ leave}{VBD_ die} sup=2
+
+{NN_}{VBN_ bear} sup=7
+
+{VB_ hear}{NN_} sup=3
+
+{VB_}{IN_}{RB_} sup=2
+
+{VBN_ come} sup=5
+
+{VBN_ fall}{NN_} sup=3
+
+{JJ_}{NN_ day} sup=5
+
+{NN_ world}{NN_ cold} sup=3
+
+{try}{VBD_}{away} sup=2
+
+{NN_}{RB_ never} sup=7
+{JJ_}{NN_}{NN_}{VBD_} sup=5
+
+{NNS_}{VBP_ believe} sup=4
+
+{JJ_}{JJ_ many} sup=2
+
+{RB_ never}{VBP_} sup=2
+
+{NN_ bounty}{NN_} sup=2
+
+{lay} sup=4
+{VB_ reach}{IN_ towards}{NN_ sky}{VBD_ say}{NNS_ goodbye} sup=3
+
+{RB_}{VB_ go} sup=11
+{VBD_}{RB_}{VB_}{VB_}{NN_} sup=4
+
+{JJ_}{NN_}{us PP_} sup=3
+
+{VB_}{NN_ god} sup=3
+
+{NN_ gold} sup=8
+
+{make}{NNS_ decision} sup=2
+
+{JJ_}{NN_}{NN_}{NN_}{VBD_} sup=4
+
+{NN_}{RB_}{VBN_} sup=13
+{NN_ drunk} sup=2
+
+{RB_}{escape} sup=4
+
+{NN_}{VB_ take}{NN_} sup=7
+{VBD_}{NNS_ time} sup=3
+
+{VBN_}{NN_}{NNS_} sup=23
+{NN_ everything} sup=2
+
+{VB_ take}{NN_}{right} sup=4
+
+{VB_}{NN_ hell} sup=3
+
+{VBN_ break}{NN_ glass}{JJ_ fake}{NN_ reflection} sup=2
+
+{NN_ quest}{VBG_} sup=3
+
+{VB_ want} sup=3
+
+{forever} sup=5
+
+{MD_}{JJ_} sup=17
+{NN_}{VBD_}{sail} sup=3
+
+{NN_}{NN_}{RB_}{RB_} sup=7
+
+{VBN_ leave}{NN_}{NN_} sup=2
+
+{captain}{NNS_} sup=2
+
+{lose}{VBN_} sup=3
+
+{NN_ respect}{NNS_ word}{VBG_ speak} sup=3
+
+{VB_ let}{NN_}{NN_} sup=3
+
+{NN_ life}{VBD_ want} sup=2
+
+{one}{VBP_} sup=25
+{VB_}{RB_ alone} sup=3
+
+{NNS_}{RB_ yeah} sup=5
+
+{NN_ sailor} sup=4
+
+{IN_}{NN_}{RB_} sup=5
+
+{NN_ die}{NN_ huntmaster} sup=2
+
+{JJ_}{turn} sup=4
+
+{RB_}{stand} sup=2
+
+{feel}{NN_} sup=16
+
+{NN_}{land} sup=11
+
+{JJ_}{cannon}{NN_} sup=2
+
+{VBP_}{time} sup=3
+
+{JJ_ sure}{NN_} sup=2
+
+{NNS_}{d SYM_}{RB_ never}{VBN_} sup=2
+
+{NN_}{NN_ cold} sup=5
+
+{VBN_ leave}{JJ_ alone}{NN_ suicide} sup=2
+
+{steal VB_} sup=7
+
+{close}{NNS_ eye} sup=4
+
+{JJ_}{VBP_}{RB_} sup=5
+
+{NN_}{NN_ world} sup=3
+
+{NN_}{NN_ fate} sup=11
+{NN_ pain}{NNS_}{NN_} sup=3
+
+{NN_}{inside} sup=6
+
+{RB_}{eat} sup=3
+
+{VBD_}{us PP_}{NN_ quest} sup=2
+
+{VBG_}{JJ_}{JJ_} sup=5
+
+{VBZ_}{VBN_} sup=3
+
+{VBD_} sup=319
+{VBN_}{MD_} sup=5
+
+{show}{NN_} sup=5
+
+{last} sup=10
+
+{NNS_}{VBP_}{go} sup=4
+
+{know}{one} sup=4
+
+{raise}{NN_}{NN_ sky} sup=8
+
+{turn} sup=19
+
+{JJ_ cold}{NN_}{NN_ blade} sup=2
+
+{JJ_}{NNS_}{VBG_}{NN_} sup=4
+{d SYM_}{port}{NN_} sup=2
+
+{MD_}{VB_ take} sup=3
+
+{VB_ bring}{NNS_} sup=7
+
+{NN_}{come}{NN_} sup=24
+{come}{VBG_}{RB_} sup=2
+
+{VBG_}{feeling} sup=5
+
+{VB_}{RB_} sup=114
+{VB_ hear}{NN_ terror}{NNS_ fire}{VBP_ burn}{NNS_ cannon}{JJ_ sound} sup=2
+
+{NN_ scream}{NN_} sup=11
+
+{NNS_}{NNS_}{VBD_} sup=10
+{MD_}{NN_} sup=32
+{yer} sup=4
+
+{NN_ deck} sup=2
+
+{back}{nothing} sup=3
+
+{VBN_ get}{NN_}{RB_} sup=3
+
+{IN_}{NN_}{VBD_} sup=6
+{VB_}{one CD_}{NN_} sup=4
+
+{NN_}{us PP_} sup=8
+
+{JJ_ wrong}{VBP_}{RB_ right} sup=2
+
+{NN_ nothing}{VB_ take}{time} sup=3
+
+{NN_ afterlife} sup=6
+
+{VB_}{NN_}{VBG_} sup=2
+
+{VBP_}{VB_ go} sup=2
+
+{come}{JJ_}{NN_} sup=4
+
+{NN_ sight}{one CD_} sup=4
+
+{VBZ_}{RB_} sup=18
+{NN_}{NN_ heart} sup=6
+
+{time}{VBG_} sup=2
+
+{NN_}{go} sup=29
+{port} sup=4
+
+{leave}{VBD_} sup=8
+
+{VB_}{way} sup=10
+
+{NN_}{JJ_}{RB_ yeah} sup=2
+
+{NN_ reign}{NN_} sup=3
+
+{please}{RB_} sup=3
+
+{possibility} sup=3
+
+{RB_}{VB_}{JJ_} sup=17
+{outside} sup=2
+
+{NNS_}{NN_ fire} sup=3
+
+{NN_ ship}{VBZ_} sup=2
+
+{VB_}{JJ_ last}{NN_} sup=4
+
+{scream}{NN_} sup=12
+
+{VB_}{us PP_} sup=2
+
+{NN_ land} sup=13
+{VBD_}{NN_}{VBP_}{NN_} sup=2
+
+{JJ_ left}{NN_} sup=2
+
+{JJ_}{NNS_}{VBD_}{JJ_} sup=4
+
+{NNS_}{VBN_}{NN_} sup=17
+{VB_}{VB_}{JJ_} sup=22
+{RB_ away}{VBG_} sup=3
+
+{please} sup=8
+
+{NN_ ain} sup=9
+
+{MD_} sup=90
+{NN_}{JJ_}{die} sup=6
+
+{NN_ scream} sup=14
+
+{NN_}{begin} sup=3
+
+{NN_ afterlife}{stay VBP_}{back RB_}{RB_ soon}{RB_ anyway} sup=2
+
+{VB_ help} sup=5
+
+{NNS_}{VBP_}{JJ_}{NN_} sup=10
+{VB_}{tale} sup=2
+
+{NN_ death}{come VBG_} sup=6
+
+{NNS_}{NNS_}{JJ_} sup=12
+{NN_ send}{NNS_ depth} sup=2
+
+{VBN_}{hold} sup=2
+
+{VB_ wanna}{VB_} sup=2
+
+{away} sup=56
+
+{NNS_ cannon}{NNS_} sup=4
+
+{VB_}{VB_}{VB_} sup=18
+{VBP_}{VBZ_} sup=6
+
+{JJ_ perfect}{would MD_}{RB_ easy} sup=3
+
+{NN_}{NN_ inside} sup=3
+
+{NN_}{NNS_}{RB_} sup=11
+{VBZ_}{JJ_}{man} sup=3
+
+{RB_}{VBN_ go} sup=3
+
+{NN_ place}{VB_} sup=5
+
+{JJ_}{NN_} sup=401
+{NNS_ thing}{change} sup=3
+
+{NN_}{NN_ pay} sup=6
+
+{NNS_ eye}{VBP_ shine}{IN_ like}{NNS_ ray}{NN_ morning} sup=3
+
+{VBN_ set}{NN_ sail}{NN_} sup=6
+
+{drink}{NN_}{NN_} sup=14
+
+{stop}{NN_} sup=2
+
+{NN_}{NN_ sailor}{NN_} sup=3
+
+{NN_ wish} sup=10
+{VBN_}{RB_}{miss} sup=3
+
+{get}{NN_}{NNS_} sup=4
+
+{VB_ forget} sup=3
+
+{begin} sup=14
+{VBN_ lose} sup=11
+
+{NN_}{VBZ_}{NN_}{NN_} sup=9
+{around}{RB_} sup=2
+
+{NNS_ possibility} sup=2
+
+{NN_}{end} sup=15
+{MD_}{RB_}{NN_} sup=8
+{NN_}{NN_}{RB_ right} sup=3
+
+{NN_}{RB_ long} sup=3
+
+{VB_}{NNS_ memory} sup=2
+
+{VBP_ know}{NN_} sup=3
+
+{VB_}{VBG_}{NN_}{NN_} sup=3
+
+{JJ_ waste}{JJ_ deep}{NN_ inside} sup=2
+
+{strong}{JJ_} sup=2
+
+{NN_ place}{NN_}{NN_}{VBD_} sup=3
+
+{NN_}{MD_}{VB_}{NN_} sup=9
+
+{wrong} sup=21
+
+{NNS_}{VBG_}{NNS_} sup=5
+
+{MD_ shall}{JJ_} sup=2
+
+{RB_}{RB_}{VBG_} sup=4
+
+{VBN_ seize} sup=2
+
+{JJ_}{heart}{NN_} sup=2
+
+{JJ_ first}{NN_ light} sup=2
+
+{RB_}{VBN_}{NN_}{RB_} sup=4
+
+{VB_}{VB_ know} sup=8
+
+{NN_}{NN_}{come}{RB_} sup=2
+
+{JJ_}{NN_}{another DT_}{NN_ time} sup=2
+
+{VBZ_ know} sup=3
+
+{JJ_ uneasy}{NN_ confrontation} sup=3
+
+{VB_ make} sup=23
+{life}{NN_} sup=13
+{RB_ right}{NN_} sup=4
+
+{NN_ die} sup=24
+{RB_ never}{VBN_}{NN_ life}{NN_} sup=3
+
+{yet}{NNS_}{VBD_}{NNS_} sup=2
+
+{JJ_}{year} sup=8
+
+{VBG_ turn}{NNS_ heart}{NN_ stone} sup=2
+
+{RB_}{VBN_}{VBD_} sup=2
+
+{JJ_}{NN_}{look} sup=2
+
+{VBN_}{NN_}{VBD_} sup=16
+{CD_ one}{NN_}{JJ_} sup=3
+
+{grab}{NN_} sup=2
+
+{NN_}{pay}{NN_} sup=2
+
+{NN_}{NN_ hell} sup=7
+{RB_}{take}{NN_ time} sup=3
+
+{VB_}{IN_} sup=9
+
+{NNS_}{NN_ hell}{VBD_} sup=2
+
+{NNS_}{NN_} sup=193
+{VBP_}{live} sup=2
+
+{VBG_}{JJ_}{NN_} sup=17
+{VBN_}{NN_ disease} sup=2
+
+{NN_}{VBN_ come} sup=2
+
+{VB_ know}{VB_}{VB_}{NN_} sup=7
+
+{NNS_}{VBP_}{VB_}{VB_} sup=3
+
+{NN_}{VBZ_}{RB_}{NN_} sup=2
+
+{drag}{NN_} sup=3
+
+{go}{VBD_}{NN_} sup=3
+
+{show}{VBP_}{NN_} sup=2
+
+{VB_ know}{PP_ us}{NN_ ain}{NN_ right} sup=5
+
+{VBN_}{NN_} sup=196
+{NN_}{NN_ ride} sup=6
+
+{walk}{NN_}{NN_} sup=4
+
+{like IN_} sup=8
+
+{JJ_ high}{NN_} sup=3
+
+{NN_ night}{NN_} sup=2
+
+{VBN_ care}{VBD_ love} sup=2
+
+{pass} sup=6
+
+{NN_}{NN_}{JJ_}{NNS_ land} sup=3
+
+{JJ_ great}{NN_} sup=2
+
+{NN_}{NNS_}{VB_} sup=6
+
+{NN_}{NNS_}{NN_}{NN_} sup=17
+{JJ_}{NN_ chest}{NN_} sup=2
+
+{sail}{VB_ conquer}{NN_} sup=6
+
+{RB_ never}{NN_ end} sup=2
+
+{NN_ matter}{VBG_ come}{NN_ home} sup=4
+
+{life}{JJ_} sup=4
+
+{one}{NN_}{NN_} sup=26
+{NN_ voice} sup=2
+
+{NN_}{turn}{NN_} sup=3
+
+{VB_}{NN_ world}{NN_} sup=2
+
+{know}{NNS_} sup=6
+{RB_ heart}{NN_} sup=4
+
+{NN_ sign} sup=4
+
+{body} sup=5
+
+{NNS_}{NN_ cause} sup=7
+
+{RB_ always}{JJ_} sup=5
+
+{NN_ tonight}{VBP_} sup=3
+
+{VBP_}{JJ_}{NN_} sup=34
+{NN_ look}{NNS_ eye}{NN_}{NN_} sup=2
+
+{NN_}{NN_}{RB_}{VB_} sup=5
+
+{VB_ feel}{JJ_} sup=3
+
+{NNS_}{NN_ time} sup=9
+{know}{JJ_} sup=14
+{legend}{speak}{NN_} sup=2
+
+{year} sup=13
+
+{true} sup=8
+
+{tonight}{NNS_} sup=3
+
+{NN_}{NNS_ eye} sup=6
+
+{NN_}{lie} sup=4
+
+{VB_}{NN_}{NN_ rest}{NN_ life} sup=3
+
+{NN_}{NN_ fall}{NNS_} sup=3
+
+{JJ_}{JJ_ deep} sup=3
+
+{head}{NN_} sup=5
+
+{back RB_}{VB_} sup=11
+
+{VBN_}{NN_ heart} sup=4
+
+{go}{one CD_} sup=4
+
+{NN_ blame} sup=4
+
+{VBD_}{NN_ gold} sup=3
+
+{shore} sup=5
+
+{lose}{NN_} sup=13
+
+{NN_ watch}{NN_} sup=6
+
+{JJ_ ol}{NN_}{NN_} sup=3
+
+{JJ_}{day} sup=6
+
+{seem VBZ_} sup=3
+
+{come VB_}{VB_ meet}{NN_ destiny}{VB_ ignore} sup=2
+
+{NN_}{NN_}{NN_ tonight} sup=3
+
+{NNS_ cannon}{VBG_} sup=3
+
+{VBD_ win} sup=9
+
+{NNS_ sea}{VBN_} sup=4
+
+{NN_}{VBZ_}{RB_} sup=8
+{deep}{inside} sup=7
+
+{NN_ look}{NN_ face}{NN_} sup=3
+
+{NN_ rest}{NN_ time} sup=4
+
+{NN_}{NN_ rest}{NN_} sup=6
+
+{VBZ_ come}{RB_} sup=3
+
+{NN_ end}{NN_} sup=3
+
+{JJ_}{NNS_}{JJ_} sup=16
+{NN_}{VBZ_}{VB_} sup=5
+{VBZ_}{VB_} sup=20
+{JJ_ cold}{NNS_} sup=6
+
+{NN_}{NN_}{NN_}{JJ_} sup=13
+{NN_}{RB_}{VBP_} sup=2
+
+{VBG_}{JJ_ wrong} sup=6
+
+{NN_}{NN_ blood} sup=13
+
+{NNS_ lie} sup=2
+
+{NN_ midget}{VBD_ see}{NN_ pirate}{NN_ code} sup=3
+
+{NN_}{VBD_}{IN_} sup=3
+
+{NN_ tavern}{RB_} sup=2
+
+{go}{VB_ take}{NN_} sup=3
+
+{VBP_ look}{RB_} sup=7
+
+{JJ_}{NN_ treasure}{JJ_} sup=3
+
+{NN_}{NN_}{go} sup=6
+{JJ_}{NN_ shore} sup=2
+
+{NN_}{NN_}{VB_}{JJ_} sup=2
+
+{place} sup=17
+
+{RB_ never}{NN_}{VBG_} sup=3
+
+{NN_ place}{JJ_}{NN_} sup=6
+
+{VB_ sail}{VB_ conquer}{NN_ til}{NN_ die} sup=2
+
+{VBG_}{VBG_} sup=11
+
+{NNS_}{come}{JJ_} sup=2
+
+{VB_ come}{RB_}{RB_} sup=13
+
+{NN_}{VBG_}{NNS_} sup=2
+
+{leave}{NNS_ memory} sup=2
+
+{VB_ know}{JJ_} sup=2
+
+{VB_ learn} sup=3
+
+{IN_}{JJ_}{NNS_} sup=2
+
+{NN_ memory} sup=4
+
+{NN_}{NN_ ship} sup=3
+
+{VB_}{VB_}{VB_}{VB_}{NN_} sup=2
+
+{JJ_ dead}{NN_} sup=7
+
+{want}{NN_} sup=3
+
+{NNS_ man}{VBD_} sup=2
+
+{NN_}{VB_}{NN_}{NN_} sup=4
+
+{IN_ beneath}{NN_} sup=2
+
+{VBG_ gonna} sup=6
+
+{revenge} sup=2
+
+{question} sup=6
+
+{one CD_}{JJ_} sup=3
+
+{VBZ_}{JJ_} sup=16
+{NNS_}{VBP_ hear} sup=2
+
+{NNS_}{VBP_}{NNS_} sup=16
+{try}{RB_} sup=6
+
+{NNS_}{MD_}{RB_} sup=2
+
+{hear}{NNS_}{NN_}{NN_} sup=2
+
+{NNS_}{RB_ around} sup=7
+
+{IN_ like}{NN_}{NN_} sup=2
+
+{d SYM_}{kill VB_}{DT_ every}{JJ_ last}{CD_ one}{NNS_ bastard}{NN_ friend} sup=3
+
+{NNS_}{one} sup=5
+
+{NNS_}{NN_}{JJ_} sup=4
+
+{go}{VB_}{NN_} sup=5
+
+{VBZ_}{MD_} sup=4
+
+{NNS_}{live} sup=3
+
+{VBN_ chop}{NNS_ piece} sup=3
+
+{RB_}{long} sup=10
+
+{time}{RB_} sup=12
+
+{know} sup=81
+{VBN_ leave}{JJ_} sup=3
+
+{NN_}{NN_ fear} sup=3
+
+{NN_ law} sup=2
+
+{come VBP_} sup=7
+
+{NN_}{NN_ time}{RB_ yeah} sup=2
+
+{NN_}{NN_ mine} sup=2
+
+{NN_}{IN_ beneath} sup=2
+
+{NNS_}{NNS_}{NNS_} sup=3
+
+{know}{NN_ time}{VB_} sup=2
+
+{VBG_ gonna}{NN_ wish}{NN_ dead} sup=3
+
+{waste}{RB_} sup=2
+
+{NN_}{turn}{NN_ way} sup=2
+
+{VBN_ shipwreck}{NN_} sup=5
+
+{JJS_ good}{friend} sup=3
+
+{tie}{NN_} sup=3
+
+{come}{VB_}{NNS_} sup=3
+
+{VBN_}{VB_ get}{JJ_ drunk} sup=3
+
+{NN_ nancy}{NN_} sup=5
+
+{VB_ climb}{JJ_}{NN_} sup=2
+
+{NN_ name}{NN_} sup=4
+
+{VBG_}{NN_ way} sup=2
+
+{sea}{VBD_} sup=3
+
+{VBD_}{VB_}{VB_} sup=5
+
+{NN_}{VBN_}{NN_}{NN_} sup=2
+
+{JJ_}{NN_ road} sup=4
+
+{NN_}{VBG_}{NN_} sup=23
+{wrong}{VBD_} sup=7
+
+{slaughter} sup=7
+
+{VB_ know}{NN_} sup=30
+{NN_}{taste}{NN_} sup=3
+
+{JJ_}{NN_}{JJ_ free} sup=2
+
+{VB_}{DT_}{NN_} sup=11
+{VB_ take}{NN_ life}{NN_ tonight}{cause VBP_}{RB_ right}{VB_ die}{VB_ wanna} sup=2
+
+{VB_}{NN_}{NN_ fall} sup=3
+
+{VBP_ know}{RB_} sup=4
+
+{would MD_}{VB_} sup=8
+
+{CD_}{NN_}{NN_} sup=10
+
+{JJ_ thunderous}{NN_} sup=2
+
+{NN_}{bear} sup=9
+
+{RB_ long} sup=21
+{VBP_ stand} sup=6
+
+{NNS_}{fight} sup=5
+
+{RB_}{JJ_}{RB_} sup=4
+
+{NN_}{VB_ take}{RB_} sup=3
+
+{NN_}{chart} sup=2
+
+{NN_}{JJ_ many} sup=10
+{another DT_}{NN_ day} sup=2
+
+{NN_ intuition}{NN_ warning}{VBP_ believe}{VB_ believe} sup=2
+
+{VBN_ go}{NN_} sup=11
+
+{drunk} sup=10
+
+{RB_}{VB_}{RB_}{RB_} sup=2
+
+{would MD_} sup=16
+
+{VB_}{see} sup=4
+
+{NNS_}{NN_ sea} sup=10
+
+{JJ_}{VBD_}{us PP_} sup=2
+
+{NN_ look}{NN_ way}{NN_ help} sup=2
+
+{NN_ crew}{VBD_}{NN_} sup=3
+
+{VBG_ look} sup=6
+{stand} sup=24
+{VBG_}{turn} sup=2
+
+{live}{VB_} sup=3
+
+{see VB_}{VB_} sup=4
+
+{VBZ_ seem}{NN_} sup=7
+
+{NN_}{VBP_}{JJ_} sup=15
+{NN_}{NN_ quest} sup=6
+
+{NN_ wench}{NN_ side}{NN_ jug}{NN_ mead} sup=2
+
+{JJ_}{treasure} sup=8
+
+{VB_ let}{VB_}{NN_}{NN_} sup=2
+
+{VBP_}{NN_ em} sup=3
+
+{DT_}{JJ_} sup=14
+{NN_}{get}{NN_} sup=4
+
+{night}{NN_ pain} sup=3
+
+{VBN_}{RB_}{RB_} sup=3
+
+{NN_}{NNS_}{NN_} sup=46
+{NN_}{NN_ d}{NN_} sup=4
+
+{VBZ_ seem}{NN_ journey}{come VB_}{NN_ end} sup=6
+
+{IN_}{NNS_}{NN_} sup=5
+
+{JJS_}{NN_} sup=7
+
+{would MD_}{RB_ still} sup=3
+
+{NNS_ day}{NN_ nothing}{VBD_ matter} sup=2
+
+{VBP_}{RB_}{VB_}{RB_} sup=5
+
+{NNS_}{VBP_ say} sup=2
+
+{VB_}{JJS_}{NN_} sup=3
+
+{NN_}{head} sup=3
+
+{RB_ still}{VB_} sup=4
+{VB_}{NN_}{NN_}{NN_}{NN_} sup=5
+
+{VBG_}{NNS_}{NN_ die} sup=3
+
+{cause}{RB_}{RB_} sup=10
+
+{RB_ never}{VB_} sup=7
+
+{cause VB_}{VB_ feel}{NN_ face} sup=3
+
+{NN_}{NNS_}{VBD_} sup=18
+{VB_}{NN_ destiny} sup=4
+
+{JJ_ strong} sup=7
+
+{look}{VB_}{NN_} sup=6
+
+{JJ_}{NN_}{VBZ_}{NN_} sup=3
+
+{come}{NNS_}{VBG_ go} sup=3
+
+{NN_ time}{NN_}{NNS_} sup=4
+
+{VBP_}{PP_} sup=3
+
+{JJ_} sup=634
+{whisper}{JJ_}{NN_} sup=2
+
+{NN_}{NN_ day} sup=4
+
+{RB_}{NN_ beer}{NNS_}{JJ_} sup=2
+
+{VBD_ try}{VBG_ run}{RB_ away} sup=3
+
+{NNS_}{VBP_}{JJ_}{NNS_} sup=2
+
+{bad} sup=2
+
+{JJ_}{NNS_}{NN_ midnight} sup=5
+
+{NN_}{must MD_}{VB_} sup=4
+
+{wanna}{VB_} sup=3
+
+{swear}{JJ_ deadly}{NN_} sup=2
+
+{NNS_ one}{VBN_} sup=4
+
+{NNS_}{sea} sup=15
+
+{NN_}{JJ_}{NN_}{NN_}{NN_} sup=3
+
+{VB_}{NN_}{NNS_}{NN_} sup=7
+{NN_ life}{RB_} sup=6
+
+{NN_ dead} sup=4
+
+{raise} sup=15
+
+{JJ_ many} sup=24
+{JJ_}{NN_}{NN_}{VB_} sup=4
+
+{RB_ far}{long} sup=7
+
+{VBN_ live}{NN_ touch} sup=3
+
+{drink}{NN_} sup=21
+
+{NN_}{NNS_}{VBP_} sup=27
+{NN_ show}{NN_} sup=4
+
+{JJ_ empty}{NN_} sup=2
+
+{get}{drunk} sup=9
+
+{JJ_}{VBD_ lose} sup=8
+
+{NN_}{NN_}{JJ_} sup=59
+{NN_ fear}{NN_} sup=10
+{day}{JJ_} sup=2
+
+{RB_ always} sup=12
+
+{would MD_}{RB_} sup=7
+
+{VB_}{NN_ someone}{NN_} sup=2
+
+{NN_ fear}{NN_}{VB_} sup=3
+
+{NN_ time}{MD_}{VB_} sup=5
+
+{VB_ bring} sup=4
+
+{NN_ crew} sup=8
+
+{lie}{NN_} sup=4
+
+{back RB_}{JJ_} sup=21
+{VB_}{VB_ think} sup=2
+
+{NN_ life}{NN_} sup=9
+{JJ_ first}{NN_} sup=3
+
+{NN_}{NN_ glory} sup=5
+
+{VBN_}{life} sup=13
+
+{CD_}{night} sup=2
+
+{VBP_}{JJ_ wrong} sup=5
+
+{NNS_}{NN_}{VBD_}{NN_} sup=2
+
+{NN_}{VBG_}{JJ_} sup=5
+
+{NN_}{NN_}{JJ_ holy}{NN_ grail} sup=2
+
+{NN_ quarry} sup=2
+
+{ship} sup=13
+
+{get}{NN_} sup=21
+{DT_ either}{NN_ road}{JJ_ plausible}{MD_ could}{VB_ drown} sup=3
+
+{NN_ power}{NN_} sup=4
+
+{RB_ way}{JJ_} sup=3
+
+{pull} sup=3
+
+{NNS_}{VBD_}{JJ_ black} sup=2
+
+{VBG_}{NN_ wood} sup=2
+
+{NN_}{NN_ end} sup=9
+
+{JJ_}{NN_}{NNS_} sup=23
+{VB_}{NN_ slaughter}{NN_} sup=3
+
+{ship}{NN_}{NN_} sup=3
+
+{PP_}{VBP_} sup=17
+
+{NN_ battle}{NN_}{NN_} sup=6
+
+{VB_ write}{NN_} sup=2
+
+{NN_}{come VBP_}{NN_} sup=3
+
+{NN_}{RB_ always} sup=5
+
+{RB_}{one CD_}{NN_} sup=2
+
+{JJ_ many}{JJ_}{NN_} sup=2
+
+{MD_ must}{VB_} sup=5
+
+{feel}{VB_} sup=6
+
+{JJ_}{NN_}{VBD_}{RB_} sup=5
+
+{NN_}{would MD_}{VB_}{JJ_} sup=3
+
+{RBR_}{JJ_} sup=4
+
+{nothing}{JJ_}{NN_} sup=7
+
+{NNS_}{VBP_}{RB_ tonight} sup=4
+
+{er} sup=2
+
+{sorrow} sup=3
+
+{NNS_}{starboard JJ_}{NN_ bow} sup=4
+
+{battle} sup=14
+
+{VB_}{NN_}{VB_ wanna} sup=5
+
+{NN_ ride}{VBZ_ take}{NN_ life} sup=2
+
+{VB_ know}{NN_}{NN_} sup=6
+
+{one}{RB_} sup=11
+
+{NN_}{love} sup=2
+
+{RB_ never} sup=27
+{NNS_}{RB_ behind} sup=2
+
+{NN_ breath}{NN_ take} sup=2
+
+{NN_ heaven} sup=2
+
+{VB_ conquer} sup=8
+
+{VBN_ go} sup=26
+{know}{VB_}{NN_} sup=13
+
+{NNS_ word}{NN_} sup=5
+
+{VB_ give}{VB_}{JJ_} sup=2
+
+{VB_}{NN_}{JJ_}{NN_} sup=6
+
+{RB_}{VB_ turn} sup=5
+
+{JJ_ black} sup=16
+{NN_}{return} sup=3
+
+{NNS_}{JJ_ past} sup=5
+
+{see VB_}{NN_ way} sup=2
+
+{see}{NNS_} sup=3
+
+{JJ_}{VBP_}{NNS_} sup=3
+
+{NN_ honour} sup=3
+
+{VBD_}{NNS_}{NN_} sup=6
+
+{RB_}{JJS_}{NN_} sup=5
+
+{NN_ traitor} sup=4
+
+{RB_}{VBP_}{NN_} sup=8
+{fear}{NN_} sup=6
+
+{NN_}{NN_}{JJ_}{land} sup=4
+
+{NN_ sign}{NN_} sup=3
+
+{drink} sup=26
+
+{JJ_}{NN_}{come}{NN_} sup=3
+
+{NN_ pain}{JJ_} sup=4
+
+{VB_ know}{VBN_ start}{come VBD_} sup=3
+
+{JJS_}{NN_}{NN_} sup=2
+
+{VB_}{NN_}{NN_}{cause} sup=3
+
+{NN_}{NNS_ leg} sup=2
+
+{IN_ without}{one CD_}{NN_ goodbye} sup=2
+
+{NN_}{NNS_ depth}{NN_} sup=2
+
+{NN_ heart}{RB_ always} sup=3
+
+{give}{NN_} sup=12
+{like IN_}{VBG_}{NN_} sup=2
+
+{NN_ bottle}{NN_ rum} sup=3
+
+{NN_}{come}{VB_}{NN_} sup=2
+
+{JJ_ endless}{NN_}{VBD_} sup=2
+
+{jug}{JJ_ famous}{NNS_ ol}{VBD_ spice} sup=6
+
+{away}{NN_} sup=7
+
+{RB_ hard}{VB_ find} sup=4
+
+{leave}{NN_} sup=17
+{JJ_ many}{year} sup=6
+
+{VB_ ask} sup=5
+
+{NN_ life}{go} sup=2
+
+{UH_}{NN_}{VB_} sup=2
+
+{show} sup=11
+
+{NN_}{come VBZ_} sup=4
+
+{VBN_}{NN_}{NN_ time} sup=3
+
+{VB_ change}{RB_ unnaturally}{NNS_ demon}{VBP_ follow} sup=3
+
+{VBD_}{VBG_ fuck} sup=3
+
+{VBP_ think} sup=9
+{NN_ band} sup=2
+
+{NN_}{lie}{NN_} sup=2
+
+{VBN_ live} sup=7
+
+{VBG_}{JJ_}{NN_}{JJ_} sup=4
+
+{VBN_}{NNS_}{NN_} sup=14
+{VBD_}{VBG_}{NN_} sup=6
+{NNS_ ocean} sup=5
+
+{VBN_}{NN_}{JJ_}{NNS_} sup=3
+
+{VB_ realize}{NN_} sup=5
+
+{NNS_ reason}{NN_ insanity}{NN_ part} sup=3
+
+{NN_}{NN_ barrel} sup=2
+
+{NN_}{NN_}{IN_}{NN_} sup=2
+
+{viking}{NN_} sup=6
+
+{NNS_}{go}{JJ_} sup=4
+
+{back}{NN_} sup=14
+
+{us PP_}{VBP_} sup=5
+
+{RB_}{face} sup=2
+
+{wait} sup=12
+{NN_ punishment}{NN_} sup=4
+
+{VBP_}{back RB_}{VB_}{JJ_}{NN_} sup=2
+
+{VBD_}{sail} sup=5
+
+{NN_}{MD_}{VB_}{NN_}{NN_} sup=3
+
+{captain NN_}{NN_}{NN_} sup=8
+
+{VBD_}{NN_}{NN_} sup=26
+{VB_ get}{JJ_ drunk}{NN_} sup=4
+
+{NN_}{VBD_}{VB_}{RB_} sup=2
+
+{NN_ hardship}{one PP_}{VBP_ know} sup=2
+
+{JJ_ close} sup=4
+
+{NN_ legacy}{VBP_ torment}{RB_ rightfully}{VB_ take} sup=2
+
+{cause VB_}{JJ_ lonely}{JJ_ tired} sup=3
+
+{NP_} sup=3
+
+{NNS_ mile} sup=5
+{come}{VB_} sup=13
+{NN_ drink}{RB_} sup=3
+
+{NN_ flag} sup=6
+
+{NN_}{VBD_}{NNS_} sup=21
+{NN_ darkness}{come VBD_} sup=2
+
+{VBG_ come}{VBG_} sup=3
+
+{VB_ take}{RB_ away} sup=6
+
+{NN_}{NN_ rum}{NN_} sup=5
+
+{VBP_}{RB_}{VB_} sup=36
+{love}{strong} sup=2
+
+{NN_}{JJ_}{man} sup=3
+
+{VB_}{NN_}{NN_}{RB_} sup=3
+
+{JJ_}{NNS_ eye} sup=8
+
+{MD_ might} sup=2
+
+{strike}{JJ_}{NN_} sup=4
+
+{VBD_}{NN_} sup=127
+{last}{NN_}{MD_ would}{VB_} sup=2
+
+{NNS_}{RB_} sup=67
+{NN_ life}{VBG_} sup=6
+
+{NN_ feel}{NN_ steel} sup=3
+
+{JJ_ selfish}{NNS_} sup=2
+
+{VB_ go}{run}{NN_} sup=2
+
+{NNS_}{JJ_}{shore} sup=2
+
+{VB_}{NN_}{VBD_} sup=6
+
+{NN_}{NN_}{NN_}{VBP_} sup=8
+{keep}{JJ_} sup=3
+
+{another DT_}{JJ_}{NN_} sup=3
+
+{RB_} sup=436
+{night}{NN_} sup=5
+
+{please UH_} sup=5
+
+{RB_ apart}{NN_} sup=4
+
+{VB_}{long} sup=5
+
+{know}{NN_ time}{RB_} sup=2
+
+{heart}{NN_}{NN_} sup=3
+
+{NN_}{us PP_}{NN_} sup=6
+
+{NN_ time}{NN_} sup=40
+{let} sup=12
+
+{NN_}{NN_ side} sup=5
+
+{wish} sup=7
+
+{NN_}{VBD_}{NN_ fear} sup=2
+
+{know}{go} sup=4
+
+{VB_}{NN_}{VBG_}{NN_} sup=4
+
+{NNS_}{VBD_}{JJ_} sup=11
+{give} sup=16
+{kill}{NN_} sup=8
+{JJ_ many}{NNS_}{VBD_} sup=3
+
+{RB_}{land} sup=2
+
+{NN_ mother} sup=6
+
+{tell}{NN_} sup=6
+{quest}{NN_}{NN_} sup=2
+
+{watch} sup=7
+
+{JJ_}{NN_ rain} sup=3
+
+{NN_}{NN_}{NN_ ale} sup=2
+
+{NN_}{die} sup=31
+{NN_}{try} sup=2
+
+{NN_}{VBP_}{VB_}{NN_} sup=4
+
+{RB_}{love}{NN_} sup=3
+
+{NN_}{VBZ_}{NNS_} sup=8
+{NN_ place}{NN_}{NN_}{JJ_} sup=2
+
+{d SYM_}{VB_}{NNS_} sup=6
+
+{MD_ could}{VB_ change} sup=2
+
+{RB_}{VB_}{VB_}{NN_} sup=5
+
+{VB_}{VB_}{VBN_} sup=5
+
+{NN_}{NN_}{right}{RB_} sup=4
+
+{wanna}{NN_} sup=9
+
+{VB_}{JJ_}{JJ_}{NN_ time} sup=2
+
+{VBD_ make} sup=3
+
+{NN_ leviathan} sup=9
+
+{VBN_}{VB_}{NN_} sup=16
+{deep} sup=13
+
+{VBG_ search}{NN_ treasure}{NN_ night} sup=3
+
+{RB_ alone} sup=17
+{VB_}{VB_ feel}{NN_} sup=4
+
+{VB_}{hide} sup=3
+
+{VB_}{VBG_} sup=29
+{NN_}{fall}{NN_} sup=2
+
+{NN_ reign}{NN_ terror}{NNS_} sup=2
+
+{NN_}{RB_ never}{change} sup=2
+
+{NN_}{NN_ hold} sup=2
+
+{JJ_ eager}{NN_ sin} sup=3
+
+{UH_}{VB_} sup=11
+{NN_ life}{VBP_} sup=6
+{like}{RB_} sup=3
+
+{VBN_}{alone}{NN_} sup=6
+
+{NNS_}{take} sup=4
+
+{VBD_}{time} sup=5
+
+{NN_}{VBD_}{VB_} sup=21
+{VB_}{JJ_}{NN_ life} sup=5
+
+{NN_}{much} sup=2
+
+{RB_ slowly}{away} sup=2
+
+{NN_ end}{RB_} sup=2
+
+{RB_}{VB_ take} sup=3
+
+{VB_}{NN_ hold} sup=3
+
+{NN_}{VBD_ sink}{JJ_}{NN_} sup=4
+
+{know}{NN_ time} sup=9
+
+{NN_}{NN_ destiny} sup=4
+
+{NN_ wish}{d SYM_}{VBN_ stay} sup=3
+
+{pirate}{JJ_} sup=6
+
+{VBP_ know}{RB_ way}{VB_ go}{one PP_}{JJ_ guiding} sup=2
+
+{NNS_ one}{RB_} sup=7
+
+{ship}{JJ_ many} sup=2
+
+{NN_ hope}{RB_} sup=4
+
+{NN_ glory} sup=6
+
+{VBD_}{NN_}{VBN_} sup=2
+
+{VB_}{NN_ cause} sup=2
+
+{VB_}{NN_ somebody} sup=4
+
+{DT_ every}{last}{NNS_} sup=4
+
+{NN_ drag}{IN_ underneath}{NN_ ship} sup=2
+
+{NNS_}{VBD_ lose} sup=2
+
+{NN_ til}{NN_ die} sup=5
+
+{NN_ end} sup=19
+{JJ_ selfish} sup=4
+
+{JJ_}{NNS_}{VBD_} sup=25
+{JJ_ tired} sup=5
+
+{wake}{NNS_} sup=2
+
+{VBD_}{us PP_}{VBP_} sup=3
+
+{NN_ word}{JJ_ wise}{NN_ fire}{VBZ_ die} sup=3
+
+{NN_ nothing} sup=24
+
+{NN_}{NN_ cause} sup=3
+
+{JJ_}{chest} sup=4
+
+{IN_}{ship}{NN_}{NN_} sup=2
+
+{NN_ heart}{RB_} sup=4
+
+{NN_}{NN_ sea} sup=9
+
+{NN_}{CD_} sup=3
+
+{NN_}{NNS_ wench} sup=6
+
+{JJ_}{NNS_}{NN_}{IN_} sup=2
+
+{MD_}{VB_}{NN_}{NN_} sup=2
+
+{RB_}{VB_}{JJ_}{NN_} sup=10
+{NN_}{VBD_ set}{NN_ sail} sup=2
+
+{VBN_}{NN_ name} sup=2
+
+{NNS_ storey}{JJ_} sup=7
+
+{NN_ wish}{MD_ could}{one PP_} sup=2
+
+{VBZ_}{RB_}{VB_}{NN_} sup=3
+
+{NN_}{quest}{NN_} sup=2
+
+{NN_}{numb} sup=2
+
+{NNS_ poseur} sup=3
+
+{heart}{VBN_} sup=2
+
+{RB_}{VBN_}{RB_ away} sup=4
+
+{come VB_}{VB_}{NN_}{VB_} sup=4
+
+{good JJR_}{NN_ life} sup=2
+
+{NNS_ hand}{NN_ time}{NN_ strip}{NN_ youth}{NNS_ body} sup=2
+
+{CD_ one}{NN_} sup=14
+
+{CD_}{RB_} sup=6
+
+{NN_}{NN_ close} sup=3
+
+{walk} sup=12
+{NNS_}{VBG_}{NN_} sup=8
+{RB_}{NNS_}{VBP_} sup=4
+
+{NN_}{see VBP_}{NN_} sup=2
+
+{VB_}{VBN_} sup=29
+{come}{RB_} sup=22
+{NNS_}{NNS_}{RB_} sup=9
+{RB_}{VB_}{VB_ wanna} sup=3
+
+{DT_ either}{JJ_} sup=6
+
+{JJ_ high} sup=5
+
+{VB_}{NN_}{land} sup=5
+
+{IN_}{goodbye} sup=5
+
+{VBN_}{MD_ could} sup=4
+
+{must MD_}{VB_} sup=10
+
+{NN_ life} sup=52
+{VBZ_}{JJ_}{NN_} sup=9
+{NN_}{NN_}{NN_}{NN_ waiting} sup=2
+
+{NNS_}{MD_ could}{VB_} sup=2
+
+{JJ_ timeless} sup=2
+
+{VBG_ wait}{NN_} sup=5
+
+{NN_ cause}{NN_ everybody}{VB_ gotta}{VB_ die}{RB_ sometime}{RB_ yeah}{RB_ yeah} sup=3
+
+{yet}{VB_} sup=2
+
+{NN_}{NN_ time} sup=24
+{JJ_ insane}{insane} sup=6
+
+{VB_ take}{RB_} sup=10
+
+{NN_}{JJ_}{JJ_} sup=14
+{NNS_}{NN_}{JJ_}{NN_} sup=2
+
+{NN_}{VBN_}{VB_} sup=2
+
+{NN_}{NN_}{NNS_} sup=56
+{creature}{NN_} sup=2
+
+{well} sup=6
+
+{VBN_}{NN_ sail}{NNS_} sup=5
+
+{ol} sup=11
+
+{JJ_}{NNS_ wind}{NN_ blow} sup=2
+
+{JJ_}{VBZ_}{NN_} sup=6
+{MD_}{VB_}{NN_}{JJ_} sup=2
+
+{VB_ tell} sup=4
+
+{NN_}{NN_}{MD_}{NN_} sup=4
+
+{NN_ stand} sup=7
+
+{VB_ take}{hold} sup=3
+
+{JJ_ good} sup=6
+
+{VBN_ win}{NN_ question}{JJ_ many}{VBD_ die} sup=3
+
+{VB_}{sight} sup=2
+
+{NN_ peace} sup=7
+
+{NN_}{strike} sup=3
+
+{VB_}{cause} sup=4
+
+{dream NN_}{MD_ could}{VB_ prepare}{NN_ heart}{JJ_ lifeless}{NN_ friend} sup=2
+
+{VB_ get}{NN_}{NN_} sup=3
+
+{NN_}{JJ_}{NN_}{NN_} sup=17
+{NN_ n}{norwegian} sup=14
+
+{VB_ eat} sup=3
+
+{IN_ like}{JJ_} sup=3
+
+{VBG_}{VBP_} sup=5
+
+{JJ_ young}{NNS_} sup=4
+
+{go}{one} sup=6
+
+{NN_ nothing}{NN_} sup=8
+
+{VB_}{VBP_} sup=23
+{VBN_}{NNS_}{VBP_}{NN_}{NN_} sup=4
+
+{take}{NNS_}{NN_} sup=4
+
+{VB_ know}{come} sup=4
+
+{VBN_ get}{NN_} sup=7
+
+{NN_}{would MD_} sup=8
+
+{JJ_ closed}{NNS_ eye} sup=3
+
+{NNS_}{die} sup=5
+
+{JJ_}{leave} sup=2
+
+{PP_}{VBP_}{JJ_}{NN_} sup=13
+
+{JJ_ deep}{inside}{NN_} sup=4
+
+{act} sup=2
+
+{well}{JJ_} sup=3
+
+{NN_ pain}{VBP_ know} sup=3
+
+{JJ_}{NN_ inn} sup=3
+
+{RB_}{VBD_ know} sup=6
+
+{VB_}{NN_}{NN_}{NNS_} sup=6
+
+{RB_ alone}{VB_} sup=3
+
+{JJ_}{JJ_}{JJ_}{NN_} sup=4
+{NN_}{NNS_}{VBP_ draw} sup=2
+
+{won} sup=14
+{NN_ tavern} sup=5
+
+{NNS_}{NN_}{see} sup=2
+
+{VBD_}{VB_}{RB_} sup=3
+
+{NN_ life}{VB_}{NN_} sup=2
+
+{go}{VBG_}{NN_} sup=2
+
+{NN_} sup=1456
+{VB_ feel}{JJ_}{NN_} sup=2
+
+{RBR_ closer} sup=2
+
+{betray} sup=3
+
+{VBG_ come} sup=11
+
+{JJ_}{NNS_ year} sup=10
+{VBP_ believe} sup=9
+
+{NN_}{RB_ far} sup=6
+
+{NN_}{RB_} sup=144
+{VBN_ set}{NN_ quest} sup=3
+
+{MD_ could}{VB_}{back RB_}{NN_} sup=4
+
+{VBN_}{tear}{NN_} sup=2
+
+{try}{VB_} sup=3
+
+{NN_}{NN_ wealth} sup=2
+
+{alone} sup=15
+
+{NN_ die}{VBD_ live} sup=3
+
+{JJ_ true} sup=13
+{nothing}{JJ_} sup=8
+
+{NN_}{NN_ cause}{NN_} sup=2
+
+{help}{NN_} sup=3
+
+{VBN_}{back}{NN_} sup=4
+
+{NNS_ storey}{NNS_ battle}{JJ_ old} sup=6
+
+{NN_ light} sup=12
+{JJ_}{NNS_}{NNS_} sup=12
+{VB_}{RB_}{VB_}{NN_} sup=10
+{VBP_}{VB_}{JJ_} sup=9
+
+{VBD_}{land} sup=3
+
+{NNS_}{VBP_ turn} sup=6
+
+{NN_ cresting}{NNS_ wave} sup=4
+
+{NN_}{IN_ save}{NN_} sup=2
+
+{starboard JJ_}{NN_ bow} sup=5
+
+{VB_ bring}{VB_ jug}{JJ_ famous}{NNS_ ol}{VBD_ spice} sup=4
+
+{NN_ beast}{VBD_} sup=2
+
+{JJ_ self}{NN_ righteousness}{VBG_ wear}{JJ_ thin} sup=2
+
+{see VB_}{NN_ place}{VB_ wanna} sup=2
+
+{JJ_}{NN_}{memory} sup=4
+
+{alive} sup=5
+
+{NN_}{NNS_}{JJ_}{NN_} sup=4
+
+{scrape}{NN_ barrel} sup=7
+
+{NN_ slaying}{NN_} sup=3
+
+{JJ_ insane} sup=8
+
+{VB_}{JJ_}{land} sup=3
+
+{NN_}{VB_} sup=139
+{VBG_ wait}{NN_ end} sup=3
+
+{JJ_}{take} sup=2
+
+{VBP_}{RB_}{RB_ right} sup=5
+
+{NNS_ lot}{NNS_ wench}{VBP_ need} sup=2
+
+{JJ_}{NNS_}{VBP_}{NN_} sup=2
+
+{NN_}{track} sup=2
+
+{VBG_}{us PP_} sup=5
+
+{VB_}{PP_}{create} sup=2
+
+{VBN_}{NN_}{VB_}{NN_} sup=5
+
+{JJ_}{RB_}{RB_} sup=3
+
+{NN_ viking} sup=6
+
+{rage}{NNS_} sup=7
+
+{NNS_}{VB_} sup=36
+{sail}{NN_} sup=15
+
+{NN_ time}{NN_}{RB_} sup=5
+
+{VB_} sup=550
+{VB_ know}{VB_}{VB_}{VBN_ run}{NN_} sup=4
+
+{NN_ fate}{NN_}{NN_} sup=4
+
+{VBG_ wait}{JJ_} sup=2
+
+{VB_ pray}{NN_ god} sup=2
+
+{VBD_}{RB_} sup=31
+{RB_ never}{VBN_ view}{NN_ life}{NN_ something}{VBG_ slip}{RB_ away} sup=2
+
+{VB_}{JJ_}{NN_} sup=68
+{VB_}{NN_}{RB_ away} sup=2
+
+{VB_}{close} sup=3
+
+{NN_ terror}{NNS_} sup=8
+
+{want}{NNS_} sup=5
+
+{NN_}{NNS_ friend} sup=2
+
+{NNS_}{draw} sup=3
+
+{leave}{VBD_}{JJ_} sup=3
+
+{song} sup=5
+
+{NN_ close} sup=4
+
+{NN_}{NN_}{NNS_}{VBD_} sup=4
+
+{feel}{RB_} sup=5
+
+{strike}{NN_} sup=6
+
+{DT_ every} sup=4
+
+{want}{VB_}{VB_} sup=3
+
+{take}{NN_}{VB_} sup=3
+
+{NN_ money} sup=2
+
+{VB_}{NN_ time}{NN_} sup=3
+
+{VBG_ count}{NNS_ hour}{NN_ til}{NN_ die} sup=2
+
+{JJ_ many}{NNS_}{VBP_} sup=2
+
+{VBP_}{RB_}{RB_} sup=8
+
+{NN_ sailing}{NNS_ ocean}{NNS_ sea} sup=2
+
+{around} sup=14
+
+{VBG_}{NN_}{JJ_}{NN_} sup=4
+
+{VBG_ try} sup=2
+
+{IN_}{NN_ ship} sup=3
+
+{VBP_}{VBN_ begin} sup=3
+
+{UH_ hi}{UH_ hi}{VBZ_ ho}{UH_ hi}{UH_ hi}{UH_ hey} sup=9
+
+{ocean} sup=6
+
+{JJ_}{VBP_}{NN_} sup=8
+{JJ_}{NNS_ life} sup=3
+
+{VBN_ make}{MD_ could} sup=2
+
+{NNS_}{NN_ darkness} sup=3
+
+{VBD_ begin} sup=2
+
+{JJ_ trapped}{NN_ island}{VBD_ lose}{NN_ sea} sup=6
+
+{come VBP_}{NN_} sup=5
+
+{live}{die} sup=3
+
+{JJ_ alive} sup=4
+
+{VB_ give}{NN_}{NN_} sup=3
+
+{NN_ need}{NN_ sleep}{NN_ rest} sup=2
+
+{nothing}{NN_} sup=10
+
+{cannon} sup=10
+
+{RB_}{back} sup=4
+
+{NN_}{await VBZ_} sup=6
+
+{vein} sup=2
+
+{VBP_}{come} sup=2
+
+{VBP_}{RB_ hard}{VB_} sup=3
+
+{NN_}{VBD_} sup=183
+{VBG_}{feeling}{VBG_} sup=4
+
+{die}{NN_} sup=9
+{NN_ heart}{NN_}{NNS_} sup=3
+
+{CD_ one}{NNS_} sup=4
+
+{find}{RB_ alone} sup=2
+
+{VBD_ know}{VB_} sup=6
+{VBP_}{RB_} sup=56
+{VBN_ rip}{NN_ heart}{NN_ right}{NNS_ eye} sup=2
+
+{NNS_ hour}{NN_} sup=3
+
+{VBN_ gotta}{NN_} sup=6
+
+{VB_}{VB_}{VBP_} sup=3
+
+{NN_}{NN_ help} sup=3
+
+{NN_}{JJ_}{VBP_}{JJ_}{NN_} sup=2
+
+{VBP_ know}{NNS_ day}{JJS_ good}{NNS_ life} sup=2
+
+{JJ_}{dream NN_} sup=4
+
+{NN_}{VBD_}{RB_} sup=16
+{NN_}{stay} sup=11
+
+{VB_}{RB_}{JJ_} sup=24
+
+{NN_}{NN_ burning}{NN_} sup=6
+
+{VB_}{NN_}{RB_ right} sup=3
+
+{JJ_}{look} sup=4
+
+{apart} sup=6
+
+{change}{NN_ mind} sup=2
+
+{VB_ get} sup=14
+{NN_ lad}{VB_} sup=2
+
+{VBZ_}{NN_}{NN_}{NN_} sup=3
+
+{VB_ know}{VB_ know}{NN_ time} sup=3
+
+{go}{VBN_} sup=4
+
+{send} sup=6
+
+{tankard}{NN_ ale} sup=9
+
+{NN_}{cannon} sup=5
+
+{NN_ fire} sup=5
+
+{CD_}{NN_}{VBP_} sup=2
+
+{NN_ terror}{JJ_} sup=6
+
+{come VB_}{RB_} sup=2
+
+{NN_ time}{NN_}{MD_}{VB_} sup=4
+
+{MD_}{JJ_}{NN_} sup=9
+{NN_ break} sup=5
+
+{NN_}{NN_}{NN_ hand} sup=3
+
+{RB_ almost}{VBN_ laugh}{NNS_ tear} sup=2
+
+{NN_}{come VBD_} sup=4
+
+{MD_}{VB_}{NN_} sup=27
+{say}{NNS_} sup=7
+
+{front}{NN_} sup=2
+
+{NN_ sight} sup=2
+
+{RB_}{VB_}{NN_}{JJ_}{NN_} sup=2
+
+{VB_}{run} sup=8
+
+{NN_ sorrow} sup=6
+
+{land}{NN_ sea} sup=2
+
+{JJ_}{NN_}{NN_}{JJ_} sup=5
+
+{VBN_ set}{NN_ sail}{VB_ conquer}{NN_}{NNS_} sup=4
+
+{NNS_}{NN_ life} sup=5
+
+{VBD_}{JJ_}{NNS_}{VBD_} sup=2
+
+{JJ_}{NNS_}{VBG_} sup=7
+{VBD_}{let}{VB_} sup=6
+
+{NN_ ship}{NN_} sup=3
+
+{RB_}{RB_}{RB_ yeah} sup=4
+
+{VBN_}{JJ_ back}{NN_} sup=3
+
+{VBN_}{JJ_}{NN_}{NN_}{NN_} sup=2
+
+{VBG_ hold} sup=3
+
+{NN_}{NN_ way} sup=17
+{JJ_ dear}{NN_ god}{NN_ thing}{VB_ ask} sup=3
+
+{JJ_}{NNS_ eye}{RB_ tonight} sup=3
+
+{back RB_}{VB_}{JJ_}{NN_} sup=4
+
+{VB_ let}{NN_} sup=7
+
+{JJ_}{RB_ yeah} sup=5
+
+{JJ_}{NN_}{RB_ yeah} sup=4
+
+{VBP_}{go} sup=7
+
+{NN_ dawn}{NN_ sun} sup=3
+
+{NN_}{NN_ d}{VBD_} sup=3
+
+{know}{VB_ go} sup=3
+
+{NN_}{RB_}{VBN_ know} sup=2
+
+{NNS_}{VBP_ stand} sup=4
+
+{VB_}{NN_ walk} sup=3
+
+{VB_}{VB_}{NN_}{NN_}{VBP_} sup=2
+
+{VBP_}{bow} sup=5
+
+{NNS_}{seem}{NN_} sup=2
+
+{friend}{VBD_}{VB_} sup=3
+
+{VBP_}{see}{NN_} sup=2
+
+{NN_}{NN_ name} sup=4
+
+{JJ_ mighty} sup=6
+
+{NN_ darkness} sup=3
+
+{VB_ pray}{NN_} sup=3
+
+{NNS_}{RB_}{JJ_}{RB_} sup=2
+
+{NN_ way}{JJ_} sup=4
+
+{waste}{NN_ time} sup=4
+
+{VB_}{RB_ long} sup=4
+
+{VBN_ search}{VBD_ search} sup=4
+
+{NN_}{VB_ gotta}{VB_} sup=4
+
+{sea}{VB_} sup=4
+
+{RB_}{JJ_ good} sup=2
+
+{VBD_ know}{NN_} sup=12
+{VBN_ scar}{RB_ yeah} sup=4
+
+{NN_ spot}{NN_ hell}{VBP_ belong} sup=3
+
+{NN_ port} sup=2
+
+{cry} sup=18
+{NNS_}{RB_ still} sup=2
+
+{please UH_}{VB_}{RB_} sup=2
+
+{NN_ tonight} sup=8
+{RB_ never}{NN_}{VB_} sup=4
+
+{NN_}{NN_ pain}{NN_ satisfaction} sup=2
+
+{NN_}{cold} sup=7
+
+{map} sup=5
+
+{VB_}{PP_}{NN_} sup=6
+
+{VB_}{VB_ go} sup=3
+
+{JJ_}{NNS_}{RB_ ago}{NN_} sup=2
+
+{VBP_}{NN_ fight} sup=2
+
+{NN_}{VBP_}{JJ_}{NNS_} sup=2
+
+{RB_ always}{JJ_ true} sup=2
+
+{NN_}{JJ_ deep}{NN_ blood} sup=5
+
+{JJ_ many}{VBD_}{VBG_}{NN_} sup=2
+
+{NN_}{light} sup=9
+{NN_}{VBP_}{VB_}{JJ_}{NN_} sup=2
+
+{JJ_}{DT_}{JJ_}{NN_} sup=3
+
+{JJ_}{NN_}{NNS_}{VBP_} sup=3
+
+{take}{NN_ time} sup=8
+
+{late} sup=3
+
+{JJ_}{NNS_}{turn}{NN_} sup=2
+
+{VBN_}{NN_ mind} sup=2
+
+{RB_ somewhere}{NN_} sup=2
+
+{JJ_}{NN_ light}{RB_} sup=2
+
+{NN_}{NN_ traitor}{JJ_} sup=2
+
+{VBN_}{NN_ something} sup=3
+
+{NN_ time}{come}{VB_} sup=3
+
+{jug} sup=8
+
+{NN_ path} sup=2
+
+{NNS_}{VBD_}{NN_} sup=21
+{JJ_}{NN_ place} sup=2
+
+{would MD_}{JJ_}{NN_} sup=4
+
+{VB_}{NNS_ eye} sup=3
+
+{must MD_}{VB_}{VB_} sup=2
+
+{MD_ may}{VBN_} sup=3
+
+{NN_ cause}{RB_}{RB_ yeah} sup=4
+
+{NN_ face} sup=11
+
+{VB_}{say} sup=5
+
+{know}{VBD_} sup=2
+
+{NN_}{VBZ_} sup=66
+{VB_}{VBN_}{RB_} sup=4
+
+{VB_}{JJ_}{NNS_}{VBD_} sup=7
+
+{run}{NN_}{NN_}{VBD_} sup=2
+
+{NN_}{VBP_}{VB_ feel}{JJ_} sup=2
+
+{rise} sup=2
+
+{NNS_} sup=570
+{VBN_}{NN_ treasure} sup=2
+
+{VBD_}{NN_}{MD_}{VB_} sup=2
+
+{VB_}{JJ_}{JJ_} sup=14
+{RB_}{good} sup=4
+
+{JJ_}{VBP_ go} sup=6
+
+{NN_ air} sup=3
+
+{JJ_}{sea} sup=19
+
+{JJ_}{RB_}{VBN_} sup=3
+
+{JJ_}{NNS_}{VBP_} sup=24
+{away RP_}{NNS_} sup=2
+
+{seem}{JJ_}{NN_} sup=3
+
+{NN_}{NNS_}{VBP_}{NN_} sup=8
+{VBG_}{ear} sup=3
+
+{get}{NN_}{RB_} sup=4
+
+{JJ_}{JJ_ young} sup=3
+
+{friend}{VBD_}{NN_} sup=4
+
+{JJ_}{NN_}{MD_}{VB_} sup=3
+
+{reach}{NN_} sup=4
+
+{VB_ make}{RB_ right} sup=2
+
+{NN_}{NN_ right} sup=16
+
+{win}{NN_}{NNS_} sup=2
+
+{VB_}{memory} sup=4
+
+{NNS_}{VB_ help} sup=3
+
+{NN_}{NN_ tavern} sup=3
+
+{NNS_ mistake} sup=2
+
+{NN_ love}{NN_} sup=2
+
+{NN_}{ocean} sup=3
+
+{RB_}{NN_}{VBG_} sup=4
+
+{NN_}{MD_}{NN_}{NN_} sup=4
+
+{VBP_ think}{VBN_ begin} sup=3
+
+{VB_}{NN_ life} sup=9
+
+{VBN_}{VB_}{JJ_} sup=5
+
+{NN_}{RB_}{VBN_}{NN_} sup=2
+
+{JJ_ lead} sup=2
+
+{VBP_}{song} sup=3
+
+{NN_}{VBP_} sup=83
+{VB_ get}{JJ_}{NN_} sup=5
+
+{NN_}{NN_ changing} sup=2
+
+{NNS_}{get} sup=3
+
+{JJ_}{lose} sup=9
+
+{VB_ take}{back}{NN_ time} sup=6
+
+{NN_ air}{NN_} sup=2
+
+{VB_ let}{VB_}{NN_ start} sup=4
+
+{VBG_ run}{away RP_}{VBG_ fight}{RB_ long}{RB_ long} sup=3
+
+{VBG_}{NN_}{NN_}{NNS_} sup=2
+
+{JJ_}{JJ_}{RB_ yeah} sup=2
+
+{way}{VB_ go} sup=3
+
+{VB_}{JJ_} sup=128
+{struggle} sup=4
+
+{NN_}{thing}{JJ_} sup=2
+
+{NN_ hope}{NN_} sup=6
+
+{RB_}{get}{NN_} sup=2
+
+{VBD_}{VBN_} sup=6
+
+{CD_ one}{JJ_ last}{NN_ battle}{NN_ sailor}{JJ_ lonely}{NN_ war} sup=2
+
+{one}{JJ_}{NN_} sup=20
+{VB_}{NN_}{right} sup=11
+
+{RB_}{back}{NN_} sup=3
+
+{VBD_}{VBP_} sup=5
+
+{VBD_}{VB_} sup=43
+{VB_ take}{time} sup=8
+
+{NN_}{JJ_}{VB_} sup=2
+
+{dream NN_}{JJ_} sup=3
+
+{NN_}{VBP_ get}{JJ_} sup=2
+
+{regret}{NN_}{NN_ life} sup=4
+
+{NN_}{NN_}{VBP_}{JJ_} sup=7
+{JJ_}{NNS_}{RB_ ago}{JJ_} sup=2
+
+{NN_ fear}{NNS_} sup=3
+
+{JJ_ wrong}{NN_} sup=6
+
+{RB_ early} sup=2
+
+{come VBG_} sup=8
+
+{NNS_}{MD_ shall} sup=5
+
+{NN_ time}{NN_ fight}{NN_}{NN_} sup=4
+
+{set}{VB_} sup=6
+
+{d SYM_}{RB_} sup=5
+{NN_}{NN_}{VBD_}{NNS_} sup=2
+
+{NN_}{VB_}{JJ_ wrong} sup=2
+
+{quest}{VBN_} sup=4
+
+{JJ_ closed}{NNS_}{NNS_} sup=3
+
+{PP_ one} sup=14
+
+{NN_ search}{NN_}{NN_}{NN_} sup=2
+
+{NNS_}{NN_ time}{NNS_} sup=3
+
+{NN_ right}{NN_} sup=4
+
+{NN_}{IN_}{NN_} sup=16
+{NNS_ one}{JJ_}{NN_} sup=4
+
+{JJ_}{man} sup=15
+{cause VB_} sup=10
+
+{VBP_}{RB_ right}{VB_} sup=9
+
+{NN_}{NN_ mind} sup=3
+
+{NN_}{NN_ d} sup=5
+
+{JJ_}{NN_}{NN_ waiting} sup=2
+
+{come VBP_}{VB_} sup=5
+
+{JJ_ true}{NN_} sup=3
+
+{NN_}{NN_ sin} sup=4
+
+{VBN_}{see} sup=3
+
+{NN_}{VBP_}{RB_}{VB_} sup=9
+{JJ_}{JJ_}{RB_} sup=3
+
+{PP_}{MD_}{VB_} sup=3
+
+{NN_}{NN_}{come}{NN_} sup=3
+
+{NN_}{NN_}{NNS_}{NN_}{NN_} sup=2
+
+{NN_ watch}{NN_ mother}{VBD_ shed}{NNS_ tear} sup=2
+
+{VBN_ sink}{NN_ n}{JJ_ norwegian}{NN_} sup=2
+
+{night}{VBP_}{JJ_} sup=2
+
+{NNS_}{VBP_}{NNS_}{NN_} sup=4
+
+{like IN_}{NN_}{NN_} sup=2
+
+{NN_}{RB_ never}{VB_} sup=2
+
+{NN_}{JJ_}{NN_ beer} sup=2
+
+{NNS_}{light} sup=3
+
+{NN_ time}{VBD_}{NN_} sup=6
+{JJ_}{NN_ cause} sup=3
+
+{NN_ cause}{NN_}{JJ_}{NN_} sup=2
+
+{VB_ see}{JJ_}{NN_} sup=2
+
+{NN_ drink}{NNS_} sup=3
+
+{night} sup=30
+{VB_}{RB_ around} sup=4
+
+{NN_}{VBD_ tell} sup=3
+
+{VBD_}{RB_}{come} sup=2
+
+{hold VB_}{NN_ breath}{NN_ close}{NNS_ eye}{VBP_ hang} sup=2
+
+{believe} sup=11
+
+{RB_}{VBG_}{NN_} sup=3
+
+{RB_ almost} sup=12
+
+{man}{NN_} sup=6
+
+{NN_}{feel} sup=6
+
+{NN_}{VBN_ take} sup=2
+
+{crew} sup=9
+
+{NN_}{VBP_}{NNS_} sup=9
+{kill}{NNS_}{NN_} sup=4
+
+{leave}{NN_}{NN_} sup=8
+{first}{NN_} sup=4
+
+{NNS_ sea}{quest VBP_}{VBN_} sup=3
+
+{NN_}{come VBZ_}{NN_} sup=3
+
+{JJ_ old} sup=13
+
+{JJ_}{VBP_ feel}{NNS_} sup=2
+
+{NNS_}{VBP_}{VB_}{RB_} sup=5
+
+{VB_ let}{VB_}{NN_} sup=5
+
+{JJ_}{run} sup=2
+
+{know}{DT_} sup=3
+
+{NN_ soul} sup=3
+
+{NN_ body} sup=2
+
+{VB_}{JJ_}{MD_}{VB_} sup=3
+
+{get}{JJ_} sup=10
+
+{VB_ miss} sup=3
+
+{JJ_ last} sup=9
+
+{NN_ til}{NN_} sup=8
+
+{NN_}{VBP_}{VB_}{JJ_} sup=3
+
+{NN_}{NN_}{NN_ life} sup=6
+
+{VBP_ look}{back RB_} sup=4
+
+{JJ_}{NN_}{NN_}{NN_} sup=27
+{JJ_ many}{VBP_} sup=2
+
+{MD_}{VB_ think} sup=3
+
+{NNS_ time}{RB_} sup=2
+
+{change}{RB_} sup=4
+
+{NN_ fall}{NNS_} sup=4
+
+{wind}{blow} sup=3
+
+{JJ_ infernal}{NN_ man}{NN_ rain}{NN_ dark}{VBN_ bear}{JJ_ black}{NN_ night} sup=2
+
+{NN_ nancy}{NN_}{NN_} sup=4
+
+{VB_ bring}{NN_} sup=5
+{JJ_}{NN_}{VBN_}{NN_} sup=2
+
+{NN_ slaughter}{NN_} sup=5
+
+{JJ_}{NN_}{VBD_}{JJ_} sup=4
+
+{grave} sup=10
+{VB_ know} sup=41
+{NN_}{JJ_ true} sup=5
+
+{NN_ night} sup=24
+{VB_}{JJ_}{NN_ time} sup=6
+
+{NN_ scream}{IN_ till}{NN_ silence} sup=3
+
+{VB_}{PP_}{VB_}{RB_} sup=2
+
+{JJ_}{VBD_}{NN_} sup=24
+{NN_ silence} sup=4
+
+{leave}{RB_ behind} sup=2
+
+{NNS_ memory}{JJ_ past} sup=2
+
+{VBG_ run}{RB_ away} sup=6
+
+{NNS_}{JJ_}{NN_}{VBP_} sup=2
+
+{NNS_ thing}{VBP_ need} sup=2
+
+{JJ_}{JJ_}{NN_}{NN_} sup=10
+{NN_}{NN_}{VBP_} sup=29
+{VB_ believe}{NN_}{NN_} sup=2
+
+{NN_}{NN_}{NN_}{VBD_} sup=7
+
+{sin}{RB_} sup=2
+
+{NN_ murder}{VBN_ bear}{NN_ vengeance} sup=2
+
+{VBN_ win} sup=11
+
+{VB_}{back} sup=22
+
+{NN_}{NN_ blood}{NN_} sup=3
+
+{NNS_}{cannon} sup=3
+
+{NN_}{NN_}{VB_}{VB_} sup=5
+
+{know}{RB_ right} sup=4
+
+{NN_}{tankard}{NN_ ale} sup=7
+
+{NN_ place}{NN_}{NN_} sup=5
+
+{VB_}{say}{goodbye} sup=4
+
+{NN_}{VBD_}{JJ_}{NN_}{NN_} sup=2
+
+{avenge} sup=2
+
+{VB_ know}{RB_ yeah} sup=2
+
+{NNS_ eye}{VBP_} sup=13
+{NN_ justice} sup=2
+
+{VB_}{NN_}{NNS_}{NNS_} sup=4
+
+{NN_ heart}{JJ_} sup=4
+
+{VBG_}{heart} sup=3
+
+{NN_}{VBD_ see} sup=7
+
+{fall}{JJ_} sup=8
+
+{VBD_ take}{NNS_} sup=3
+
+{JJ_}{NN_ friend} sup=5
+
+{NNS_}{MD_}{VB_}{JJ_} sup=2
+
+{NN_ rest}{NN_} sup=9
+
+{VB_}{RB_ far} sup=5
+
+{RB_}{VBG_} sup=16
+{NN_ sign}{NN_}{NN_} sup=2
+
+{NN_}{NN_}{NN_ wall} sup=2
+
+{RB_}{VB_ keep} sup=2
+
+{IN_}{NN_}{NN_}{RB_} sup=2
+
+{one PP_}{VB_} sup=3
+
+{MD_}{VBG_} sup=4
+
+{ride}{NN_} sup=5
+
+{would MD_}{JJ_} sup=6
+
+{come VBN_} sup=4
+
+{heart}{NNS_} sup=6
+
+{MD_}{VB_ go} sup=9
+
+{IN_ without}{JJ_ equal}{NN_ nothing} sup=2
+
+{word} sup=8
+
+{JJ_ countless}{NNS_}{NNS_} sup=3
+
+{RB_ never}{VBN_} sup=8
+
+{VBZ_}{man} sup=2
+
+{VBN_}{VBG_} sup=7
+
+{waste}{NN_} sup=6
+
+{MD_}{VB_}{JJ_}{NN_} sup=2
+
+{VB_}{NN_ place} sup=5
+
+{NN_ hail}{NN_ huntmaster} sup=3
+
+{ride}{NNS_} sup=4
+
+{VBN_}{JJ_}{NNS_ memory} sup=2
+
+{run}{hide} sup=5
+
+{NN_ sail}{NN_ battle}{NN_ glory}{NN_ metal} sup=2
+
+{NN_ cause}{NN_}{RB_} sup=9
+
+{NN_}{come VBD_}{NN_} sup=2
+
+{bring}{back RB_} sup=2
+
+{VBN_}{quest} sup=5
+
+{meet} sup=5
+
+{JJ_}{IN_} sup=9
+{NN_ heart}{NN_ battle}{NN_ ride}{NNS_ god}{NN_ side} sup=2
+
+{NNS_}{IN_}{NN_} sup=9
+
+{last}{NN_} sup=7
+
+{NNS_}{see}{NN_} sup=2
+
+{RB_ forever} sup=4
+
+{NN_ slaughter} sup=6
+
+{hear}{NNS_}{JJ_} sup=3
+
+{life} sup=63
+{RB_}{NN_}{VB_} sup=11
+
+{JJ_}{NNS_ feeling} sup=2
+
+{like NNS_} sup=2
+
+{NN_ sunrise}{NN_ dance}{JJ_ hempen}{NN_ jig} sup=3
+
+{NNS_ sea}{begin} sup=3
+
+{mine} sup=4
+
+{VBN_}{NN_ head} sup=3
+
+{CD_}{NN_} sup=41
+{raise}{VB_} sup=4
+
+{VB_ sit}{NN_ nothing} sup=2
+
+{hurt}{NN_} sup=4
+
+{NNS_ leg} sup=5
+
+{NN_}{wrong} sup=9
+
+{come VBN_}{NN_} sup=2
+
+{NN_ time}{VBZ_} sup=6
+
+{NN_}{RB_}{go} sup=3
+
+{VB_ convince}{VBN_ grow} sup=3
+
+{sail}{VB_} sup=7
+
+{VB_}{VB_ make}{VBN_} sup=4
+
+{CD_}{JJ_} sup=11
+{crew}{JJ_} sup=2
+
+{VBZ_}{VB_}{NN_} sup=9
+
+{come VB_}{NN_} sup=11
+
+{RB_}{RB_} sup=78
+{leave}{NNS_} sup=7
+{NN_}{NN_}{RB_ away} sup=5
+
+{JJ_}{NN_ nothing} sup=6
+
+{stay} sup=13
+
+{NNS_}{VBG_} sup=30
+{NN_ fight}{NN_}{NN_} sup=5
+
+{one CD_}{NNS_} sup=2
+
+{NN_ way}{NN_} sup=5
+
+{VB_ feel}{VB_ burn}{RB_ inside} sup=2
+
+{NN_ sorrow}{VBD_ sink}{JJ_ deep}{JJ_ inside}{NN_ blood} sup=3
+
+{NN_ taste}{NN_ blood} sup=3
+
+{RB_}{VBN_} sup=44
+{NN_ bye}{NN_ bye} sup=3
+
+{away}{VBG_} sup=6
+
+{hold VBN_} sup=2
+
+{NNS_}{take}{NN_} sup=3
+
+{VBN_}{JJ_}{VBP_} sup=3
+
+{NNS_ sin}{VBN_} sup=2
+
+{JJ_}{NN_}{JJ_}{NNS_} sup=3
+
+{NNS_}{get}{JJ_} sup=2
+
+{NN_}{NN_}{JJ_ strong} sup=5
+
+{VB_ know}{VB_ make}{VB_ wanna}{NN_} sup=6
+
+{VB_}{land} sup=4
+
+{VB_}{JJ_}{NN_ day} sup=2
+
+{NN_}{NN_}{NN_}{VBP_}{JJ_} sup=2
+
+{VBD_}{NN_}{VB_} sup=10
+{pirate} sup=18
+
+{NN_ none}{RB_}{know} sup=2
+
+{JJ_}{NN_}{VBD_} sup=30
+{VBG_ miss} sup=4
+
+{NN_}{VBD_}{NN_ pirate}{NN_} sup=4
+
+{JJS_} sup=14
+{UH_ oh}{RB_} sup=3
+
+{VBN_ live}{NNS_} sup=2
+
+{quest} sup=20
+
+{VBN_ go}{VBN_} sup=3
+
+{VBG_ shine} sup=2
+
+{NNS_}{NN_}{VBP_} sup=5
+{NN_}{NN_ side}{NN_} sup=3
+
+{VBN_}{JJ_}{NN_} sup=46
+{right}{RB_} sup=8
+
+{get}{JJ_}{NN_} sup=9
+{NNS_}{JJ_}{NN_} sup=28
+{RB_}{live} sup=3
+
+{NN_ love} sup=3
+
+{JJ_ mere}{NN_} sup=2
+
+{JJ_}{JJ_ deadly}{NN_} sup=3
+
+{d SYM_}{make} sup=4
+
+{RB_}{VBP_} sup=17
+{JJ_}{NN_}{JJ_} sup=31
+{NNS_}{VBP_ take} sup=2
+
+{follow}{NN_} sup=11
+
+{take}{VBP_} sup=2
+
+{NN_ attack} sup=2
+
+{JJ_ dark} sup=4
+
+{NN_}{JJ_ last}{NN_} sup=2
+
+{quest}{NN_} sup=6
+
+{NNS_ year}{JJ_} sup=4
+
+{CD_}{NN_}{NNS_} sup=2
+
+{VB_}{one PP_} sup=5
+
+{JJ_}{NN_ peace} sup=3
+
+{go} sup=79
+{NN_ none}{RB_ ever} sup=2
+
+{come}{back RB_} sup=14
+
+{need}{VB_}{NN_} sup=3
+
+{VBP_}{back RB_}{NN_} sup=5
+
+{NN_}{NNS_}{NN_}{NN_ sky} sup=7
+
+{right}{NN_} sup=10
+
+{VBN_}{NN_ life}{VBG_}{RB_} sup=3
+
+{scream} sup=15
+
+{NN_ man}{JJ_} sup=2
+
+{NNS_}{RB_}{VBP_} sup=7
+
+{scoundrel} sup=2
+
+{NNS_}{VBZ_}{NN_} sup=4
+
+{VBG_}{NNS_}{NN_} sup=14
+{NN_ corner}{VBN_ forget}{RB_ away} sup=3
+
+{smile}{NN_}{NN_} sup=2
+
+{set}{VB_ conquer}{JJ_} sup=3
+
+{VB_}{RB_}{RB_}{JJ_} sup=16
+
+{JJ_}{light}{NN_} sup=6
+{give VB_}{NN_ hand}{VBD_ conceive}{VBN_ bear}{one CD_}{NN_ light} sup=2
+
+{VBN_}{NN_}{hand} sup=4
+
+{NNS_ way} sup=4
+
+{VBN_}{MD_}{VB_} sup=3
+
+{NNS_}{NN_}{NN_ time} sup=2
+
+{NN_ leave}{arrive VBD_}{JJ_ alive} sup=2
+
+{JJ_}{JJ_}{JJ_} sup=3
+
+{seem} sup=6
+
+{VB_ keep} sup=9
+
+{VB_ go} sup=27
+{NN_}{NN_ sun} sup=4
+
+{NN_ hope} sup=9
+
+{NN_}{one PP_} sup=5
+
+{VB_}{RB_}{NN_} sup=28
+{VBZ_}{us PP_} sup=3
+
+{VB_ know}{right} sup=8
+
+{VBP_}{NN_}{NN_ time} sup=2
+
+{RB_}{VB_ let} sup=5
+
+{NNS_ brother} sup=3
+
+{one}{NN_ night} sup=4
+
+{NN_}{go}{RB_ far} sup=3
+
+{NN_}{NN_ strike} sup=2
+
+{DT_}{NN_}{JJ_} sup=4
+
+{want}{VB_ feel} sup=2
+
+{NNS_}{VBD_}{NNS_ sea} sup=3
+
+{NN_}{VBD_ say} sup=4
+
+{contribute} sup=2
+
+{JJ_ insane}{JJ_} sup=2
+
+{NN_ sin}{JJ_ deep}{NN_ blood} sup=2
+
+{RB_ deep} sup=3
+
+{JJ_}{NN_}{NN_} sup=122
+{NN_}{first} sup=2
+
+{hard} sup=11
+
+{DT_ every}{NN_} sup=8
+{NN_}{tonight} sup=9
+
+{VB_ feel}{NN_}{NN_} sup=5
+{road}{NN_} sup=3
+
+{RB_}{VBN_}{NN_}{NN_} sup=8
+{VB_ sing}{NN_} sup=3
+
+{VBG_} sup=212
+{VBG_ fuck}{NN_} sup=3
+
+{JJ_}{thing} sup=5
+
+{RB_}{IN_}{NN_} sup=6
+
+{plague} sup=2
+
+{bow} sup=7
+
+{VBG_}{NN_}{JJ_} sup=6
+
+{shine} sup=3
+
+{NN_ place}{NN_}{NN_}{NN_} sup=4
+
+{RB_}{hold} sup=3
+
+{VBN_}{NN_}{NN_}{NNS_} sup=8
+{NNS_ cannon}{NN_} sup=2
+
+{VB_}{VBP_}{NNS_} sup=3
+
+{NN_}{NN_ end}{NN_} sup=2
+
+{NN_ slaying}{NNS_ poseur}{VBP_ stand}{NN_ way} sup=2
+
+{JJ_}{NN_ inside} sup=3
+
+{VBP_}{NNS_}{VBP_} sup=2
+
+{VB_}{cry} sup=2
+
+{NN_ day}{VBP_} sup=2
+
+{VBG_ live}{NN_} sup=4
+
+{UH_ oh}{UH_ oh}{UH_ oh}{UH_ oh} sup=2
+
+{NNS_ hand} sup=12
+{JJ_}{VBD_ lose}{sea} sup=7
+
+{NN_}{NNS_}{NNS_} sup=17
+{sure}{NN_} sup=3
+
+{NN_ love}{VBP_} sup=2
+
+{first}{let}{NN_} sup=2
+
+{VBD_}{JJ_ deadly}{NN_} sup=5
+
+{NNS_}{VBP_} sup=127
+{VBD_}{NN_}{RB_} sup=5
+{NN_}{ignore} sup=2
+
+{VBZ_ seem} sup=8
+
+{NNS_ cannon}{NNS_ sword} sup=2
+
+{know}{NN_ end} sup=3
+
+{VBG_}{JJ_} sup=37
+{get}{RB_} sup=7
+
+{VBN_}{NN_}{way} sup=2
+
+{sing}{song} sup=3
+
+{move}{RB_} sup=7
+
+{VBN_}{JJ_ black}{NN_ night} sup=5
+
+{VB_ realize}{JJ_ difficult}{NN_ see} sup=3
+
+{VB_}{VBG_}{NN_}{NN_}{NN_} sup=2
+
+{cold} sup=15
+
+{VB_}{JJ_}{time} sup=7
+
+{one}{RB_ around} sup=6
+
+{VB_ feel}{VB_ know}{NN_} sup=2
+
+{VB_}{hold} sup=5
+
+{NN_ time}{pass}{NN_} sup=4
+
+{VBN_}{NN_ change} sup=4
+
+{get}{JJ_}{know} sup=2
+
+{VBN_}{VBD_} sup=48
+{MD_ may} sup=8
+{NN_ help}{NN_} sup=2
+
+{stare}{NN_} sup=2
+
+{VBN_}{NNS_}{VBD_} sup=4
+{battle}{NN_}{NN_} sup=7
+
+{NN_}{NNS_ fear} sup=2
+
+{NN_ sail}{JJ_}{land} sup=3
+
+{NN_}{across IN_}{NNS_}{NN_} sup=2
+
+{NN_}{NNS_}{VBP_}{RB_} sup=2
+
+{fade} sup=7
+
+{VB_ come}{back RB_}{JJ_ unconceivable} sup=2
+
+{NNS_ year} sup=11
+
+{NN_}{NN_ soul} sup=2
+
+{NN_}{VB_ stand}{RB_} sup=2
+
+{VB_ know}{VB_}{NN_} sup=10
+
+{NN_ shadow} sup=2
+
+{sight} sup=3
+
+{VBG_}{JJ_}{VBP_} sup=2
+
+{NNS_}{VBN_ go}{NN_} sup=5
+
+{give}{VB_ wanna} sup=2
+
+{set}{NN_} sup=13
+
+{NN_}{NN_}{tonight} sup=5
+
+{JJ_}{NN_ life} sup=9
+{NN_ burning} sup=3
+
+{see VB_}{NN_}{VB_} sup=3
+
+{NN_}{JJ_}{NNS_ sea} sup=5
+
+{VBP_}{NN_}{RB_} sup=5
+
+{VB_ hear}{NN_}{JJ_} sup=3
+
+{NN_ hold} sup=4
+
+{us PP_}{NN_} sup=10
+
+{hope}{VB_} sup=2
+
+{VB_}{VB_}{NN_ afterlife} sup=4
+
+{NN_}{wait} sup=2
+
+{NN_}{RB_ away} sup=19
+{break} sup=11
+
+{RB_}{NNS_} sup=20
+{NN_}{till} sup=4
+
+{VBP_}{see} sup=3
+
+{NN_}{NN_}{feel} sup=5
+
+{NNS_ hand}{NNS_} sup=3
+
+{VB_ hear} sup=4
+
+{VBN_}{VB_} sup=27
+{VBD_}{man} sup=2
+
+{need}{JJ_} sup=5
+
+{NNS_}{RB_}{JJ_}{NNS_} sup=2
+
+{back RB_}{NN_ time}{NN_ fight}{NN_ viking}{NN_ foe} sup=3
+
+{JJ_}{RB_}{JJ_} sup=2
+
+{NNS_ year}{NN_} sup=3
+
+{JJ_}{VBN_}{JJ_} sup=3
+
+{fuck} sup=7
+
+{NN_}{NN_}{RB_}{JJ_} sup=2
+
+{compromise} sup=3
+
+{NN_ cause}{NN_}{NN_}{RB_} sup=6
+
+{NNS_ wolf}{NN_ sea} sup=6
+
+{turn}{RB_} sup=7
+
+{VBN_}{good}{NNS_} sup=2
+
+{NNS_}{NN_}{take}{NN_} sup=2
+
+{d SYM_} sup=16
+{RB_}{NN_}{JJ_} sup=4
+
+{RBR_}{VB_} sup=2
+
+{NN_ baby}{NN_ cry} sup=6
+
+{RB_}{NN_}{NN_ fight} sup=4
+
+{NN_ peace}{NN_} sup=5
+
+{NN_ stand}{NNS_ gallows} sup=3
+
+{goodbye} sup=6
+
+{NN_ time}{NN_ something}{JJ_ real} sup=3
+
+{RB_}{IN_ inside}{NN_} sup=4
+
+{NN_}{NN_ dark}{JJ_} sup=3
+
+{wench} sup=12
+
+{VB_ need}{RB_} sup=3
+
+{VB_}{NNS_} sup=79
+{VB_ know}{VBN_}{NN_} sup=7
+
+{VB_ get}{JJ_} sup=8
+
+{NN_ mind} sup=7
+
+{VBN_ win}{NN_} sup=10
+
+{IN_ beneath} sup=3
+
+{VBN_}{IN_}{VBN_} sup=2
+
+{feed} sup=2
+
+{MD_}{VBN_} sup=6
+
+{NNS_}{VBP_ stand}{NN_} sup=3
+
+{NN_}{NN_ girl}{VBP_ know} sup=2
+
+{get}{RB_}{VB_} sup=3
+
+{NNS_ life}{VBP_} sup=4
+
+{JJ_ light} sup=3
+
+{VBD_ take}{NNS_}{NN_} sup=2
+
+{NN_ journey}{VB_}{NN_} sup=7
+
+{set}{JJ_} sup=5
+
+{search} sup=9
+
+{JJ_}{sleep} sup=3
+
+{one CD_}{RB_ ever}{JJ_ slow} sup=2
+
+{VB_ need} sup=4
+
+{VBN_}{NN_}{VBD_}{NN_} sup=6
+{JJ_ many}{NNS_}{NN_} sup=2
+
+{VB_}{another DT_}{NN_} sup=4
+
+{NN_}{VBG_ come}{NN_ home} sup=8
+
+{VB_}{VBP_}{NN_} sup=6
+{VB_ come} sup=20
+
+{IN_ till} sup=4
+
+{NN_ misery}{NN_ slaughter}{VBD_ leave}{NN_ burning}{NN_ wake} sup=2
+
+{crew}{NN_} sup=4
+
+{NN_ fire}{cannon VBZ_}{NN_ storm}{NNS_ wall} sup=2
+
+{NN_ holding} sup=2
+
+{NN_}{VBN_}{JJ_} sup=2
+
+{NNS_}{VBP_}{VBD_} sup=4
+
+{NNS_ sea}{quest VBP_}{VBN_ begin} sup=2
+
+{VBN_}{JJ_}{RB_} sup=2
+
+{die}{VBD_} sup=4
+
+{VB_}{RB_}{JJ_}{NN_} sup=8
+
+{come}{NN_ destiny} sup=3
+
+{JJ_ ol}{NN_ nancy}{NN_ care}{come VBZ_}{NN_ inn} sup=2
+
+{NN_}{JJ_}{NN_ fate} sup=4
+
+{like IN_}{VBN_} sup=3
+
+{bring} sup=13
+{NNS_ eye}{see VBP_} sup=3
+
+{NN_}{NN_ grey} sup=2
+
+{NN_}{NN_}{MD_ shall} sup=2
+
+{long}{RB_} sup=5
+
+{get}{JJ_ drunk} sup=8
+
+{NN_ ship} sup=10
+
+{NNS_ cannon} sup=7
+
+{RB_}{head} sup=4
+
+{get}{NN_}{NN_} sup=2
+
+{NN_ sail}{NN_}{NN_} sup=3
+
+{JJ_ mighty}{NN_ treasure}{NN_ hold} sup=2
+
+{NN_}{NN_}{NN_}{NNS_} sup=8
+{hill}{NN_} sup=3
+
+{JJ_}{soul}{NN_} sup=3
+
+{JJ_}{shine} sup=2
+
+{NNS_ mile}{RB_ away}{VBP_ love}{NN_ purpose}{RB_ hard}{VB_ find} sup=2
+
+{NNS_ demon}{VBP_ follow}{NN_ cause}{NN_ insanity} sup=6
+
+{NN_}{bleed} sup=3
+
+{NN_ raise}{NNS_}{NN_}{NN_} sup=7
+
+{bleed} sup=4
+
+{NNS_}{NN_ ale} sup=7
+
+{NN_ curse}{NN_} sup=7
+
+{JJ_}{JJ_}{NN_ land} sup=2
+
+{NN_ cause}{NNS_ thing} sup=4
+
+{NNS_}{night} sup=4
+
+{blind} sup=2
+
+{pirate}{JJ_}{NN_} sup=5
+
+{steal VB_}{VB_ show}{JJ_ jolly}{NNS_ rogers}{VBP_ go} sup=5
+
+{UH_}{RB_} sup=5
+
+{VBN_}{NN_ destiny} sup=5
+
+{NNS_}{NN_}{come} sup=2
+
+{VB_}{VBP_}{JJ_} sup=3
+
+{NNS_}{VBP_ love} sup=4
+
+{shipwreck} sup=8
+
+{RB_ yet}{NN_} sup=4
+
+{JJ_}{NNS_ year}{RB_ ago} sup=2
+
+{see}{NN_}{NN_} sup=13
+{NN_}{see}{NN_} sup=10
+{day}{life} sup=3
+
+{NN_ pirate}{NN_}{NN_} sup=2
+
+{VB_}{around} sup=5
+
+{cause}{VB_} sup=8
+
+{us PP_}{JJ_} sup=5
+
+{VBD_}{JJ_}{NN_}{JJ_} sup=2
+
+{NN_ hope}{NN_ savior} sup=2
+
+{JJ_}{NN_ nothing}{matter} sup=2
+
+{NNS_}{NN_}{NNS_} sup=6
+
+{JJ_ black}{NN_} sup=9
+
+{NN_ mine}{NN_ time} sup=2
+
+{feel}{VBN_} sup=3
+
+{NNS_}{tell} sup=7
+
+{deep}{RB_} sup=2
+
+{IN_}{VBG_}{NN_} sup=4
+
+{VBP_}{VBD_} sup=5
+
+{RB_ easy} sup=5
+
+{VB_}{VBG_}{NN_ killing} sup=3
+
+{VB_}{sea} sup=4
+
+{NN_ hope}{NN_}{JJ_} sup=2
+
+{life}{VB_} sup=2
+
+{NN_}{hand} sup=15
+{VBG_ break}{apart RP_}{NNS_ one}{VBP_ love} sup=2
+
+{RB_}{RB_ always} sup=5
+
+{cause VB_}{RB_ really}{RB_ always}{VBD_ know}{JJ_ little}{NN_ crime} sup=3
+
+{get}{NN_}{RB_ yeah} sup=2
+
+{NN_ nightmare}{JJ_ full}{NN_} sup=5
+
+{NN_ ride}{NN_ huntmaster} sup=2
+
+{JJ_ close}{NNS_ eye}{RB_} sup=3
+
+{NN_}{NNS_ word} sup=5
+
+{RB_ never}{VBN_}{NN_}{NN_} sup=5
+
+{VBD_}{take}{NN_} sup=2
+
+{JJ_ many}{NNS_ year} sup=4
+
+{NN_ look}{VBP_}{NN_} sup=3
+
+{VBG_ live}{JJ_}{NN_}{NNS_} sup=3
+
+{NN_}{NN_}{might} sup=5
+
+{ship}{JJ_}{NN_} sup=4
+
+{NN_}{NN_ rain} sup=3
+
+{NN_}{VBD_}{VBN_}{RB_} sup=3
+
+{NN_ cause}{NN_} sup=19
+
+{VB_}{back RB_} sup=20
+
+{NNS_}{RB_}{VBN_} sup=6
+{NN_}{NNS_ memory} sup=3
+
+{help} sup=9
+
+{VBN_ win}{JJ_} sup=4
+
+{across IN_}{NN_} sup=4
+
+{point} sup=3
+
+{NNS_}{draw}{NN_}{NN_} sup=2
+
+{JJ_}{NN_}{NNS_}{JJ_} sup=2
+
+{RB_}{RB_}{JJ_} sup=20
+
+{VB_}{back RB_}{NN_ beer}{NNS_} sup=2
+
+{NN_ house} sup=2
+
+{NN_}{stand}{NN_} sup=6
+
+{NN_}{JJ_ thin} sup=3
+
+{NN_}{NN_}{VBP_ know} sup=2
+
+{CD_}{CD_ hundred}{NNS_} sup=4
+
+{VBZ_ know}{NNS_} sup=2
+
+{RB_ well}{NN_} sup=2
+
+{friend} sup=28
+{NN_}{NN_ thing} sup=4
+
+{speak} sup=3
+
+{VBN_}{man} sup=6
+
+{VBN_ go}{NN_}{NN_} sup=3
+
+{NN_}{RB_ ever} sup=3
+
+{VBG_ fight} sup=5
+
+{VB_ know}{VB_ make}{VB_ wanna}{NN_ scream} sup=3
+
+{till} sup=5
+
+{NN_}{get} sup=6
+
+{NN_}{NN_ vengeance}{NN_} sup=2
+
+{VBN_}{VB_}{way} sup=2
+
+{search}{NN_}{NN_} sup=5
+
+{take}{JJ_} sup=7
+
+{NN_}{cutlass}{NN_} sup=3
+
+{VBG_}{RP_}{RB_}{RB_ long} sup=4
+
+{NN_ show}{NN_}{NN_} sup=3
+
+{NNS_ tale}{VBD_} sup=7
+
+{NN_ look}{NN_ face}{VBP_ pierce}{JJ_ blank}{NN_ stare} sup=2
+
+{JJ_ confident} sup=2
+
+{NN_}{VBD_}{away} sup=2
+
+{VBN_}{NNS_}{NN_}{VBG_} sup=2
+
+{VBP_}{RB_ right} sup=12
+
+{kill}{JJ_}{NN_} sup=4
+
+{RB_}{VB_}{one} sup=3
+
+{hear}{NN_} sup=5
+
+{NN_}{face}{NN_}{NN_} sup=2
+
+{NNS_}{RB_ never} sup=3
+
+{MD_ can}{VB_} sup=3
+
+{JJ_}{VBD_}{NNS_} sup=4
+
+{JJ_}{NNS_} sup=147
+{sail}{NN_}{NN_} sup=5
+
+{back RB_}{NN_}{NN_} sup=3
+
+{go}{RB_}{VB_} sup=4
+
+{RB_}{take} sup=6
+
+{VB_ get}{NN_} sup=8
+{fear}{RB_} sup=4
+
+{RB_}{NN_}{go} sup=5
+
+{friend}{NN_} sup=5
+
+{NN_}{NN_ gold} sup=4
+
+{VB_ leave}{NN_ memory} sup=2
+
+{NN_ pleasure}{NN_} sup=4
+
+{NN_}{NN_}{NN_}{JJ_}{NN_} sup=11
+{NN_}{NN_}{NN_ rest} sup=3
+
+{NN_ way}{VB_} sup=2
+
+{like IN_}{NN_}{VBN_} sup=2
+
+{JJ_}{NN_ man} sup=10
+{NNS_ eye} sup=26
+{would MD_}{NN_} sup=6
+
+{JJ_ faraway}{NN_ land} sup=2
+
+{VB_ wanna}{NN_} sup=8
+
+{JJ_}{NN_ hell} sup=3
+
+{would MD_}{VB_}{NN_} sup=3
+
+{NN_ place}{wanna} sup=3
+
+{NNS_}{NN_}{VBD_} sup=11
+{VB_}{JJ_ stuck} sup=4
+
+{JJ_}{NN_}{IN_}{NN_} sup=2
+
+{NN_}{RBR_} sup=3
+
+{JJ_}{NN_}{NN_ day} sup=3
+
+{change} sup=14
+
+{NN_ hand} sup=13
+{VB_ quit}{VBG_ run}{RB_ away} sup=3
+
+{NNS_}{go} sup=22
+{JJ_ ready}{NN_} sup=2
+
+{VBG_}{body} sup=5
+
+{NN_ head} sup=5
+
+{d SYM_}{VBN_} sup=8
+{VBG_}{NNS_}{RB_} sup=3
+
+{RB_}{IN_} sup=7
+
+{NN_ scream}{NN_}{NN_} sup=5
+
+{JJ_}{NNS_}{VBP_}{NNS_} sup=2
+
+{VBG_ wait} sup=3
+
+{JJ_}{NNS_}{go} sup=6
+
+{NN_ terror}{JJ_ high}{NNS_ sea} sup=4
+
+{NNS_}{look}{RB_} sup=3
+
+{take}{NN_}{NN_}{JJ_} sup=3
+
+{VBG_ look}{NN_} sup=4
+{NN_ time}{VBZ_}{NN_} sup=4
+
+{RB_}{NN_} sup=129
+{NN_ fate}{NNS_} sup=3
+
+{VBN_}{live} sup=2
+
+{IN_ upon}{NN_} sup=2
+
+{VBN_}{VBD_ know} sup=3
+
+{NN_ beast} sup=4
+
+{set}{VB_ conquer}{NN_} sup=5
+
+{MD_}{VB_}{RB_}{JJ_} sup=2
+
+{NN_}{NNS_ wave} sup=5
+
+{tell} sup=22
+{VBN_}{fear} sup=5
+
+{VB_}{NNS_}{NNS_} sup=7
+{NN_}{VBP_}{go} sup=2
+
+{NN_}{VBP_ go} sup=2
+
+{VBZ_}{VBN_}{NN_} sup=2
+
+{VBD_}{VBP_}{JJ_}{NN_} sup=2
+
+{VBG_}{JJ_}{NNS_} sup=13
+
+{believe}{VB_} sup=3
+
+{JJ_ first}{NN_}{NN_} sup=2
+
+{VBG_}{JJ_}{NN_}{NN_} sup=2
+
+{VB_}{VB_}{JJ_}{NN_} sup=9
+{JJ_ young} sup=8
+
+{VBN_ pull}{NN_ watch}{JJ_ eternal}{NN_ sleep} sup=2
+
+{see}{NN_}{VB_}{NN_} sup=2
+
+{NN_}{one} sup=14
+
+{NN_}{taste} sup=5
+
+{sin} sup=15
+{NN_}{RB_}{know} sup=5
+
+{set}{NN_ sail} sup=9
+
+{cannon}{NNS_} sup=6
+
+{NN_}{face}{NN_} sup=4
+
+{NN_}{strike}{NN_}{NNS_} sup=2
+
+{time}{JJ_} sup=7
+
+{one PP_}{VBZ_} sup=2
+
+{NN_ quest}{NN_} sup=4
+
+{NN_ leave}{VBD_} sup=4
+
+{VB_}{NNS_}{VBG_} sup=3
+
+{NN_ world}{JJ_ wrong} sup=3
+
+{another DT_}{NN_}{NN_} sup=4
+
+{NN_}{VBD_}{NN_}{NN_} sup=18
+{break}{NNS_} sup=8
+
+{VB_}{RB_ always}{JJ_} sup=4
+
+{smile}{JJ_}{NN_} sup=2
+
+{wanna}{VB_}{NN_} sup=2
+
+{JJ_}{VBN_}{NNS_} sup=6
+
+{run}{VBD_} sup=3
+
+{VBG_ live}{JJ_}{NN_}{JJ_} sup=3
+
+{won}{VB_} sup=7
+
+{IN_}{JJ_}{NN_}{NN_}{NN_} sup=2
+
+{PP_}{NN_}{NN_} sup=9
+
+{JJ_ learned}{NNS_ year}{VBN_ go}{one CD_}{NN_ care} sup=2
+
+{NN_}{NN_}{NN_ waiting} sup=3
+
+{JJ_ last}{JJ_}{NN_} sup=2
+
+{tale} sup=10
+
+{JJ_}{light} sup=8
+{dead} sup=18
+{NN_}{cause} sup=5
+
+{back RB_}{RB_}{JJ_}{NN_} sup=3
+
+{come}{JJ_}{NNS_} sup=4
+
+{NN_ raise}{NNS_ tankard}{NN_ ale}{NN_ sky} sup=6
+
+{confide}{NN_} sup=5
+
+{VB_}{find} sup=2
+
+{NN_ time}{come VBP_} sup=4
+
+{well RBR_} sup=3
+
+{NNS_}{NN_}{RB_} sup=8
+{RB_}{RB_ long} sup=9
+
+{JJ_}{NN_ night} sup=12
+{MD_}{RB_}{VB_}{NN_} sup=2
+
+{day}{VBP_} sup=3
+
+{NN_}{JJ_ final}{NN_} sup=2
+
+{win}{NNS_} sup=3
+
+{NN_}{VBD_}{NN_ sea} sup=7
+
+{know}{JJ_}{NN_} sup=11
+{JJ_ endless} sup=6
+
+{JJ_ last}{NN_ time} sup=3
+
+{know}{NN_ place} sup=2
+
+{VB_ wanna} sup=14
+
+{NN_}{come}{JJ_}{NN_} sup=2
+
+{NN_}{JJ_ days.}{JJ_}{NNS_} sup=2
+
+{like}{VBN_} sup=4
+
+{NN_}{VB_}{another DT_}{NN_} sup=3
+
+{VB_ run}{VB_ hide} sup=2
+
+{JJ_}{NN_}{VBD_}{NNS_} sup=2
+
+{JJ_ many}{NN_ year}{NNS_} sup=2
+
+{NNS_}{VBD_}{VBG_}{NN_} sup=2
+
+{go}{RB_ far} sup=7
+
+{live}{JJ_} sup=8
+{face}{NN_}{NN_} sup=2
+
+{JJ_ buckfast}{NN_ powersmash} sup=8
+
+{ha NP_}{NP_} sup=2
+
+{JJ_}{RB_}{VBG_} sup=4
+
+{NN_ time}{come VBP_}{NN_}{NN_} sup=2
+
+{NN_}{RB_}{VB_} sup=22
+{VB_ breathe} sup=5
+
+{NN_ fall} sup=18
+{look}{way}{NN_} sup=6
+
+{NN_}{VBD_}{NN_}{NNS_} sup=10
+{NN_}{VB_}{RB_} sup=15
+{VBN_}{NN_ die} sup=3
+
+{NN_ fear}{NN_}{JJ_} sup=3
+
+{VB_ take}{NN_}{NN_} sup=7
+
+{VBP_ belong} sup=4
+
+{NN_ compromise} sup=2
+
+{JJ_}{NN_ sin} sup=4
+
+{RB_}{RB_}{RB_} sup=12
+
+{VBN_}{JJ_}{VBD_} sup=4
+
+{RB_}{VBN_}{NN_ time}{RB_ yeah} sup=2
+
+{NN_ time}{RB_ yeah} sup=3
+
+{please UH_}{VB_} sup=4
+
+{VB_ ride} sup=4
+
+{JJ_ new} sup=4
+
+{VBN_ lose}{NN_} sup=10
+
+{RB_ yet}{NN_}{NNS_} sup=2
+
+{IN_}{NN_} sup=52
+{true}{NN_} sup=2
+
+{RB_}{NN_ life} sup=9
+
+{matter} sup=9
+
+{VB_}{VB_}{NN_ peace} sup=2
+
+{VB_}{RB_}{RB_}{NN_} sup=6
+
+{RB_ away}{VB_} sup=7
+
+{NNS_}{JJ_}{NNS_}{VBD_} sup=2
+
+{VBP_}{VB_}{VB_} sup=7
+
+{NN_ gold}{NN_} sup=3
+
+{VBN_ set}{NN_ sail}{JJ_}{NN_} sup=2
+
+{NNS_ memory}{VBP_ remain} sup=2
+
+{NNS_}{VBD_}{NNS_}{NN_} sup=4
+
+{JJ_}{NN_ grey} sup=2
+
+{NN_}{NN_}{NN_ tale} sup=2
+
+{JJ_ hard}{NN_} sup=4
+
+{JJ_ little} sup=3
+
+{JJ_}{NN_ curse} sup=2
+
+{VBN_ set}{NN_ sail}{JJ_} sup=4
+
+{VBN_}{JJ_}{NNS_}{NN_} sup=3
+
+{NN_ pirate}{JJ_} sup=2
+
+{RB_}{feel} sup=3
+
+{PP_}{would MD_}{VB_} sup=2
+
+{PP_ us} sup=19
+
+{VB_}{hand} sup=8
+{NN_ friend}{VBD_}{VB_} sup=2
+
+{come}{NN_}{NN_ time} sup=2
+
+{NN_}{RB_}{away} sup=6
+
+{come}{VB_}{NN_} sup=8
+
+{one} sup=87
+{go}{JJ_} sup=12
+{CD_ two}{VBD_} sup=2
+
+{sail}{JJ_}{NNS_} sup=5
+
+{captain NN_}{NN_} sup=11
+
+{NNS_}{friend} sup=7
+
+{NNS_ eye}{VBP_}{VB_} sup=3
+
+{VBN_}{JJ_}{JJ_}{NNS_} sup=2
+
+{RB_}{take}{NN_} sup=5
+
+{NN_ girl} sup=6
+
+{JJ_}{NN_}{go} sup=2
+
+{catch}{NN_} sup=2
+
+{NN_}{stand} sup=9
+
+{RB_}{one}{JJ_} sup=3
+
+{JJ_ first} sup=3
+
+{VB_}{VB_ jug}{JJ_ famous}{NNS_ ol}{VBD_ spice} sup=5
+
+{treasure}{JJ_} sup=5
+
+{RB_ nowhere}{VBN_ run}{NN_ hide} sup=2
+
+{right} sup=38
+
+{NN_ map} sup=3
+
+{VBG_}{NN_}{VBD_} sup=2
+
+{kill}{NN_}{NN_} sup=2
+
+{NN_}{NN_}{VBN_}{NN_} sup=7
+
+{NN_}{VB_ let}{VB_} sup=2
+
+{NN_ hate}{VBZ_ run}{RB_ deep}{VBN_ do}{PP_ us} sup=2
+
+{VBZ_}{NN_ barrel}{NN_} sup=2
+
+{MD_ could}{VB_}{NN_} sup=5
+
+{VBG_}{away} sup=14
+
+{look}{JJ_} sup=4
+
+{hard}{NN_} sup=5
+
+{RB_}{VB_}{NN_ friend} sup=3
+
+{lead}{us PP_}{NN_} sup=5
+
+{VB_}{VB_}{NN_ til}{NN_} sup=3
+
+{NN_}{NNS_}{VBD_ know} sup=2
+
+{VB_ throw} sup=5
+
+{JJ_}{year}{VBD_} sup=4
+
+{RB_}{find} sup=5
+
+{NN_}{burn} sup=4
+
+{NN_}{VBD_}{tonight} sup=3
+
+{VB_ need}{VB_} sup=3
+
+{NN_}{back RB_}{JJ_}{NN_} sup=2
+
+{leave}{VBN_} sup=4
+
+{JJ_ good}{NNS_} sup=5
+{cause}{VB_ die} sup=5
+
+{JJ_}{VBD_}{go} sup=2
+
+{NN_ direction} sup=3
+
+{VBZ_}{RB_}{NN_} sup=7
+
+{JJ_}{see}{NN_} sup=2
+
+{NN_}{JJ_ old} sup=3
+
+{ship}{NN_} sup=6
+
+{UH_}{UH_ hey} sup=21
+
+{UH_}{VB_}{NN_} sup=4
+
+{NN_ time}{JJ_} sup=6
+
+{RB_}{go} sup=11
+
+{RB_ far}{RB_ away} sup=11
+
+{RB_}{VBD_}{VB_} sup=4
+
+{NN_ mine} sup=3
+
+{JJ_}{VBP_ know} sup=3
+
+{NN_ skin} sup=2
+
+{need}{RB_} sup=4
+
+{VB_ take} sup=39
+{RB_ alright} sup=6
+
+{VBZ_}{inside} sup=3
+
+{JJ_ full}{NN_} sup=12
+{NN_}{NN_ life}{NN_} sup=2
+
+{burn} sup=9
+{VBN_}{NN_}{JJ_} sup=21
+{JJ_}{NN_ sea} sup=11
+
+{NN_ soul}{NN_} sup=2
+
+{JJ_ black}{NN_ spot}{NN_ hand} sup=2
+
+{NN_}{tale} sup=4
+
+{VBN_}{NN_}{NN_ sail} sup=2
+
+{NN_ god}{VB_} sup=4
+
+{JJ_}{NNS_}{MD_}{VB_} sup=2
+
+{NN_ heart}{NN_} sup=11
+{NN_}{memory} sup=5
+
+{NN_}{IN_ along}{RB_} sup=2
+
+{VB_}{away} sup=19
+
+{NN_ lust}{NN_ burning}{NN_ desire} sup=2
+
+{NN_ slaying}{NNS_} sup=6
+
+{RB_}{see VB_} sup=3
+
+{NN_ ride} sup=10
+
+{CD_}{NN_ time} sup=3
+
+{JJ_}{IN_}{VBG_}{NN_} sup=2
+
+{NNS_ thing}{VBN_} sup=3
+
+{RB_}{one} sup=4
+
+{VBG_ follow}{JJ_ wrong}{NNS_ step}{VBD_ lead}{NN_ pride} sup=5
+
+{heart}{NN_} sup=18
+{VB_}{one CD_} sup=6
+
+{memory} sup=12
+
+{NN_ price} sup=8
+{VB_ believe} sup=4
+
+{know}{JJ_}{NN_}{NN_} sup=2
+
+{VB_ raise}{NN_ fist}{NN_ sky} sup=2
+
+{VB_ hear}{NNS_} sup=3
+
+{NN_ look} sup=9
+
+{NN_ punishment}{VBD_ send}{NN_ hand} sup=2
+
+{fall} sup=27
+{NN_ burn}{NN_} sup=3
+
+{JJ_}{NNS_ eye}{RB_} sup=5
+
+{JJ_}{NN_ quest} sup=4
+
+{VBP_ look}{RB_}{VB_}{NN_} sup=5
+
+{NN_ city} sup=3
+
+{time}{VB_} sup=9
+
+{VBN_}{NN_ nothing} sup=5
+
+{VBP_}{go}{JJ_} sup=5
+
+{NNS_}{NNS_ sea} sup=5
+
+{NN_ time}{fear} sup=2
+
+{VB_}{run}{NN_} sup=5
+
+{NN_}{wanna} sup=6
+
+{NN_}{VBZ_ lie} sup=2
+
+{nothing}{VB_ take}{JJ_ back}{NN_ time} sup=4
+
+{know}{NN_}{us PP_} sup=2
+
+{JJ_}{NNS_}{RB_ ago} sup=3
+
+{VB_ know}{JJ_ hard}{NN_ fall} sup=2
+
+{NN_}{NN_}{foe} sup=4
+
+{NN_}{NN_ blood}{NNS_} sup=7
+
+{lend}{NN_} sup=2
+
+{NNS_}{VBP_}{JJ_} sup=19
+{NN_}{JJ_}{NN_ time} sup=3
+
+{RB_ never}{VBG_} sup=6
+
+{NNS_ won}{VBP_} sup=10
+
+{NN_ wall} sup=3
+
+{NN_}{JJ_ dead}{NN_} sup=2
+
+{set}{JJ_}{NN_} sup=3
+
+{NN_}{NN_}{VBN_} sup=21
+{VBD_ swear}{NN_} sup=2
+
+{VBN_}{VBD_}{NN_} sup=12
+{JJ_}{VBG_ call}{NN_} sup=2
+
+{NN_}{NN_ disease} sup=2
+
+{one PP_}{know} sup=4
+
+{VBG_}{step} sup=6
+
+{move}{NN_}{NN_} sup=2
+
+{attack} sup=3
+
+{fall}{NN_}{JJ_}{NN_} sup=4
+
+{VBD_}{IN_}{NN_} sup=2
+
+{VBP_ look}{RB_ way}{VB_ breathe}{NN_ way} sup=4
+
+{JJ_ many}{MD_}{VB_} sup=2
+
+{VB_ get}{JJ_ drunk} sup=7
+
+{RB_}{NN_}{MD_}{VB_} sup=5
+
+{barrel}{NN_}{NNS_} sup=2
+
+{NN_ person} sup=5
+
+{VB_}{JJ_}{JJ_}{NN_} sup=6
+{VB_}{NN_}{JJ_} sup=18
+{MD_ would}{VB_}{NNS_}{NN_} sup=2
+
+{VBD_ lose}{NN_} sup=7
+
+{NN_ girl}{VBP_ know} sup=5
+
+{MD_}{RB_}{VB_} sup=8
+{VB_ take}{mine}{NN_} sup=2
+
+{VBG_ run}{NNS_} sup=2
+
+{RB_ much}{RB_ far}{RB_ away} sup=3
+
+{NN_}{would MD_}{RB_} sup=3
+
+{NNS_ piece} sup=5
+
+{NN_ sea}{NN_} sup=2
+
+{IN_ without}{NN_} sup=5
+
+{VBP_ say} sup=8
+{strong}{RB_} sup=2
+
+{VBZ_}{NNS_}{NN_} sup=3
+
+{NN_ treasure}{NN_} sup=8
+
+{go}{NN_} sup=28
+{VB_ end}{VBG_ knock} sup=4
+
+{NNS_ yer}{IN_ like}{VBN_ fight}{VBN_ die} sup=2
+
+{VB_ please}{NN_ question} sup=2
+
+{NNS_}{JJ_}{VBG_} sup=2
+
+{man}{NN_}{NN_} sup=4
+
+{NN_ cut}{NN_} sup=2
+
+{NN_ curse} sup=11
+
+{VBD_}{us PP_}{NN_} sup=6
+
+{NN_ lust}{NN_ gold}{NN_ power}{NN_ steel} sup=2
+
+{NN_}{VBZ_}{NN_} sup=29
+{side} sup=8
+
+{VB_}{VB_}{JJ_ famous}{NNS_ ol}{VBD_ spice} sup=6
+
+{CD_}{NNS_}{NN_} sup=7
+
+{d} sup=23
+{VB_}{back RB_}{RB_}{NN_} sup=3
+
+{gotta} sup=15
+
+{JJ_}{NN_}{us PP_}{DT_}{NN_} sup=2
+
+{JJ_}{NN_}{VBP_} sup=9
+{thing} sup=16
+
+{NN_}{NN_ existence} sup=2
+
+{CD_}{NNS_ year} sup=4
+
+{VB_ raise}{NN_}{NN_} sup=5
+
+{NN_}{JJ_}{JJ_ past} sup=2
+
+{good}{friend} sup=5
+
+{NN_}{VBD_}{sea} sup=8
+
+{problem} sup=2
+
+{NNS_ won}{see VBP_}{RB_ tonight} sup=2
+
+{NNS_}{NN_}{VB_} sup=2
+
+{NN_}{NN_ rest} sup=4
+
+{make}{RB_} sup=7
+{quest}{JJ_}{NN_} sup=2
+
+{VB_ leave}{NN_} sup=4
+
+{NNS_ won}{VBP_}{RB_} sup=6
+
+{need}{NN_} sup=6
+
+{land} sup=14
+
+{VBG_}{NNS_ feeling} sup=4
+
+{VBP_ know} sup=19
+{VBG_}{RB_ far} sup=2
+
+{NN_}{NN_ huntmaster}{NN_} sup=2
+
+{expose} sup=3
+
+{come}{back RB_}{JJ_ mighty}{NN_ quest} sup=2
+
+{NN_}{come} sup=45
+{NN_}{NNS_ mind} sup=2
+
+{RB_}{JJ_}{NNS_ sea} sup=2
+
+{NN_ crew}{VBD_ set}{NN_} sup=2
+
+{JJ_ many}{JJ_} sup=3
+
+{NNS_ sail} sup=5
+
+{spend}{VBG_} sup=2
+
+{JJ_}{JJ_}{NN_}{VBD_} sup=7
+
+{promise} sup=3
+
+{VB_}{IN_}{NN_} sup=8
+
+{find}{NN_}{JJ_} sup=2
+
+{rise}{RB_} sup=3
+
+{VB_ tell}{NN_} sup=2
+
+{VBN_}{VBG_}{RB_} sup=5
+
+{JJ_ right}{NN_} sup=2
+
+{VB_ sail}{JJ_ endless}{NNS_ ocean} sup=2
+
+{NN_ walk} sup=4
+
+{home} sup=9
+
+{VB_ find} sup=9
+{VBN_}{JJ_ back} sup=4
+
+{NN_}{NN_ pirate}{NN_} sup=5
+
+{MD_ could}{VB_ go}{back RB_}{VB_ make}{NN_ amends} sup=3
+
+{kill VBN_}{NN_} sup=2
+
+{MD_ must} sup=7
+
+{NN_}{VBD_ win} sup=5
+
+{RB_}{come} sup=5
+{VBG_ lead}{us PP_}{JJ_ grave} sup=4
+
+{VBN_}{NN_}{NN_} sup=63
+{NN_ time} sup=83
+{RB_ away}{NN_}{VB_} sup=6
+
+{NN_}{VBD_}{JJ_}{NN_} sup=14
+{NN_}{NNS_} sup=210
+{JJ_}{NN_}{VBD_ lose} sup=7
+
+{NN_ hell}{NN_} sup=2
+
+{JJ_}{NNS_}{NN_ friend} sup=6
+
+{barrel}{NN_} sup=9
+
+{VBP_}{JJ_}{NN_}{NNS_} sup=2
+
+{VBN_}{away} sup=9
+
+{IN_ like} sup=9
+
+{VBD_}{VB_ let}{VB_} sup=4
+
+{NN_ day}{NN_} sup=4
+
+{RB_ never}{NN_} sup=11
+
+{VB_}{inside} sup=4
+
+{VB_}{VB_ wanna}{NN_} sup=7
+
+{NN_}{NN_ sky} sup=10
+
+{VBZ_ feel}{RB_ alright}{NN_ til}{NN_ pay}{NN_ price} sup=3
+
+{VB_}{VBG_}{RB_} sup=5
+
+{NN_}{NN_}{NN_ somebody} sup=4
+
+{VBG_}{VBG_}{NN_} sup=2
+
+{belong} sup=7
+
+{NN_}{VBD_}{let}{VB_} sup=3
+
+{NNS_}{JJ_}{NNS_} sup=13
+{live}{NN_ day} sup=3
+
+{IN_}{one} sup=3
+
+{VBN_ gotta} sup=9
+
+{lose}{NN_ fight} sup=2
+
+{JJ_ perfect} sup=5
+
+{JJ_}{RB_} sup=44
+{NN_}{NN_}{would MD_} sup=3
+
+{NN_}{VB_ ignore} sup=3
+
+{VBG_}{RB_ yeah} sup=3
+
+{NN_}{another DT_}{NN_} sup=11
+{NN_ hope}{VBD_ lose}{VBN_ go}{RB_ far} sup=2
+
+{JJ_}{NNS_}{JJ_ young} sup=2
+
+{RB_}{VBP_}{RB_} sup=3
+
+{make VBD_} sup=4
+
+{NN_ place}{RB_} sup=2
+
+{tear}{NN_} sup=8
+{IN_}{JJ_} sup=11
+{touch} sup=4
+
+{RB_ never}{VBN_ live}{NN_ fear}{VBD_ know}{NN_ d}{VB_ die}{another DT_}{NN_ day} sup=2
+
+{JJ_ top} sup=2
+
+{VBD_ love} sup=3
+
+{inside}{head} sup=4
+
+{RB_}{JJ_ young}{RB_} sup=2
+
+{MD_ may}{NN_} sup=2
+
+{JJ_ deep} sup=9
+
+{NN_}{VBZ_ begin} sup=3
+
+{NN_}{sail} sup=6
+
+{JJ_ good}{NN_} sup=3
+
+{VBP_}{JJ_} sup=54
+{VBN_}{captain NN_}{NN_} sup=3
+
+{NN_}{NN_}{gotta} sup=9
+
+{UH_ oh}{VB_} sup=2
+
+{NN_ thing} sup=6
+
+{NN_}{VBG_}{VBG_} sup=2
+
+{JJ_ black}{NNS_ sail}{NN_ midnight} sup=4
+
+{RB_}{JJ_}{NNS_} sup=5
+
+{NN_}{time}{NNS_} sup=2
+
+{NN_ life}{JJ_} sup=5
+{NNS_}{fire} sup=4
+
+{VB_ know}{PP_} sup=6
+
+{NN_}{NNS_}{MD_}{VB_} sup=3
+
+{NN_}{leave} sup=3
+
+{NN_ way} sup=31
+{IN_}{JJ_}{NN_}{NN_} sup=3
+
+{VBN_ go}{RB_} sup=11
+
+{NNS_ wench}{NN_} sup=3
+
+{RB_}{MD_} sup=5
+
+{gold} sup=9
+
+{NN_ grace}{NN_} sup=3
+
+{NN_ turn}{NN_} sup=7
+
+{show}{VBP_} sup=7
+
+{NN_}{RB_ nigh} sup=2
+
+{RB_}{RB_ away} sup=16
+
+{VBG_ cherish}{NNS_ feeling}{VBG_ pleasure} sup=3
+
+{back RB_}{RB_}{JJ_} sup=13
+
+{VB_}{NN_}{NN_}{VBP_} sup=7
+{NN_}{NN_}{NNS_}{NN_} sup=7
+
+{NN_ reason} sup=2
+
+{NN_ n}{NN_} sup=14
+
+{NNS_ affect}{NNS_ one}{RB_ around} sup=2
+
+{MD_ would}{VB_}{NN_} sup=4
+
+{NNS_}{VBP_}{VB_} sup=15
+{wonder} sup=2
+
+{JJ_}{NN_ taste} sup=3
+
+{JJ_}{night} sup=4
+
+{NNS_ land} sup=5
+
+{NN_ head}{NN_} sup=3
+
+{look}{RB_} sup=13
+{JJ_}{NN_ fall} sup=4
+
+{MD_}{VB_} sup=67
+{RB_ never}{VBG_}{NN_} sup=2
+
+{pirate}{VBP_}{JJ_} sup=5
+
+{NN_}{NNS_}{NN_ life} sup=4
+
+{watch}{NNS_} sup=3
+
+{IN_} sup=67
+{NN_ life}{VBP_}{RB_} sup=3
+
+{one}{NN_} sup=54
+{long}{NN_} sup=3
+
+{RB_ enough} sup=9
+
+{NN_ stare}{NN_ way}{RB_ anymore} sup=4
+
+{DT_}{NN_ day} sup=3
+
+{VB_}{back RB_}{NN_ time} sup=6
+
+{NNS_ tale}{VBD_ tell} sup=6
+
+{NNS_ memory}{VBP_} sup=3
+
+{NN_ d}{NN_} sup=5
+
+{NN_}{MD_}{RB_}{JJ_} sup=2
+
+{VBN_ darken}{NNS_ eye}{see VBP_} sup=2
+
+{search}{NN_ way} sup=2
+
+{NN_ crash}{NN_} sup=2
+
+{RB_}{VBD_}{NNS_} sup=2
+
+{NN_ fight}{NN_ huntmaster} sup=2
+
+{JJ_ cold}{NN_} sup=11
+{NNS_}{time} sup=7
+
+{map}{VBN_} sup=2
+
+{VB_ get}{JJ_ drunk}{MD_ can}{VB_ think} sup=2
+
+{like IN_}{VBN_}{NN_} sup=2
+
+{JJ_}{tonight} sup=4
+
+{NNS_}{NN_ glory} sup=2
+
+{VBP_} sup=246
+{come}{RB_}{RB_} sup=14
+
+{VB_ tear}{NN_} sup=2
+
+{VBG_}{RP_} sup=7
+
+{give VB_}{NN_}{NN_} sup=3
+
+{NN_ moving}{seem VBD_}{JJ_ somber}{NN_ bliss} sup=2
+
+{barrel}{NN_}{NN_} sup=2
+
+{NN_ pain} sup=13
+
+{NNS_ sword}{VBD_}{NN_} sup=2
+
+{set}{NN_ sail}{NNS_} sup=5
+
+{NN_ change} sup=5
+
+{JJ_ endless}{NN_} sup=3
+
+{VB_}{one} sup=16
+{NN_}{NN_ curse} sup=5
+
+{VB_}{back RB_}{RB_}{JJ_} sup=12
+
+{VB_}{JJ_}{JJ_}{NN_ beer} sup=2
+

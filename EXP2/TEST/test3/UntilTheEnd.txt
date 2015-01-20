@@ -1,0 +1,19 @@
+{us}{worry}	sup=2
+{life}{move}{stay}	sup=2
+{go}	sup=2
+{friend}	sup=2
+{story}	sup=2
+{move}{faster}	sup=2
+{yeah}	sup=2
+{hard}	sup=2
+{fall}{forward}	sup=2
+{sign}{slow}	sup=2
+{want}	sup=2
+{us}	sup=3
+{end}	sup=3
+{change}{way}{think}	sup=3
+{stay}	sup=3
+{way}	sup=4
+{life}	sup=5
+{move}	sup=5
+

@@ -1,0 +1,2624 @@
+{VBN_}{NNS_}{NN_}{RB_}
+{look}{way}{NN_}
+{see VB_}{RB_}
+{NN_ time}{VBZ_}
+{eat}
+{VBN_}{back}{JJ_}
+{RB_ yeah}{RB_}
+{IN_}{goodbye}
+{NN_}{NN_}{fall}
+{good}{NN_}{NN_}
+{VB_ take}{NN_}{NN_}{NN_}
+{NN_}{cause}{RB_}
+{VB_}{VB_}{time}
+{VBN_ run}{NN_ hide}
+{seem VBZ_}{NN_}
+{VBG_}{NN_}{JJ_}
+{JJ_ deep}{NN_}
+{place}{NN_}
+{VBD_}{NN_ time}
+{NNS_}{see VBP_}
+{VB_}{JJR_}{NN_}
+{NN_ something}{wrong}
+{NN_ watch}{NN_ call}{NN_ calling}
+{look}{VB_}{NN_}
+{JJ_}{NNS_ soul}
+{JJ_}{turn}{NN_}
+{RB_}{JJ_}{NN_ time}
+{VBZ_}{NN_}{NN_}
+{MD_ may}
+{NN_}{RB_}{JJ_}
+{forget}{RB_ away}
+{JJ_ selfish}{NN_}
+{NN_ time}{NNS_}
+{RB_}{VBN_}{NN_ time}
+{VB_ take}{NN_}{right}
+{lot}
+{perfect}{RB_}{JJ_}
+{JJ_}{NNS_ heart}
+{NNS_ won}{VBP_}{VB_}
+{VBN_ win}{NN_}{VBD_ die}
+{VBG_}{VB_}
+{VBN_}{NN_}{VBP_}
+{NNS_}{RB_ tonight}
+{know}{VBG_}{NN_}
+{NN_ d}
+{hope}{NN_}
+{one PP_}{MD_}{VB_}
+{control}
+{VBG_}{NN_}{VB_}
+{VB_}{VB_}{VB_}{NN_}
+{VB_}{VB_ make}
+{VBG_}{DT_ every}
+{NN_}{NN_}{JJ_}{NN_}
+{one}{RB_ around}
+{VB_ grow}
+{NN_ time}{VBG_}
+{VBD_}{NN_}{VBD_}{NN_}
+{JJ_}{take}
+{VB_}{NN_}{NN_}{JJ_}
+{NN_}{JJ_}{NNS_}
+{NN_ fade}
+{VBD_ know}{NN_}{VB_}
+{NN_}{MD_ could}{VB_}{NN_}
+{VB_ help}
+{see VBP_}
+{RB_}{VBD_}{NN_}
+{like IN_}{NN_}
+{one PP_}{VBD_ win}{NN_ care}
+{VBN_ go}{VBN_ go}
+{RB_ long}{NN_}
+{NN_}{NN_ grey}
+{JJ_}{see}
+{VB_ try}
+{JJ_ eternal}{NN_ rest}{NN_ time}
+{JJ_ human}{NN_}
+{NNS_ one}{RB_ around}
+{NN_}{NNS_ thing}
+{JJ_}{would MD_}
+{NN_}{one}{VBP_}
+{NN_}{RB_}{VBD_}
+{VBP_}{need}{NN_}
+{lead}{NN_}
+{RB_ far}{RB_ away}{NN_ land}{MD_ must}{VB_ go}
+{RB_}{NN_}{RB_}
+{JJ_}{sign}
+{VB_}{VB_ think}
+{JJ_}{MD_}
+{grow}
+{VBZ_}{RB_}{VB_}{NN_}
+{NN_ cause}{NNS_}
+{NN_}{RB_}{RB_ away}
+{VBN_}{one CD_}{NN_}
+{back}{RB_}
+{NN_}{VB_ stand}{RB_}
+{VBG_}{one}
+{NN_ man}{NN_}{NN_}{NN_}
+{NN_ blood}
+{NN_}{find}
+{NNS_ eye}{RB_}
+{JJ_}{NN_}{NN_}{VBZ_}
+{NN_}{NN_ rest}{NN_ life}
+{NN_}{NNS_}{VBD_}
+{NNS_}{VBP_}{NN_}{NN_}
+{NN_ baby}{NN_ cry}
+{NN_ life}{JJ_ free}
+{VBN_}{back}{NN_}
+{VBD_ take}{NN_}{VBD_}{NN_}
+{NNS_}{RB_ around}
+{RB_}{VBN_}{NN_}
+{JJ_}{IN_}{NN_}
+{VB_ know}{VBN_}
+{VB_ find}{RB_}
+{VBD_ take}{NN_}
+{JJ_}{look}
+{leave}{JJ_}{NNS_}
+{PP_}{NN_}
+{JJ_}{NN_ light}
+{NN_}{PP_ us}
+{NNS_}{RB_}{VBP_}{NN_}
+{RB_}{VBN_}{RB_}
+{JJ_ insane}
+{NNS_ prayer}{make VBD_}{RB_ yeah}
+{NN_ price}{NN_ pay}{VBN_ gotta}{JJ_ strong}
+{VBD_ live}
+{JJ_ lost}{NNS_}
+{VBD_}{VBG_ fuck}
+{VBG_ fuck}
+{NN_}{one CD_}
+{VB_ ask}
+{VBN_ kill}
+{RB_}{JJ_ wrong}
+{RB_}{turn}
+{NN_}{JJ_ full}{NN_}
+{RB_}{slip}{away}
+{JJ_}{NN_}{NN_ time}
+{VB_}{NN_}{VBD_}
+{VB_}{time}{NNS_}
+{NN_}{NN_ call}
+{NNS_}{VBP_}{RB_}
+{VB_}{RB_}{VB_}{NN_}
+{NNS_ one}{VBP_ confide}{VBN_ go}{JJ_ black}{NN_ night}
+{love}{JJ_}
+{VBG_}{NN_}{NN_}{NN_}
+{NN_ god}
+{VB_}{VB_}{hide}
+{VBG_ haunt}{NN_}
+{move}{NN_}
+{feel}{NN_}{NN_}
+{VB_ know}{RB_}
+{JJ_}{NN_}{JJ_}{JJ_}
+{NN_}{JJ_ free}
+{NN_ nothing}{JJ_}{NN_}
+{VB_}{tonight}
+{VBN_}{RB_}{NN_}
+{NN_}{cold}
+{JJ_ closed}{NNS_ brother}{NNS_ eye}{RB_ tonight}
+{long}
+{reach}{NNS_}
+{NN_}{wait}
+{JJ_ grown}
+{call}{NN_}
+{NN_}{RB_}{RB_}
+{NN_ place}{JJ_}{NN_}
+{VBG_}{NN_ time}
+{JJ_ cold}{NN_}{NNS_}
+{NN_ face}{NN_}
+{NN_}{JJ_}{JJ_}{NN_}
+{know}{right}
+{RB_}{NN_ time}
+{see VB_}{JJ_ fine}{NN_ life}
+{want}{VBD_ win}
+{regret}
+{VBN_}{NN_}{NN_}{NN_}
+{JJ_}{NN_}{NN_}{VBP_}
+{MD_ must}{VBD_ stab}{fifty CD_}{VBG_ fuck}{NNS_ time}
+{walk}{NN_}
+{RB_}{PP_}
+{JJ_ last}{NN_}{RB_}
+{dark}{NN_}
+{go}{RB_ far}
+{JJ_}{light}{NN_}{NN_}
+{love}{NN_}
+{NNS_}{NNS_}{NN_}
+{NN_}{MD_}{VB_}
+{NNS_}{VBP_ change}
+{NN_}{back}{NN_}
+{NNS_ day}
+{NN_}{RB_}{VBG_}
+{VBN_ care}
+{choose}
+{NN_}{VBG_ come}{NN_ home}
+{NN_}{hold}
+{RB_ right}{JJ_ wrong}
+{NN_}{take}{NN_}
+{VBN_ leave}{VBN_}
+{VBP_}{NN_}{RB_}
+{VB_}{NN_ mind}
+{NN_}{JJ_}{NNS_}{go}
+{NNS_ prayer}{VBD_}
+{JJ_}{NN_ way}
+{JJ_}{bear}
+{night}{VBG_}
+{JJ_ past}{JJ_}{NN_}
+{VBN_}{JJ_}{NN_}{NNS_}
+{call}{VBD_}
+{NN_ scream}{NN_ life}{leave VBD_}{VBG_ vanish}
+{VBG_}{fight}
+{NN_ move}{NN_}
+{NN_ side}{NNS_ start}{VBP_ fade}
+{UH_}{NN_}
+{JJ_}{memory}
+{CD_ two}{RB_}
+{VB_ take}{NN_ time}
+{NNS_ one}{VBP_}
+{JJ_}{NNS_}{JJ_}
+{look}{NN_ way}
+{NN_}{RB_ near}
+{gotta}{RB_}
+{away}{RB_}
+{look}{see}{NN_}
+{VBG_}{VBN_}{NNS_}
+{NN_ way}{VBD_}
+{JJ_ last}{NN_}
+{love}{RB_}{RB_}{JJ_}
+{ask}{IN_}
+{NNS_}{NN_ pain}
+{much}
+{VB_}{RB_}{VBN_}
+{NN_}{leave VBD_}
+{RB_ right}{RB_}
+{VBD_ find}
+{time}{RB_}{RB_}
+{one}{RB_}{JJ_}
+{VBP_ acknowledge}{RB_ right}{VB_ dwell}{JJ_ wrong}
+{VBN_}{right}
+{JJ_}{NN_ d}{NN_}
+{NN_}{one CD_}{NN_}
+{NN_}{JJ_}{VBP_}{JJ_}
+{NN_}{JJ_ last}{NN_}
+{NNS_ friend}{VBD_}
+{NNS_}{turn}
+{VBG_ fuck}{NN_ bitch}
+{NNS_}{VBP_}{JJ_}{NN_}
+{NN_ cry}{RB_ alone}{VBN_ go}{RB_ away}
+{JJ_}{NNS_}{RB_}{RB_}
+{VB_ pray}
+{RB_}{VBN_}{NN_}{RB_}
+{RB_ never}{VBN_}{NN_ life}{NN_}
+{NN_}{NN_}{NN_ youth}
+{NN_}{JJ_}{inside}
+{NN_}{NN_ something}
+{VBP_}{live}
+{VB_ know}{VB_}{VB_}{NN_}
+{cause}{VB_}{VB_}
+{VBP_}{RB_}{VB_ go}
+{know}{go}{NN_}
+{RB_ apart}{NN_}
+{NN_}{PP_}
+{VBP_}{VB_}{RB_ right}
+{NN_ look}{NN_ face}{NN_}
+{NN_}{NN_ blood}{NNS_ cry}
+{NN_}{NN_}{NN_ time}
+{NN_}{JJ_ high}{NN_}
+{VBD_}{NN_}{VBD_}
+{RB_}{JJS_}{NN_}
+{NN_ time}{pass}{regret}
+{NN_}{NN_}{MD_}{VB_}
+{gotta}{VB_}
+{NNS_ won}{VBP_ turn}{RB_ right}{VB_ turn}{RB_ right}
+{give}{JJ_}
+{VBZ_}{know}{RB_ yeah}
+{help}{RB_}
+{NN_ way}{JJ_}{NN_}
+{VBD_}{RB_ away}
+{NN_}{VBN_ bear}{NN_}
+{NN_ break}{NNS_}
+{didn}{would MD_}{VB_}
+{VB_}{NN_}{VBP_}
+{VB_}{NN_}{NN_}{VB_}
+{JJ_}{tonight}
+{NN_ life}{go}
+{deep}{JJ_}
+{NN_}{NN_}{VBP_}{VB_}
+{one CD_}{one CD_}{NN_}
+{NN_}{NNS_ thing}{VBP_}
+{VBG_}{VBP_}
+{VB_}{NN_}{NN_}{RB_}
+{mine}{NN_}
+{know}{VB_}{PP_}{JJ_}
+{VBN_}{escape}
+{MD_ could}{VB_ change}
+{VB_}{JJ_}{JJ_}{NN_ time}
+{JJ_ convinced}{JJ_ grown}{VBD_ find}
+{RB_}{RB_ yeah}
+{find}{VB_}
+{VB_}{RBR_}{JJ_}
+{RB_}{VBN_}{RB_ away}
+{need}{JJ_}
+{VBG_}{JJ_}{NNS_}{JJ_}
+{VB_ come}{RB_ far}{RB_ long}
+{leave}{JJ_}
+{NN_ fear}{NN_}{JJ_}
+{VB_ come}{NN_}
+{perfect}
+{NN_ god}{NN_}
+{NNS_}{VBP_ fade}
+{NN_}{would MD_}{VB_}{NN_}
+{RB_ never}{VBN_}{NN_}{VB_}{NN_}
+{find}{RB_}
+{DT_}{NN_}
+{MD_}{VB_}{JJ_}
+{VB_}{NN_ time}{NN_}
+{JJ_ many}{NNS_}{VBP_}
+{NNS_}{RB_}{VBP_}{VB_}
+{please}{NN_}
+{NN_}{cry}
+{VB_}{VBG_}{RB_ away}
+{live}{NN_ fear}{NN_}
+{night}{VBG_ come}{JJ_ fast}{NNS_ sun}{VBG_ go}
+{NN_}{NN_ time}{JJ_}
+{VBG_}{VBD_}{NN_}
+{NN_}{JJ_ strong}
+{VBG_ miss}
+{NN_ goodbye}
+{VBZ_ go}
+{VBD_ know}{NN_}
+{NN_}{JJ_ deep}{NN_ blood}
+{JJ_}{DT_}{JJ_}{NN_}
+{VBZ_}{NNS_}
+{JJ_}{VBN_}{NN_}
+{UH_}{VB_}{VB_}{VB_}
+{NN_ air}
+{away RP_}{NNS_}
+{NN_ cause}{NN_ waiting}
+{NN_}{NN_ calling}
+{NN_}{NN_}{JJ_}{NNS_}
+{RBR_ closer}
+{NNS_ memory}
+{NN_}{hope}{NN_}
+{NN_ heart}{JJ_}
+{NN_ fear}{NNS_}
+{NN_ hell}
+{NN_}{want}
+{VB_ kill}
+{JJ_}{NN_}{NN_}{NN_}
+{one CD_}{NN_}{NN_}
+{NNS_}{VBZ_}{NN_}
+{VBD_}{RB_}{come}
+{NN_}{NN_}{NN_}{NN_ way}
+{dwell}{JJ_}
+{like IN_}{NN_}{VBN_}
+{VB_ love}{RB_}
+{JJ_}{VBG_}{NNS_}
+{one}{NN_ time}
+{perfect}{RB_}
+{IN_ without}{JJ_ equal}{NN_ nothing}
+{back}{JJ_}
+{NNS_}{see}{NN_}
+{hurt}{NN_}
+{VB_}{NNS_ time}
+{NN_}{VBD_}{VBG_}
+{back}{VB_}{RB_}
+{NNS_}{NN_ insanity}
+{VB_ know}{VB_ make}{VB_ wanna}{NN_}
+{NN_ cry}
+{VBP_}{place}
+{NN_ hope}{NN_}{NNS_}
+{NNS_ time}
+{NN_ leave}{arrive VBD_}{JJ_ alive}
+{NN_}{NN_ face}
+{friend}{VBD_}
+{VB_ feel}{JJ_}{NN_}
+{NN_ look}{NN_ face}
+{NN_ hope}{NN_ fall}{RB_ tonight}{VBN_ break}{NNS_ wing}
+{JJ_}{NNS_}{VBP_}{JJ_}
+{back RB_}{NN_}
+{NNS_ life}
+{NN_}{NN_ tonight}
+{NN_ help}{NN_}
+{NN_ something}{NN_ wrong}{RB_ though}{feel VBD_}{stay VB_}
+{JJ_}{right}
+{JJ_ back}
+{VBG_}{NNS_}{VBP_}
+{NN_}{VBD_}{VB_}{NN_}
+{fall}{NN_}{JJ_}
+{NN_}{RB_ hard}{VB_ find}
+{NN_ blood}{VBD_ spill}{NN_ man}{VB_ follow}
+{VB_}{close}
+{VBN_}{realize}
+{NNS_}{VBD_}{RB_}
+{JJ_ warm}
+{NNS_ demon}{VBP_ follow}{NN_ cause}{NN_ insanity}
+{like IN_}{NN_}{RB_ long}
+{NNS_ reason}{NN_ insanity}{NN_ part}
+{JJ_}{NN_ nothing}{matter}
+{NN_}{VBD_}{VBD_}
+{IN_}{VBG_}{NN_}
+{VBG_ point}{NNS_ finger}
+{JJ_}{one CD_}{NN_}
+{VBG_ live}{JJ_}{NN_}{NNS_}
+{cause VB_}{JJ_ lonely}{JJ_ tired}
+{JJ_}{JJ_}{NNS_ way}
+{VB_ take}{NN_}{RB_}{VB_}
+{NN_}{NN_}{NN_}{RB_}
+{VBN_}{die}
+{NN_ look}{NN_ face}{VBP_ pierce}{JJ_ blank}{NN_ stare}
+{JJ_}{NNS_}{NNS_}
+{tear}
+{NN_}{VBD_ take}{NN_}
+{NN_ gun}
+{VB_}{PP_}{VB_}
+{back RB_}
+{JJ_}{NN_}{JJ_}{NN_}
+{away}{VBN_}
+{NN_}{NNS_ word}{speak}
+{VBN_}{NN_ time}
+{NN_}{win}
+{wanna}
+{NN_ pain}{JJ_}{NN_}
+{VB_}{RB_ right}
+{VBD_}{RB_}{VB_}{NN_}
+{well}{JJ_}
+{NN_}{VBD_}{JJ_}
+{CD_ two}{VBD_}
+{VBN_ go}{take}{NN_}
+{NN_}{VBD_}{VBN_}
+{RB_ nowhere}{VBN_ run}{NN_}
+{JJ_}{NNS_ life}{VBP_}
+{IN_ till}
+{VBD_ shoot}
+{NNS_ heart}{NN_}
+{IN_ inside}{NN_}
+{JJ_ close}{NNS_ eye}{VBP_ look}{RB_ away}
+{NN_}{NN_}{VB_ die}
+{JJ_}{NNS_ eye}{RB_}
+{RB_ still}
+{nothing}{VB_ take}
+{NN_ waste}
+{VBG_}{RP_}{NNS_}
+{NN_ place}{NN_}{NN_}{JJ_}
+{NN_ friend}
+{NNS_ echo}{VBG_ reach}{NNS_ ear}
+{NN_}{NN_ fall}
+{VBZ_ feel}{RB_ alright}{NN_ til}{NN_ pay}{NN_ price}
+{VBD_}{NNS_}
+{VB_}{strong}
+{VB_}{RB_}{RB_}{RB_}
+{VB_ hold}{RB_ around}
+{NN_ nothing}{VB_ take}
+{NN_ sin}
+{VBN_ do}
+{NNS_}{VBG_}{RB_}
+{NNS_}{see VBP_}{VB_}
+{face}
+{NN_ help}
+{JJ_}{life}
+{RB_ far}{RB_ away}{go}
+{NN_}{MD_}{NN_}{NN_}
+{RB_}{JJ_}{NN_}{RB_}{VBG_}
+{NN_ peace}{NN_}{RB_}
+{VBP_}{VB_}{NN_}
+{VB_}{JJ_}{NNS_}
+{NN_ need}{NN_ person}{JJ_ true}
+{NN_}{RBR_}
+{perfect}{NN_}
+{NN_}{change}
+{VBN_}{NN_}{VBG_}
+{NN_ cause}{NN_ everybody}{VBN_ gotta}{NN_ die}{RB_ sometime}
+{VBN_}{NN_ fate}
+{NN_}{RB_ always}
+{NN_}{NN_}{NNS_ body}
+{VBN_ scar}
+{NN_ regret}
+{face}{NN_}
+{VB_ come}{VB_ kill}
+{VBN_}{fear}
+{NN_}{JJ_ good}{NNS_}
+{know}{RB_ yeah}
+{VB_}{come}
+{place}{VBP_}
+{NN_ nothing}{matter}
+{NN_ fall}{NN_}{JJ_}
+{NN_}{MD_}{VB_ go}
+{NN_}{MD_ could}{VB_}
+{NN_}{NN_}{NNS_}{VBP_}
+{NN_ breath}{NN_ take}
+{RB_}{NN_}{VB_}
+{JJ_}{VBG_}{JJ_}
+{grant}
+{NNS_ life}{VBP_}{NN_}
+{late}{NN_}
+{right}{VB_}
+{NNS_}{VBP_}{RB_}{VB_}
+{JJ_ back}{NN_}
+{JJ_}{VBP_}{JJ_}
+{NN_}{NN_}{VBN_ gotta}
+{NNS_}{see}{RB_ tonight}
+{RB_ never}{RB_}{VBG_}
+{NN_}{VBP_}{RB_}
+{JJ_}{forever}
+{know}{PP_ us}
+{NN_}{NN_ d}{VBD_}
+{NN_ nothing}{JJ_}
+{VBG_}{NNS_}
+{cause VB_}{JJ_}
+{VB_}{VB_}{NN_}{VB_}
+{RB_}{VB_ let}{VB_}
+{VB_ go}{NN_ sight}{one CD_}
+{NN_ fall}{NN_}
+{NNS_}{back RB_}
+{VB_ know}{VB_ make}{VB_ wanna}{VBN_ run}{NN_ baby}
+{VBN_ make}{NN_}
+{PP_}{VB_}
+{VB_}{true}
+{one CD_}{NN_ man}{NN_ honour}
+{back RB_}{VB_}{NN_}
+{RB_ everywhere}{NN_ turn}{NN_ hatred}{VBZ_ surround}{PP_ us}
+{close}
+{NN_}{VBZ_}{JJ_}
+{VBN_ come}{JJ_ back}{NNS_ day}
+{NN_}{VBD_ win}{VB_}
+{NN_ punishment}{JJ_ great}{NN_ bear}
+{VBD_ get}
+{NNS_ life}{VBP_}
+{NNS_}{RB_}{VB_}
+{NN_}{VBZ_ come}{RB_}
+{VBG_}{NNS_}{VBN_}
+{VB_}{NNS_}{VBP_}
+{fight}{NNS_}
+{NN_ fear}{NN_}{NN_}
+{NN_}{sleep}
+{NNS_ child}
+{NN_ burning}
+{care}
+{JJ_}{JJ_}{NN_ time}
+{NN_ hope}{VBN_}
+{know}{NN_}{VB_}
+{one CD_}{NN_ fall}
+{JJ_}{NNS_ time}
+{VB_}{VBZ_}
+{come}{JJ_}{NNS_}{JJ_}
+{NN_ fate}{VBD_}
+{DT_}{NN_}{VB_}
+{walk VB_}{NN_ center}{NNS_ rule}{NN_ guide}
+{NNS_}{NNS_ foot}
+{JJ_}{heart}
+{see}{NN_ face}
+{would MD_}{RB_}{VB_}
+{RB_}{turn}{NN_}
+{taste}{NN_}
+{NN_ question}
+{NN_}{another DT_}{NN_}
+{VB_}{VBD_}{NN_}
+{VB_ count}{JJ_}
+{know}{NN_}{RB_}
+{NN_ aim}
+{RB_}{VBG_}{NNS_}
+{NN_ matter}{VBG_ come}{NN_ home}
+{VB_ feel}{VB_}
+{good}{NN_}{VBD_}{NN_}
+{NNS_ hand}{NN_ time}{NN_ strip}{NN_ youth}{NNS_ body}
+{CD_}{NNS_}
+{JJ_}{VBP_}{NN_}{NN_}
+{NN_}{VBP_}{VB_}
+{NN_}{blame}
+{VBN_}{RB_ yeah}
+{NNS_}{NN_}{NN_}
+{NN_}{VBZ_ begin}{NN_}
+{VBN_ lose}{NN_ life}
+{VB_}{NN_ friend}
+{VB_ stand}
+{JJ_}{inside}
+{NN_ blood}{NN_}
+{VB_}{VB_}{NN_ face}
+{NN_ vengeance}
+{VBN_}{NN_ fight}
+{tie}
+{VBG_}{move}
+{give}{hand}{NN_}
+{NN_ fate}
+{come}{NNS_}
+{VB_ wanna}
+{VBP_}{VB_}{JJ_ wrong}
+{NN_}{NN_ time}
+{NN_}{VBZ_}{NN_}
+{RB_}{NN_}{VB_}{RB_}
+{VB_}{NN_ pain}
+{DT_}{JJ_}{NN_}
+{JJ_}{NN_}{NN_}{NN_}{NN_}
+{VBG_}{deep}
+{VB_}{UH_ oh}{RB_ yeah}
+{VB_}{RB_ right}{JJ_}
+{NN_}{NN_}{NN_ man}
+{VBN_}{VBD_}{VB_}
+{RB_}{take}{NN_}
+{NN_ cause}{NN_}{RB_}{RB_}
+{NN_ time}{JJ_}{NN_}
+{NN_}{VBZ_}{PP_ us}
+{NN_}{NN_}{JJ_}{NN_ night}
+{VB_ try}{VB_}
+{see}{RB_}
+{come}{VBG_}
+{VB_ seek}{NN_ vengeance}
+{NN_}{NN_}{VBN_}{JJ_}
+{NN_ nightmare}{JJ_ full}{NN_ sorrow}
+{NNS_ action}
+{VB_}{VB_ know}{NN_}
+{NN_}{VBP_}{JJ_}{NN_}
+{VB_}{back RB_}{RB_}
+{VBP_}{back RB_}
+{cause}{right}
+{VBG_ miss}{UH_ oh}
+{JJ_ perfect}{RB_}
+{VBN_ fall}{NN_ place}{VBG_ give}{JJ_ small}{NN_ taste}
+{JJ_}{VBN_}
+{VB_}{nothing}
+{way}{VB_}
+{please UH_}{VB_}{NN_}
+{NN_ shh}{NN_ quiet}{might MD_}{VB_ piss}{NN_ somebody}
+{VB_ come}{back RB_}{JJ_}
+{NNS_}{heart}
+{NNS_ demon}{VBP_ follow}
+{NN_ time}{come}
+{NN_ taste}{NN_}
+{fight}{NN_}
+{RB_ far}{RB_ long}
+{VB_}{back}{NN_ time}
+{JJ_}{NNS_}{RB_}
+{NNS_}{VBP_}{NN_}{RB_}
+{NNS_ affect}{NNS_ one}{RB_ around}
+{NN_ break}{NNS_ rope}{NNS_ hand}{VBD_ tie}
+{step}{NN_}
+{VBG_}{away RP_}
+{VB_ take}{back RB_}{IN_ inside}{NN_ time}{NN_ right}
+{VB_ know}{RB_ late}{VBN_ waste}{NN_ time}
+{VBD_}{CD_}
+{fall}{NN_}
+{JJ_}{VBZ_}
+{VBG_ run}{RB_}
+{JJ_}{NN_}{RB_}
+{hard}{NN_}{VB_}
+{NN_ life}{NN_}{RB_}
+{NN_}{way}
+{act}
+{JJ_}{NN_}{VBG_}{NN_}
+{NN_ call}{NN_}
+{JJ_}{NN_ wall}
+{NN_}{NN_}{right}{NN_}
+{NN_}{NN_ taste}
+{NNS_}{time}
+{easy}
+{NN_}{NN_ hand}
+{NN_}{VBD_ win}{NN_}
+{NNS_ night}
+{way}{JJ_}
+{JJ_}{NN_ rest}{NN_ time}
+{JJ_ cold}{NN_}{NN_}
+{VBN_ leave}{NN_}
+{NN_}{VBP_}{NN_}{NN_}
+{JJ_}{NNS_}{NN_}{NN_}
+{VBN_}{RBR_}
+{VB_}{NN_}{NN_}{cause}
+{see VB_}{JJ_}{NN_}
+{VBP_}{NN_ praise}
+{NN_ peace}{VB_}
+{VB_}{VB_ wanna}
+{go}{RB_}{NN_}
+{NNS_ leave}{NNS_ foot}{VBN_ blow}{NN_ ground}
+{NNS_}{VBP_}{RB_ tonight}
+{NN_ try}
+{NN_}{VB_}{NNS_}
+{CD_ two}
+{VB_}{NN_ hand}
+{d SYM_}{RB_}
+{say}{RB_}
+{RB_}{NN_}{RB_ away}
+{JJ_}{VBP_ know}{RB_}
+{JJ_ weak}{NN_}{JJ_}
+{VBN_}{RB_}{VBD_}
+{NN_}{MD_}
+{NNS_}{RB_}{NN_}{RB_}
+{JJ_}{JJ_}{NNS_}
+{NN_}{VB_}{another DT_}{NN_}
+{NN_ ain}
+{VBN_ forget}
+{VB_ wanna}{VBP_}
+{give VBD_}
+{VB_ stand}{NN_}{NN_}
+{JJ_}{NN_}{NN_}{JJ_}{NN_}
+{JJ_}{VBG_}
+{NN_ air}{JJ_}
+{NN_ breath}{NN_}
+{cause VB_}{RB_ really}{RB_ always}{VBD_ know}{JJ_ little}{NN_ crime}
+{VBG_}{NN_}{JJ_}{JJ_}
+{RB_ still}{NN_}
+{NN_}{face}{JJ_}{NN_}
+{VB_}{RB_ always}{JJ_}
+{sign}
+{VBN_}{VBP_}{RB_}
+{JJ_}{JJ_ strong}
+{VBN_ gotta}{RB_}
+{go}{one CD_}
+{NN_ watch}{NN_}
+{RBR_}{VB_}
+{VB_ choose}{DT_ either}{JJ_ naughty}{JJ_ nice}
+{time}{change}
+{JJS_ good}{NN_}
+{VBD_}{VB_}{JJ_}
+{NN_}{go}{RB_}
+{NN_}{VBG_ come}
+{NN_}{VBG_ go}
+{NN_}{NN_ dark}{NN_}
+{VBN_}{JJ_}{NNS_}
+{NN_ right}{NN_}
+{VB_}{VBP_}{RB_}
+{VB_ take}{away}
+{VBN_ go}{JJ_}{NN_}
+{VBN_}{VB_}{NN_}
+{NN_}{NN_ something}{JJ_}
+{VB_ gotta}{VB_}
+{VBP_}{PP_}
+{NN_ nothing}{VB_}
+{VBN_}{NN_}{VBD_}{VB_}
+{NNS_}{NN_ time}{NNS_}
+{JJ_}{NN_ see}
+{fall}{JJ_}{NN_}
+{VBN_ rip}{NN_ heart}{NN_ right}{NNS_ eye}
+{MD_ must}{VB_}
+{come}{back}
+{NNS_}{see}
+{pleasure}
+{NN_}{face}
+{VB_ go}{NN_}
+{hand}{NN_}
+{see}{VB_}
+{VBD_}{NN_}{NN_}
+{NN_}{right}
+{RB_}{RB_ enough}
+{NN_ life}{VB_}
+{RB_}{NN_}{NN_}{NN_}
+{run}{RB_}
+{NN_}{VB_}{NN_}
+{JJ_ flash}{NN_ blade}
+{NN_}{RB_ never}{change}
+{inside}{head}
+{NN_}{JJ_ thin}
+{life}{JJ_}
+{NNS_}{RB_ hard}
+{early}
+{RB_}{VBN_}{NN_}{NN_}{RB_}
+{NN_}{JJ_}{JJ_}
+{NN_ fate}{NN_}
+{NN_ cause}{RB_}
+{JJ_}{turn}
+{CD_ two}{NNS_}{RB_}
+{NN_}{NN_ waiting}
+{JJ_ eternal}{NN_}
+{NN_}{NN_}{gotta}
+{know}{VBG_}
+{good}{NNS_}
+{NNS_}{NN_ darkness}
+{NN_}{NN_}{along}
+{VBD_ take}{NN_}{NN_}
+{think}{NNS_}
+{JJ_}{NN_}{VB_}
+{NN_ rest}{NN_}
+{VB_}{VBG_}{JJ_}{NNS_}
+{NNS_}{NNS_ memory}
+{NNS_}{VBD_}{NN_}
+{know}{NN_ time}
+{VB_}{PP_}{RB_}
+{cause VB_}{JJ_}{JJ_}
+{would MD_}{JJ_ cold}{VBN_ get}{NN_ heater}{NNS_ thigh}
+{VB_}{move}{NN_}
+{NN_}{NN_}{back RB_}
+{RB_}{RB_ long}
+{MD_}{VBN_}{NN_}
+{friend}{VBD_}{VB_}
+{JJ_}{go}
+{VBN_}{NNS_}{VBP_}
+{NN_}{d}{VB_}
+{RB_ way}
+{NNS_ friend}{NN_}
+{VB_ hold}
+{JJ_}{NN_}{thing}
+{JJ_}{JJ_}{RB_ yeah}
+{UH_ oh}
+{JJ_}{JJ_ last}{NN_ time}
+{back RB_}{VB_}{JJ_}{NN_}
+{VBP_}{VB_}{JJ_}{NN_}
+{let}{VB_ make}
+{VBP_}{RB_ right}{VB_}
+{RB_ right}{JJ_}
+{NN_}{know}{NN_}
+{NN_}{RB_ yeah}
+{VBN_}{NNS_}{JJ_}
+{VBG_ cry}{NN_}
+{NN_ scream}{NN_ scream}{NN_ scream}{NN_ way}{would MD_}
+{VB_}{NNS_}{RB_}
+{see VB_}{NN_}{VB_}
+{change}{RB_}
+{JJ_}{NNS_}{JJ_}{NNS_}
+{VB_}{VBG_}{NNS_}
+{RB_ tonight}
+{NN_ look}{NN_}{NN_}
+{NN_}{see}
+{hold}{away}
+{VB_ go}{JJ_}
+{heart}{NNS_}
+{way}
+{like NNS_}
+{NNS_}{care}
+{see VB_}{NN_ place}{VB_ wanna}
+{VBD_ love}
+{JJS_}{NNS_}
+{NN_}{MD_ could}
+{RB_}{live}
+{VBN_}{back}
+{NN_}{VBN_}{NN_}
+{VBP_}{RB_ way}{VB_}
+{VBG_}{NNS_}{NN_}
+{NN_}{would MD_}{VB_}{RB_ still}
+{NN_}{NN_ blood}{NNS_}{RB_}
+{VB_}{VBD_}
+{NN_}{first}
+{JJ_}{thing}
+{RB_ far}{RB_}
+{UH_ oh}{UH_ oh}{UH_ oh}{UH_ oh}
+{RB_}{good}{NN_}
+{RB_ around}{VBN_}
+{NN_}{NN_ time}{NN_}{NN_}
+{MD_ may}{VBN_ create}{VBG_ begin}{RB_}
+{VB_}{RB_ tonight}
+{VB_ go}{one}
+{NN_}{go}{RB_ far}
+{MD_}{JJ_}{NN_}
+{MD_}{VB_}{RB_}{NN_}
+{NN_}{MD_}{NN_}
+{VB_}{NN_}{NNS_}
+{VB_ take}{JJ_}{NN_}
+{VBD_}{VBD_}
+{NN_}{JJ_}{NNS_}{VBP_ go}
+{JJ_}{NN_ peace}
+{feel}{NNS_}
+{RB_}{JJ_}{NN_}
+{VBN_}{NN_ nothing}{VB_}
+{RB_}{VBN_}{NNS_}
+{VBN_}{VBP_}{VB_}
+{RB_ sometimes}
+{VBZ_}{RB_}{NN_}
+{NN_}{MD_}{VB_}{JJ_}
+{would MD_}{RB_ still}{NN_}
+{wanna}{VB_}{VB_ feel}{JJ_}
+{friend}
+{JJ_}{NN_}{VBD_}{memory}
+{well RBR_}{JJ_ dead}
+{NN_}{fall}
+{build}
+{IN_ towards}{NNS_}
+{blame}
+{VB_}{NN_ man}
+{NN_}{live}
+{hand}{VBD_}
+{NN_}{NN_}{VBN_}{NN_}
+{NN_ sin}{NN_}
+{NN_}{NN_ earth}
+{NN_}{VBN_}{RB_ away}
+{RB_}{VBZ_}
+{NN_}{IN_ along}{RB_}
+{NN_}{VBD_}{time}
+{VBN_}{JJ_}{VBD_}
+{NN_}{man}
+{VB_}{kill}
+{VBD_}{hand}
+{NN_}{NN_}{VBD_}{VBG_}
+{nothing}{JJ_}
+{NN_ place}{NN_}
+{expose}
+{look}{VBN_}
+{IN_}{one}
+{VBD_}{RB_}{VB_}{VB_}{NN_}
+{RB_}{JJ_ young}{RB_}
+{VBG_}{NN_ sin}
+{VB_}{move}{RB_}
+{NN_ something}{VB_}
+{NN_}{VB_}{JJ_}{NN_}
+{RB_}{NN_ part}
+{NN_}{JJ_ alive}
+{VBG_}{VBD_}
+{NN_ haunting}
+{VB_ take}{NNS_}
+{VBG_}{VBG_}{RB_}
+{VB_ leave}{NN_}
+{JJ_}{RB_ always}
+{NN_}{NN_}{VBD_}{stay VB_}
+{VB_}{VB_}{away}
+{RB_ far}
+{NNS_ thing}
+{NN_}{VB_ go}
+{follow}
+{NN_ friend}{VBD_}{NN_}
+{JJ_ perishing}
+{VBN_ run}
+{JJ_}{VBN_ tie}
+{VB_ know}{RB_ right}{JJ_ stuck}{dream NN_}
+{NN_ cause}{NN_ time}{NN_ right}{NN_ move}{RB_ far}{RB_ away}
+{wanna}{VB_}
+{VBD_ know}{VB_}{NN_}
+{VB_ want}{VB_}{VB_}{NN_}
+{much}{JJ_}
+{NN_}{RB_}{find}
+{VBN_ come}{NNS_}
+{JJ_}{NN_ time}{RB_}
+{VBG_}{right}
+{NNS_ time}{RB_}
+{VB_}{UH_}
+{JJ_}{RB_}
+{one CD_}{NN_ light}
+{VBG_}{dream NN_}
+{NN_ nightmare}{JJ_ full}{NN_ pain}
+{JJ_ insane}{NN_}
+{CD_}{time}
+{wrong}{RB_}
+{NNS_}{RB_}{NN_}
+{VBN_ live}{NN_}
+{NN_}{NNS_}{hold}
+{NN_}{NN_}{VBD_ build}
+{NN_}{RB_}{RB_}{RB_}
+{IN_}{RB_ yeah}
+{VB_ keep}{RB_ away}
+{ask}
+{d SYM_}{VBN_}
+{NNS_ thing}{VBN_ bind}{NN_ change}
+{NNS_}{VBD_}
+{VBZ_ happen}
+{CD_}{RB_}
+{NNS_}{hold}
+{try}{away}
+{NN_}{NN_ heart}{NN_}
+{VBG_ live}{NN_ fear}{JJ_ endless}{NN_ shame}{JJ_ countless}{NNS_ year}
+{NNS_}{RB_}{VBG_}
+{wait}{NN_}
+{please}
+{JJ_ convinced}
+{RB_ far}{RB_ away}{VB_}
+{see}{JJ_}{NN_}
+{NN_}{d SYM_}
+{VBP_}{VBN_}
+{NNS_}{JJ_}{NNS_}{JJ_}
+{RB_}{NN_ life}{JJ_}
+{RB_ far}{RB_ away}
+{smile}{NN_}{NN_}
+{NN_}{VBN_ go}{RB_}
+{NN_}{VB_}{JJ_}
+{VB_}{NN_}{NN_}{VBP_}{VB_}
+{JJ_}{NN_}{come}
+{one}{NN_ care}
+{VBD_}{JJ_}{NNS_}
+{NN_ man}
+{please UH_}{VB_ forget}
+{VB_}{know}
+{VB_ belong}{VBN_ gotta}{VBP_ move}{RB_ dear}{VB_ escape}{NN_ afterlife}
+{RB_}{VB_}{NNS_}
+{NN_ stay}{VBD_ unbind}
+{VBD_ pass}
+{NN_}{JJ_}{see}
+{NN_}{NN_ cold}{JJ_}
+{NNS_ night}{NN_ pain}
+{VB_}{NN_}{VBP_}{RB_}
+{go}{VBD_}{NN_}
+{VB_}{RB_}{RB_}{JJ_}{NN_}
+{nothing}{VB_ take}{time}
+{VB_}{VB_}{NNS_}
+{JJ_ past}
+{VB_}{back RB_}{VB_}{NN_}
+{NN_}{NN_ pain}
+{hope}{VB_}
+{NN_ peace}{RB_}
+{VBN_}{JJ_}{NN_}{NN_}
+{JJ_ dark}{NNS_ heart}
+{VB_}{RB_}{JJ_}{NN_}
+{JJ_}{NN_}{VBP_}{JJ_}
+{NN_ something}{VBD_}{stay VB_}
+{VBN_}{place}{NN_}
+{NN_}{JJ_}{VBP_}
+{NN_}{dead}
+{know}{NN_}{RB_ yeah}
+{know}{VB_ go}
+{NN_}{time}
+{NN_}{RB_ tonight}
+{NN_ man}{NN_}
+{VBG_}{fear}
+{VB_}{VB_}{RB_ yeah}
+{VB_}{RB_ forever}
+{hope}{RB_}
+{back RB_}{IN_}{NN_}
+{VB_ take}{NN_}{NN_ death}{NN_ rest}{JJ_ unnatural}{NN_ life}
+{VB_ live}
+{VB_}{VB_}{VB_}{NN_ life}
+{JJ_}{RB_}{NN_}
+{nothing}{VB_}
+{one CD_}{NN_ time}
+{NN_ place}{JJ_ full}{NN_ peace}{NN_ light}{NN_ d}{hope VBD_}{NN_ might}
+{NNS_}{VBZ_}
+{VBG_}{RB_ long}
+{would MD_}{RB_ still}
+{NN_ liar}
+{RB_}{right}
+{NN_}{RB_}{miss}
+{RB_ hard}{VB_}{VB_}
+{VBN_}{NN_}{slip}{away}
+{JJ_ young}{VBN_}
+{JJ_ many}{NNS_}
+{hold}{RB_}
+{VB_ bring}{back RB_}{NN_ time}
+{NN_}{RBR_ harder}
+{NN_}{NN_ pain}{NN_}
+{NN_}{RB_ forever}
+{JJ_}{NN_ taste}
+{NN_ friend}{VBD_}
+{VBN_}{VBG_}
+{MD_}{VB_}{RB_}{JJ_}
+{fall VBD_}{RB_ apart}{VB_ let}{VB_ make}{JJ_ new}{NN_ start}
+{NN_ something}{RB_}
+{NN_ time}{VB_}
+{RB_ still}{JJ_}
+{NN_}{VBP_ know}
+{sky}
+{VBN_ scar}{RB_ yeah}
+{VB_ know}{NN_ time}
+{VB_}{NN_}{know}
+{VB_ take}{away RP_}
+{NN_ matter}
+{JJ_}{NN_}{NN_}{RB_}
+{NNS_}{RB_}{turn}
+{VBN_ go}{RB_ alone}{VBD_ take}{NN_ strength}
+{NN_}{life}
+{VB_ bleed}{RB_ forever}
+{unmask}{NN_}
+{VBD_ win}{NN_}
+{RB_ around}
+{NNS_}{change}
+{JJ_ tired}{NN_}{NN_}
+{NN_ time}{RB_}
+{cry}
+{leave}{VB_}
+{NN_}{VBD_}{VBN_}{NN_}
+{get}{NN_}{RB_}
+{NN_ time}{NN_}{NNS_}
+{NN_}{thing}
+{VB_}{RB_}{NN_}{NN_}
+{NN_ beginning}{come VBD_}
+{IN_}{RB_}
+{VBD_}{VBG_}
+{VBN_ go}{NN_ nothing}{VB_ take}{JJ_ back}{NN_ time}
+{kill}
+{heart}
+{go}{take}{NN_}
+{head}
+{RB_}{back RB_}
+{VBN_}{VBN_}
+{NN_}{VBD_}{NN_ blood}
+{VBN_ ask}
+{VB_ follow}
+{RB_ far}{NN_}
+{NN_}{VBD_}{another DT_}{NN_}
+{NN_}{NN_}{NNS_ eye}
+{NNS_ answer}
+{NN_}{NN_ pain}{NN_ satisfaction}
+{cause}{die}
+{VB_}{know}{NN_}
+{wrong}{VB_}
+{VB_}{NN_}{IN_}{NN_}
+{NN_}{VBP_}{RB_}{VB_}{VB_}
+{look}{JJ_}{NN_}
+{dark}
+{NN_ inside}
+{NN_ time}{NN_}{NN_}
+{love}
+{NN_}{NN_}{NN_ life}
+{NN_}{NN_ man}
+{VB_}{DT_}
+{nothing}
+{know}{one PP_}
+{RB_}{VB_}{RB_ forever}
+{VB_}{back RB_}{JJ_}
+{sin}
+{soul}
+{NN_}{NN_}{right}
+{NN_}{VBZ_ go}
+{RB_ hard}{VB_}{RB_}
+{JJ_}{NN_ need}
+{NN_ stare}
+{cause}{NNS_}
+{NN_}{NNS_ life}
+{VB_}{NNS_ way}
+{RB_ live}
+{come}{back}{NN_}
+{RB_ away}{go}
+{RB_ never}{NN_}{VBG_}
+{JJ_}{NN_}{JJ_ wrong}
+{NN_}{RB_ hard}{VB_}
+{NN_ baby}
+{friend}{VBD_ win}{VB_}
+{call}{RB_}
+{VB_}{JJ_}{NN_}{VBZ_}
+{VB_}{NN_}{NN_}{NN_}
+{VB_}{NN_ chance}
+{JJ_}{know}
+{go VBD_}
+{win}{NN_}
+{VB_ know}{JJ_}{NN_}
+{NN_}{fast}
+{NN_ heart}{VBZ_ bleed}{JJ_ fellow}{NNS_ man}
+{VB_}{IN_}{NN_}{NN_}
+{NN_ cry}{RB_ away}
+{JJ_}{NNS_}{turn}{NN_}
+{way}{VB_}{JJ_}
+{VBN_ torment}{JJ_ young}{NNS_ soul}{NN_ haunting}
+{NN_}{NN_}{tonight}
+{NN_}{VBD_}{NN_}{NN_}
+{one PP_}{VBP_}
+{VB_ know}{VBG_ hurt}{NN_ killing}
+{NN_}{NN_ peace}
+{VB_ learn}{NN_ lesson}
+{know}{PP_}
+{NN_}{NN_}{NN_ move}{RB_}
+{VB_}{JJ_ wrong}
+{one}{care}
+{VB_}{RB_}{RB_ yeah}
+{reason}{NN_}
+{VBN_ get}{NN_ nothing}{RB_ surely}{VB_ miss}
+{VBN_}{IN_}
+{JJ_}{NN_ cause}
+{NN_}{VBZ_}{NN_}{NN_}
+{NNS_}{VBN_}{NN_}
+{VB_}{VBG_}{NN_}{NN_}
+{back RB_}{JJ_}{NN_}
+{NN_}{let}{VB_}
+{JJ_}{soul}
+{VB_ know}{VB_ know}
+{NN_}{NN_}{turn}
+{JJ_}{NN_}{VBG_}
+{NN_ time}{NN_ right}
+{see}{NN_}
+{pass}
+{make}{NN_ mind}
+{hope}{JJ_}
+{JJ_}{NN_ rain}
+{fear}
+{JJ_}{JJ_ deep}
+{JJ_}{NN_}{NN_ light}{NN_}
+{NN_}{NN_}{VBD_}{NN_}
+{NN_ tonight}
+{NN_ pride}
+{NN_ right}
+{VBN_}{JJ_}{NN_}{VBP_}
+{NN_}{NN_ mine}
+{dream NN_}
+{NN_ cause}{VBN_}{RB_}
+{VB_ take}{NN_ life}{NN_ tonight}{cause VBP_}{RB_ right}{VB_ die}{VB_ wanna}
+{VB_}{good}{NN_}
+{JJ_ insane}{NN_ insane}
+{NN_}{NN_ person}
+{take}{time}
+{JJ_}{matter}
+{VB_}{JJ_}{NN_}{NN_}
+{CD_ two}{NNS_}
+{UH_}{NN_}{RB_}
+{NN_}{JJ_}{NN_}{NN_}{NN_}
+{NNS_}{VBP_}{VBG_}
+{JJ_}{NN_}{NN_}{VB_}
+{VBG_}{around}
+{JJ_}{NNS_ memory}
+{NN_}{see VB_}
+{JJ_}{RB_}{VBG_}
+{RB_ way}{JJ_}
+{NN_ taste}
+{RB_}{one CD_}{NN_}
+{IN_}{NN_}{NN_}
+{NNS_ eye}{RB_ easy}{VBP_ eat}{VB_ eat}{VB_ eat}
+{VBN_ leave}{NNS_}
+{NN_}{NN_}{NN_ time}{NN_}
+{VB_ leave}{NN_ memory}
+{NNS_}{look}{RB_}
+{VB_ know}{VBN_ start}{come VBD_}
+{VBN_ run}{NN_}
+{RB_}{PP_ us}
+{VBN_ win}{NN_ struggle}
+{NN_ shame}{NNS_}
+{JJ_}{way}
+{till}
+{apart}
+{VBN_ get}
+{NN_}{RB_}{NN_}{NN_}
+{VB_}{back RB_}{NN_ time}
+{RB_}{away}
+{JJ_}{NN_}{VBZ_}
+{JJ_}{NNS_ way}
+{VB_}{RB_ yeah}
+{make}{NN_ change}
+{go}{NN_}{NN_}
+{NN_}{back}
+{VB_ know}{VB_}{VB_}{VBN_ run}{NN_}
+{VB_ die}{NN_}
+{NNS_ fear}
+{VBN_}{NN_ change}
+{JJ_}{life}{JJ_}
+{VBZ_}{JJ_}
+{VBG_ run}{away}
+{NNS_}{NN_}{RB_}
+{NN_}{NN_}{VB_}{NN_}
+{NN_}{JJ_}{time}
+{NN_}{NN_}{VBD_}
+{VBD_}{go}
+{NN_}{VB_ take}
+{JJ_}{NNS_}{VBD_}
+{life}{VBP_}
+{VBN_}{JJ_ young}
+{VB_}{NNS_}{NN_}
+{NN_}{VBD_ lose}{NN_ control}
+{RB_}{thing}
+{VBG_ try}
+{JJ_ long}
+{feel}{VBN_}{NN_}
+{see VB_}{VB_}{NNS_ eye}
+{JJ_ lonely}{NN_ road}{VBD_ cross}{another DT_}{JJ_ cold}{NN_ state}{NN_ line}
+{NN_}{VBZ_}{NN_ life}
+{RB_}{IN_}{NN_}
+{NNS_}{NN_ life}
+{NNS_}{NN_ rest}{NN_}
+{RB_ away}{NN_ land}{MD_ must}{VB_ go}
+{NN_ time}{NNS_ pass}{VBZ_ regret}{NN_ rest}{NN_ life}
+{NNS_}{RB_ away}
+{NNS_}{NNS_}
+{JJ_ young}{NN_}
+{fall}{RB_}
+{NN_ nothing}{VB_ take}{VBN_ grant}
+{NN_ road}
+{VB_ need}{VB_}
+{NN_ time}{RB_ yeah}
+{waste}{NN_ time}
+{VB_}{NN_ place}{VB_}
+{NN_}{RB_ alright}
+{JJ_}{fall}
+{live}{JJ_}{NNS_}
+{RB_ heart}{JJS_ least}{NN_ part}
+{JJ_ wrong}{VBP_}{RB_ right}
+{VBP_}{see VB_}
+{back RB_}{RB_}
+{NN_}{NN_}{VBP_}{JJ_}{NN_}
+{VBD_}{JJ_}{NN_}
+{VBG_}{RB_}{RB_}
+{NN_ scream}{IN_ till}{NN_ silence}
+{look}{NNS_}
+{MD_ may}{JJ_}
+{VB_}{NN_ girl}
+{RB_ never}{VBG_ fuck}
+{VB_}{NN_}{VBZ_}
+{VB_ gotta}{VB_ go}
+{NN_}{gotta}
+{IN_}{NNS_}
+{NN_ place}{JJ_}
+{VBZ_}{RB_}{VB_}
+{love}{RB_}
+{good}{NN_ friend}
+{NNS_}{VBG_}{VBG_}
+{VB_}{VB_}{know}
+{JJ_}{NN_}{VBD_}
+{NN_}{NN_}{MD_}{NN_}
+{get}{JJ_}{NN_}
+{NNS_}{VBP_ take}
+{NN_ nothing}{NNS_}
+{VB_ know}{VB_ know}{NN_ time}
+{MD_}{JJ_}{NNS_}
+{DT_ every}{NN_}
+{NN_}{NNS_}{NNS_}
+{JJ_}{VBP_}{JJ_}{NN_}
+{dear}{VB_}
+{RB_}{take}
+{VB_}{forever}
+{MD_}{NNS_}
+{VBN_ come}{NNS_}{NN_}
+{NN_ road}{JJ_}
+{live}{die}
+{back RB_}{IN_ beyond}{NN_ grave}
+{live}{JJ_}
+{NNS_}{NN_}{take}{NN_}
+{RB_ hard}
+{come}{JJ_}
+{CD_ two}{NN_}
+{wake}{NNS_}
+{NNS_ eye}{see VBP_}
+{JJ_ cold}{NNS_}{VBP_}
+{VB_}{NN_ fall}
+{strong}
+{RB_}{VBD_ know}{NN_}
+{VB_ rise}{RB_ ever}
+{get}{NN_}{RB_ yeah}
+{NNS_}{MD_}{VB_}
+{VBG_}{RP_}{RB_}{RB_ long}
+{NN_ love}{NN_}
+{leave}{JJ_}{JJ_}
+{know}{RB_}{JJ_}
+{VB_}{VB_}{NN_ peace}
+{NN_ breath}{NN_ inside}
+{VB_ raise}{NN_ head}{NN_ taste}{NN_ courage}
+{VB_}{day}
+{RB_}{VBN_ run}
+{VBN_}{NNS_ eye}
+{back}{VB_}
+{cause}{NN_ face}
+{JJ_}{NNS_ thing}{VBP_}
+{back RB_}{RB_}{RB_}
+{NN_}{NN_ mind}
+{JJ_}{NN_}{NNS_ memory}
+{NN_}{VBD_}{JJ_}{JJ_}
+{NNS_ heart}
+{JJ_ cold}
+{PP_}{VB_}{NN_}
+{NNS_}{VBP_}{NN_}{VB_}
+{NN_}{RB_}{away}
+{RB_}{VB_}{NN_}{JJ_}{NN_}
+{NN_}{NN_}{RB_ yeah}
+{JJ_ content}{NN_ nothing}
+{NN_}{NN_ way}{NN_}
+{MD_}{VB_}{RB_}
+{NNS_}{VBD_ win}{VB_}
+{NN_}{VB_}{away}
+{NN_}{VBP_}{back RB_}
+{NN_}{win}{NNS_}
+{one PP_}{VBP_ stand}
+{RB_}{RB_}{JJ_}{NN_}
+{VB_}{NN_}{JJ_}
+{NN_ fall}{NN_ grace}{JJ_ unholy}{NN_ night}
+{VB_ feel}{NN_}{NNS_}
+{NN_}{yet}
+{VB_}{RB_}{NN_ time}
+{VBG_}{NN_}{VBN_}
+{NN_}{NNS_ hand}
+{NN_ night}{VBG_}
+{JJ_}{go}{JJ_}
+{VBG_ live}{JJ_}{NN_}{JJ_}
+{see}{NN_}{NN_ man}
+{NN_}{VBD_}{NN_}{VB_}
+{NN_}{deep}
+{take}{NN_ life}
+{VB_}{VB_ take}{NN_}
+{come}{back}{JJ_}
+{VBN_}{one}{NN_}
+{RB_}{VB_}{NN_ way}
+{NN_}{keep}
+{VBP_}{NNS_}
+{NN_}{RB_}{NN_}
+{VBZ_ lie}{RB_ inside}{VB_ head}{JJS_ good}{NN_ friend}
+{VB_ take}{NN_ life}
+{RB_ far}{RB_}{VBN_}
+{VB_ wanna}{NN_}
+{NN_ scream}{NN_ pleasure}{VB_ unmask}{NN_ desire}
+{NN_}{VB_}{RB_ yeah}
+{DT_}
+{VB_ run}{VB_ hide}
+{VBN_ win}{NN_ leave}{VBD_ die}
+{NN_}{VBN_ bear}
+{VB_ hear}{NN_}
+{NN_ compromise}
+{VBN_ fall}{NN_}
+{JJ_}{MD_ could}{VB_}
+{try}{VBD_}{away}
+{NNS_}{VBP_ believe}
+{NN_}{NN_ time}{NN_}
+{RB_ never}{VBP_}
+{NN_}{NN_ hold}
+{lay}
+{VB_ reach}{IN_ towards}{NN_ sky}{VBD_ say}{NNS_ goodbye}
+{RB_}{VB_ go}
+{VB_}{NN_ god}
+{PP_ us}{NN_ ain}{NN_ right}
+{make}{NNS_ decision}
+{NN_}{RB_}{VBN_}
+{RB_}{escape}
+{NN_}{VB_ take}{NN_}
+{VBD_}{NNS_ time}
+{VBN_}{NN_}{NNS_}
+{NN_}{RB_ right}
+{VB_}{DT_}{NN_}
+{forever}
+{wish}{MD_}
+{RB_ never}{VBG_}
+{NN_}{NN_}{RB_}{RB_}
+{NN_}{NN_ vengeance}
+{VB_ realize}{JJ_ difficult}{NN_ see}
+{NN_ respect}{NNS_ word}{VBG_ speak}
+{VB_ let}{NN_}{NN_}
+{NN_ life}{VBD_ want}
+{NNS_}{RB_ yeah}
+{VB_}{PP_ us}
+{NN_ call}
+{NNS_}{d SYM_}{RB_ never}{VBN_}
+{VBN_ leave}{JJ_ alone}{NN_ suicide}
+{close}{NNS_ eye}
+{NN_}{NN_ world}
+{NN_ pain}{NNS_}{NN_}
+{NN_}{inside}
+{RB_}{eat}
+{VBG_}{JJ_}{JJ_}
+{NN_ pain}{NNS_ life}{VBP_ know}{NN_ misery}
+{NNS_}{VBP_}{go}
+{know}{one}
+{NN_ time}{VBZ_ go}
+{back}
+{JJ_}{NNS_}{VBG_}{NN_}
+{come}{VBG_}{RB_}
+{VBG_}{feeling}
+{NNS_ feeling}
+{VB_}{right}
+{NN_ scream}{NN_}
+{NNS_}{NNS_}{VBD_}
+{time}{VBP_}
+{back}{nothing}
+{IN_}{NN_}{VBD_}
+{VBG_ call}
+{VB_ tear}
+{NN_ nothing}{VB_ take}{time}
+{NN_}{JJ_ many}
+{VB_}{DT_}{JJ_}
+{NN_ sight}{one CD_}
+{NN_}{NN_ heart}
+{NN_}{VBZ_}{JJ_}{NN_}
+{NN_}{go}
+{NN_}{MD_}{VB_}{JJ_}{NN_}
+{leave}{VBD_}
+{NN_}{JJ_}{RB_ yeah}
+{please}{RB_}
+{possibility}
+{RB_}{VB_}{JJ_}
+{outside}
+{scream}{NN_}
+{NN_ land}
+{JJ_ left}{NN_}
+{RB_ never}{VBD_}{NN_}
+{RB_ away}{VBG_}
+{NN_ essence}{leave VBD_}{NN_ heart}{NN_ tonight}
+{NN_ afterlife}{stay VBP_}{back RB_}{RB_ soon}{RB_ anyway}
+{JJ_}{NN_}{VBD_}{JJ_}
+{NNS_}{NNS_}{JJ_}
+{RB_}{RB_}{VBN_}
+{VBN_}{hold}
+{call}
+{VB_}{VB_ feel}
+{JJ_ perfect}{would MD_}{RB_ easy}
+{NN_}{NN_ inside}
+{NN_}{NNS_}{RB_}
+{VBG_ look}
+{RB_}{VBN_ go}
+{NN_ place}{VB_}
+{road}
+{NNS_ thing}{change}
+{NNS_ friend}
+{VBN_}{JJ_}{JJ_}
+{stop}{NN_}
+{NN_ wish}
+{VBN_}{RB_}{miss}
+{NN_ cause}{NN_ everybody}{gotta}{die}{RB_ sometime}
+{around}{RB_}
+{VBN_}{NNS_}{NN_}
+{NNS_ possibility}
+{MD_}{RB_}{NN_}
+{NN_}{NN_}{RB_ right}
+{VB_}{hand}
+{VB_}{NNS_ memory}
+{VBP_ know}{NN_}
+{touch}
+{JJ_ waste}{JJ_ deep}{NN_ inside}
+{strong}{JJ_}
+{NN_ place}{NN_}{NN_}{VBD_}
+{wrong}
+{NNS_}{VBG_}{NNS_}
+{RB_}{RB_}{VBG_}
+{NN_}{NN_}{die}
+{JJ_}{NNS_}{NN_}
+{VBZ_ know}
+{JJ_ uneasy}{NN_ confrontation}
+{NN_}{NN_ direction}
+{go}{JJ_}
+{NN_ die}
+{VBG_ turn}{NNS_ heart}{NN_ stone}
+{JJ_}{NN_}{look}
+{VBN_}{NN_}{VBD_}
+{take}{NN_}{NN_}
+{NN_}{NN_ hell}
+{RB_}{take}{NN_ time}
+{another DT_}{NN_}{NN_}
+{JJ_}{seem}{NN_}{NN_}
+{NNS_ way}
+{VBN_}{NN_ disease}
+{NN_}{VBZ_}{RB_}{NN_}
+{VB_ know}{PP_ us}{NN_ ain}{NN_ right}
+{first}
+{JJ_}{time}{RB_}
+{walk}{NN_}{NN_}
+{VB_}{start}
+{NN_ night}{NN_}
+{VBN_ care}{VBD_ love}
+{NN_}{NN_ light}
+{NN_}{NNS_}{NN_}{NN_}
+{RB_ never}{NN_ end}
+{one}{NN_}{NN_}
+{NN_ voice}
+{NN_}{turn}{NN_}
+{VB_}{NN_ world}{NN_}
+{know}{NNS_}
+{RB_ heart}{NN_}
+{NN_ sign}
+{body}
+{NNS_}{NN_ cause}
+{RB_ always}{JJ_}
+{VBP_}{JJ_}{NN_}
+{NN_ look}{NNS_ eye}{NN_}{NN_}
+{NN_}{NN_}{RB_}{VB_}
+{NN_}{VBD_}{stay VB_}
+{NNS_}{NN_ time}
+{NN_ world}{JJ_ wrong}
+{true}
+{tonight}{NNS_}
+{VB_}{NN_}{NN_ right}
+{VB_}{NN_}{NN_ rest}{NN_ life}
+{NN_}{NN_ fall}{NNS_}
+{VBN_}{NN_ heart}
+{VBP_}{VB_}{VB_}
+{seem VBZ_}
+{NN_}{NN_}{NN_ tonight}
+{NN_}{VBZ_}{RB_}
+{deep}{inside}
+{NN_ rest}{NN_ time}
+{NN_}{NN_ rest}{NN_}
+{VBZ_ come}{RB_}
+{VB_ need}{back RB_}{RB_ nothing}{VB_ take}{JJ_ back}{NN_ time}
+{NN_}{VBZ_}{VB_}
+{VBZ_}{VB_}
+{JJ_ cold}{NNS_}
+{NN_}{NN_}{NN_}{JJ_}
+{VBG_}{JJ_ wrong}
+{NN_}{NN_ blood}
+{VBD_}{VB_}{NN_}
+{NN_}{NN_ time}{RB_}
+{JJ_}{RB_ away}
+{VBP_ look}{RB_}
+{NN_}{NN_}{go}
+{JJ_ fast}{NNS_}
+{NN_}{NN_}{VB_}{JJ_}
+{RB_}{RB_}{NN_}
+{NNS_}{come}{JJ_}
+{VB_ come}{RB_}{RB_}
+{NN_}{VBG_}{NNS_}
+{IN_}{JJ_}{NNS_}
+{NN_ memory}
+{VB_}{VB_}{VB_}{VB_}{NN_}
+{NN_}{VB_}{NN_}{NN_}
+{NNS_}{VBP_}{see}
+{question}
+{one CD_}{JJ_}
+{VBN_ get}{RB_}
+{NNS_}{VBP_}{NNS_}
+{try}{RB_}
+{NNS_}{one}
+{go}{VB_}{NN_}
+{VBG_ shine}
+{RB_}{long}
+{VBN_ leave}{JJ_}
+{NN_}{NN_ time}{RB_ yeah}
+{NN_}{VB_ let}{VB_}
+{cause}{VB_ die}
+{NN_ heart}
+{know}{NN_ time}{VB_}
+{waste}{RB_}
+{NN_}{turn}{NN_ way}
+{NN_}{NNS_}{VBG_}
+{back RB_}{back}
+{VBN_ go}{RB_ far}
+{VBG_}{NN_ way}
+{NN_}{VBN_}{NN_}{NN_}
+{JJ_}{NN_ road}
+{feel}{NN_}{NN_}{NN_}
+{NN_}{taste}{NN_}
+{JJ_}{NN_}{JJ_ free}
+{VBN_ break}{NN_ glass}{JJ_ fake}{NN_ reflection}
+{VBG_}{look}
+{VBN_ leave}{NN_}{NN_}
+{VBP_ know}{RB_}
+{NN_}{bear}
+{NN_}{VB_}{VBN_}
+{RB_}{JJ_}{RB_}
+{NN_}{come}{NN_}
+{JJ_}{NNS_}{turn}
+{VB_}{NN_}{VBG_}
+{NN_ intuition}{NN_ warning}{VBP_ believe}{VB_ believe}
+{VBN_ go}{NN_}
+{RB_}{VB_}{RB_}{RB_}
+{VB_}{see}
+{VB_}{RB_}{RB_ far}
+{NN_ look}{NN_ way}{NN_ help}
+{VBZ_}{JJ_}{man}
+{VBG_}{turn}
+{NN_}{VBP_}{JJ_}
+{VB_ let}{VB_}{NN_}{NN_}
+{RB_ live}{JJ_ wrong}
+{night}{NN_ pain}
+{NN_ bed}{VBG_}
+{NN_}{NNS_}{NN_}
+{JJS_}{NN_}
+{NNS_ day}{NN_ nothing}{VBD_ matter}
+{VBP_}{RB_}{VB_}{RB_}
+{NNS_}{VBP_ say}
+{RB_ still}{VB_}
+{VB_}{NN_}{NN_}{NN_}{NN_}
+{cause}{RB_}{RB_}
+{cause VB_}{VB_ feel}{NN_ face}
+{VB_ climb}{JJ_}{NN_}
+{JJ_ strong}
+{lose}{NN_ fight}
+{RB_}{NN_}{VBD_}
+{NN_ clone}
+{VBD_ try}{VBG_ run}{RB_ away}
+{VB_ take}{mine}{NN_}
+{bad}
+{JJ_}{NN_ fate}
+{feel}{VB_}
+{VB_}{NN_}{NNS_}{NN_}
+{JJ_ many}
+{VBN_ live}{NN_ touch}
+{know}{NN_}{NN_}
+{know}{NN_ time}{RB_}
+{watch}
+{NN_ fear}{NN_}
+{VB_}{NN_ someone}{NN_}
+{NN_ fear}{NN_}{VB_}
+{day}
+{NNS_}{take}
+{RB_}{VB_ take}
+{lie}{NN_}
+{NNS_ one}{RB_}
+{VBN_}{life}
+{CD_}{night}
+{VBP_}{JJ_ wrong}
+{NN_}{VBG_}{JJ_}
+{NNS_}{go}{JJ_}
+{DT_ either}{NN_ road}{JJ_ plausible}{MD_ could}{VB_ drown}
+{NN_}{NN_ blame}
+{VBG_ wait}
+{JJ_}{NN_}{NNS_}
+{JJ_}{NNS_}{VBP_}{NN_}
+{NN_ breath}
+{VBN_ confide}{NN_ heart}
+{fall}{NN_}{NN_}
+{NN_}{would MD_}{VB_}{JJ_}
+{RBR_}{JJ_}
+{MD_}{VB_}{NN_}
+{VB_}{NN_}{VB_ wanna}
+{NN_ ride}{VBZ_ take}{NN_ life}
+{VB_ know}{NN_}{NN_}
+{one}{RB_}
+{NN_}{love}
+{JJ_}{NN_}{RB_ yeah}
+{NN_ heaven}
+{know}{VB_}{NN_}
+{VB_}{NN_}{JJ_}{NN_}
+{JJ_ black}
+{like}{RB_}
+{see VB_}{NN_ way}
+{see}{NNS_}
+{way}{VB_ go}
+{one}{JJ_}{NN_}
+{look}
+{NN_ sign}{NN_}
+{NN_}{JJ_}{NN_}{JJ_}
+{NN_ pain}{JJ_}
+{JJS_}{NN_}{NN_}
+{NN_}{VBD_ tell}
+{NN_}{VBP_}{NNS_}
+{NN_ heart}{RB_ always}
+{give}{NN_}
+{like IN_}{VBG_}{NN_}
+{waste}{NN_}
+{RB_ hard}{VB_ find}
+{JJ_}{JJ_}{NN_}{NN_}
+{NNS_}{VBN_}
+{waste}{away}
+{VBN_}{NN_}{NN_ time}
+{VB_ change}{RB_ unnaturally}{NNS_ demon}{VBP_ follow}
+{JJ_ last}{NN_ time}
+{way}{NN_}
+{NN_}{lie}{NN_}
+{VBN_ live}
+{VBG_}{JJ_}{NN_}{JJ_}
+{VBG_}{NNS_}{VBG_}
+{NNS_}{VBP_ find}
+{VB_ realize}{NN_}
+{NN_ hope}{NN_}
+{NN_ nothing}{VBZ_ hurt}{NN_ world}
+{back}{NN_}
+{RB_}{face}
+{NN_ punishment}{NN_}
+{VBP_}{back RB_}{VB_}{JJ_}{NN_}
+{NN_}{MD_}{VB_}{NN_}{NN_}
+{NN_ hardship}{one PP_}{VBP_ know}
+{JJ_ close}
+{NNS_ mile}
+{NN_}{NN_}{MD_}
+{NN_}{VBD_}{NNS_}
+{VBG_ come}{VBG_}
+{VB_ take}{RB_ away}
+{NN_ cause}{NN_}{NN_}{RB_}
+{love}{strong}
+{NN_}{JJ_}{man}
+{JJ_}{NNS_ eye}
+{JJ_}{sleep}
+{JJ_}{NNS_}{JJ_ young}
+{NN_ time}{VBG_ come}{NN_ home}
+{VB_}{VB_ die}
+{NN_ life}{VBG_}
+{NN_ feel}{NN_ steel}
+{JJ_}{soul}{NN_}
+{VB_ go}{run}{NN_}
+{NN_}{NN_}{NN_}{VBP_}
+{keep}{JJ_}
+{another DT_}{JJ_}{NN_}
+{deep}{RB_}
+{night}{NN_}
+{please UH_}
+{VB_}{long}
+{NN_}{d}
+{VBN_ go}{NN_}{NN_}
+{wish}
+{JJ_}{JJ_ cold}
+{kill}{NN_}
+{NN_ mother}
+{tell}{NN_}
+{NN_}{try}
+{NN_}{VBP_}{VB_}{NN_}
+{RB_}{love}{NN_}
+{NN_}{VBZ_}{NNS_}
+{RB_}{VB_}{VB_}{NN_}
+{VB_}{VB_}{VBN_}
+{NN_}{NN_}{right}{RB_}
+{wanna}{NN_}
+{RB_}{VBN_}{NN_ time}{RB_ yeah}
+{deep}
+{VB_}{VB_ feel}{NN_}
+{VB_}{hide}
+{NN_}{fall}{NN_}
+{RB_ almost}{VBN_ laugh}{NNS_ tear}
+{JJ_ eager}{NN_ sin}
+{UH_}{VB_}
+{NN_ light}
+{NN_ life}{VBP_}
+{VBN_}{alone}{NN_}
+{VBD_}{time}
+{VB_}{JJ_}{NN_ life}
+{RB_ slowly}{away}
+{VB_}{NN_ hold}
+{NN_}{VBD_ sink}{JJ_}{NN_}
+{NN_ wish}{d SYM_}{VBN_ stay}
+{VBP_ know}{RB_ way}{VB_ go}{one PP_}{JJ_ guiding}
+{back RB_}{JJ_}
+{NN_ hope}{RB_}
+{spend}{VBG_}
+{VB_}{NN_ cause}
+{VB_}{NN_ somebody}
+{VB_}{inside}
+{NN_ place}{NN_}{NN_}{NN_}
+{JJ_ selfish}
+{JJ_}{NNS_}{time}
+{JJ_ tired}
+{NN_ word}{JJ_ wise}{NN_ fire}{VBZ_ die}
+{NN_}{NN_ cause}
+{NN_}{NN_ fate}
+{VB_ tear}{NN_}
+{RB_}{VB_}{JJ_}{NN_}
+{VBN_ make}{NN_ change}
+{NN_ wish}{MD_ could}{one PP_}
+{NN_ life}{RB_}
+{NN_}{numb}
+{NNS_}{VBD_ win}{VB_ help}
+{NN_}{silence}
+{NNS_ lead}{NN_ darkness}{VBZ_ emerge}{JJ_ light}
+{NN_ man}{VBN_}{NN_}
+{RB_ far}{long}
+{RB_}{NNS_}{VBP_}
+{NN_}{see VBP_}{NN_}
+{come}{RB_}
+{NNS_}{NNS_}{RB_}
+{RB_}{VB_}{VB_ wanna}
+{DT_ either}{JJ_}
+{NN_}{JJ_ dead}
+{VBZ_}{JJ_}{NN_}
+{NN_}{NN_}{NN_}{NN_ waiting}
+{NN_ time}{VBD_ soak}{NN_ blood}{NNS_ turn}{back RB_}
+{JJ_ timeless}
+{NN_ cause}{NN_ everybody}{VB_ gotta}{VB_ die}{RB_ sometime}{RB_ yeah}{RB_ yeah}
+{NN_ hope}{VBZ_}
+{JJ_ insane}{insane}
+{VB_ take}{RB_}
+{NN_}{NN_ breath}
+{NN_}{NN_}{NNS_}
+{VBN_}{go}
+{JJ_ grave}
+{NN_}{VBN_}{RB_}
+{JJ_}{VBZ_}{NN_}
+{JJ_ deep}{inside}
+{VB_ take}{hold}
+{JJ_ good}
+{VBN_ win}{NN_ question}{JJ_ many}{VBD_ die}
+{VB_}{cause}
+{dream NN_}{MD_ could}{VB_ prepare}{NN_ heart}{JJ_ lifeless}{NN_ friend}
+{NN_}{JJ_}{NN_}{NN_}
+{VB_ eat}
+{JJ_ young}{NNS_}
+{go}{one}
+{RB_}{VBP_ say}
+{JJ_ infernal}{NN_ man}{NN_ rain}{NN_ dark}{VBN_ bear}{JJ_ black}{NN_ night}
+{VB_ know}{come}
+{VBN_ get}{NN_}
+{NN_}{would MD_}
+{JJ_ closed}{NNS_ eye}
+{VB_}{RB_ far}{long}
+{JJ_ deep}{inside}{NN_}
+{remain}
+{NN_ pain}{VBP_ know}
+{JJ_}{NNS_}{VBN_}
+{JJ_}{JJ_}{JJ_}{NN_}
+{VBG_}{VBN_}
+{NNS_}{NN_}{see}
+{VBD_}{VB_}{RB_}
+{NN_ life}{VB_}{NN_}
+{won}{VBD_}
+{VBP_ believe}{NNS_}
+{JJ_}{NNS_}{VBN_}{NN_}
+{RB_}{VBG_}{RB_}
+{VB_ take}{NNS_ chain}{RB_ away}{VBG_ hold}
+{VBG_ come}
+{JJ_}{NNS_ year}
+{VBP_ believe}
+{NN_}{RB_ far}
+{VBD_ win}{VB_}
+{alone}
+{NN_ die}{VBD_ live}
+{JJ_ true}
+{help}{NN_}
+{NN_}{NN_ sign}{NN_}
+{VBG_ descend}{NN_ entity}
+{VBP_}{VB_}{JJ_}
+{NNS_}{VBP_ turn}
+{NN_}{NN_ pay}
+{NN_}{IN_ save}{NN_}
+{way}{RB_}
+{JJ_ self}{NN_ righteousness}{VBG_ wear}{JJ_ thin}
+{see}{NN_}{VB_}
+{RB_}{VB_ let}{NN_}
+{know}{RB_ right}
+{VBP_}{RB_}{RB_ right}
+{NN_}{track}
+{VB_}{PP_}{create}
+{VBN_}{NN_}{VB_}{NN_}
+{JJ_}{RB_}{RB_}
+{VB_ go}{run}{hide}
+{NN_ time}{NN_}{RB_}
+{VBG_ wait}{JJ_}
+{VB_}{NN_}{RB_ away}
+{leave}{VBD_}{JJ_}
+{VBG_}{VBG_}
+{DT_ every}
+{want}{VB_}{VB_}
+{away RP_}
+{JJ_}{VBG_}{NN_}
+{VBG_}{VB_}{NN_}
+{VBD_}{VB_}{VB_}
+{VBG_}{NN_}{JJ_}{NN_}
+{thing}{NN_}
+{VB_ feel}{NN_}
+{JJ_}{VBP_}{NN_}
+{nothing}{NN_}
+{RB_}{back}
+{vein}
+{VBP_}{RB_ hard}{VB_}
+{VBG_}{feeling}{VBG_}
+{die}{NN_}
+{NN_ heart}{NN_}{NNS_}
+{find}{RB_ alone}
+{VBD_ know}{VB_}
+{NN_}{NN_ disease}
+{NN_}{MD_}{PP_}
+{VBN_ gotta}{NN_}
+{VB_}{VB_}{VBP_}
+{NN_}{NN_ help}
+{NN_}{stay}
+{VB_}{RB_}{JJ_}
+{VB_}{NN_}{one CD_}
+{VB_}{NN_}{RB_ right}
+{NN_ cause}{RB_}{RB_}
+{change}{NN_ mind}
+{VB_ get}
+{NNS_}{VB_ help}
+{VBN_}{RB_ alone}{NN_}
+{go}{VBN_}
+{good}
+{RP_}{NNS_}
+{VBG_}{thing}
+{NN_ break}
+{RB_}{VB_ keep}
+{DT_}{NN_}{JJ_}
+{VB_ cover}{JJ_ unwanted}{NN_ clemency}
+{NN_ sorrow}
+{JJ_}{NN_}{NN_}{JJ_}
+{NNS_ won}{VBP_}
+{JJ_ good}{NN_ friend}{VBD_ tell}{NN_ memory}
+{JJ_}{NNS_}{VBG_}
+{VBD_}{let}{VB_}
+{VBN_}{JJ_ back}{NN_}
+{VBG_ hold}
+{JJ_ dear}{NN_ god}{NN_ thing}{VB_ ask}
+{RB_ well}
+{JJ_}{RB_ yeah}
+{VB_}{VB_}{NN_}{NN_}{VBP_}
+{NNS_}{seem}{NN_}
+{NN_ cause}{RB_}{RB_ yeah}
+{VB_ know}{RB_}{NN_}
+{VB_ pray}{NN_}
+{NNS_}{RB_}{JJ_}{RB_}
+{NN_ heart}{NNS_}
+{RB_ never}{NN_}{RB_}
+{NN_}{VB_ gotta}{VB_}
+{VBN_ lose}{NN_}{NN_}
+{RB_}{JJ_ good}
+{right}{RB_}
+{NN_ spot}{NN_ hell}{VBP_ belong}
+{NN_}{JJ_ wrong}
+{NNS_}{RB_ still}
+{please UH_}{VB_}{RB_}
+{RB_ never}{NN_}{VB_}
+{MD_ may}{RB_}
+{would MD_}{RB_}
+{NN_ fate}{VBD_ expose}{NN_ won}{VBD_ let}{stay VB_}
+{VB_}{PP_}{NN_}
+{RB_}{NN_}{VBP_}
+{RB_ always}{JJ_ true}
+{nothing}{JJ_}{NN_}
+{NN_}{light}
+{NN_ part}
+{JJ_}{NN_}{NNS_}{VBP_}
+{take}{NN_ time}
+{inside}{NN_}
+{NN_}{VB_}{NN_}{JJ_}{NN_ friend}
+{VBN_}{NN_ mind}
+{RB_ somewhere}{NN_}
+{JJ_}{NN_ light}{RB_}
+{VBN_}{NN_ something}
+{NN_ path}
+{VBD_}{away}
+{JJ_}{NN_ place}
+{would MD_}{JJ_}{NN_}
+{NN_ cause}{NN_}{NN_}
+{VB_}{VBN_}{RB_}
+{VBP_}{RB_}{VB_}{NN_}
+{long}{RB_}
+{NN_}{VBP_}{VB_ feel}{JJ_}
+{VB_}{VB_}{RB_}{RB_}
+{black}
+{come}{NNS_}{VBG_ go}
+{RB_}{good}
+{head}{NN_}
+{another DT_}{NN_ way}
+{VBP_}{RB_}{RB_}
+{seem}{JJ_}{NN_}
+{NN_}{NNS_}{VBP_}{NN_}
+{VBG_}{ear}
+{right}{JJ_}
+{JJ_}{JJ_ young}
+{friend}{VBD_}{NN_}
+{reach}{NN_}
+{VB_ make}{RB_ right}
+{NN_}{NN_ right}
+{win}{NN_}{NNS_}
+{VB_}{memory}
+{leave}{NNS_ memory}
+{VBN_ leave}{VBD_ find}
+{VB_ come}{back RB_}{RB_ almost}{JJ_ easy}
+{RB_}{NN_}{VBG_}
+{strong}{RB_}
+{another DT_}{NN_}
+{NN_}{die}{NN_}
+{come}{back RB_}{RB_}
+{NNS_ won}{VBP_ believe}{NNS_ storey}{VBD_ tell}
+{VBN_ find}{NN_}
+{VB_ take}{back}{NN_ time}
+{NN_ air}{NN_}
+{VB_ let}{VB_}{NN_ start}
+{VBG_ run}{away RP_}{VBG_ fight}{RB_ long}{RB_ long}
+{struggle}
+{RB_}{get}{NN_}
+{VB_}{NN_}{right}
+{RB_}{back}{NN_}
+{VB_ take}{time}
+{regret}{NN_}{NN_ life}
+{NN_}{NN_}{VBP_}{JJ_}
+{take}{NN_}{NN_}{JJ_}
+{JJ_ wrong}{NN_}
+{VB_}{time}
+{NN_ cut}{NN_}
+{JJ_}{heart}{NN_}
+{NN_}{VB_}{JJ_ wrong}
+{JJ_ closed}{NNS_}{NNS_}
+{NN_}{one}
+{NNS_ one}{JJ_}{NN_}
+{JJ_}{man}
+{NN_}{NN_ d}
+{JJ_}{NN_}{NN_ waiting}
+{NN_}{NN_ sin}
+{NN_}{VBP_}{RB_}{VB_}
+{JJ_}{JJ_}{RB_}
+{PP_}{MD_}{VB_}
+{NN_ watch}{NN_ mother}{VBD_ shed}{NNS_ tear}
+{like IN_}{NN_}{NN_}
+{NN_}{RB_ never}{VB_}
+{NNS_}{light}
+{NN_ time}{VBD_}{NN_}
+{night}
+{VB_}{RB_ around}
+{IN_ without}{one CD_}{NN_ goodbye}
+{RB_}{VBG_}{NN_}
+{RB_ almost}
+{NN_}{feel}
+{NN_}{VBN_ take}
+{VBN_}{NN_}{JJ_}{NN_}
+{leave}{NN_}{NN_}
+{JJ_}{VBP_ feel}{NNS_}
+{NNS_}{VBP_}{VB_}{RB_}
+{NN_}{NN_}{VBZ_}
+{JJ_}{run}
+{know}{DT_}
+{NN_ body}
+{NN_ step}
+{VB_ change}
+{NN_}{VBP_}{VB_}{JJ_}
+{NN_ wall}
+{away}{NN_}
+{NN_ fall}{NNS_}
+{life}{NN_}
+{JJ_}{dream NN_}
+{VB_ bring}{NN_}
+{grave}
+{VBN_ darken}{NNS_ eye}{see VBP_}
+{VB_}{JJ_}{NN_ time}
+{back RB_}{RB_}{NN_}
+{VB_}{PP_}{VB_}{RB_}
+{MD_ may}{VBN_}
+{NN_ silence}
+{NNS_ memory}{JJ_ past}
+{VB_ pray}{NN_ god}
+{VB_ believe}{NN_}{NN_}
+{NN_}{run}
+{NN_ murder}{VBN_ bear}{NN_ vengeance}
+{VB_}{back}
+{NN_}{NN_}{VB_}{VB_}
+{VB_}{say}{goodbye}
+{NNS_ eye}{VBP_}
+{VBG_}{heart}
+{make}{JJ_}
+{fall}{JJ_}
+{JJ_}{NN_ friend}
+{VB_}{RB_ far}
+{NN_ sign}{NN_}{NN_}
+{NN_}{NN_}{NN_ wall}
+{IN_}{NN_}{NN_}{RB_}
+{one PP_}{VB_}
+{MD_}{VBG_}
+{JJ_}{NNS_ eye}{RB_ tonight}
+{would MD_}{JJ_}
+{create}{RB_}
+{NN_ way}{JJ_}
+{word}
+{NN_ afterlife}
+{one}{JJ_}
+{VBN_}{JJ_}{NNS_ memory}
+{run}{hide}
+{NN_ cause}{NN_}{RB_}
+{NN_}{NN_ changing}
+{NN_}{thing}{JJ_}
+{JJ_}{IN_}
+{dream NN_}{JJ_}
+{RB_ yeah}
+{VB_}{VB_}{NN_ time}
+{life}
+{JJ_}{NNS_ feeling}
+{NN_ fight}{VBZ_ go}
+{get}{JJ_}{know}
+{leave}{VBN_}
+{mine}
+{VBN_}{NN_ head}
+{CD_}{NN_}
+{NN_}{NNS_}{VBP_}
+{VB_ sit}{NN_ nothing}
+{NN_}{wrong}
+{NN_}{RB_}{go}
+{VB_ convince}{VBN_ grow}
+{NNS_}{NN_}{VBZ_}
+{CD_}{JJ_}
+{leave}{NNS_}
+{NN_}{NN_}{RB_ away}
+{JJ_}{NN_ nothing}
+{NN_ bye}{NN_ bye}
+{one CD_}{NNS_}
+{VB_ feel}{VB_ burn}{RB_ inside}
+{JJ_}{VBD_}{NN_}
+{NN_ sorrow}{VBD_ sink}{JJ_ deep}{JJ_ inside}{NN_ blood}
+{NN_ taste}{NN_ blood}
+{VB_}{RB_}{RB_}{JJ_}
+{away}{VBG_}
+{NNS_}{take}{NN_}
+{VBN_}{JJ_}{VBP_}
+{NNS_ sin}{VBN_}
+{JJ_}{NN_}{JJ_}{NNS_}
+{contribute}
+{NN_}{NN_}{JJ_ strong}
+{VBD_}{NN_}{VB_}
+{VBN_}{NNS_}{VBD_}
+{VB_ know}{VB_}{NN_}
+{JJS_}
+{UH_ oh}{RB_}
+{VBN_ live}{NNS_}
+{VBN_ go}{VBN_}
+{NNS_}{NN_}{VBP_}
+{VB_}{another DT_}{NN_}
+{NNS_}{JJ_}{NN_}
+{go}{VB_ take}{NN_}
+{VB_ quit}{VBG_ run}{RB_ away}
+{NNS_ mile}{RB_ away}{VBP_ love}{NN_ purpose}{RB_ hard}{VB_ find}
+{JJ_}{NN_}{JJ_}
+{follow}{NN_}
+{NNS_ lie}
+{JJ_ dark}
+{VBG_ break}{apart RP_}{NNS_ one}{VBP_ love}
+{VB_}{one PP_}
+{JJ_}{NN_}{NNS_}{JJ_}
+{come}{back RB_}
+{need}{VB_}{NN_}
+{right}{NN_}
+{VBN_}{NN_ life}{VBG_}{RB_}
+{NNS_}{RB_}{VBP_}
+{NN_}{fade}
+{NN_ peace}
+{NN_ corner}{VBN_ forget}{RB_ away}
+{JJ_}{light}{NN_}
+{give VB_}{NN_ hand}{VBD_ conceive}{VBN_ bear}{one CD_}{NN_ light}
+{see}{NN_}{VB_}{NN_}
+{good}{friend}
+{JJ_}{JJ_}{JJ_}
+{NN_}{one PP_}
+{VB_ know}{right}
+{RB_}{VB_ let}
+{NNS_ brother}
+{one}{NN_ night}
+{want}{VB_ feel}
+{VBP_}{RB_}{VB_}{JJ_}
+{NN_}{VBD_ say}
+{RB_}{VB_}{NN_ friend}
+{JJ_ insane}{JJ_}
+{RB_ deep}
+{know}{JJ_}{NN_}
+{NN_}{JJ_}{die}
+{NN_}{tonight}
+{VB_ feel}{NN_}{NN_}
+{road}{NN_}
+{NN_}{NNS_ word}
+{VBG_ fuck}{NN_}
+{plague}
+{shine}
+{VBN_}{NN_}{NN_}{NNS_}
+{VBP_}{NNS_}{VBP_}
+{VB_}{cry}
+{NNS_ hand}
+{NN_}{VBD_ win}
+{UH_ oh}{VB_}
+{NN_ love}{VBP_}
+{JJ_ perfect}
+{NNS_}{one CD_}{NN_}
+{VBD_}{NN_}{RB_}
+{NN_}{ignore}
+{VBN_}{NN_}{way}
+{move}{RB_}
+{VBN_}{JJ_ black}{NN_ night}
+{VB_}{VBG_}{NN_}{NN_}{NN_}
+{VB_}{JJ_}{time}
+{VB_ feel}{VB_ know}{NN_}
+{VB_}{hold}
+{NN_ time}{pass}{NN_}
+{soul}{NN_}
+{NN_}{NN_ night}
+{NN_}{RB_}{VB_}{NN_}
+{NN_}{away RP_}
+{want}{VB_}
+{get}{NN_}{NNS_}
+{NN_}{NNS_}{VBP_}{RB_}
+{VB_ come}{back RB_}{JJ_ unconceivable}
+{VBN_}{NN_ fear}
+{NN_ taste}{NN_ blood}{NNS_ cry}
+{NN_}{NN_ d}{NN_}
+{VBG_}{JJ_}{VBP_}
+{NNS_}{VBN_ go}{NN_}
+{give}{VB_ wanna}
+{NN_}{stay VB_}
+{come VBD_}
+{JJ_}{NN_}{VBP_}{NN_}
+{NN_ hold}
+{VB_}{VB_}{NN_ afterlife}
+{VB_}{VB_}{VB_ go}
+{VBG_}{time}
+{RB_}{NNS_}
+{NN_}{till}
+{VBP_}{see}
+{NN_}{NN_}{feel}
+{JJ_}{RB_}{JJ_}
+{RB_ sometimes}{NN_ life}{VBD_ alter}
+{JJ_}{VBN_}{JJ_}
+{fuck}
+{compromise}
+{NN_}{MD_}{VB_}{NN_}
+{silence}
+{VBP_}{NN_}{VBD_ win}
+{goodbye}
+{NN_ time}{NN_ something}{JJ_ real}
+{RB_}{IN_ inside}{NN_}
+{NN_}{NN_ dark}{JJ_}
+{VB_ know}{PP_}
+{VB_ know}{VBN_}{NN_}
+{VBN_}{IN_}{VBN_}
+{feed}
+{MD_}{VBN_}
+{VB_}{NN_}{NN_}{VB_ wanna}
+{NN_}{NN_ girl}{VBP_ know}
+{JJ_ light}
+{NN_}{IN_}{RB_}
+{NN_ man}{NN_}{NN_}{JJ_}{NN_}
+{one CD_}{RB_ ever}{JJ_ slow}
+{VB_ need}
+{VBN_}{NN_}{VBD_}{NN_}
+{seem}{NN_}
+{VB_}{VBP_}{NN_}
+{NN_ feel}{NN_}
+{NN_ holding}
+{NNS_}{VBP_}{VBD_}
+{VBN_}{JJ_}{RB_}
+{die}{VBD_}
+{NN_ mine}{NN_ time}
+{like IN_}{VBN_}
+{bring}
+{RB_ hard}{RB_}
+{RB_}{head}
+{get}{NN_}{NN_}
+{NN_ story}{VBZ_}
+{JJ_ high}{NN_}
+{NN_}{NN_}{NN_}{NNS_}
+{JJ_}{shine}
+{NN_}{bleed}
+{bleed}
+{NN_}{VB_}{VB_}
+{NN_ cause}{NNS_ thing}
+{NNS_}{night}
+{UH_}{RB_}
+{NN_ peace}{NN_}{NN_}
+{NNS_}{VBP_ love}
+{time}{JJ_}
+{see}{NN_}{NN_}
+{NN_}{see}{NN_}
+{VB_}{around}
+{NNS_}{VBP_}{VB_}{NN_}
+{NN_ hope}{NN_ savior}
+{NN_}{back RB_}{NN_}
+{time}{NNS_}
+{JJ_ lonely}{JJ_}
+{feel}{VBN_}
+{cause}{know}
+{VBP_}{VBD_}
+{RB_ easy}
+{VB_}{VBG_}{NN_ killing}
+{NN_ hope}{NN_}{JJ_}
+{RB_}{RB_ always}
+{VB_ feel}{NN_ time}
+{NN_ nightmare}{JJ_ full}{NN_}
+{man}
+{gotta}{NN_}
+{VBD_}{take}{NN_}
+{NN_ look}{VBP_}{NN_}
+{NN_}{JJ_}{VBD_}
+{NN_}{NN_}{might}
+{NN_}{NN_ rain}
+{NN_}{VBD_}{VBN_}{RB_}
+{NN_ cause}{NN_}
+{VB_}{back RB_}
+{NNS_}{RB_}{VBN_}
+{NN_}{NNS_ memory}
+{JJ_}{NN_}{memory}
+{RB_}{RB_}{JJ_}
+{NN_ house}
+{VBZ_ know}{NNS_}
+{RB_ well}{NN_}
+{NN_}{NN_}{NN_ face}
+{NN_}{NN_ thing}
+{leave}{memory}
+{VBG_ fight}
+{VB_ know}{VB_ make}{VB_ wanna}{NN_ scream}
+{NN_}{NN_ vengeance}{NN_}
+{VBN_}{VB_}{way}
+{take}{JJ_}
+{VB_}{VB_ make}{NN_}
+{JJ_ confident}
+{NN_}{VBD_}{away}
+{VBN_}{NNS_}{NN_}{VBG_}
+{VBP_}{RB_ right}
+{RB_}{VB_}{one}
+{NN_}{face}{NN_}{NN_}
+{NNS_}{RB_ never}
+{back RB_}{NN_}{NN_}
+{NN_}{would MD_}{VB_}
+{NNS_}{VBD_}{JJ_}
+{VB_ get}{NN_}
+{RB_}{NN_}{go}
+{NN_}{NN_}{NN_ desire}
+{NN_ pleasure}{NN_}
+{NN_}{NN_}{NN_}{JJ_}{NN_}
+{NN_ way}{VB_}
+{JJ_}{NN_ man}
+{would MD_}{NN_}
+{NN_}{RB_ alone}
+{would MD_}{VB_}{NN_}
+{NN_ place}{wanna}
+{NNS_}{NN_}{VBD_}
+{VB_}{JJ_ stuck}
+{JJ_}{NN_}{IN_}{NN_}
+{NN_ hand}
+{NNS_}{go}
+{thing}{VBP_}
+{RB_}{IN_}
+{NN_ scream}{NN_}{NN_}
+{JJ_}{NNS_}{go}
+{arrive}{JJ_}
+{VBG_ look}{NN_}
+{NN_ time}{VBZ_}{NN_}
+{CD_ two}{heart}{VB_}
+{NN_}{JJ_}{NN_ life}
+{JJ_}{NN_}{see}
+{VBN_}{VBD_ know}
+{JJ_}{NNS_ eye}{VBP_}
+{NN_}{NNS_ tear}
+{look}{NN_}
+{VB_}{NNS_}{NNS_}
+{NN_}{VBP_}{go}
+{VB_}{NN_ place}
+{VBG_}{JJ_}{NNS_}
+{believe}{VB_}
+{VBG_}{JJ_}{NN_}{NN_}
+{VB_}{VB_}{JJ_}{NN_}
+{VBN_ pull}{NN_ watch}{JJ_ eternal}{NN_ sleep}
+{one PP_}{VBD_}
+{NN_}{taste}
+{VB_ know}{RB_ yeah}
+{JJ_}{NN_}{VBN_}
+{NN_}{face}{NN_}
+{one PP_}{VBZ_}
+{end}{RB_}
+{NN_ leave}{VBD_}
+{VB_}{NNS_}{VBG_}
+{VB_}{back RB_}{IN_}{NN_}
+{break}{NNS_}
+{smile}{JJ_}{NN_}
+{wanna}{VB_}{NN_}
+{JJ_}{VBN_}{NNS_}
+{won}{VB_}
+{PP_}{NN_}{NN_}
+{JJ_ learned}{NNS_ year}{VBN_ go}{one CD_}{NN_ care}
+{NN_}{NN_}{NN_ waiting}
+{JJ_ last}{JJ_}{NN_}
+{JJ_}{light}
+{dead}
+{NN_}{cause}
+{back RB_}{RB_}{JJ_}{NN_}
+{come}{JJ_}{NNS_}
+{VBN_ ravage}{NN_}
+{confide}{NN_}
+{VB_}{find}
+{JJ_}{NN_ night}
+{MD_}{RB_}{VB_}{NN_}
+{NN_}{VBP_}{JJ_ wrong}
+{JJ_}{NN_}{grave}
+{win}{NNS_}
+{VBN_}{NN_}{die}
+{JJ_ dark}{NN_}{RB_}
+{one CD_}{RB_}
+{know}{NN_ place}
+{leave}{alone}
+{like}{VBN_}
+{RB_}{see VB_}{NN_}
+{NN_ murder}{NN_ vengeance}
+{ha NP_}{NP_}
+{NN_}{RB_}{VB_}
+{NN_}{VBD_}{NN_}{NNS_}
+{NN_}{VB_}{RB_}
+{VB_ take}{NN_}{NN_}
+{VBP_ belong}
+{VB_}{IN_}{RB_}
+{JJ_}{NN_ sin}
+{forget}
+{IN_}{NN_}{RB_}
+{please UH_}{VB_}
+{JJ_ new}
+{true}{NN_}
+{RB_}{NN_ life}
+{matter}
+{VBN_ get}{NN_}{RB_}
+{VB_}{RB_}{RB_}{NN_}
+{RB_ away}{VB_}
+{VB_}{way}
+{NNS_ memory}{VBP_ remain}
+{JJ_}{NN_ grey}
+{VBN_ stick}{RB_ alone}{IN_ inside}{NN_ head}
+{JJ_ hard}{NN_}
+{VB_ wanna}{VB_}
+{VBN_}{JJ_}{NNS_}{NN_}
+{PP_}{would MD_}{VB_}
+{NN_}{VBP_}{VB_}{JJ_}{NN_}
+{NN_ friend}{VBD_}{VB_}
+{taste}
+{RB_ right}{NN_}
+{JJ_}{MD_}{VB_}
+{NNS_ eye}{VBP_}{VB_}
+{VBN_}{JJ_}{JJ_}{NNS_}
+{NN_ girl}
+{catch}{NN_}
+{RB_}{one}{JJ_}
+{JJ_ first}
+{NN_ peace}{NN_}
+{RB_ nowhere}{VBN_ run}{NN_ hide}
+{VBG_}{NN_}{VBD_}
+{NN_ hate}{VBZ_ run}{RB_ deep}{VBN_ do}{PP_ us}
+{MD_ could}{VB_}{NN_}
+{look}{JJ_}
+{hard}{NN_}
+{NNS_}{VBP_}{VB_}{VB_}
+{wrong}{VBD_}
+{NN_}{VBN_ come}
+{RB_}{find}
+{NN_}{VBD_}{tonight}
+{see VB_}{VB_}
+{JJ_ good}{NNS_}
+{NN_ direction}
+{JJ_}{see}{NN_}
+{NNS_ one}{VBN_}
+{NN_ mine}
+{JJ_}{VBP_ know}
+{realize}
+{VBZ_}{inside}
+{JJ_ full}{NN_}
+{NN_ soul}{NN_}
+{NN_ god}{VB_}
+{VBD_}{VBG_}{NN_}
+{NN_ heart}{NN_}
+{NN_}{memory}
+{NN_}{VBD_}{VB_}{RB_}
+{VB_}{away}
+{NN_ lust}{NN_ burning}{NN_ desire}
+{RB_}{hold}
+{RB_}{see VB_}
+{CD_}{NN_ time}
+{JJ_}{IN_}{VBG_}{NN_}
+{NNS_ thing}{VBN_}
+{RB_}{one}
+{VBG_ follow}{JJ_ wrong}{NNS_ step}{VBD_ lead}{NN_ pride}
+{heart}{NN_}
+{VB_}{one CD_}
+{JJ_}{VB_}
+{memory}
+{NN_ price}
+{DT_}{JJ_}
+{NN_ heart}{RB_}
+{VB_}{RB_ long}
+{NN_ look}
+{RB_}{VBN_}{NN_}{NN_}
+{NN_ punishment}{VBD_ send}{NN_ hand}
+{VBP_ look}{RB_}{VB_}{NN_}
+{VBN_}{NN_ nothing}
+{VBP_}{go}{JJ_}
+{RB_ never}{VBG_}{NN_}
+{NN_}{wanna}
+{JJ_}{NN_}{NNS_}{VBP_ turn}
+{nothing}{VB_ take}{JJ_ back}{NN_ time}
+{NN_}{NN_ cause}{NN_}
+{VB_ know}{JJ_ hard}{NN_ fall}
+{NN_}{NN_ blood}{NNS_}
+{lend}{NN_}
+{NNS_}{VBP_}{JJ_}
+{NN_}{JJ_}{NN_ time}
+{JJ_}{NNS_ life}
+{time}{RB_}
+{VBN_}{VBD_}{NN_}
+{good}{friend}{VBD_}{NN_}
+{one PP_}{know}
+{VBG_}{step}
+{VB_}{NNS_ eye}
+{fall}{NN_}{JJ_}{NN_}
+{front}{NN_}
+{VBP_ look}{RB_ way}{VB_ breathe}{NN_ way}
+{RB_}{NN_}{MD_}{VB_}
+{RB_}{RB_}{RB_ yeah}
+{NN_ person}
+{VB_}{JJ_}{JJ_}{NN_}
+{VBP_}{see}{NN_}
+{NN_ girl}{VBP_ know}
+{MD_}{RB_}{VB_}
+{JJS_ good}{friend}
+{VB_ come}{RB_}
+{RB_ much}{RB_ far}{RB_ away}
+{NN_}{would MD_}{RB_}
+{NN_}{IN_}{NN_}{RB_}
+{VBP_ think}{VBN_ begin}
+{VB_ end}{VBG_ knock}
+{VB_ please}{NN_ question}
+{RB_ early}
+{JJ_ selfish}{NNS_}
+{NN_ country}
+{VBN_}{see}
+{side}
+{RB_}{inside}
+{VB_}{back RB_}{RB_}{NN_}
+{gotta}
+{dear}{NN_}
+{JJ_}{NN_}{VBP_}
+{NN_}{NN_ existence}
+{NN_}{JJ_}{JJ_ past}
+{NN_}{NN_}{VBP_}
+{problem}
+{NN_ place}{NN_}{NN_}
+{make}{RB_}
+{VBG_}{NNS_ feeling}
+{RB_ forever}
+{VBG_}{RB_ far}
+{VB_}{VB_ make}{VBN_}
+{JJ_}{NN_}{VBD_}{NN_}
+{promise}
+{VB_}{IN_}{NN_}
+{rise}{RB_}
+{VB_ tell}{NN_}
+{VBN_}{VBG_}{RB_}
+{JJ_ right}{NN_}
+{home}
+{VB_ find}
+{VBN_}{JJ_ back}
+{NN_ sin}{JJ_ deep}{NN_ blood}
+{NN_ tonight}{VBP_}
+{MD_ must}
+{RB_ away}{NN_}{VB_}
+{NN_}{VBD_}{JJ_}{NN_}
+{VBD_}{VB_ let}{VB_}
+{NNS_ hand}{NNS_}
+{VB_}{VB_ wanna}{NN_}
+{NN_}{NN_}{NN_ somebody}
+{friend}{NN_}
+{belong}
+{NN_}{VBD_}{let}{VB_}
+{NNS_}{JJ_}{NNS_}
+{VBN_ gotta}
+{VB_ bring}
+{NN_}{NN_}{would MD_}
+{cause VB_}
+{VBG_}{RB_ yeah}
+{NN_ hope}{VBD_ lose}{VBN_ go}{RB_ far}
+{RB_}{VBP_}{RB_}
+{make VBD_}
+{NN_ place}{RB_}
+{tear}{NN_}
+{point}
+{RB_ never}{VBN_ live}{NN_ fear}{VBD_ know}{NN_ d}{VB_ die}{another DT_}{NN_ day}
+{JJ_ top}
+{reach}
+{NNS_}{JJ_}{VBG_}
+{JJ_ deep}
+{NN_}{VBZ_ begin}
+{NNS_ won}{see VBP_}{RB_ tonight}
+{NN_}{VBG_}{VBG_}
+{NN_}{back RB_}
+{NN_}{see VBP_}
+{NN_}{time}{NNS_}
+{NN_ life}{JJ_}
+{NN_}{VBP_}{VB_}{VB_}
+{VB_ breathe}
+{NN_ grace}{NN_}
+{NN_ turn}{NN_}
+{VBG_ cherish}{NNS_ feeling}{VBG_ pleasure}
+{back RB_}{RB_}{JJ_}
+{VB_}{NN_}{NN_}{VBP_}
+{good JJR_}{NN_ life}
+{NN_ head}{NN_}
+{look}{RB_}
+{JJ_}{NN_ fall}
+{live}{VB_}
+{NN_}{NNS_}{NN_ life}
+{watch}{NNS_}
+{move}{NN_}{NN_}
+{NN_ life}{VBP_}{RB_}
+{long}{NN_}
+{NN_ stare}{NN_ way}{RB_ anymore}
+{NNS_ memory}{VBP_}
+{NN_ d}{NN_}
+{search}{NN_ way}
+{try}{RB_ away}
+{JJ_ cold}{NN_}
+{like IN_}{VBN_}{NN_}
+{come}{RB_}{RB_}
+{RB_}{RB_ far}
+{give VB_}{NN_}{NN_}
+{NN_ moving}{seem VBD_}{JJ_ somber}{NN_ bliss}
+{RB_ never}{VBN_ view}{NN_ life}{NN_ something}{VBG_ slip}{RB_ away}
+{VBG_}{RP_}
+{VB_}{back RB_}{RB_}{JJ_}
+{JJ_ close}{NNS_ eye}{RB_}

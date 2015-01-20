@@ -1,0 +1,21 @@
+{day}	sup=2
+{another}	sup=2
+{story}{behind}	sup=2
+{way}	sup=2
+{time}	sup=2
+{leave}{behind}	sup=2
+{break}	sup=2
+{know}	sup=2
+{find}	sup=2
+{one}{thing}{win}	sup=3
+{die}{alone}	sup=3
+{story}	sup=3
+{wanna}	sup=3
+{see}	sup=3
+{behind}	sup=3
+{say}{prayer}	sup=3
+{cause}{ain}{leave}{without}	sup=3
+{one}	sup=5
+{die}	sup=5
+{leave}	sup=5
+

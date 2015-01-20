@@ -1,0 +1,11 @@
+{wish}{would}	sup=22
+{feed}	sup=2
+{speak}	sup=2
+{never}	sup=3
+{give}{reason}{burn}{house}	sup=3
+{give}{reason}{disaster}	sup=3
+{happy}{ever}	sup=3
+{give}{reason}	sup=15
+{give}{reason}{turn}{run}	sup=4
+{give}{reason}{wish}{would}	sup=5
+

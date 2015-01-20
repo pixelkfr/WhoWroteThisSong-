@@ -1,0 +1,16 @@
+{leave}	sup=11
+{one}	sup=2
+{cold}	sup=2
+{across}	sup=2
+{leave}{like}{chalk}{outline}	sup=3
+{sidewalk}{wait}{rain}	sup=3
+{keep}{come}{back}{scene}{crime}	sup=3
+{dead}{speak}{leave}{say}{anyway}	sup=3
+{dead}{speak}{nothing}{leave}{say}	sup=3
+{dead}{speak}{nothing}{leave}{anyway}	sup=3
+{dead}{speak}{nothing}{say}{anyway}	sup=3
+{dead}{nothing}{leave}{say}{anyway}	sup=3
+{leave}{behind}	sup=5
+{wash}{away}	sup=6
+{chalk}{outline}	sup=7
+

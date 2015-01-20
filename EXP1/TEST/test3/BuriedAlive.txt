@@ -1,0 +1,15 @@
+{tell}{real}	sup=2
+{real}{ever}	sup=2
+{hey}{live}{another}{day}	sup=2
+{darkness}{keep}{light}{conceal}	sup=2
+{grim}{ever}	sup=2
+{hold}{faith}{dig}{another}{grave}	sup=2
+{meanwhile}{mouse}{endure}{wheel}	sup=2
+{seem}{bury}{alive}	sup=2
+{life}{feel}{like}	sup=2
+{strike}{light}	sup=2
+{let}{take}{soul}	sup=2
+{take}{soul}	sup=3
+{feel}{like}	sup=3
+{die}{bury}{alive}	sup=3
+{bury}{alive}	sup=5

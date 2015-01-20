@@ -1,0 +1,20 @@
+{pirate}{really}{badass}	sup=2
+{yo}{ho}{ahoy}{avast}	sup=2
+{hang}{black}{flag}	sup=2
+{end}{mast}	sup=2
+{yay}	sup=2
+{us}	sup=2
+{box}	sup=2
+{lock}	sup=2
+{away}	sup=2
+{set}{sail}	sup=2
+{ya}	sup=2
+{pirate}{right}	sup=3
+{yar}{har}{fiddle}{di}{dee}	sup=3
+{hang}	sup=3
+{sail}	sup=3
+{want}{cause}{pirate}{free}	sup=4
+{yar}{har}	sup=4
+{pirate}	sup=16
+{har}	sup=5
+

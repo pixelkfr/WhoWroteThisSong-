@@ -1,0 +1,23 @@
+{NN_}{JJ_}{NN_}	sup=12
+{reach NN_}{NN_}	sup=2
+{VB_}{look VBG_}	sup=2
+{VB_}{VBG_}{NN_}	sup=2
+{VB_ know}	sup=2
+{one CD_}{NN_}	sup=2
+{RB_}{NN_}	sup=2
+{know}{NN_}	sup=2
+{NNS_}	sup=2
+{get}	sup=2
+{JJ_}{NN_}	sup=13
+{reach}{NN_}	sup=3
+{VB_}{VBG_}	sup=3
+{NN_}{NN_}	sup=14
+{VB_}{NN_}	sup=4
+{JJ_}	sup=15
+{NN_ happiness}{straight JJ_}{NN_ bottle}	sup=6
+{JJ_ real}{NN_ life}{JJ_ hard}{NN_ swallow}	sup=6
+{VB_}	sup=7
+{JJ_}{JJ_}	sup=7
+{JJ_ hard}{NN_ swallow}	sup=7
+{NN_}	sup=21
+

@@ -1,0 +1,19 @@
+{get}	sup=11
+{leg}{make}{wood}	sup=2
+{drink}	sup=2
+{fight}	sup=2
+{aggghh}{bastard}	sup=2
+{arm}	sup=2
+{bastard}	sup=3
+{wooden}{leg}{wooden}{leg}	sup=15
+{wooden}{leg}{wooden}	sup=16
+{get}{wooden}{leg}{wooden}{leg}	sup=7
+{get}{wooden}{leg}{wooden}	sup=8
+{wooden}{leg}{leg}{wooden}{leg}	sup=8
+{wooden}{leg}{wooden}{leg}{leg}	sup=8
+{wooden}{leg}{wooden}{leg}{wooden}	sup=8
+{wooden}{leg}{wooden}{wooden}{leg}	sup=8
+{wooden}{wooden}{leg}{wooden}{leg}	sup=8
+{leg}	sup=19
+{get}{leg}	sup=9
+

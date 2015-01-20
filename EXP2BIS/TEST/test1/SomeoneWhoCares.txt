@@ -1,0 +1,16 @@
+{street}	sup=2
+{get}	sup=2
+{blame}	sup=2
+{like}	sup=2
+{hard}{find}	sup=2
+{someone}{keep}	sup=2
+{nobody}	sup=2
+{together}{come}{undo}	sup=2
+{find}	sup=13
+{someone}	sup=13
+{someone}{look}	sup=5
+{easy}{enough}{find}	sup=5
+{find}{someone}	sup=6
+{care}	sup=7
+{hard}	sup=8
+

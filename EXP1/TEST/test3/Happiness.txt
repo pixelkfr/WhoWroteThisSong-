@@ -1,0 +1,3 @@
+{happiness}{straight}{bottle}	sup=6
+{real}{life}{hard}{swallow}	sup=6
+{hard}{swallow}	sup=7

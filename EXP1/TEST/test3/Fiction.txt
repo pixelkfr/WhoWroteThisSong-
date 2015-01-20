@@ -1,0 +1,6 @@
+{hope}{worth}	sup=2
+{tell}{everybody}	sup=2
+{one}{walk}{beside}{yeah}	sup=2
+{know}{find}{way}	sup=3
+{find}{way}	sup=4
+{let}{burn}	sup=4

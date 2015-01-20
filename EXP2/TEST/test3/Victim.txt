@@ -1,0 +1,24 @@
+{cause}{need}	sup=2
+{nothing}	sup=2
+{know}	sup=2
+{day}	sup=2
+{find}	sup=2
+{thing}	sup=2
+{need}{little}	sup=2
+{save}	sup=2
+{another}	sup=2
+{reason}	sup=2
+{full}	sup=3
+{cause}	sup=3
+{time}	sup=3
+{seem}{shelter}{pain}{inside}	sup=3
+{say}{real}	sup=3
+{lose}{power}{feel}{tonight}	sup=3
+{go}{regain}	sup=3
+{seem}	sup=4
+{feel}	sup=4
+{go}	sup=4
+{need}	sup=4
+{victim}{crime}	sup=7
+{crime}	sup=8
+

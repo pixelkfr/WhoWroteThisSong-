@@ -1,0 +1,9 @@
+{nothing}{shock}{like}{bullet}{hole}	sup=2
+{leave}{fear}{danger}{line}	sup=2
+{leave}{faith}{danger}{line}	sup=2
+{suffer}{man}{never}{know}	sup=2
+{never}{faith}	sup=2
+{never}{mean}	sup=2
+{think}{time}	sup=2
+{think}{d}	sup=2
+{leave}{danger}{line}	sup=4

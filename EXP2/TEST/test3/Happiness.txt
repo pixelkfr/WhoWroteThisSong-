@@ -1,0 +1,9 @@
+{one}	sup=2
+{look}	sup=2
+{know}	sup=2
+{get}	sup=2
+{reach}	sup=3
+{happiness}{straight}{bottle}	sup=6
+{real}{life}{hard}{swallow}	sup=6
+{hard}{swallow}	sup=7
+

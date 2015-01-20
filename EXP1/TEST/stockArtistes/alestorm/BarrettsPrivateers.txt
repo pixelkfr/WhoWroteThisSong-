@@ -1,0 +1,12 @@
+{crack}{four}{pounder}{make}	sup=2
+{wish}{sherbrooke}	sup=9
+{d}{fire}{gun}{shed}{tear}	sup=9
+{god}{damn}	sup=9
+{tell}{d}{cruise}{sea}{american}	sup=9
+{tell}{d}{cruise}{sea}{gold}	sup=9
+{tell}{d}{cruise}{american}{gold}	sup=9
+{tell}{d}{sea}{american}{gold}	sup=9
+{tell}{cruise}{sea}{american}{gold}	sup=9
+{break}{man}{halifax}{pier}	sup=9
+{last}{barrett}{privateer}	sup=9
+

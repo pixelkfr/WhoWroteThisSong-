@@ -1,0 +1,8 @@
+{leave}{alone}	sup=2
+{want}{see}{phone}	sup=2
+{like}{pill}	sup=3
+{know}{operate}	sup=4
+{come}{around}{know}{need}	sup=4
+{cut}{heart}{leave}{bleeding}	sup=4
+{one}{bring}{demon}	sup=4
+

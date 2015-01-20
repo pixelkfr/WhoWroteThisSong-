@@ -1,0 +1,21 @@
+{NN_}{NN_}	sup=17
+{feed NN_}	sup=2
+{never RB_}{RB_}	sup=2
+{VB_ give}{NN_ reason}{NN_ burn}{NN_ house}	sup=3
+{VB_ give}{NN_ reason}{NN_ disaster}	sup=3
+{never RB_}	sup=3
+{VBD_}	sup=3
+{happy JJ_}{RB_ ever}	sup=3
+{VB_ speak}	sup=4
+{VB_ give}{NN_ reason}{NN_ turn}{NN_ run}	sup=4
+{JJ_}	sup=4
+{NN_}	sup=39
+{VB_ give}{NN_ reason}{NN_ wish}{would MD_}	sup=5
+{NN_ wish}{would MD_}	sup=22
+{VB_}	sup=22
+{VB_ give}{NN_ reason}{NN_}{NN_}	sup=7
+{NN_}{NN_}{NN_}	sup=8
+{RB_}	sup=8
+{VB_ give}{NN_ reason}{NN_}	sup=15
+{VB_}{NN_}	sup=16
+

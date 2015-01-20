@@ -1,0 +1,5 @@
+{without}{one}	sup=2
+{leave}{side}{tonight}	sup=2
+{feel}{right}	sup=2
+{let}{sight}	sup=2
+{could}{go}	sup=3

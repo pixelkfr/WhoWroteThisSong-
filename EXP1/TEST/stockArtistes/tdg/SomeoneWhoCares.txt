@@ -1,0 +1,6 @@
+{hard}{find}	sup=2
+{someone}{keep}	sup=2
+{together}{come}{undo}	sup=2
+{someone}{look}	sup=5
+{easy}{enough}{find}	sup=5
+{find}{someone}	sup=6

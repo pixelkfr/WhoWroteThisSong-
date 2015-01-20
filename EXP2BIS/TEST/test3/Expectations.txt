@@ -1,0 +1,15 @@
+{innocent}	sup=2
+{prom}{queen}{miss}{america}	sup=2
+{small}{town}{scene}	sup=2
+{shot}	sup=2
+{never}{miss}{america}	sup=2
+{turn}	sup=2
+{leave}	sup=2
+{back}	sup=2
+{backseat}{pair}{cuff}	sup=3
+{never}	sup=3
+{miss}{america}	sup=4
+{backseat}	sup=4
+{expectation}	sup=6
+{go}{hell}	sup=6
+

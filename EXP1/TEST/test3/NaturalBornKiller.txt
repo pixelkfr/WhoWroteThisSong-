@@ -1,0 +1,6 @@
+{story}{behind}	sup=2
+{leave}{behind}	sup=2
+{one}{thing}{win}	sup=3
+{die}{alone}	sup=3
+{say}{prayer}	sup=3
+{cause}{ain}{leave}{without}	sup=3

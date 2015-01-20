@@ -1,0 +1,17 @@
+{leave}	sup=2
+{need}{condescend}	sup=2
+{need}{arm}{hold}	sup=2
+{word}{look}{lonely}	sup=2
+{cause}{misery}{waiting}	sup=2
+{cause}{misery}{love}{company}	sup=3
+{beat}{yet}	sup=3
+{afraid}	sup=3
+{voice}{head}	sup=3
+{dark}{road}	sup=3
+{something}{follow}	sup=3
+{need}	sup=4
+{cause}{misery}	sup=5
+{misery}{love}{company}	sup=6
+{alone}	sup=6
+{misery}	sup=8
+

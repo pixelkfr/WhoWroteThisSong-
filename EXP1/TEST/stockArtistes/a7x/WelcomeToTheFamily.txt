@@ -1,0 +1,14 @@
+{hey}{kid}	sup=2
+{never}{know}	sup=2
+{surely}{lose}	sup=2
+{keep}{inside}	sup=2
+{nothing}{fine}	sup=2
+{step}{aside}	sup=2
+{way}{seem}{one}{call}	sup=3
+{answer}{find}	sup=3
+{thought}{numb}	sup=3
+{feeling}{unsure}	sup=3
+{emptiness}{inside}	sup=3
+{lose}{mind}	sup=3
+{welcome}{family}	sup=4
+{win}{fight}	sup=5

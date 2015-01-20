@@ -1,0 +1,9 @@
+{first}{day}{rest}{life}	sup=2
+{didn}{know}{couldn}{go}{forever}	sup=2
+{believe}{go}{forever}	sup=2
+{break}{glass}	sup=4
+{throw}{floor}{never}{mean}{last}	sup=4
+{empty}{shell}	sup=4
+{try}{pick}{us}{gonna}{cut}	sup=4
+{go}{forever}	sup=4
+{gonna}{cut}	sup=6

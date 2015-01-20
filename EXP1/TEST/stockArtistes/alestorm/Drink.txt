@@ -1,0 +1,6 @@
+{drink}{beer}	sup=12
+{give}{beer}{rum}	sup=2
+{steal}{rum}{point}{gun}	sup=6
+{alcohol}{us}{fall}	sup=6
+{cause}{drink}{beer}	sup=6
+

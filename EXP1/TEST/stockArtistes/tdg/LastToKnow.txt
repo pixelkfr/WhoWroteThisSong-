@@ -1,0 +1,9 @@
+{didn}{tell}	sup=2
+{didn}{say}{word}	sup=2
+{go}{tonight}	sup=2
+{first}{lie}	sup=2
+{first}{love}	sup=2
+{walk}{away}	sup=3
+{first}{go}	sup=3
+{first}{say}	sup=3
+{last}{know}	sup=4

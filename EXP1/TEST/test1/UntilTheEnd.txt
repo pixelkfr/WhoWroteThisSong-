@@ -1,0 +1,6 @@
+{us}{worry}	sup=2
+{life}{move}{stay}	sup=2
+{move}{faster}	sup=2
+{fall}{forward}	sup=2
+{sign}{slow}	sup=2
+{change}{way}{think}	sup=3

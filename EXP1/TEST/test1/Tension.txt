@@ -1,0 +1,7 @@
+{every}{morning}	sup=2
+{feel}{alright}	sup=2
+{tension}{us}{time}	sup=3
+{need}{moment}{cause}{spread}{thin}	sup=3
+{need}{moment}{life}	sup=3
+{work}{hard}{day}{long}	sup=3
+{need}{moment}	sup=6

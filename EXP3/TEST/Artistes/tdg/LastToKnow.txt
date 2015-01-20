@@ -1,0 +1,27 @@
+{NN_}	sup=11
+{first JJ_}	sup=11
+{VBP_}	sup=12
+{VBD_ leave}	sup=2
+{RB_ alright}	sup=2
+{didn NNS_}{tell VBP_}	sup=2
+{didn NNS_}{VBP_ say}{NN_ word}	sup=2
+{go VB_}{RB_ tonight}	sup=2
+{first JJ_}{NN_ lie}	sup=2
+{first JJ_}{NN_ love}	sup=2
+{walk VBD_}{away RB_}	sup=3
+{first JJ_}{VBP_ say}	sup=3
+{first JJ_}{go NN_}	sup=3
+{JJ_ okay}	sup=3
+{love}	sup=3
+{leave}	sup=3
+{didn NNS_}{VBP_}	sup=4
+{JJ_ last}{VBP_ know}	sup=4
+{VBD_}	sup=5
+{VBP_ say}	sup=5
+{go}	sup=5
+{NNS_}	sup=6
+{RB_}	sup=7
+{JJ_}{VBP_}	sup=7
+{first JJ_}{NN_}	sup=8
+{JJ_}	sup=19
+

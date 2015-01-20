@@ -1,0 +1,15 @@
+{heal}{break}{heart}{could}	sup=2
+{away}{forever}	sup=2
+{far}{away}{far}	sup=2
+{need}{know}	sup=2
+{live}{without}{one}{love}	sup=3
+{time}{still}{turn}{page}{book}	sup=3
+{time}{still}{turn}{page}{burn}	sup=3
+{time}{still}{turn}{book}{burn}	sup=3
+{time}{still}{page}{book}{burn}	sup=3
+{time}{turn}{page}{book}{burn}	sup=3
+{place}{time}{always}{mind}	sup=3
+{much}{say}{far}{away}	sup=3
+{one}{love}	sup=4
+{place}{mind}	sup=4
+{far}{away}	sup=5

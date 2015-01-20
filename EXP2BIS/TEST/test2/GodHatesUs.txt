@@ -1,0 +1,18 @@
+{know}	sup=2
+{time}	sup=2
+{show}	sup=2
+{roar}	sup=2
+{rape}	sup=2
+{kill}	sup=2
+{love}	sup=2
+{fear}	sup=2
+{well}{take}	sup=2
+{one}	sup=3
+{god}{save}{us}	sup=4
+{god}{hate}{us}	sup=4
+{nothing}	sup=4
+{take}	sup=4
+{hate}	sup=6
+{god}{us}	sup=8
+{total}{nightmare}	sup=10
+

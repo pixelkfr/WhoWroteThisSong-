@@ -1,0 +1,7 @@
+{unlive}{pain}	sup=3
+{rewind}{yesterday}	sup=3
+{might}{never}{find}{place}	sup=3
+{tomorrow}{never}{come}	sup=3
+{live}{fast}{die}{young}	sup=3
+{hope}{well}{yet}{come}	sup=3
+{time}{remain}	sup=9

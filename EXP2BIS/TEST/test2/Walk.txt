@@ -1,0 +1,13 @@
+{walk}	sup=11
+{get}	sup=2
+{standard}{anymore}	sup=2
+{take}{belong}	sup=2
+{something}	sup=2
+{stay}{away}	sup=2
+{lesson}{learn}{life}	sup=2
+{know}{dawn}{time}	sup=2
+{friend}	sup=4
+{say}	sup=5
+{talk}	sup=5
+{respect}{walk}	sup=10
+

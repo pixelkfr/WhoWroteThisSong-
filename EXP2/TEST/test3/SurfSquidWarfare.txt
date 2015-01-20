@@ -1,0 +1,20 @@
+{time}	sup=2
+{undead}	sup=2
+{save}	sup=2
+{past}	sup=2
+{future}{get}{thrill}	sup=2
+{world}	sup=2
+{let}{kill}{squid}{make}{rot}	sup=2
+{pirate}{power}{murder}{skill}	sup=2
+{shot}{heart}{flintlock}{gun}	sup=2
+{mash}{brain}{bottle}{rum}	sup=2
+{must}	sup=3
+{kill}	sup=3
+{squid}	sup=3
+{make}	sup=3
+{power}	sup=3
+{get}	sup=3
+{rum}	sup=3
+{future}	sup=4
+{class}	sup=4
+

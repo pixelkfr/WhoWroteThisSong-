@@ -1,0 +1,8 @@
+{cow}{shed}	sup=2
+{come}{get}{ere}	sup=2
+{ha}{ha}	sup=2
+{drink}{day}	sup=4
+{soothe}{trouble}{away}	sup=4
+{cider}{drinker}	sup=8
+{oh}{arr}{oh}{arr}{aay}	sup=10
+

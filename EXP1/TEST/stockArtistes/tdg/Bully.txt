@@ -1,0 +1,6 @@
+{nobody}{know}	sup=2
+{won}{go}{unnoticed}	sup=2
+{maybe}{need}{want}	sup=5
+{blame}{family}	sup=6
+{blame}{bully}	sup=6
+{maybe}{need}	sup=6

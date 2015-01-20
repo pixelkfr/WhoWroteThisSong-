@@ -1,0 +1,17 @@
+{make}	sup=2
+{eye}	sup=2
+{seem}{find}{good}{way}	sup=2
+{consciously}{pretend}	sup=2
+{run}{away}	sup=2
+{tonight}	sup=2
+{know}	sup=3
+{mind}	sup=3
+{read}{write}{wall}	sup=3
+{mother}{cry}	sup=3
+{tortured}{voice}{crawl}	sup=3
+{find}{well}{days.}{lose}	sup=3
+{way}	sup=3
+{away}	sup=3
+{lose}	sup=4
+{find}	sup=5
+

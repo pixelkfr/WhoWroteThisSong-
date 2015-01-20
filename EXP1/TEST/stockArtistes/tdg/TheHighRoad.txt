@@ -1,0 +1,12 @@
+{time}{stay}{alive}	sup=2
+{time}{would}{die}	sup=2
+{time}{didn}{matter}	sup=2
+{help}{find}{right}{way}	sup=3
+{let}{take}{wrong}{way}	sup=3
+{take}{low}{road}	sup=3
+{take}{high}{road}	sup=3
+{make}{take}{long}{way}{around}	sup=3
+{whatever}{take}	sup=4
+{mistake}{live}{without}	sup=4
+{take}{way}	sup=6
+{take}{road}	sup=6

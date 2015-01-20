@@ -1,0 +1,15 @@
+{give}	sup=12
+{always}	sup=2
+{take}{higher}	sup=2
+{try}{understand}	sup=2
+{ok}	sup=2
+{take}	sup=3
+{cause}{fire}	sup=3
+{quench}{desire}	sup=3
+{talk}{woman}	sup=3
+{cause}	sup=4
+{love}{feeling}	sup=4
+{woman}	sup=4
+{love}	sup=5
+{give}{want}	sup=7
+

@@ -1,0 +1,695 @@
+{VB_ let}{RB_ inside}
+{JJ_ dead}{NN_ inside}
+{NN_ ohh}{high JJR_}{NNS_ place}
+{d}{NN_}
+{VB_ let}{start}{NN_ riot}
+{IN_ without}
+{bring}{NN_}
+{hide}
+{try VBN_}{JJ_ hard}
+{NN_ stand}{NN_ way}
+{VB_ stop}
+{VB_ break}{RB_ away}
+{JJ_ everyday}
+{go}{VB_}
+{VB_}{RB_ inside}
+{keep}{RB_}
+{VBG_ live}{NN_ shell}
+{use}
+{VB_ let}{get VB_}{NN_ close}
+{lie VBG_}{VBG_ deny}{NN_ feel}{RB_ much}{well RBR_}
+{NNS_}{come}
+{lie}{RB_ much}
+{VB_ think}{RB_}
+{stay}{RB_}
+{many JJ_}{time NNS_}{try VBD_}
+{VBP_}{RB_ away}
+{NN_}{lose}
+{get VB_}{RB_ back}{NN_}
+{VBG_}{NN_ life}
+{VB_}{alive}
+{see VB_}{NN_}{eye}
+{VBD_ leave}
+{VBN_ win}{scared}{JJ_ lonely}
+{NN_ somebody}{NN_ wake}{NN_ nightmare}
+{RB_}{VBD_ want}{NN_ way}
+{VB_}{NN_ leave}
+{RB_ never}{VBD_}{JJ_}
+{VBD_ walk}
+{VBN_ win}{RB_ scared}{JJ_ lonely}
+{VB_}{use}
+{NN_ time}{VBP_ come}{NN_}
+{VBG_ run}
+{VBD_ lead}{VB_ believe}
+{VB_ make}{NN_ life}{VB_ know}
+{VBN_ scare}{JJ_ lonely}
+{get VB_}{VBN_ lose}
+{NN_ standing}
+{one PP_}{RB_}
+{escape NN_}{NN_ hell}
+{NN_}{place}
+{still RB_}{VB_}{RB_}
+{make}{NN_ fall}
+{NN_ trust}{NN_}
+{go}{away}
+{VB_ let}{RB_}
+{VB_}{NN_ side}
+{NN_}{around}
+{lie}{RB_}
+{miss}{RB_ yet}
+{NN_ something}{JJ_ wrong}
+{VB_ walk}{RB_}
+{VBP_}{NN_ crowd}
+{VBN_ use}{VBD_ let}
+{VBP_ come}
+{NN_ time}{NN_ right}{NN_ change}
+{JJ_ like}
+{RB_ always}{NN_ way}
+{NN_ feel}
+{try}{get VB_}
+{still RB_}
+{get VB_}{VBN_}{NN_}
+{VB_}{get VB_}{JJ_}
+{VB_ cause}{RB_}
+{VB_ forget}{VB_ know}
+{RB_ always}{VBG_}
+{NN_ time}{VBP_}
+{one PP_}{RB_ ever}{VBP_}
+{one}{VBP_}{NN_}
+{NN_}{get VBP_}
+{RB_}{VB_}{go}
+{JJ_ wrong}{VBP_ think}{like IN_}
+{pull}{RB_ away}
+{NN_ control}
+{VBG_}{NN_ home}
+{RB_ never}{RB_}
+{VB_}{enough}
+{VB_ push}
+{VBN_ win}{JJ_ scared}{NNS_ won}{JJ_ lonely}
+{RB_ never}{VBN_ satisfy}
+{NNS_ won}
+{VB_}{place}
+{VBN_ come}{NN_}
+{NN_ time}{NN_ change}
+{VBG_ wait}{RB_ long}
+{VBP_ say}{NNS_ didn}{try VBP_}
+{NN_ cause}{VBP_}
+{VB_ lose}
+{JJ_ wanted}{NN_ waste}
+{one PP_}{RB_ ever}{VBP_ change}{NN_ animal}{VBN_ become}
+{RB_ never}{let}
+{RB_ never}{VBN_ think}
+{NN_ cause}{d SYM_}{RB_ rather}{VBP_ feel}{NN_ pain}{NN_ nothing}
+{RB_}{VB_ say}
+{well RBR_}{VB_ keep}{NN_ head}
+{NN_ time}{lose}
+{NN_ burn}
+{RB_}{VBN_ think}
+{NN_ til}{NN_ burning}{RB_ inside}
+{VB_}{VB_ run}
+{VBD_ steal}
+{VBN_ come}{NN_ life}
+{NNS_ won}{VBP_ hurt}{RB_ anymore}
+{VBD_ give}
+{escape NN_}
+{VB_ whoa}{oh UH_}{VB_ run}{NN_ life}
+{still RB_}{RB_ nowhere}{RB_ else}{VB_ go}
+{let}{VB_}{NN_}
+{NN_ somebody}{NN_}{NN_}
+{NN_ tonight}{NN_ start}{NN_ fire}
+{NN_}{NN_ change}
+{JJ_ clear}
+{know}{VB_}{VB_}
+{try VBN_}{NN_ lie}
+{VB_}{RB_}{RB_}{VB_}
+{NN_}{make}
+{come VBG_}{JJ_ clear}
+{VBG_ refuse}
+{JJ_ fair}{VBP_ say}{NNS_ didn}{try VBP_}
+{NN_ world}{disassemble VBZ_}
+{VB_ run}
+{NN_}{VBP_ feel}
+{VB_ take}{high JJR_}{NNS_ place}
+{NNS_ feel}{like IN_}{NNS_}
+{still RB_}{VB_ hear}{VB_ say}
+{RB_ never}{VBD_ know}
+{VB_}{RB_ back}{NN_ today}
+{NN_ wake}
+{RB_ behind}
+{VB_ say}{NN_}
+{VB_}{stand}
+{RB_}{get}
+{every DT_}{NN_}{VB_}
+{feel}{RB_ much}{well RBR_}
+{RB_ hardly}{VB_ wait}
+{get VB_}{VBN_}{get}
+{walk}{RB_}
+{RB_}{VB_}{VBN_}
+{walk}{RB_ away}
+{NN_}{NN_ nightmare}
+{JJ_ animal}{NN_ animal}
+{NN_ hate}{NN_ everything}
+{run}{RB_ away}
+{JJ_}{NN_ animal}
+{VBP_}{get VB_}
+{VB_ give}{NN_ reason}
+{VBD_ walk}{RB_ away}
+{JJ_ empty}
+{pick}
+{RB_ never}{VBD_}
+{MD_ could}{JJ_}
+{VB_ make}{VB_ feel}{like IN_}
+{VBP_}{RB_ enough}
+{take}{NN_ hand}
+{JJ_ live}
+{get VB_}{RB_ back}
+{NN_ someone}
+{VB_}{high JJR_}
+{VB_ want}{VBN_}
+{NN_ somebody}{get VBP_}{NN_ nightmare}
+{one CD_}{JJ_ left}{NN_ home}
+{break}{RB_}
+{VB_}{get VB_}{VBN_ lose}
+{RB_ finally}
+{NN_ world}{RB_ around}
+{say}{RB_ enough}
+{VB_ let}{NN_}{NN_ riot}
+{VB_ stop}{VB_ think}
+{VB_ say}
+{NN_ home}
+{RB_}{VBP_}{RB_}{VB_}
+{RB_ long}{RB_ ago}
+{VB_}{VB_}{IN_}
+{VB_ break}{RB_ away}{NN_}
+{RB_ never}{VB_ want}{VBN_ come}
+{NN_ life}{NNS_}
+{NN_ pain}{get VBP_}{RB_ enough}
+{see VB_}{eye}
+{VBP_}{RB_ back}
+{VB_}{NN_ life}{VB_ know}
+{high}
+{NN_ beginning}
+{VB_ break}{RB_ away}{NN_ everything}
+{VB_}{JJS_ least}{NN_ try}
+{disappear}
+{NN_ world}{NN_ stop}{VBG_ turn}{NN_ round}
+{NNS_ one}{VBP_ stand}{NN_ crowd}
+{VBN_}{get}{RB_}
+{NN_ somebody}{NN_ help}{NN_}
+{NN_ somebody}{NN_ nightmare}
+{VBG_ live}{NN_ world}{NN_ cold}
+{many JJ_}{time NNS_}{VBD_}
+{VBN_ fade}{RB_ away}
+{still RB_}{VBN_}
+{VB_ think}{NN_}
+{JJ_ good}{NN_ life}
+{fly}
+{NN_}{NN_ someone}
+{NN_ way}{get VB_}{VBN_ lose}
+{VBP_}{VBG_}
+{NN_ show}
+{VBP_ come}{RB_ back}
+{NN_ world}{VBG_ turn}{NN_ round}
+{VBG_ stand}{RB_ alone}
+{VB_}{RB_ back}
+{VBN_ need}{NN_ someone}{NN_ control}
+{NNS_}{try}
+{still RB_}{NN_ wonder}
+{NN_ watch}{NN_ burn}
+{let}{RB_}
+{NN_ home}{NN_ home}{NN_ house}{NN_ home}
+{VB_ leave}
+{VB_ know}{go}
+{start}{NN_}
+{VBN_ win}{JJ_ scared}{NN_ won}
+{VB_ belong}
+{VB_}{take}
+{VBG_ remember}{one CD_}{JJ_ left}{NN_ home}
+{RB_ ever}{VB_}
+{VBN_ need}{NN_ someone}{VB_ push}{around RP_}
+{one PP_}{VBN_}
+{get VB_}{VBP_}{VB_}
+{JJ_ hard}
+{VBP_ go}{RB_ back}{VB_}
+{try VBN_}
+{NN_ somebody}{NN_}{NN_ nightmare}
+{RB_}{like IN_}
+{RB_ always}{VBD_ know}
+{RB_ rather}{feel}{NN_ pain}{NN_ nothing}
+{NN_ stay}{VBD_ win}{RB_ long}
+{VBN_ go}{away}
+{try VBP_}
+{VBN_}{like IN_}
+{NN_ night}{VBP_ feel}{NN_}
+{JJ_ safe}
+{VB_ want}{VB_}
+{JJ_ bitter}{NN_ taste}
+{hell}
+{VB_ cause}{VBG_ run}{RB_ away}
+{JJ_ live}{NN_ fear}
+{change}{NN_}
+{NN_}{IN_ without}
+{VB_}{NN_ everything}
+{NNS_ light}{VBP_ go}{VB_ understand}
+{would MD_}{VBD_ guess}
+{VB_}{RB_ beside}
+{VBZ_ come}
+{NN_}{NN_ numb}
+{VBG_ count}{NN_ days.}{IN_ since}{VBN_ go}{away RP_}
+{VB_ break}{RB_ away}{NN_ everybody}
+{RB_ never}{RB_ late}
+{NN_ wake}{VBG_ pound}{NN_ door}
+{RB_ finally}{NN_ trust}
+{VB_ cause}{RB_ late}
+{think}{NN_}
+{NN_}{NN_}{NN_ nightmare}
+{VBN_ paralyze}
+{VB_ want}{VB_ hear}{RB_ anymore}
+{VB_}{RB_ back}{NN_}
+{VBP_ go}{VB_}
+{VB_ please}{NN_ dont}{NN_ turn}{RB_ back}
+{RB_}{break}
+{VB_}{NN_ head}
+{get VB_}{VBN_}{VB_}
+{try}{JJ_}
+{VBZ_ come}{RB_ back}{VBN_ win}
+{NNS_}{show}
+{RB_ even}{try VB_}
+{get VB_}{VBN_}
+{NN_ wish}{RB_ never}{VBD_}
+{NN_ wake}{NN_}
+{JJ_ sick}
+{VBG_ burn}{RB_ inside}
+{NN_}{NN_}{NN_ animal}
+{waste VBG_}
+{VB_ come}{VB_ watch}{NN_ watch}{NN_ burn}
+{VBD_ say}{RB_ enough}
+{VB_ swear}{RB_ never}{VBN_ mean}{NN_ let}{NN_ die}
+{JJ_ real}{NNS_ voice}{NN_ head}
+{get VB_}{VBN_ knock}
+{feel}{JJ_ everyday}
+{VBN_ use}
+{VB_}{VB_}{RB_ away}
+{NN_ care}
+{let}{VB_ show}{RB_ always}{VBG_}
+{eye}
+{VBP_ know}{MD_ could}{VB_ like}
+{VB_}{well RBR_}
+{NN_ morning}
+{VBN_ think}
+{get VB_}
+{would MD_}{VB_ change}{NN_ direction}
+{VB_}{VB_ say}
+{NN_ care}{RB_ anymore}
+{VB_ want}{get VB_}{JJ_ alive}{VBP_ want}{get VB_}{JJ_ alive}
+{RB_ somehow}{VBN_ find}
+{VBG_}{NN_}{away}
+{lose}{NN_ soul}
+{VB_ feel}{RB_ much}{well RBR_}
+{JJ_}{VBP_}{VB_}
+{hell UH_}
+{every DT_}{NN_}{NN_}
+{VBN_ need}{NN_ someone}{NN_}
+{RB_ always}{VBD_ want}{NN_ way}
+{break}{NN_}
+{VB_ hold}{VB_ hold}
+{VB_}{VB_}{VBP_}{JJ_}
+{NN_ chasing}
+{still RB_}{cage VBN_}{RB_ inside}
+{VB_ forget}{NN_}
+{NNS_ wouldn}{JJ_}
+{NN_ world}{NNS_ isn}{VBG_ turn}{NN_ round}
+{JJ_}{say}
+{VBP_}{try}
+{still RB_}{go}
+{RB_ always}{VBN_ think}
+{VB_ feel}{JJ_ angry}
+{NN_ stand}{NN_}{NN_ crowd}
+{NN_}{VBP_ feel}{NN_}
+{VBN_}{NN_ someone}
+{VB_ let}{VB_ start}{NN_ riot}{NN_ riot}
+{VB_}{die}
+{VBN_ need}{NN_ someone}{NN_ hold}
+{RB_ anymore}
+{still RB_}{RB_ inside}
+{one}{VB_}
+{NN_ way}{JJ_ slow}
+{VB_ tell}{VB_ miss}
+{still RB_}{VB_}
+{VB_ cause}{VB_}{NN_}
+{VBD_}{see VB_}
+{PP_}{lose}
+{high JJR_}{NNS_ place}
+{NN_}{scream}
+{VBP_ matter}{RB_ hard}{try VB_}
+{one CD_}{NN_ thing}
+{RB_}{try VB_}
+{waste VBG_}{RB_ away}
+{JJ_ deep}{NN_ inside}
+{RB_ never}{RB_}{JJ_}
+{VB_ forget}{NN_ life}
+{NN_ somebody}{NN_}
+{RB_ never}{VBN_ think}{NN_ d}{JJ_ stuck}{NN_ mess}
+{RB_ always}{VB_ disappear}
+{VBN_ leave}{RB_}
+{RB_}{RB_}{RB_}{VB_ go}
+{feeling}{get}
+{get VB_}{get VB_}
+{every DT_}{NN_}{RB_ awake}
+{enough}
+{VBN_ go}{RB_ away}
+{PP_ us}{VBP_}
+{d SYM_}{NN_}
+{take}{VB_}
+{RB_ back}
+{NN_ rain}
+{VB_ tell}{VB_}
+{feel}{alive}
+{NN_ wake}{VBG_}
+{NN_}{VBD_ lie}
+{VB_ let}{JJ_}
+{VBD_ play}
+{VBN_ erase}
+{VB_}{around RP_}
+{think}{NN_}{JJ_}
+{IN_ since}{VBN_ go}{away RP_}
+{NN_ life}{NN_ death}
+{time NNS_}
+{NN_ feeling}
+{VBP_ hate}
+{VB_}{turn}{RB_ back}
+{VB_}{like}
+{VB_ feel}{RB_}
+{PP_}{VBZ_}
+{VB_}{get}
+{NN_ wish}{RB_ never}{VBD_ know}
+{VB_}{NN_}{NN_ riot}
+{RB_ never}{feel}
+{VBD_ lie}
+{NN_ haven}{VBD_ miss}{RB_ yet}
+{RB_}{VB_}{RB_ away}
+{VB_ feel}{like IN_}
+{VBP_}{like}
+{still RB_}{RB_}
+{get VBP_}{RB_}
+{NN_ shit}{VBD_ overrate}
+{see VB_}{NN_ life}
+{VB_}{go}
+{RB_ even}{VB_}
+{VB_}{like IN_}
+{VB_ survive}
+{NN_ tonight}{NN_}{NN_}
+{RB_}{VBD_}{RB_}
+{VBP_}{RB_ back}{VB_}
+{VBG_ roll}{JJR_ fast}{NN_ breathing}
+{VB_ want}{get VB_}{JJ_ alive}
+{VB_}{RB_ much}
+{VB_ think}{VB_}
+{NN_ time}{JJ_ loving}
+{VB_ want}{RB_ little}
+{VBN_ think}{NN_}
+{get VB_}{NN_}
+{VB_}{feel}
+{get VB_}{VB_}
+{VB_ forget}{one CD_}{JJ_ left}{NN_ home}
+{time}{lie}
+{VBN_ find}{NN_ time}
+{NN_ pain}{IN_}
+{NN_ edge}{NN_ falling}
+{VBN_ do}{NN_}
+{NNS_}{VBP_ know}
+{VB_ take}{NN_ way}
+{get VB_}{RB_}
+{get}{RB_ back}
+{JJ_}{fuck}
+{VB_ make}{VB_}
+{JJ_ good}{NN_ morning}{NN_ day}
+{every DT_}{NN_ time}
+{VB_ let}{NN_ start}{NN_ riot}
+{VB_ start}
+{RB_ never}{want}
+{RB_ sorry}
+{NNS_ dream}
+{let}{start}{NN_ riot}
+{MD_ could}{JJ_ angry}
+{NN_}{JJ_ slow}
+{JJ_ frozen}{NN_ time}
+{VBN_ lie}{RB_ much}
+{JJ_}{time}{VBD_}
+{RB_}{want}
+{VBP_}{like IN_}
+{MD_ could}{VB_ mean}
+{still RB_}{VBN_ get}{RB_ nowhere}{RB_ else}{VB_ go}
+{NN_ night}{VBP_}
+{RB_ never}{VBN_}{NN_}
+{many JJ_}{NNS_}
+{RB_ late}
+{feel}{like IN_}
+{NN_ animal}
+{thought}{NN_}
+{NN_ world}{RB_ never}
+{stop}
+{VB_ go}{VB_ go}
+{JJ_ bad}
+{VB_ save}{VB_ drown}
+{learn VBG_}{JJ_ live}{NN_ life}
+{still RB_}{VBN_}{RB_}
+{RB_ never}{VB_ decide}
+{NN_ feel}{NN_ numb}
+{NN_ watch}
+{VBG_ turn}{NN_ round}
+{RB_ finally}{VB_ believe}
+{many JJ_}{time NNS_}{VBD_ lie}
+{VBG_}{RB_ back}
+{NN_}{NN_ home}
+{JJ_ real}
+{VBD_ take}{VBN_ give}
+{every DT_}{NN_ hit}{VB_ take}
+{VB_ want}{NN_}
+{VB_}{JJ_ drunk}{NN_}
+{waste}{RB_ away}
+{escape}
+{VB_ feel}{JJ_ empty}
+{every DT_}{NN_ feeling}{get VB_}
+{NN_ stand}{NN_ crowd}{NN_}
+{NN_ wake}{VBG_ scream}
+{help}{JJ_}
+{NN_}{NN_ place}
+{JJ_ animal}{JJ_ animal}{NN_ animal}{NN_ animal}{NN_ animal}{NN_ animal}{NN_ animal}
+{VB_}{run}{RB_ away}
+{NN_}{start}
+{RB_ tonight}{VB_ break}{RB_ away}
+{NN_}{think}
+{VB_}{get VB_}
+{RB_ rather}{feel}{NN_ pain}
+{VB_ go}{RB_ away}
+{NN_ someone}{NN_ control}
+{JJ_ sick}{VBG_ wonder}
+{get VBP_}{RB_ back}{VB_ stand}{NN_ crowd}
+{RB_ even}
+{VB_ help}{VB_ believe}{JJ_ real}
+{VB_}{VB_}{NN_ burn}
+{VBN_}{JJ_ lonely}
+{VBG_}{one CD_}
+{VB_ know}{VB_ know}{VB_ know}{VB_ know}
+{NNS_}{get VBP_}
+{NN_ start}{NN_}
+{try VBD_}
+{NNS_ didn}{VBP_}
+{RB_}{see}
+{RB_ ever}{VB_ look}
+{NN_ somebody}{NN_ help}{JJ_ tame}{NN_ animal}{VBN_ become}
+{VB_}{RB_ late}
+{RB_ alive}
+{NN_ time}{VBG_ die}
+{steal}
+{VBD_}{VBN_ give}
+{go}{RB_ away}
+{VB_ cause}{NN_}
+{VB_ sit}{VBG_ wonder}
+{RB_ back}{NN_}
+{NN_}{eye}
+{let}{VB_ start}{NN_ riot}{NN_ riot}
+{NN_ stand}{NN_}{NN_}
+{see VB_}{NN_ eye}{NN_ eye}
+{VBG_ stare}
+{need}{NN_}{NN_}
+{VB_ let}{get VB_}
+{VBN_ go}{RB_ forever}
+{stand}{NN_ crowd}
+{NNS_ won}{VBP_ let}{VB_ show}{RB_ always}{VBG_ fly}
+{VBP_ go}{RB_}{VB_}
+{VBN_}{RB_ much}
+{VB_ want}{get VB_}
+{VB_ save}{VB_ drown}{VB_ drown}
+{VB_ make}{NN_ side}
+{RB_ much}{well RBR_}
+{VB_ want}{RB_ back}
+{sorry}
+{still RB_}{VB_ rage}{RB_ inside}
+{NN_ change}{NN_ mind}
+{know}{well}
+{RB_ rather}{VB_ feel}{NN_ pain}
+{VB_}{RB_ never}
+{NN_ wake}{NN_ nightmare}
+{VB_}{get}{NN_}
+{NN_ somebody}{NN_ help}{JJ_ tame}{NN_ animal}
+{VBN_ need}{NN_ someone}
+{JJ_}{NN_ head}
+{VB_ pull}
+{NN_}{RP_}
+{VB_}{RB_}{RB_ away}
+{JJ_ hard}{VBP_}{RB_ even}{VB_}
+{VBN_ betray}{VBD_ disgrace}
+{NN_ pain}{IN_ without}{NN_ love}
+{RB_}{NN_ way}
+{VBN_}{let}
+{VB_ wait}
+{NN_}{like IN_}
+{win}{RB_}
+{mean}
+{get}{RB_ back}{NN_}
+{VB_ feel}{RB_ alive}{RB_ beside}
+{VBN_ come}{NN_ way}
+{NN_ someone}{NN_}
+{get VB_}{JJ_}
+{NN_}{move}
+{VB_}{VB_ hear}
+{get VBP_}
+{NN_ time}{VBD_ say}
+{VBZ_ seem}{VBG_}
+{leave}{RB_ alone}
+{escape VBD_}
+{NN_ way}{NN_ learning}
+{VBN_ expect}
+{NN_ stay}
+{VBN_ bear}{like IN_}
+{VB_}{VB_ know}{VB_}
+{JJ_ live}{NN_}
+{NN_ animal}{VBN_ become}
+{RB_ somewhere}
+{RB_ somewhere}{NN_ someone}{NN_ gun}{NN_ someone}{NN_ gun}{laugh VBG_}
+{VBD_ take}{RB_ long}{see VB_}
+{see VB_}{NNS_ eye}
+{VBN_}{NN_}{get VB_}
+{every DT_}{NN_}
+{VBG_ wait}{RB_}
+{get VBP_}{NN_}
+{VB_ sit}{NN_ yearning}
+{RB_}{VB_ believe}
+{RB_}{VBD_ know}{RB_}{get VB_}
+{NN_ life}{VBP_ think}
+{VBN_ win}{scared}
+{try VBN_}{NN_}
+{get VB_}{VBN_ knock}{get VBP_}{RB_ back}{VB_ stand}{NN_ crowd}
+{lose VBG_}{NN_}
+{try VB_}
+{hate}
+{VB_ turn}
+{VBN_ find}
+{every DT_}{NN_ time}{NN_ lie}{RB_ awake}
+{UH_ man}
+{NN_ home}{NN_ home}{NN_ house}
+{think}{RB_}
+{VB_ let}{VB_ show}{RB_ always}{VBG_ hide}
+{VB_ think}{well RBR_}{RB_ alone}
+{one}{like}
+{NN_ glad}{VBD_ disappear}
+{NN_ hide}
+{RB_}{RB_ never}
+{try}{NN_}{VBP_}
+{d SYM_}{feel}
+{VB_}{VB_}{VB_}{VB_}
+{disgrace}
+{NN_ nothing}{IN_ without}
+{let}{NN_}{NN_ riot}
+{NN_ stand}{NN_ stand}
+{make}{VB_}
+{RB_ ever}{VB_ feel}
+{VB_ die}{VB_ wait}
+{VB_ want}{RB_}
+{NN_ somebody}{NN_ help}{NN_ nightmare}
+{well RBR_}{RB_ alone}
+{NN_ stay}{NN_ night}
+{remember}
+{push}
+{see VB_}{RB_ right}
+{VB_}{NN_ life}{NN_}
+{NN_ turn}
+{NN_ world}{VBD_}
+{understand}
+{RB_ already}{VBN_}
+{VB_}{VB_ take}
+{JJ_}{NN_ fear}
+{RB_}{VBD_ know}{d.}{get VB_}
+{NN_ stop}
+{VB_ keep}{VBG_ turn}{RB_ back}
+{NNS_ isn}{VBG_ turn}{NN_ round}
+{NN_ living}
+{VB_ cause}{VB_}
+{NN_ push}
+{learn}
+{RB_}{win}
+{RB_}{VB_ feel}
+{VBN_}{NN_ way}
+{VBN_ win}{JJ_ scared}{won}
+{VB_ think}
+{VB_ like}
+{VBN_}{RB_ inside}
+{NN_}{get}{RB_}
+{NN_ wish}{RB_ never}{VBD_ tell}
+{JJ_ angry}
+{NN_ mind}{RB_ always}{VBG_ race}
+{NN_ pain}{like IN_}{JJ_ rough}
+{VB_ whoa}{oh UH_}{VB_ run}
+{VB_}{NN_ home}
+{NN_}{VBD_ get}
+{NN_ world}{RB_}
+{NN_ stand}{NN_ crowd}
+{high JJR_}
+{RB_ always}{VBD_}
+{RB_ beside}
+{JJ_ good}{NN_ time}
+{VBN_ think}{NN_ standing}{RB_ beside}
+{VBG_ wonder}
+{leave}{RB_}
+{VB_ cause}
+{VB_ remember}{VBN_ say}
+{JJ_}{NNS_}{try}
+{NN_ stand}{NN_}
+{RB_}{VB_ know}
+{get VB_}{get}
+{VB_ drown}
+{RB_ long}{RB_ long}
+{know}{MD_ could}
+{JJ_}{NNS_}{NN_ head}
+{NN_ wake}{NN_ living}{NN_ nightmare}
+{RB_ maybe}{VB_ turn}{around RP_}
+{VB_ die}{VB_ die}
+{like IN_}{JJ_}
+{NN_ everything}{RB_ away}
+{come}{NN_ home}
+{RB_ even}{VB_ say}
+{RB_ never}{VBN_ think}{NN_ d}
+{NN_ trip}{VBZ_ begin}
+{NN_ thought}{NN_ guide}
+{VB_ save}
+{VBN_}{get}
+{VB_ sit}
+{VBG_ turn}
+{think}{like}
+{VB_ go}{NN_ hope}
+{JJ_}{NN_ time}{VBD_}
+{VB_}{get}{VB_}
+{VBP_}{well RBS_}
+{see VB_}{dark JJS_}{NN_ side}
+{RB_}{place}
+{VBG_}{take}
+{VB_ want}{NN_ end}{NN_ life}
+{VB_ forget}{NN_ life}{VBD_ use}{VB_ know}
+{stay}{RB_ alive}
+{NN_ use}
+{come}{RB_ back}
+{try VB_}{VB_}
+{NN_}{get VB_}
+{VB_}{RB_ anymore}

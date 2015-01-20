@@ -1,0 +1,19 @@
+{oh}	sup=11
+{arr}	sup=12
+{cow}{shed}	sup=2
+{life}	sup=2
+{pub}	sup=2
+{fun}	sup=2
+{come}{get}{ere}	sup=2
+{pint}	sup=2
+{old}	sup=2
+{ha}{ha}	sup=2
+{cow}	sup=3
+{smell}	sup=3
+{drink}{day}	sup=4
+{soothe}{trouble}{away}	sup=4
+{day}	sup=5
+{cider}{drinker}	sup=8
+{cider}	sup=9
+{oh}{arr}{oh}{arr}{aay}	sup=10
+

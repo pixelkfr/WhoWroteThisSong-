@@ -1,0 +1,2046 @@
+{JJ_ distant}{NNS_}
+{rest}
+{VBN_}{IN_}{NN_}
+{NN_}{NN_}{RB_}{know}
+{NN_}{RB_}{VBZ_}
+{creature}
+{NNS_ piece}{NN_}
+{NN_ tavern}{NN_}
+{JJ_ deep}{NN_}
+{come}{NN_}{NNS_}
+{map}{JJ_}
+{VBD_}{IN_}
+{VBG_ eviscerate}{NN_ whim}
+{NN_}{vessel}
+{NN_}{fail}
+{meet}{NN_}
+{NNS_}{fall}
+{VBZ_}{NN_}{NN_}
+{NN_}{NN_ night}
+{NN_}{NN_}{NN_ night}
+{NNS_}{NN_ hell}
+{VB_ sail}{VBG_ rage}{NNS_ sea}
+{NN_}{MD_}{VB_}{RB_}
+{NN_ time}{NNS_}
+{VBD_}{JJ_}{NN_}
+{NN_}{rage}{NNS_}
+{VBZ_ lie}
+{NN_ sail}{JJ_}{NN_}
+{NN_}{bring}
+{NNS_ man}{NN_}
+{quest}{JJ_}
+{limb}{NN_}
+{NN_}{go}{NN_}
+{VB_}{still}
+{VB_ feel}{NN_ anger}{VBG_ rage}{NN_ body}{NNS_ tire}
+{VB_ give}{NN_}
+{NN_ mercy}
+{VBD_}{NN_ sail}
+{NN_}{sea}
+{oh UH_}{NN_}
+{NN_}{NN_}{JJ_}{NN_}
+{MD_ shall}
+{VB_}{MD_}
+{lad}
+{JJ_ sound}
+{VB_}{NN_}{NN_}{JJ_}
+{NN_}{JJ_}{NNS_}
+{NN_ midget}{NN_}
+{VB_ keelhaul}{JJ_ filthy}{NN_ landlubber}
+{NNS_}{NNS_}{NN_ blood}
+{live}{man}
+{NNS_ life}
+{JJ_}{NN_}{NN_}{VBN_}
+{NN_}{NN_}{NN_}{RB_}
+{VBN_ chop}{NNS_}
+{NN_ o}{NN_}{NN_}
+{damn}
+{VBD_}{get}{NN_}
+{NN_}{set}{NN_}
+{VBD_}{map}{NN_}
+{face}
+{IN_}{IN_}
+{NNS_}{NNS_}{VBP_}
+{PP_ one}{VBP_ drink}{JJ_ sunk}{NN_ n}{NN_ norwegian}
+{kill VB_}
+{strike}
+{NN_}{NN_}{know}
+{JJ_}{VB_}
+{JJ_}{treasure}{JJ_}
+{VB_ see}{NN_ slaughter}{NN_ cutlass}{NNS_ swing}{NNS_ pistol}{NN_ fire}
+{NN_ hair}
+{NN_ blood}
+{PP_}{VBP_}{NN_}
+{JJ_}{ol}
+{viking}{VBD_}
+{NNS_}{VBP_}{NN_}{NN_}
+{VB_}{NN_}{fire}
+{NN_}{NN_}{NN_ fear}
+{VBP_ say}{JJ_ final}{NNS_ word}{NN_ friend}
+{day}{VBP_}{NNS_}
+{accuse}
+{JJ_}{NN_ gold}
+{set}{NN_ sail}{VB_}
+{RB_}{VBN_}{NN_}
+{JJ_}{IN_}{NN_}
+{lie}{JJ_}{NN_}{NN_}
+{NNS_}{VBN_ do}
+{NN_ fight}{NN_}
+{PP_}{NN_}
+{MD_ would}{VB_}
+{NN_}{NNS_ sword}
+{NN_}{VBD_}{us PP_}{NN_}
+{treasure}
+{NN_}{NNS_}{VBN_}
+{VBD_ set}{NN_ sail}
+{NN_}{JJ_ full}{NN_}
+{NN_}{NN_}{JJ_}{JJ_}
+{NNS_}{VBP_}{RB_}
+{hear}{NNS_}
+{NN_}{MD_ could}{RB_}
+{IN_}{NN_}{VBN_}
+{VB_}{VBG_ rage}{NNS_}
+{NNS_}{NN_ sail}
+{VB_ get}{JJ_ drunk}{NN_}{NN_}
+{NN_}{JJ_ free}
+{VBN_}{RB_}{NN_}
+{NN_}{NNS_}{MD_ would}{VB_}
+{IN_ since}
+{call}{NN_}
+{NN_}{NN_ destiny}{hand}
+{NN_ time}{come VBP_}{VB_}
+{NN_}{NN_ fire}
+{day}{NN_}
+{VB_}{VB_}{JJ_}{NNS_}
+{VB_}{JJ_}{VBP_}
+{NNS_}{leave}
+{VBG_ gonna}{NN_}
+{VBN_}{NN_}{NN_}{NN_}
+{JJ_}{NN_}{NN_}{VBP_}
+{walk}{NN_}
+{NN_ sail}
+{land}{NN_}
+{NN_}{NN_}{VBZ_}{NN_}
+{return}
+{JJ_}{NN_}{NN_ sky}
+{NN_ o}{NN_ flower}{NN_ scotland}{VBP_ see}
+{see}{JJ_}{NN_}
+{NNS_}{NNS_}{NN_}
+{JJ_ evil}{NN_}
+{NN_}{NNS_ god}{VB_}
+{NN_}{MD_}{VB_}
+{NN_ man}
+{JJ_}{NN_}{NN_}{RB_ ever}{know}
+{NN_}{MD_}{RB_}
+{make}{NN_ walk}{NN_ plank}
+{NNS_ day}
+{MD_ shall}{VB_}{NN_}
+{NNS_}{IN_}
+{VBN_}{NN_}{NN_}{hand}
+{NN_ bottle}{NN_ rum}{NN_ yo}{NN_ ho}{NN_ ho}
+{VB_ conquer}{NN_}
+{VBN_ take}{JJ_}{NN_}
+{NN_}{life}
+{JJ_ port}{NN_}
+{map}{NN_}
+{though}{NN_}
+{NNS_}{RB_}{NN_}
+{NN_ monkey}
+{NN_}{NN_ map}{VBP_}{NN_}
+{NN_ slaying}{NNS_ foe}
+{NN_}{MD_ would}{VB_}
+{NN_}{starboard JJ_}{NN_ bow}
+{NNS_ man}{NN_ sea}
+{NNS_}{sail}
+{NN_}{break}{NN_}
+{NNS_ sea}{NN_}
+{UH_}{NN_}
+{many}
+{close}{NN_}
+{yet}{NNS_}
+{VBD_ stand}
+{NN_ mouth}{NN_}{NN_ flame}
+{land}{VBD_}
+{NN_ quest}
+{NN_}{NN_}{NN_}{VBD_}{NN_}
+{NNS_}{NN_}{NN_}{NNS_}
+{NN_}{quest}
+{NN_ none}{RB_}{VB_}
+{rest}{JJ_ dead}
+{NN_}{VBP_ get}{drunk}
+{fire}
+{VBN_}{NN_ sail}
+{NN_ infamy}{NN_ plunder}{NN_ ride}
+{wench}{NN_ mead}
+{NN_ treasure}
+{JJ_ last}{NN_}
+{battle}{JJ_}
+{NNS_}{VB_ go}
+{fire}{NN_}
+{NN_}{NN_}{lose}
+{NN_ fate}{await VBZ_}{NNS_ vessel}{NN_ circle}{NN_ round}
+{NN_}{NN_}{tell}
+{JJ_}{NN_}{VBD_}{NN_}
+{JJ_}{year}{NNS_}
+{MD_ would}{RB_}
+{wife}
+{VB_}{JJ_ endless}
+{NN_}{back RB_}
+{NN_}{NN_ ale}
+{NN_ end}{come}
+{NN_ steel}
+{VBG_}{NN_}{NNS_}
+{NN_}{VBD_ set}{NN_}
+{NNS_}{VBD_ shake}
+{NN_}{mind}
+{NNS_ ship}{NN_}{NN_}
+{NN_ raise}
+{NN_}{NN_}{man}
+{NN_}{NNS_ god}
+{JJ_}{NN_ die}
+{JJ_}{NN_ treasure}{NN_}
+{dead}{NN_}
+{VBD_}{NN_}{VBD_}
+{NNS_}{NN_ fight}
+{NN_}{look}
+{VBN_}{NNS_ man}
+{bastard}{NN_}
+{NN_}{NN_}{MD_}{VB_}
+{NN_}{NN_}{MD_}{RB_}
+{NNS_}{NN_}{MD_}
+{dare}
+{VBD_}{NNS_}{VBN_}
+{VBD_}{MD_ would}{VB_}
+{NNS_}{NN_}{NN_}{JJ_}
+{six CD_}{CD_ hundred}{NNS_ year}{JJ_ past}
+{VBN_}{port}{NN_}
+{NNS_}{JJ_}{NN_}{NN_}
+{NN_ fate}{NN_}
+{draw}
+{JJ_ famous}{NNS_ ol}{VBD_ spice}
+{VBD_}{VBD_}{NN_}
+{VBN_}{JJ_}{NN_}{NN_ hand}
+{show}{map}{NN_}
+{NN_}{NNS_}{JJ_}
+{JJ_}{NNS_}{VBN_}
+{VBD_}{NNS_}{VBD_}
+{NN_ cause}{NN_}{JJ_}
+{quest}{VBN_ begin}
+{NNS_}{MD_ could}
+{VBD_ shipwreck}{VB_ cease}
+{CD_}{NN_ day}
+{NNS_ man}
+{NN_}{NNS_ wall}
+{regret}{NN_}
+{NN_}{NN_ treasure}
+{leave}{JJ_}
+{VB_}{VB_ call}{JJ_}
+{NN_ nancy}{NN_ harbour}{NN_}
+{NN_ mercy}{NN_}
+{VBN_ abandon}{NN_ fate}{NN_ chance}{NN_ return}
+{NNS_ man}{VBP_}
+{fight}{VBN_}
+{JJ_}{lie}
+{DT_}{NN_}
+{MD_}{VB_}{JJ_}
+{CD_ one}{JJ_}
+{take}{NN_ share}
+{MD_}{VB_}{VBN_}{NN_}
+{UH_ hey}
+{come}{NN_}{NN_}
+{path}
+{NNS_}{MD_}
+{RB_}{sail}
+{captain NN_}{NN_ stand}{NN_ bridge}{NN_ sing}
+{NN_}{NNS_}{VBG_}{NN_}
+{NN_ misery}{NN_}{NN_ burning}{NN_}
+{NN_ slaughter}{NN_}{NN_}
+{NN_}{NN_ land}
+{song}{NNS_}
+{NN_}{NN_}{VBD_}{NN_}{NN_}
+{NN_}{friend}
+{VBZ_}{NNS_}
+{take VBG_}{NN_}
+{NNS_ god}
+{JJ_}{NN_ chest}
+{NN_}{NN_}{JJ_}{NNS_}
+{IN_}{JJ_}{NN_}
+{NN_ ride}{NN_}
+{VB_}{JJ_ little}
+{VB_}{NN_}{NNS_}{JJ_}
+{barrel}
+{NN_ hell}
+{run}{NNS_}
+{NNS_}{MD_}{JJ_}
+{VBN_}{NN_}{JJ_}{NN_}
+{IN_ like}{NN_}
+{NN_ fate}{RB_ late}
+{beer}{NNS_}
+{NN_ honour}{VBD_}
+{VBG_}{NNS_}{VBG_}
+{NN_}{IN_}{ship}
+{one}{JJ_}{NN_}{NN_}
+{NN_ beer}
+{VB_ raise}{NN_}
+{NN_ cry}
+{NNS_ time}
+{NN_ barrel}{NN_}
+{NN_}{NN_}{land}
+{NNS_}{RBR_}
+{JJ_ black}{NN_}{NN_}
+{another DT_}{NN_}
+{VB_ sail}{JJ_ endless}{NNS_}
+{sea}{VBP_}
+{NNS_}{VBN_}{NNS_}
+{NN_ power}
+{RB_ sure}
+{put VBN_}{NN_}
+{shark}{NN_}
+{JJ_ countless}{NNS_}{VBD_}{JJ_}{NNS_}
+{JJ_}{NN_}{NN_}{NNS_}{VBD_}
+{NN_}{back RB_}{NN_}
+{NNS_}{VBD_}{VB_}
+{JJ_ old}{NN_}
+{VBD_}{MD_}{VB_}
+{VBG_ scrape}{NN_ barrel}{NN_ friend}
+{VBN_}{die}
+{IN_}{ship}
+{NN_}{NN_ name}{NN_}
+{come VBD_}{JJ_}{NN_}
+{lad}{VBP_}{NN_}
+{VBD_}{us PP_}{VBP_ map}{NN_}
+{back RB_}
+{JJ_}{NN_}{JJ_}{NN_}
+{NN_}{JJ_ many}{NNS_ year}
+{VB_}{JJ_ mighty}{NN_}
+{NN_}{come VB_}
+{NN_ fight}{NN_ end}{days.}{JJ_}
+{JJ_ old}{NN_}{NN_}
+{know}{NN_}{VBZ_}
+{NN_}{VBD_}{JJ_}
+{come VBP_}{VBZ_ let}{VB_ give}{NN_ em}{NN_ hell}
+{NN_ drink}{NN_}
+{NN_}{drink}
+{VBN_ set}{NN_ sail}{quest}{JJ_}
+{JJ_}{MD_}{VB_}
+{NN_}{VBZ_}{JJ_}{NN_}
+{NN_}{VBD_}{VBN_}
+{NNS_ pirate}
+{show}{NNS_}
+{RB_ still}
+{JJ_ terrifying}{JJ_ deadly}{NN_ trip}
+{NNS_ regret}{VBP_ live}{NN_ day}
+{lead}{NN_}
+{JJ_}{land}
+{NNS_}{NNS_}{dare}
+{NN_ regret}{NN_}
+{NN_ friend}
+{reason}{VBD_}
+{JJ_ first}{VBZ_}{NN_}
+{NN_}{VBN_}{NNS_}
+{NN_}{NN_}{strike}
+{VBD_}{NNS_}
+{NNS_}{man}
+{NN_ tomorrow}
+{cannon}{NN_}
+{NN_ sin}
+{VBN_ do}
+{NNS_}{VBG_}{RB_}
+{NN_ quest}{RB_ never}{VBG_ end}
+{JJ_}{NN_}{lose}
+{VB_}{CD_}
+{NNS_ storey}{NNS_}
+{NN_ monkey}{NN_}
+{VBP_}{JJS_}{NNS_}
+{VBP_}{VB_}{NN_}
+{VB_}{JJ_}{NNS_}
+{NN_}{NN_}{NN_ ride}
+{VBN_}{NN_ fate}
+{JJ_ black}{NNS_}{NN_}
+{NNS_}{VBN_}
+{NNS_ pirate}{strike VBP_}{starboard JJ_}{NN_ bow}
+{NN_}{NN_ ain}
+{NNS_ sea}
+{pirate}{NNS_}
+{JJ_}{NN_}{sea}
+{sing}
+{sail}
+{VBP_}{back RB_}{VB_}
+{VBZ_ lie}{NN_}{NN_}
+{NN_}{MD_ could}{VB_}
+{NN_}{NN_}{NNS_}{VBP_}
+{regret}{NN_ day}
+{NN_}{VB_}{JJ_}{NNS_}
+{VBD_}{NN_ isle}
+{look}{NN_}
+{JJ_}{VBP_}{JJ_}
+{NN_}{VBP_}{RB_}
+{NN_ wealth}
+{JJ_}{tale}
+{lead}
+{VBG_}{NNS_}
+{VBZ_ let}{NN_}{NN_}
+{NN_ inn}
+{PP_}{VB_}
+{JJ_}{sail}
+{back RB_}{VB_}{NN_}
+{NN_}{captain NN_}
+{NN_}{NN_}{come}
+{close}
+{NN_ fear}{VBP_ look}{back RB_}{NN_ afterlife}{await VBZ_}
+{CD_}{NN_}{NN_}{NN_}
+{DT_ every}{last}{NN_}
+{NNS_}{VBG_}{VB_}
+{JJ_}{NN_}{NN_ sea}
+{VBP_}{NN_}{VBZ_}
+{NN_ til}{NN_}{NN_}
+{NNS_}{RB_}{VB_}
+{NN_}{MD_}{VB_ take}
+{JJ_ final}{NN_}
+{raise}{NN_}
+{NN_}{NNS_}{VBD_}{NN_}
+{NN_}{MD_}
+{NN_}{NN_ fight}
+{NNS_}{IN_}{VBN_}
+{viking NNS_}{VBD_}{NN_}
+{JJ_}{NN_}{reflect}{NN_}
+{NN_}{come VBP_}
+{show}{JJ_}
+{NN_}{captain}
+{JJ_}{NN_}{VBN_}
+{drink}{much}
+{lie}{NN_}{NN_}
+{CD_}{NNS_}{NN_}{NN_}
+{know}{NN_}{RB_}
+{JJ_}{NN_}{RB_}{VBN_}
+{NN_}{cannon}{NNS_}
+{NN_}{many}
+{NN_ sea}
+{NN_ show}{NN_ mercy}{NN_ fight}
+{CD_}{NNS_}
+{RB_ forever}{VBN_ tell}
+{NN_}{NNS_}{VBP_}{NNS_}
+{take}{NNS_}
+{NN_}{man}{VBP_}
+{NNS_}{NN_}{NN_}
+{JJ_ last}{NN_}{JJ_}
+{JJ_}{JJ_ full}
+{come VBP_}{NN_}{NN_}
+{NN_ curse}{NN_ curse}
+{CD_ one}{NN_ drink}{NN_ die}
+{NN_ vengeance}
+{JJ_}{NNS_ god}
+{VB_ head}
+{NN_ fate}
+{come}{NNS_}
+{VBG_}{NN_}{NN_}{VBD_}
+{VB_}{NN_}{NNS_ land}
+{VB_}{NN_ crew}
+{sail}{NNS_}
+{RB_}{NN_}{VBZ_}
+{NN_}{NN_}{NN_ glory}
+{VB_}{NN_ quest}
+{NN_}{NN_}{NN_ man}
+{NN_}{JJ_ true}{NN_}
+{NNS_}{get}{drunk}
+{NN_ pirate}{captain}
+{NN_ party}{NN_ night}
+{VBP_}{RB_}{NN_}
+{JJ_}{VBG_}{NN_}
+{NN_}{do}
+{VBD_ take}{NN_}
+{oh UH_}{VB_ pour}{NN_ slug}
+{know}{day}
+{VB_}{NN_ name}
+{JJ_}{NN_ sail}
+{VBN_}{RB_}{MD_ could}
+{come VBP_}{VB_}{NN_}
+{sword}{NN_}
+{NNS_ friend}
+{NN_}{NN_}{NN_ land}
+{NN_}{DT_}{NN_}
+{VBP_}{back RB_}
+{NN_ nothing}{VB_ take}{RB_ away}
+{NN_ curse}{captain NN_}{NN_ morgan}{VBD_ lead}{us PP_}{NN_ fate}
+{JJ_}{VBN_}
+{JJ_}{moon}{JJ_}
+{RB_}{NN_}{NNS_}
+{plunder}
+{VBP_}{VBN_ do}
+{RB_}{VB_}{NNS_}
+{back RB_}{NN_ time}{NN_ voyage}{must MD_}{VB_ go}
+{JJ_ bastard}{NN_}{NN_}
+{call}{NNS_}{VBD_}
+{NN_ time}{come}
+{hold}{RB_}
+{tie}{NN_}{NN_}
+{come VB_}
+{JJ_}{NNS_}{RB_}
+{across IN_}{sea}
+{VB_ throw}{RB_ overboard}
+{VBN_ draw}
+{NNS_}{NN_}{NN_}{VBN_}
+{JJ_}{VBZ_}
+{NN_ misery}
+{NN_}{NNS_ man}
+{NN_}{NN_}{NNS_ sea}
+{NNS_}{VBD_}{JJ_}{NNS_}{NN_}
+{ho}
+{beer}
+{NNS_}{pit}
+{year}{JJ_}
+{IN_ like}{JJ_}{NN_}
+{JJ_}{NN_}{VBG_}{NN_}
+{NN_ sky}
+{MD_}{VB_}{NNS_}{NN_}
+{sea}{NN_}
+{NN_ midget}{VBD_ see}{JJ_ deadly}{NN_ fate}
+{NNS_}{good}{NNS_}
+{NN_}{VBD_ make}
+{VBN_ shipwreck}{VBD_ shipwreck}{VB_ get}{JJ_ drunk}{NN_ die}
+{NNS_}{NNS_}
+{NN_}{NN_ hand}
+{hold}{NN_}
+{take}{JJ_}{JJ_}{NN_}
+{JJ_}{NNS_}{NN_}{NN_}
+{JJ_}{JJ_}{NN_ beer}
+{NNS_}{VBD_ rule}{NN_ land}{sea}
+{NN_ midget}{VBD_ see}{NN_}
+{lead}{us PP_}
+{NNS_ sea}{MD_ shall}{VB_ ride}
+{VB_}{NN_}{MD_}
+{NN_}{VB_}{NNS_}
+{MD_}{VB_}{RB_}{VB_}
+{NN_ viking}{NNS_ god}{VBD_ win}{VB_ save}
+{give}{map}{NN_}
+{NNS_}{buy}
+{VB_ sail}
+{NN_}{VBN_ get}{NN_}
+{VB_ bring}{JJ_}
+{back RB_}{NN_}
+{NN_ terror}{NNS_ sea}
+{JJ_}{JJ_}{NNS_}
+{make}{NNS_}
+{JJ_}{NN_}{NN_}{JJ_}{NN_}
+{JJ_}{VBG_}
+{NN_}{speak}
+{go}{JJ_}{NN_}
+{JJ_}{VBN_}{VB_}
+{man}{know}{NN_}
+{take}{NN_}{NN_}
+{MD_ could}{RB_}{VB_}
+{NN_}{NN_}{VBP_}{NN_}
+{NNS_}{MD_}{VB_}{NN_}
+{d}{JJ_}{NN_}
+{MD_ would}{VB_ see}
+{man}{JJ_}
+{NN_ want}{NNS_ wench}
+{VBN_}{JJ_}{NNS_}
+{NN_ hook}{NN_}
+{RB_}{NN_}{NN_ fate}
+{NN_}{NNS_}{VBP_}{JJ_}
+{RB_}{NN_}{VBD_}
+{NN_ burning}{NN_}
+{NN_ nothing}{VB_}
+{sword}{NN_}{NN_}
+{NN_}{foe}
+{fall}{JJ_}{NN_}
+{IN_}{many}
+{JJ_}{NNS_}{NN_}
+{VBD_}{sea}
+{NN_}{face}
+{NN_}{NN_ rum}
+{say}{NNS_}{NN_}
+{VB_ go}{NN_}
+{sea}{JJ_}{NN_}
+{VBP_}{NNS_}{NN_}
+{NN_}{NN_}{get}
+{NN_}{NN_ crew}
+{NN_}{VB_}{NN_}
+{NN_ death}{NN_}
+{NN_ slaying}
+{VBG_}{NNS_}{NN_}{NN_}
+{VBD_}{get}
+{JJ_}{JJ_}{VBD_}
+{VB_ make}{JJ_ bastard}{NN_ walk}{NN_ plank}
+{NN_}{NN_}{tale}
+{VBD_ turn}
+{ol}{NN_}
+{NN_ sky}{NN_ burn}{NN_ blood}{NN_ night}
+{VBD_}{VBP_}{NN_}
+{VB_}{NN_}{NNS_}{VBP_}
+{MD_ would}
+{JJ_}{NN_}{DT_}{NN_}
+{yet}{RB_ still}
+{JJ_ dead}{NN_ meet}
+{NN_}{ship}
+{VBD_}{VB_}{NN_}
+{NN_ power}{NN_ ale}{MD_ could}{VB_ fail}
+{raise}{NN_}{NN_}
+{VB_ dare}{VB_ oppose}
+{sell}
+{NNS_}{JJ_}{NN_}{NNS_}
+{oh UH_}{RB_}
+{good}{NNS_}
+{NN_ man}{NN_}{NN_}
+{JJ_}{NN_}{VB_}
+{still}
+{NN_}{IN_ without}{NN_}
+{wench}{NN_}
+{VBD_}{NN_}{JJ_}
+{VBP_}{NNS_}{NNS_}
+{NN_ destiny}
+{NN_}{JJ_ untold}
+{JJ_}{go}
+{VBN_}{NNS_}{VBP_}
+{NN_}{fire}
+{NN_}{VBD_}{NNS_}{VBD_}
+{sit}{NN_}
+{NN_}{NN_}{NNS_}{NN_ side}
+{JJ_}{NN_}{NN_ hand}
+{NNS_}{MD_ would}{VB_}
+{VB_}{NN_ til}{NN_}
+{NNS_}{quest}
+{NN_}{know}{NN_}
+{NN_ lust}{NN_}
+{VBN_}{stand}
+{NNS_ shore}
+{VB_}{NNS_}{RB_}
+{land}{sea}
+{JJ_ jolly}
+{JJ_}{NNS_}{NN_}{VBD_}
+{look}{RB_}{NN_}
+{NN_}{see}
+{captain}
+{JJ_}{NN_}{NNS_}{NN_}{NN_}
+{share}
+{NNS_}{NN_}{VBN_}
+{JJ_}{JJ_ old}
+{NN_ day}{NN_}{NN_}
+{JJ_}{year}{JJ_}{NNS_ sea}
+{RB_ alone}{JJ_}
+{JJS_}{NNS_}
+{NN_}{NN_ die}
+{pirate}{NN_}
+{come VB_}{VB_ take}{NN_ drink}{VB_ drown}{NNS_ sorrow}
+{NN_}{VBN_}{NN_}
+{JJ_}{NN_ treasure}
+{NNS_ sea}{VBD_}{NN_}
+{put VBN_}{NN_ cannons}{NNS_ whore}
+{VBN_}{NN_}{JJ_}{NN_}{NN_}
+{VB_}{VBD_}
+{JJ_}{ocean}
+{say}{VB_}
+{NN_}{NN_ battle}{NN_}{NN_}
+{NN_}{begin}{VB_}
+{NN_}{NN_}{VBD_}{VBN_}
+{NNS_}{VBD_}{NN_}{NN_}
+{viking NNS_}{NN_}
+{come VBD_}
+{VBG_}{time}
+{NN_ pirate}{NN_}
+{VB_}{NN_}{NNS_}
+{VBD_}{VBD_}
+{NNS_}{NN_ land}
+{VBD_}{NN_}{JJ_}{NN_}
+{JJ_ old}{NN_}{NN_}{NN_}
+{RB_}{JJ_}{NN_}
+{man}{know}
+{NN_ light}{VBZ_}
+{VBN_ bind}{JJ_ close}{NN_ sea}
+{call}
+{NNS_ depth}
+{VBD_}{NN_ sea}
+{NN_ drink}{NN_ party}{NN_ night}{RB_ long}
+{NN_ time}{come}{NN_}
+{VBZ_ live}
+{NNS_}{suffer}{MD_ could}
+{NN_}{live}
+{JJ_}{NNS_}{NN_}{NN_}{NN_}
+{VB_ sail}{NNS_ sea}
+{VB_}{bastard}{NN_}
+{JJ_ forbidden}{NN_ treasure}{JJ_ old}
+{NNS_}{RB_}{JJ_}
+{VBN_}{NN_ ship}
+{NNS_}{see}
+{VB_}{JJ_}{NN_}{VBD_}
+{bad JJR_}
+{ride}
+{NN_}{man}
+{NN_ drink}
+{JJ_}{us PP_}
+{NNS_ wench}{NN_ mead}
+{NNS_ fear}{VBN_ go}{IN_ till}{NN_ tomorrow}
+{NN_ place}{NN_}
+{NN_}{NNS_ foe}
+{CD_ one}{JJ_}{NN_}
+{VB_}{back RB_}{JJ_}{NN_}
+{NNS_}{VBD_}{NNS_}
+{NNS_}{VBP_}{IN_}{NN_}
+{NN_}{NN_}{NN_}{NN_}{NN_}
+{VBP_}{JJ_}{NNS_}
+{RB_ soon}{VB_}
+{VB_ see}{NN_}
+{NN_ sky}{NN_}
+{RB_}{JJ_}{JJ_}
+{NN_ den}{NN_}{NN_ violence}{NN_ sin}
+{NN_}{NNS_ foe}{NN_}
+{VB_ take}{NNS_}
+{put VBN_}{NN_ faith}{NN_ odin}{NN_ thor}
+{NN_}{viking}{NN_}
+{back RB_}{time}{VB_}
+{VBN_ shipwreck}{NN_ destiny}
+{NN_}{MD_}{VB_}{NNS_}{NN_}
+{NNS_ song}
+{JJS_ good}{NNS_}
+{sink}
+{RB_ far}
+{NN_}{VB_ go}
+{VBZ_ lead}{us PP_}{NN_ destiny}
+{NN_}{VBD_}{land}
+{VBP_ sit}{back RB_}{VB_ sing}{NN_ song}
+{treasure}{JJ_}{NNS_}
+{UH_ hey}{UH_ hey}
+{NN_}{NN_ huntmaster}
+{sword}
+{VBN_}{JJ_ old}{NN_}
+{VBN_ hear}{NN_}
+{VBD_}{JJ_}{NN_}{NN_}
+{JJ_}{NN_}{NN_}{come}
+{VB_ herald}{NN_}
+{VBD_ set}{NN_}
+{NNS_}{VBD_}{sail}
+{JJ_}{NNS_}{VBD_}{NN_}
+{NN_}{fear}
+{NNS_ wench}
+{NNS_ ocean}{NNS_}
+{VBD_}{begin}
+{NNS_ sword}{NN_}
+{NN_}{NNS_ cannon}
+{NNS_}{JJ_ dead}{NN_}
+{JJ_ many}{year}{VBD_}
+{VBN_ set}{quest}
+{VBD_ shipwreck}{VB_}
+{NNS_}{VBD_}
+{NN_ die}{NN_}
+{JJ_}{year}{VBD_}{NNS_}
+{VBN_}{MD_ could}{VB_}
+{man}{JJ_}{NN_}
+{tonight}{NN_}
+{JJ_ nasty}{NN_}
+{VBZ_ say}{NNS_}
+{say}{VBN_ do}
+{VB_}{back RB_}{NN_}
+{NNS_}{VBD_}{JJ_}{NNS_}
+{VBP_}{day}
+{wait}{NN_}
+{take}{JJ_}{NN_}
+{NN_}{NN_}{NN_ fight}
+{VB_}{show}
+{VBN_ rip}{NNS_ shred}
+{JJ_}{VBN_}{NN_}
+{CD_ three}{NNS_}{NN_}
+{wind}{VBD_}
+{JJ_}{NNS_ sea}
+{viking}
+{VB_}{NN_}{NN_ land}
+{VBP_}{VBN_}
+{MD_ could}{VB_}{JJ_}
+{d SYM_}{VB_ make}{NNS_ mistake}
+{JJ_ deadly}{NN_}
+{NN_}{VB_}{JJ_}
+{RB_}{MD_}{VB_}
+{NN_}{JJ_ many}{NNS_}
+{captain NN_}
+{JJ_ go}{NN_}
+{JJ_}{NN_}{come}
+{MD_ would}{NN_}
+{VBD_}{JJ_}{NNS_}
+{NN_}{NNS_ sea}
+{NNS_}{RB_}{NNS_}
+{NN_}{NN_ code}
+{back RB_}{NN_ time}{NN_}
+{VB_}{VB_}{NNS_}
+{VB_}{NNS_}{VBP_}
+{VB_ throw}{NN_ mug}
+{VBN_}{JJ_}{NN_}{NN_}
+{NNS_}{NN_ day}
+{VBN_}{VBZ_}{JJ_}
+{NNS_}{NN_}{NN_}{NN_}
+{NN_}{NN_}{MD_}
+{NN_}{JJ_}{VBP_}
+{NN_}{mark}
+{NN_}{dead}
+{NNS_}{NN_}{VBD_}{JJ_}
+{JJ_}{us PP_}{VBP_}
+{bring}{VB_}
+{NN_ sail}{JJ_}
+{NN_}{captain NN_}{VBD_}
+{JJ_ mighty}{NN_}
+{come VBD_}{NN_}
+{VBZ_ say}{NNS_ leg}{must MD_}{VB_ go}
+{JJ_}{NN_ land}
+{NN_}{VBD_}{JJ_ deadly}{NN_}
+{NN_}{JJ_}{NNS_ man}
+{JJ_ many}{NNS_}
+{VB_ sail}{NNS_}
+{god}
+{MD_ could}{RB_}
+{NN_}{come}{VB_}
+{swear}{NN_}
+{VBP_}{NNS_}{JJ_}
+{great}{NN_}{NN_}
+{NNS_ sword}
+{NN_}{VBD_}{NN_ fate}
+{treasure}{NNS_}
+{yet}
+{NN_ time}{VB_}
+{NNS_ cannon}{VBG_ rage}{NNS_ torch}{RB_ aflame}
+{sky}
+{VBN_}{JJ_}{NNS_ man}
+{tear}{NNS_}{NN_}
+{JJ_}{NNS_}{VBD_}{JJ_}{NN_}
+{VBP_ go}
+{VBN_}{NN_ sea}
+{give}{VBP_}{NN_}
+{fire}{cannon}
+{scream}{NNS_ ear}
+{man}
+{VBN_ take}
+{JJ_ jolly}{NN_ roger}{NN_}
+{NN_}{NN_}{do}
+{set}{NNS_}
+{VBG_ tear}{NNS_ body}{NN_ limb}{NN_ limb}
+{port}{NN_}
+{NNS_}{VBP_ need}
+{VBN_ set}{NN_ sail}{VB_ conquer}{NN_ destiny}{NNS_ hand}
+{VB_}{NN_}{VBP_}
+{d}{NN_}{NN_}
+{kill}
+{NN_ quest}{JJ_}
+{head}
+{NN_}{VBD_}{NN_}{JJ_}
+{NN_ death}{NN_ mast}
+{loot}
+{VB_ stop}{NN_ dawn}{NN_ sun}
+{VBN_}{VBN_}
+{CD_}{VBN_}
+{cannon}{fire}
+{NN_}{VBP_}{head}
+{NN_}{NN_}{NNS_ eye}
+{NN_}{NN_}{NN_}{VBP_}{NN_}
+{NN_}{NNS_ depth}
+{NNS_}{VBD_}{NNS_}{VBD_}{NN_}
+{NN_}{JJ_}{NNS_}{VBD_}
+{gold}{NNS_}
+{NN_ death}
+{get}{NNS_}
+{NN_ time}{NN_}{NN_}
+{us PP_}
+{NN_}{NN_ man}
+{NNS_}{VBD_}{JJ_}{NN_}
+{NN_ pirate}
+{man}{VBP_}
+{NN_}{NN_}{JJ_ dead}
+{NN_}{man}{know}
+{NN_ beast}{NNS_}
+{VB_}{back RB_}{JJ_}
+{NNS_ wave}
+{soul}
+{captain}{JJ_}
+{PP_}{JJ_}
+{VBP_ stand}{NN_}
+{VB_ see}
+{VBN_ set}{NN_ sail}{VB_ conquer}{NN_ quest}{JJ_ distant}{NNS_ land}
+{VB_ see}{NN_ city}{NN_ fall}
+{man}{VBD_}
+{VBD_}{NN_}{NN_}{NN_}
+{d SYM_}{JJ_}{NN_}
+{lie}{NN_}{NN_}{NN_}
+{reason}
+{day}{NNS_}
+{JJ_}{NN_ tide}
+{NN_}{come}{NNS_}
+{NN_}{JJ_ dire}
+{VB_}{NN_}{NN_}{NN_}
+{CD_ one}{NN_}{NN_}
+{JJ_}{NN_}{chest}
+{JJ_}{NN_}{RB_}
+{prepare}{NN_}
+{NN_}{NN_ power}
+{NN_}{draw}
+{RB_}{tell}
+{JJ_ yer}{JJ_ wee}{NN_ bit}{NN_ hill}{NN_ glen}{VBD_ stand}
+{NN_ ride}{NNS_}{NN_}
+{JJ_ many}{VBD_}
+{NN_}{VBN_ do}
+{NN_}{JJ_ dead}
+{NNS_ depth}{NN_}
+{VBN_}{NN_ crew}{NNS_}
+{scotland}
+{VB_}{NN_}{give}{NN_}
+{back RB_}{JJ_}{NN_}
+{JJ_}{soul}
+{NN_}{sight}
+{sure}
+{JJ_ dead}{NN_ daylight}
+{VBG_ hoist}{NN_ flag}{JJ_ free}
+{see}{NN_}
+{NN_}{NN_}{VBZ_}
+{fear}
+{JJ_}{JJ_}{NN_}{NN_}{NN_}{VBD_}
+{NN_}{NN_}{VBD_}{NN_}
+{NN_ creature}
+{VB_}{VB_ conquer}{NN_}
+{NN_}{VBP_}{VB_}
+{IN_}{NN_}{NN_}{NN_}
+{NNS_}{IN_ like}
+{VBN_}{JJ_}{man}
+{MD_}{NN_}{NN_}
+{NN_ power}{MD_}
+{NN_}{VBD_ stand}
+{VB_}{JJ_}{NN_}{NN_}
+{NN_ man}{know}
+{NN_ head}{NN_ tavern}{NN_ drink}
+{many}{VBN_}
+{VBG_ rage}{NNS_}
+{JJ_}{NN_}{NN_ night}
+{VBN_}{NNS_}{NNS_}
+{JJ_ foreign}
+{NN_ song}
+{lead}{JJ_}
+{IN_}{NN_}{NN_}
+{VB_ see}{NN_}{NN_}
+{NN_}{NN_}{VBD_}
+{JJ_ full}
+{look}
+{NN_}{NN_}{hand}
+{JJ_ many}{NNS_ year}{VBD_}
+{sit}
+{one}{JJ_}
+{NN_}{come}{NN_}{NN_}
+{NNS_}{VBN_}{VBD_}
+{MD_ shall}{VB_}
+{VB_}{NN_ die}
+{JJ_ many}{NN_}
+{JJ_}{NN_}{VBZ_}
+{NN_}{NN_ sail}
+{go}{NN_}{NN_}
+{JJ_}{NN_}{MD_ would}{VB_}
+{VB_ die}{NN_}
+{NNS_ fear}
+{dead}{NNS_}{NN_}
+{NN_ destiny}{JJ_ last}
+{NNS_}{ride}
+{VBD_ know}{NN_ end}
+{NNS_}{sea}{VBD_}
+{NN_}{NN_}{VB_}{NN_}
+{NN_}{VB_ take}
+{NNS_}{VBN_}{JJ_}
+{life}{VBP_}
+{VB_}{NNS_}{NN_}
+{NN_}{NNS_}{get}
+{NN_ tie}{NN_ rope}
+{NN_ battle}
+{NN_}{VBD_}{JJ_}{NNS_}
+{NN_ tankard}{NN_ ale}
+{JJ_}{NNS_ year}{VBD_}
+{VBZ_}{NN_}{NNS_}
+{VBP_}{RB_}{VB_}{NN_}
+{hand}{NN_}{NNS_}
+{VB_ raise}{NN_ pint}{NN_ rum}{VB_ take}{another DT_}{NN_ swig}
+{deserve}
+{VBD_}{us PP_}
+{say}{NN_}
+{treasure}{NN_}
+{must MD_}{VB_ go}
+{NN_}{VBZ_}{JJ_}{NN_}{NN_}
+{one}{drink}{NN_}
+{pint}{NN_}
+{NNS_ day}{NNS_}
+{NN_ hail}
+{VB_ survive}{PP_ one}{VB_ tell}
+{sea}
+{NNS_ shore}{VBD_}
+{VBD_}{NN_ day}
+{NN_}{JJ_ mighty}
+{RB_}{NN_ beer}{NNS_}
+{NN_}{NN_}{VBD_ say}
+{NN_}{run}
+{NN_}{come VBP_}{VB_}
+{NNS_}{VBP_ go}
+{NN_}{days.}{JJ_}
+{JJ_ many}{NNS_}{JJ_}
+{NN_}{whore}
+{sail}{JJ_}
+{VBN_}{NNS_}{NN_}{NN_}
+{MD_}{VB_}{VB_}
+{NNS_ pirate}{VBP_}{JJ_}{NN_}
+{NN_}{NN_}{VBD_ get}
+{NNS_}{VBD_}{sea}
+{NN_}{NN_}{NN_}{NN_ side}
+{JJ_ little}{NN_}
+{JJ_ proud}{JJ_ edward}{NN_ army}{VBD_ send}{RB_ homeward}
+{NN_}{VBP_}{NN_}{NN_}
+{MD_ would}{VB_ take}{NN_}
+{god}{NN_}
+{NN_ sail}{NN_}
+{VBP_ stand}{RB_ alone}{bow VB_}{NN_ ship}
+{NN_}{NNS_}{sail}
+{NN_ barrel}
+{NN_}{IN_}{VBN_}
+{NNS_}{VBN_ slay}{NNS_}
+{NN_}{days.}{JJ_}{NN_}
+{NN_}{NN_ slaughter}
+{NN_}{NN_ day}{NN_}
+{JJ_}{NN_ crew}
+{NNS_}{MD_}{VB_}
+{NNS_ tae}{VBP_ think}
+{VBG_}{RB_}{NN_}
+{VBD_}{NN_}{VBD_ get}
+{VBD_ kill}{steal VB_}{NN_ gold}
+{NN_ ship}{JJ_}{NN_}
+{VBN_}{NN_ crew}
+{fire}{NNS_}
+{day}
+{VB_}{JJ_}{VBD_}
+{VBN_}{NN_ quest}
+{NN_}{NN_}{NN_}{come VBN_}
+{UH_ hey}{VBN_ banjaxed}{UH_ hey}{VBD_ screw}
+{NN_}{NN_ tale}
+{NN_}{NNS_ land}
+{NN_ none}{RB_}
+{VBN_ set}{NN_}
+{NN_ sailor}{JJ_}
+{MD_}{VB_}{RB_}
+{JJ_}{shore}
+{NN_}{VBP_}{back RB_}
+{NN_}{VBN_ betray}
+{NNS_}{treasure}
+{great}{NN_}
+{drink}{JJ_}{NN_}
+{JJ_}{NN_}{NN_ ale}
+{NN_ mouth}{NN_ burning}{NN_ flame}
+{JJ_}{NNS_}{JJ_}{NN_}
+{NN_}{NNS_ hand}
+{VBN_}{NNS_}{JJ_}{NN_}
+{NN_}{VBN_}{RB_}{NN_}
+{NNS_}{sea}{NN_}
+{back RB_}{time}
+{VB_}{VB_ take}{NN_}
+{NNS_}{MD_ shall}{VB_}
+{VBP_}{NNS_}
+{NN_}{RB_}{NN_}
+{NNS_}{CD_}{NN_}
+{do}
+{NN_}{RB_}{JJ_}
+{VBN_ chop}{NNS_ limb}{VBP_ become}{NN_ shark}{NN_ bait}
+{JJ_}{NN_ day}
+{JJ_}{NN_}{NN_}{VBD_}
+{JJ_}{JJ_ many}
+{NN_ bounty}{NN_}
+{lay}
+{RB_}{VB_ go}
+{JJ_}{NN_}{us PP_}
+{NN_ gold}
+{JJ_}{NN_}{NN_}{NN_}{VBD_}
+{NN_}{RB_}{VBN_}
+{NN_ drunk}
+{NN_}{VB_ take}{NN_}
+{VBN_}{NN_}{NNS_}
+{VB_}{NN_ hell}
+{NN_ quest}{VBG_}
+{NN_}{VBD_}{sail}
+{captain}{NNS_}
+{NN_ sailor}
+{NN_ die}{NN_ huntmaster}
+{RB_}{stand}
+{NN_}{land}
+{JJ_}{cannon}{NN_}
+{VBP_}{time}
+{JJ_ sure}{NN_}
+{steal VB_}
+{NN_}{NN_ fate}
+{VBD_}{us PP_}{NN_ quest}
+{VBN_}{MD_}
+{show}{NN_}
+{last}
+{raise}{NN_}{NN_ sky}
+{JJ_ cold}{NN_}{NN_ blade}
+{JJ_}{NNS_}{VBG_}{NN_}
+{d SYM_}{port}{NN_}
+{MD_}{VB_ take}
+{VB_ bring}{NNS_}
+{NN_}{come}{NN_}
+{VB_ hear}{NN_ terror}{NNS_ fire}{VBP_ burn}{NNS_ cannon}{JJ_ sound}
+{NNS_}{NNS_}{VBD_}
+{yer}
+{NN_ deck}
+{IN_}{NN_}{VBD_}
+{NN_}{us PP_}
+{VBP_}{VB_ go}
+{come}{JJ_}{NN_}
+{time}{VBG_}
+{NN_}{go}
+{port}
+{NN_ reign}{NN_}
+{RB_}{VB_}{JJ_}
+{NNS_}{NN_ fire}
+{NN_ ship}{VBZ_}
+{VB_}{JJ_ last}{NN_}
+{VB_}{us PP_}
+{NN_ land}
+{VBD_}{NN_}{VBP_}{NN_}
+{JJ_}{NNS_}{VBD_}{JJ_}
+{NNS_}{VBN_}{NN_}
+{NNS_}{VBP_}{JJ_}{NN_}
+{VB_}{tale}
+{NN_ death}{come VBG_}
+{NNS_}{NNS_}{JJ_}
+{NN_ send}{NNS_ depth}
+{NNS_ cannon}{NNS_}
+{VBP_}{VBZ_}
+{NN_}{NNS_}{RB_}
+{NNS_ eye}{VBP_ shine}{IN_ like}{NNS_ ray}{NN_ morning}
+{VBN_ set}{NN_ sail}{NN_}
+{drink}{NN_}{NN_}
+{NN_}{NN_ sailor}{NN_}
+{NN_ wish}
+{NN_}{VBZ_}{NN_}{NN_}
+{MD_}{RB_}{NN_}
+{MD_ shall}{JJ_}
+{VBN_ seize}
+{JJ_ first}{NN_ light}
+{NN_}{NN_}{come}{RB_}
+{JJ_}{NN_}{another DT_}{NN_ time}
+{life}{NN_}
+{NN_ die}
+{yet}{NNS_}{VBD_}{NNS_}
+{JJ_}{year}
+{RB_}{VBN_}{VBD_}
+{VBN_}{NN_}{VBD_}
+{CD_ one}{NN_}{JJ_}
+{grab}{NN_}
+{NN_}{pay}{NN_}
+{NN_}{NN_ hell}
+{NNS_}{NN_ hell}{VBD_}
+{drag}{NN_}
+{show}{VBP_}{NN_}
+{NN_}{NN_ ride}
+{NN_}{NN_}{JJ_}{NNS_ land}
+{JJ_ great}{NN_}
+{NN_}{NNS_}{VB_}
+{NN_}{NNS_}{NN_}{NN_}
+{JJ_}{NN_ chest}{NN_}
+{sail}{VB_ conquer}{NN_}
+{one}{NN_}{NN_}
+{know}{NNS_}
+{VBP_}{JJ_}{NN_}
+{NNS_}{NN_ time}
+{legend}{speak}{NN_}
+{year}
+{back RB_}{VB_}
+{VBD_}{NN_ gold}
+{shore}
+{JJ_ ol}{NN_}{NN_}
+{JJ_}{day}
+{come VB_}{VB_ meet}{NN_ destiny}{VB_ ignore}
+{NNS_ cannon}{VBG_}
+{NNS_ sea}{VBN_}
+{NN_}{VBZ_}{RB_}
+{JJ_}{NNS_}{JJ_}
+{NN_}{VBZ_}{VB_}
+{VBZ_}{VB_}
+{NN_}{NN_}{NN_}{JJ_}
+{NN_}{RB_}{VBP_}
+{NN_ midget}{VBD_ see}{NN_ pirate}{NN_ code}
+{NN_}{VBD_}{IN_}
+{NN_ tavern}{RB_}
+{JJ_}{NN_ treasure}{JJ_}
+{NN_}{NN_}{go}
+{JJ_}{NN_ shore}
+{VB_ sail}{VB_ conquer}{NN_ til}{NN_ die}
+{VB_ know}{JJ_}
+{NN_}{NN_ ship}
+{JJ_ dead}{NN_}
+{NNS_ man}{VBD_}
+{IN_ beneath}{NN_}
+{VBG_ gonna}
+{revenge}
+{VBZ_}{JJ_}
+{NNS_}{VBP_ hear}
+{NNS_}{VBP_}{NNS_}
+{NNS_}{MD_}{RB_}
+{hear}{NNS_}{NN_}{NN_}
+{IN_ like}{NN_}{NN_}
+{d SYM_}{kill VB_}{DT_ every}{JJ_ last}{CD_ one}{NNS_ bastard}{NN_ friend}
+{NNS_}{NN_}{JJ_}
+{VBZ_}{MD_}
+{NNS_}{live}
+{VBN_ chop}{NNS_ piece}
+{NN_}{NN_ fear}
+{NN_ law}
+{come VBP_}
+{NN_}{IN_ beneath}
+{NNS_}{NNS_}{NNS_}
+{VBG_ gonna}{NN_ wish}{NN_ dead}
+{VBN_ shipwreck}{NN_}
+{tie}{NN_}
+{come}{VB_}{NNS_}
+{VBN_}{VB_ get}{JJ_ drunk}
+{NN_ nancy}{NN_}
+{NN_ name}{NN_}
+{sea}{VBD_}
+{slaughter}
+{VB_}{DT_}{NN_}
+{VB_}{NN_}{NN_ fall}
+{CD_}{NN_}{NN_}
+{JJ_ thunderous}{NN_}
+{VBP_ stand}
+{NNS_}{fight}
+{NN_}{VB_ take}{RB_}
+{NN_}{chart}
+{NN_}{JJ_ many}
+{another DT_}{NN_ day}
+{drunk}
+{NNS_}{NN_ sea}
+{JJ_}{VBD_}{us PP_}
+{NN_ crew}{VBD_}{NN_}
+{VBG_ look}
+{NN_}{VBP_}{JJ_}
+{NN_}{NN_ quest}
+{NN_ wench}{NN_ side}{NN_ jug}{NN_ mead}
+{JJ_}{treasure}
+{VBP_}{NN_ em}
+{DT_}{JJ_}
+{NN_}{NNS_}{NN_}
+{VBZ_ seem}{NN_ journey}{come VB_}{NN_ end}
+{IN_}{NNS_}{NN_}
+{NN_}{head}
+{RB_ still}{VB_}
+{VBG_}{NNS_}{NN_ die}
+{NN_}{NNS_}{VBD_}
+{VB_}{NN_ destiny}
+{JJ_}{NN_}{VBZ_}{NN_}
+{whisper}{JJ_}{NN_}
+{NN_}{NN_ day}
+{RB_}{NN_ beer}{NNS_}{JJ_}
+{NNS_}{VBP_}{JJ_}{NNS_}
+{JJ_}{NNS_}{NN_ midnight}
+{NN_}{must MD_}{VB_}
+{swear}{JJ_ deadly}{NN_}
+{NNS_}{sea}
+{VB_}{NN_}{NNS_}{NN_}
+{NN_ dead}
+{raise}
+{JJ_ many}
+{drink}{NN_}
+{NN_}{NNS_}{VBP_}
+{NN_ show}{NN_}
+{JJ_ empty}{NN_}
+{get}{drunk}
+{JJ_}{VBD_ lose}
+{NN_ fear}{NN_}
+{day}{JJ_}
+{NN_ time}{MD_}{VB_}
+{NN_ crew}
+{back RB_}{JJ_}
+{JJ_ first}{NN_}
+{NN_}{NN_ glory}
+{NNS_}{NN_}{VBD_}{NN_}
+{NN_}{NN_}{JJ_ holy}{NN_ grail}
+{NN_ quarry}
+{ship}
+{NN_ power}{NN_}
+{NNS_}{VBD_}{JJ_ black}
+{VBG_}{NN_ wood}
+{NN_}{NN_ end}
+{JJ_}{NN_}{NNS_}
+{VB_}{NN_ slaughter}{NN_}
+{ship}{NN_}{NN_}
+{NN_ battle}{NN_}{NN_}
+{VB_ write}{NN_}
+{NN_}{come VBP_}{NN_}
+{JJ_ many}{JJ_}{NN_}
+{JJ_}{NN_}{VBD_}{RB_}
+{er}
+{sorrow}
+{NNS_}{starboard JJ_}{NN_ bow}
+{battle}
+{NNS_}{RB_ behind}
+{VB_ conquer}
+{NNS_ word}{NN_}
+{VB_ give}{VB_}{JJ_}
+{JJ_ black}
+{NN_}{return}
+{NNS_}{JJ_ past}
+{JJ_}{VBP_}{NNS_}
+{NN_ honour}
+{VBD_}{NNS_}{NN_}
+{NN_ traitor}
+{fear}{NN_}
+{NN_}{NN_}{JJ_}{land}
+{drink}
+{JJ_}{NN_}{come}{NN_}
+{NN_}{NNS_ leg}
+{NN_}{NNS_ depth}{NN_}
+{give}{NN_}
+{NN_ bottle}{NN_ rum}
+{NN_}{come}{VB_}{NN_}
+{JJ_ endless}{NN_}{VBD_}
+{jug}{JJ_ famous}{NNS_ ol}{VBD_ spice}
+{JJ_ many}{year}
+{UH_}{NN_}{VB_}
+{NN_}{come VBZ_}
+{NN_ band}
+{VBN_}{NNS_}{NN_}
+{VBD_}{VBG_}{NN_}
+{NNS_ ocean}
+{VBN_}{NN_}{JJ_}{NNS_}
+{NN_}{NN_ barrel}
+{NN_}{NN_}{IN_}{NN_}
+{viking}{NN_}
+{us PP_}{VBP_}
+{VBD_}{sail}
+{captain NN_}{NN_}{NN_}
+{VBD_}{NN_}{NN_}
+{VB_ get}{JJ_ drunk}{NN_}
+{NN_ legacy}{VBP_ torment}{RB_ rightfully}{VB_ take}
+{NP_}
+{NNS_ mile}
+{NN_ drink}{RB_}
+{NN_ flag}
+{NN_}{VBD_}{NNS_}
+{NN_ darkness}{come VBD_}
+{NN_}{NN_ rum}{NN_}
+{MD_ might}
+{strike}{JJ_}{NN_}
+{last}{NN_}{MD_ would}{VB_}
+{NNS_}{JJ_}{shore}
+{NN_}{NN_}{NN_}{VBP_}
+{heart}{NN_}{NN_}
+{NN_}{us PP_}{NN_}
+{NN_}{NN_ side}
+{NN_}{VBD_}{NN_ fear}
+{VB_}{NN_}{VBG_}{NN_}
+{NNS_}{VBD_}{JJ_}
+{kill}{NN_}
+{JJ_ many}{NNS_}{VBD_}
+{RB_}{land}
+{tell}{NN_}
+{quest}{NN_}{NN_}
+{NN_}{NN_}{NN_ ale}
+{NN_}{VBZ_}{NNS_}
+{d SYM_}{VB_}{NNS_}
+{VBD_ make}
+{NN_ leviathan}
+{VBN_}{VB_}{NN_}
+{VBG_ search}{NN_ treasure}{NN_ night}
+{NN_ reign}{NN_ terror}{NNS_}
+{UH_}{VB_}
+{NN_ life}{VBP_}
+{NN_}{much}
+{NN_ end}{RB_}
+{NN_}{NN_ destiny}
+{pirate}{JJ_}
+{ship}{JJ_ many}
+{NN_ glory}
+{VBD_}{NN_}{VBN_}
+{DT_ every}{last}{NNS_}
+{NN_ drag}{IN_ underneath}{NN_ ship}
+{NNS_}{VBD_ lose}
+{NN_ til}{NN_ die}
+{JJ_}{NNS_}{VBD_}
+{VBD_}{us PP_}{VBP_}
+{JJ_}{chest}
+{IN_}{ship}{NN_}{NN_}
+{NN_}{NN_ sea}
+{NN_}{CD_}
+{NN_}{NNS_ wench}
+{JJ_}{NNS_}{NN_}{IN_}
+{MD_}{VB_}{NN_}{NN_}
+{RB_}{VB_}{JJ_}{NN_}
+{NN_}{VBD_ set}{NN_ sail}
+{VBN_}{NN_ name}
+{NNS_ storey}{JJ_}
+{NN_}{quest}{NN_}
+{NNS_ poseur}
+{heart}{VBN_}
+{come VB_}{VB_}{NN_}{VB_}
+{CD_ one}{NN_}
+{NN_}{NN_ close}
+{come}{RB_}
+{NNS_}{NNS_}{RB_}
+{JJ_ high}
+{VB_}{NN_}{land}
+{VBN_}{MD_ could}
+{must MD_}{VB_}
+{VBZ_}{JJ_}{NN_}
+{NNS_}{MD_ could}{VB_}
+{VBG_ wait}{NN_}
+{yet}{VB_}
+{NN_}{NN_ time}
+{NN_}{JJ_}{JJ_}
+{NNS_}{NN_}{JJ_}{NN_}
+{NN_}{VBN_}{VB_}
+{NN_}{NN_}{NNS_}
+{creature}{NN_}
+{VBN_}{NN_ sail}{NNS_}
+{ol}
+{JJ_}{NNS_ wind}{NN_ blow}
+{JJ_}{VBZ_}{NN_}
+{MD_}{VB_}{NN_}{JJ_}
+{VB_}{sight}
+{NN_}{strike}
+{VB_ get}{NN_}{NN_}
+{NN_}{JJ_}{NN_}{NN_}
+{NN_ n}{norwegian}
+{IN_ like}{JJ_}
+{VBN_}{NNS_}{VBP_}{NN_}{NN_}
+{take}{NNS_}{NN_}
+{NNS_}{die}
+{JJ_}{leave}
+{PP_}{VBP_}{JJ_}{NN_}
+{JJ_}{NN_ inn}
+{VB_}{NN_}{NN_}{NNS_}
+{RB_ alone}{VB_}
+{JJ_}{JJ_}{JJ_}{NN_}
+{NN_}{NNS_}{VBP_ draw}
+{NN_ tavern}
+{go}{VBG_}{NN_}
+{JJ_}{NNS_ year}
+{VBN_ set}{NN_ quest}
+{MD_ could}{VB_}{back RB_}{NN_}
+{VBN_}{tear}{NN_}
+{NN_}{NN_ wealth}
+{JJ_ true}
+{NNS_ storey}{NNS_ battle}{JJ_ old}
+{NN_ light}
+{JJ_}{NNS_}{NNS_}
+{VB_}{RB_}{VB_}{NN_}
+{VBD_}{land}
+{NN_ cresting}{NNS_ wave}
+{starboard JJ_}{NN_ bow}
+{VB_ bring}{VB_ jug}{JJ_ famous}{NNS_ ol}{VBD_ spice}
+{NN_ beast}{VBD_}
+{NN_}{NNS_}{JJ_}{NN_}
+{scrape}{NN_ barrel}
+{NN_ slaying}{NN_}
+{VB_}{JJ_}{land}
+{VBG_ wait}{NN_ end}
+{NNS_ lot}{NNS_ wench}{VBP_ need}
+{VBG_}{us PP_}
+{NN_ viking}
+{rage}{NNS_}
+{sail}{NN_}
+{NN_ fate}{NN_}{NN_}
+{NN_ terror}{NNS_}
+{want}{NNS_}
+{NN_}{NNS_ friend}
+{NNS_}{draw}
+{song}
+{NN_ close}
+{NN_}{NN_}{NNS_}{VBD_}
+{strike}{NN_}
+{take}{NN_}{VB_}
+{NN_ money}
+{VBG_ count}{NNS_ hour}{NN_ til}{NN_ die}
+{NN_ sailing}{NNS_ ocean}{NNS_ sea}
+{IN_}{NN_ ship}
+{VBP_}{VBN_ begin}
+{UH_ hi}{UH_ hi}{VBZ_ ho}{UH_ hi}{UH_ hi}{UH_ hey}
+{ocean}
+{JJ_}{VBP_}{NN_}
+{VBN_ make}{MD_ could}
+{VBD_ begin}
+{JJ_ trapped}{NN_ island}{VBD_ lose}{NN_ sea}
+{come VBP_}{NN_}
+{VB_ give}{NN_}{NN_}
+{NN_ need}{NN_ sleep}{NN_ rest}
+{cannon}
+{NN_}{await VBZ_}
+{VBP_}{come}
+{die}{NN_}
+{CD_ one}{NNS_}
+{VBD_ know}{VB_}
+{NNS_ hour}{NN_}
+{NN_}{JJ_}{VBP_}{JJ_}{NN_}
+{VBP_ know}{NNS_ day}{JJS_ good}{NNS_ life}
+{NN_}{NN_ burning}{NN_}
+{VB_ get}
+{NN_ lad}{VB_}
+{VBZ_}{NN_}{NN_}{NN_}
+{send}
+{tankard}{NN_ ale}
+{NN_}{cannon}
+{CD_}{NN_}{VBP_}
+{NN_ terror}{JJ_}
+{come VB_}{RB_}
+{NN_ time}{NN_}{MD_}{VB_}
+{MD_}{JJ_}{NN_}
+{NN_}{NN_}{NN_ hand}
+{NN_}{come VBD_}
+{MD_}{VB_}{NN_}
+{say}{NNS_}
+{NN_ sight}
+{land}{NN_ sea}
+{VBN_ set}{NN_ sail}{VB_ conquer}{NN_}{NNS_}
+{VBD_}{JJ_}{NNS_}{VBD_}
+{JJ_}{NNS_}{VBG_}
+{NN_ ship}{NN_}
+{VBN_}{JJ_}{NN_}{NN_}{NN_}
+{NN_ dawn}{NN_ sun}
+{NN_}{RB_}{VBN_ know}
+{NNS_}{VBP_ stand}
+{VB_}{NN_ walk}
+{VBP_}{bow}
+{NN_}{NN_ name}
+{JJ_ mighty}
+{NN_ darkness}
+{VBN_ search}{VBD_ search}
+{sea}{VB_}
+{VBD_ know}{NN_}
+{NN_ port}
+{cry}
+{NN_ tonight}
+{map}
+{JJ_}{NNS_}{RB_ ago}{NN_}
+{VBP_}{NN_ fight}
+{NN_}{VBP_}{JJ_}{NNS_}
+{JJ_ many}{VBD_}{VBG_}{NN_}
+{NN_}{light}
+{late}
+{NN_}{NN_ traitor}{JJ_}
+{NN_ time}{come}{VB_}
+{jug}
+{NNS_}{VBD_}{NN_}
+{must MD_}{VB_}{VB_}
+{know}{VBD_}
+{VB_}{JJ_}{NNS_}{VBD_}
+{run}{NN_}{NN_}{VBD_}
+{rise}
+{VBN_}{NN_ treasure}
+{VBD_}{NN_}{MD_}{VB_}
+{JJ_}{VBP_ go}
+{JJ_}{sea}
+{JJ_}{RB_}{VBN_}
+{NN_}{NNS_}{VBP_}{NN_}
+{JJ_}{NN_}{MD_}{VB_}
+{NN_}{NN_ tavern}
+{NN_}{ocean}
+{VBN_}{VB_}{JJ_}
+{NN_}{RB_}{VBN_}{NN_}
+{JJ_ lead}
+{VBP_}{song}
+{VB_ get}{JJ_}{NN_}
+{NNS_}{get}
+{JJ_}{lose}
+{VBG_}{NN_}{NN_}{NNS_}
+{CD_ one}{JJ_ last}{NN_ battle}{NN_ sailor}{JJ_ lonely}{NN_ war}
+{one}{JJ_}{NN_}
+{VBD_}{VBP_}
+{NN_}{JJ_}{VB_}
+{NN_}{VBP_ get}{JJ_}
+{NN_}{NN_}{VBP_}{JJ_}
+{JJ_}{NNS_}{RB_ ago}{JJ_}
+{NNS_}{MD_ shall}
+{NN_ time}{NN_ fight}{NN_}{NN_}
+{set}{VB_}
+{d SYM_}{RB_}
+{NN_}{NN_}{VBD_}{NNS_}
+{quest}{VBN_}
+{PP_ one}
+{NN_ search}{NN_}{NN_}{NN_}
+{JJ_}{man}
+{come VBP_}{VB_}
+{JJ_ true}{NN_}
+{NN_}{VBP_}{RB_}{VB_}
+{NN_}{NN_}{come}{NN_}
+{NN_}{NN_}{NNS_}{NN_}{NN_}
+{VBN_ sink}{NN_ n}{JJ_ norwegian}{NN_}
+{night}{VBP_}{JJ_}
+{NNS_}{VBP_}{NNS_}{NN_}
+{NN_}{JJ_}{NN_ beer}
+{NN_ time}{VBD_}{NN_}
+{NN_ cause}{NN_}{JJ_}{NN_}
+{VB_ see}{JJ_}{NN_}
+{NN_ drink}{NNS_}
+{night}
+{hold VB_}{NN_ breath}{NN_ close}{NNS_ eye}{VBP_ hang}
+{man}{NN_}
+{crew}
+{NN_}{VBP_}{NNS_}
+{kill}{NNS_}{NN_}
+{leave}{NN_}{NN_}
+{first}{NN_}
+{NNS_ sea}{quest VBP_}{VBN_}
+{NN_}{come VBZ_}{NN_}
+{JJ_ old}
+{VB_}{JJ_}{MD_}{VB_}
+{get}{JJ_}
+{NN_ til}{NN_}
+{VBP_ look}{back RB_}
+{JJ_}{NN_}{NN_}{NN_}
+{JJ_ many}{VBP_}
+{MD_}{VB_ think}
+{wind}{blow}
+{NN_ nancy}{NN_}{NN_}
+{VB_ bring}{NN_}
+{JJ_}{NN_}{VBN_}{NN_}
+{NN_ slaughter}{NN_}
+{grave}
+{NN_}{JJ_ true}
+{JJ_}{VBD_}{NN_}
+{leave}{RB_ behind}
+{NNS_}{JJ_}{NN_}{VBP_}
+{NNS_ thing}{VBP_ need}
+{JJ_}{JJ_}{NN_}{NN_}
+{NN_}{NN_}{VBP_}
+{NN_}{NN_}{NN_}{VBD_}
+{sin}{RB_}
+{NN_}{NN_ blood}{NN_}
+{NNS_}{cannon}
+{NN_}{tankard}{NN_ ale}
+{NN_}{VBD_}{JJ_}{NN_}{NN_}
+{avenge}
+{NNS_ eye}{VBP_}
+{NN_ justice}
+{VB_}{NN_}{NNS_}{NNS_}
+{NN_}{VBD_ see}
+{VBD_ take}{NNS_}
+{NNS_}{MD_}{VB_}{JJ_}
+{ride}{NN_}
+{come VBN_}
+{MD_}{VB_ go}
+{JJ_ countless}{NNS_}{NNS_}
+{VBZ_}{man}
+{MD_}{VB_}{JJ_}{NN_}
+{NN_ hail}{NN_ huntmaster}
+{ride}{NNS_}
+{NN_ sail}{NN_ battle}{NN_ glory}{NN_ metal}
+{NN_}{come VBD_}{NN_}
+{bring}{back RB_}
+{VBN_}{quest}
+{meet}
+{JJ_}{IN_}
+{NN_ heart}{NN_ battle}{NN_ ride}{NNS_ god}{NN_ side}
+{NNS_}{IN_}{NN_}
+{last}{NN_}
+{NN_ slaughter}
+{hear}{NNS_}{JJ_}
+{life}
+{NN_ sunrise}{NN_ dance}{JJ_ hempen}{NN_ jig}
+{NNS_ sea}{begin}
+{CD_}{NN_}
+{raise}{VB_}
+{NNS_ leg}
+{come VBN_}{NN_}
+{sail}{VB_}
+{CD_}{JJ_}
+{crew}{JJ_}
+{VBZ_}{VB_}{NN_}
+{come VB_}{NN_}
+{leave}{NNS_}
+{NN_ fight}{NN_}{NN_}
+{hold VBN_}
+{NNS_}{get}{JJ_}
+{VB_}{land}
+{VB_}{JJ_}{NN_ day}
+{NN_}{NN_}{NN_}{VBP_}{JJ_}
+{VBD_}{NN_}{VB_}
+{pirate}
+{NN_ none}{RB_}{know}
+{JJ_}{NN_}{VBD_}
+{NN_}{VBD_}{NN_ pirate}{NN_}
+{JJS_}
+{quest}
+{NNS_}{NN_}{VBP_}
+{NN_}{NN_ side}{NN_}
+{get}{JJ_}{NN_}
+{NNS_}{JJ_}{NN_}
+{JJ_ mere}{NN_}
+{JJ_}{JJ_ deadly}{NN_}
+{d SYM_}{make}
+{JJ_}{NN_}{JJ_}
+{take}{VBP_}
+{NN_ attack}
+{quest}{NN_}
+{NNS_ year}{JJ_}
+{CD_}{NN_}{NNS_}
+{NN_ none}{RB_ ever}
+{VBP_}{back RB_}{NN_}
+{NN_}{NNS_}{NN_}{NN_ sky}
+{NN_ man}{JJ_}
+{scoundrel}
+{VBG_}{NNS_}{NN_}
+{set}{VB_ conquer}{JJ_}
+{JJ_}{light}{NN_}
+{VBN_}{NN_}{hand}
+{VBN_}{MD_}{VB_}
+{NNS_}{NN_}{NN_ time}
+{NN_}{NN_ sun}
+{VBZ_}{us PP_}
+{VBP_}{NN_}{NN_ time}
+{NN_}{NN_ strike}
+{NNS_}{VBD_}{NNS_ sea}
+{DT_ every}{NN_}
+{VB_ feel}{NN_}{NN_}
+{RB_}{VBN_}{NN_}{NN_}
+{VB_ sing}{NN_}
+{bow}
+{VBN_}{NN_}{NN_}{NNS_}
+{NNS_ cannon}{NN_}
+{VB_}{VBP_}{NNS_}
+{NN_}{NN_ end}{NN_}
+{NN_ slaying}{NNS_ poseur}{VBP_ stand}{NN_ way}
+{NN_ day}{VBP_}
+{NNS_ hand}
+{JJ_}{VBD_ lose}{sea}
+{NN_}{NNS_}{NNS_}
+{sure}{NN_}
+{first}{let}{NN_}
+{VBD_}{JJ_ deadly}{NN_}
+{VBD_}{NN_}{RB_}
+{NNS_ cannon}{NNS_ sword}
+{know}{NN_ end}
+{sing}{song}
+{MD_ may}
+{stare}{NN_}
+{VBN_}{NNS_}{VBD_}
+{battle}{NN_}{NN_}
+{NN_}{NNS_ fear}
+{NN_ sail}{JJ_}{land}
+{NN_}{across IN_}{NNS_}{NN_}
+{NNS_ year}
+{NN_}{NN_ soul}
+{NN_ shadow}
+{sight}
+{set}{NN_}
+{NN_}{JJ_}{NNS_ sea}
+{VB_ hear}{NN_}{JJ_}
+{us PP_}{NN_}
+{RB_}{NNS_}
+{VBD_}{man}
+{NNS_}{RB_}{JJ_}{NNS_}
+{back RB_}{NN_ time}{NN_ fight}{NN_ viking}{NN_ foe}
+{NNS_ year}{NN_}
+{NN_}{NN_}{RB_}{JJ_}
+{NNS_ wolf}{NN_ sea}
+{VBN_}{good}{NNS_}
+{RB_}{NN_}{NN_ fight}
+{NN_ stand}{NNS_ gallows}
+{wench}
+{VB_ get}{JJ_}
+{IN_ beneath}
+{NNS_}{VBP_ stand}{NN_}
+{VBD_ take}{NNS_}{NN_}
+{NN_ journey}{VB_}{NN_}
+{set}{JJ_}
+{search}
+{VBN_}{NN_}{VBD_}{NN_}
+{JJ_ many}{NNS_}{NN_}
+{VB_}{VBP_}{NN_}
+{NN_ misery}{NN_ slaughter}{VBD_ leave}{NN_ burning}{NN_ wake}
+{crew}{NN_}
+{NN_ fire}{cannon VBZ_}{NN_ storm}{NNS_ wall}
+{NN_}{VBN_}{JJ_}
+{NNS_ sea}{quest VBP_}{VBN_ begin}
+{come}{NN_ destiny}
+{JJ_ ol}{NN_ nancy}{NN_ care}{come VBZ_}{NN_ inn}
+{NN_}{JJ_}{NN_ fate}
+{bring}
+{NN_}{NN_}{MD_ shall}
+{get}{JJ_ drunk}
+{NN_ ship}
+{NNS_ cannon}
+{NN_ sail}{NN_}{NN_}
+{JJ_ mighty}{NN_ treasure}{NN_ hold}
+{NN_}{NN_}{NN_}{NNS_}
+{hill}{NN_}
+{NN_ raise}{NNS_}{NN_}{NN_}
+{NNS_}{NN_ ale}
+{NN_ curse}{NN_}
+{JJ_}{JJ_}{NN_ land}
+{blind}
+{pirate}{JJ_}{NN_}
+{steal VB_}{VB_ show}{JJ_ jolly}{NNS_ rogers}{VBP_ go}
+{VBN_}{NN_ destiny}
+{NNS_}{NN_}{come}
+{VB_}{VBP_}{JJ_}
+{shipwreck}
+{RB_ yet}{NN_}
+{JJ_}{NNS_ year}{RB_ ago}
+{see}{NN_}{NN_}
+{NN_}{see}{NN_}
+{day}{life}
+{NN_ pirate}{NN_}{NN_}
+{us PP_}{JJ_}
+{VBD_}{JJ_}{NN_}{JJ_}
+{NNS_}{NN_}{NNS_}
+{JJ_ black}{NN_}
+{NNS_}{tell}
+{VB_}{sea}
+{life}{VB_}
+{NN_ ride}{NN_ huntmaster}
+{JJ_ many}{NNS_ year}
+{ship}{JJ_}{NN_}
+{NNS_}{RB_}{VBN_}
+{across IN_}{NN_}
+{NNS_}{draw}{NN_}{NN_}
+{VB_}{back RB_}{NN_ beer}{NNS_}
+{NN_}{stand}{NN_}
+{NN_}{NN_}{VBP_ know}
+{CD_}{CD_ hundred}{NNS_}
+{friend}
+{speak}
+{VBN_}{man}
+{NN_}{RB_ ever}
+{search}{NN_}{NN_}
+{NN_}{cutlass}{NN_}
+{NN_ show}{NN_}{NN_}
+{NNS_ tale}{VBD_}
+{kill}{JJ_}{NN_}
+{hear}{NN_}
+{MD_ can}{VB_}
+{JJ_}{VBD_}{NNS_}
+{sail}{NN_}{NN_}
+{go}{RB_}{VB_}
+{VB_ get}{NN_}
+{fear}{RB_}
+{NN_}{NN_ gold}
+{NN_}{NN_}{NN_}{JJ_}{NN_}
+{NN_}{NN_}{NN_ rest}
+{JJ_}{NN_ man}
+{JJ_ faraway}{NN_ land}
+{JJ_}{NN_ hell}
+{NNS_}{NN_}{VBD_}
+{JJ_}{NN_}{NN_ day}
+{NN_ hand}
+{NNS_}{go}
+{JJ_ ready}{NN_}
+{VBG_}{body}
+{d SYM_}{VBN_}
+{VBG_}{NNS_}{RB_}
+{JJ_}{NNS_}{VBP_}{NNS_}
+{NN_ terror}{JJ_ high}{NNS_ sea}
+{VBG_ look}{NN_}
+{NN_ fate}{NNS_}
+{VBN_}{live}
+{IN_ upon}{NN_}
+{NN_ beast}
+{set}{VB_ conquer}{NN_}
+{NN_}{NNS_ wave}
+{VB_}{NNS_}{NNS_}
+{NN_}{VBP_ go}
+{VBZ_}{VBN_}{NN_}
+{VBD_}{VBP_}{JJ_}{NN_}
+{JJ_ first}{NN_}{NN_}
+{VB_}{VB_}{JJ_}{NN_}
+{sin}
+{NN_}{RB_}{know}
+{set}{NN_ sail}
+{cannon}{NNS_}
+{NN_}{strike}{NN_}{NNS_}
+{NN_ quest}{NN_}
+{NN_}{VBD_}{NN_}{NN_}
+{run}{VBD_}
+{IN_}{JJ_}{NN_}{NN_}{NN_}
+{tale}
+{JJ_}{light}
+{dead}
+{NN_ raise}{NNS_ tankard}{NN_ ale}{NN_ sky}
+{NN_ time}{come VBP_}
+{NNS_}{NN_}{RB_}
+{JJ_}{NN_ night}
+{day}{VBP_}
+{NN_}{JJ_ final}{NN_}
+{NN_}{VBD_}{NN_ sea}
+{know}{JJ_}{NN_}
+{JJ_ endless}
+{NN_}{come}{JJ_}{NN_}
+{NN_}{JJ_ days.}{JJ_}{NNS_}
+{JJ_}{NN_}{VBD_}{NNS_}
+{JJ_ many}{NN_ year}{NNS_}
+{NNS_}{VBD_}{VBG_}{NN_}
+{live}{JJ_}
+{face}{NN_}{NN_}
+{JJ_ buckfast}{NN_ powersmash}
+{NN_ time}{come VBP_}{NN_}{NN_}
+{NN_}{RB_}{VB_}
+{NN_}{VBD_}{NN_}{NNS_}
+{NN_}{VB_}{RB_}
+{VBN_}{NN_ die}
+{VB_ ride}
+{RB_ yet}{NN_}{NNS_}
+{NNS_}{JJ_}{NNS_}{VBD_}
+{NN_ gold}{NN_}
+{VBN_ set}{NN_ sail}{JJ_}{NN_}
+{NNS_}{VBD_}{NNS_}{NN_}
+{NN_}{NN_}{NN_ tale}
+{JJ_ little}
+{JJ_}{NN_ curse}
+{VBN_ set}{NN_ sail}{JJ_}
+{NN_ pirate}{JJ_}
+{VB_}{hand}
+{come}{NN_}{NN_ time}
+{come}{VB_}{NN_}
+{go}{JJ_}
+{sail}{JJ_}{NNS_}
+{captain NN_}{NN_}
+{NNS_}{friend}
+{JJ_}{NN_}{go}
+{NN_}{stand}
+{VB_}{VB_ jug}{JJ_ famous}{NNS_ ol}{VBD_ spice}
+{treasure}{JJ_}
+{NN_ map}
+{kill}{NN_}{NN_}
+{VBZ_}{NN_ barrel}{NN_}
+{lead}{us PP_}{NN_}
+{VB_}{VB_}{NN_ til}{NN_}
+{NN_}{NNS_}{VBD_ know}
+{VB_ throw}
+{JJ_}{year}{VBD_}
+{NN_}{burn}
+{NN_}{back RB_}{JJ_}{NN_}
+{JJ_ good}{NNS_}
+{JJ_}{VBD_}{go}
+{NN_}{JJ_ old}
+{ship}{NN_}
+{UH_}{UH_ hey}
+{UH_}{VB_}{NN_}
+{JJ_ full}{NN_}
+{NN_}{NN_ life}{NN_}
+{JJ_}{NN_ sea}
+{JJ_ black}{NN_ spot}{NN_ hand}
+{NN_}{tale}
+{VBN_}{NN_}{NN_ sail}
+{JJ_}{NNS_}{MD_}{VB_}
+{NN_ heart}{NN_}
+{NN_ slaying}{NNS_}
+{NN_ ride}
+{heart}{NN_}
+{NN_ price}
+{know}{JJ_}{NN_}{NN_}
+{VB_ raise}{NN_ fist}{NN_ sky}
+{VB_ hear}{NNS_}
+{NN_ burn}{NN_}
+{JJ_}{NN_ quest}
+{NN_ city}
+{time}{VB_}
+{NNS_}{NNS_ sea}
+{NN_ time}{fear}
+{NN_}{VBZ_ lie}
+{know}{NN_}{us PP_}
+{JJ_}{NNS_}{RB_ ago}
+{NN_}{NN_}{foe}
+{NNS_}{VBP_}{JJ_}
+{NN_}{JJ_ dead}{NN_}
+{set}{JJ_}{NN_}
+{VBD_ swear}{NN_}
+{VBN_}{VBD_}{NN_}
+{JJ_}{VBG_ call}{NN_}
+{attack}
+{VBD_}{IN_}{NN_}
+{JJ_ many}{MD_}{VB_}
+{VB_ get}{JJ_ drunk}
+{barrel}{NN_}{NNS_}
+{VB_}{JJ_}{JJ_}{NN_}
+{VB_}{NN_}{JJ_}
+{MD_ would}{VB_}{NNS_}{NN_}
+{VBD_ lose}{NN_}
+{MD_}{RB_}{VB_}
+{VBG_ run}{NNS_}
+{NNS_ piece}
+{NN_ sea}{NN_}
+{VBZ_}{NNS_}{NN_}
+{NN_ treasure}{NN_}
+{NNS_ yer}{IN_ like}{VBN_ fight}{VBN_ die}
+{man}{NN_}{NN_}
+{NN_ curse}
+{VBD_}{us PP_}{NN_}
+{NN_ lust}{NN_ gold}{NN_ power}{NN_ steel}
+{NN_}{VBZ_}{NN_}
+{VB_}{VB_}{JJ_ famous}{NNS_ ol}{VBD_ spice}
+{CD_}{NNS_}{NN_}
+{JJ_}{NN_}{us PP_}{DT_}{NN_}
+{JJ_}{NN_}{VBP_}
+{CD_}{NNS_ year}
+{VB_ raise}{NN_}{NN_}
+{NN_}{VBD_}{sea}
+{NNS_}{NN_}{VB_}
+{NN_}{NN_ rest}
+{make}{RB_}
+{quest}{JJ_}{NN_}
+{land}
+{NN_}{NN_ huntmaster}{NN_}
+{come}{back RB_}{JJ_ mighty}{NN_ quest}
+{NN_}{NNS_ mind}
+{RB_}{JJ_}{NNS_ sea}
+{NN_ crew}{VBD_ set}{NN_}
+{JJ_ many}{JJ_}
+{NNS_ sail}
+{JJ_}{JJ_}{NN_}{VBD_}
+{find}{NN_}{JJ_}
+{VB_ sail}{JJ_ endless}{NNS_ ocean}
+{NN_ walk}
+{VB_ find}
+{NN_}{NN_ pirate}{NN_}
+{MD_ could}{VB_ go}{back RB_}{VB_ make}{NN_ amends}
+{kill VBN_}{NN_}
+{VBG_ lead}{us PP_}{JJ_ grave}
+{NN_}{VBD_}{JJ_}{NN_}
+{JJ_}{NN_}{VBD_ lose}
+{NN_ hell}{NN_}
+{JJ_}{NNS_}{NN_ friend}
+{barrel}{NN_}
+{VBP_}{JJ_}{NN_}{NNS_}
+{IN_ like}
+{NN_ day}{NN_}
+{NN_}{NN_ sky}
+{VBG_}{VBG_}{NN_}
+{NNS_}{JJ_}{NNS_}
+{live}{NN_ day}
+{JJ_}{RB_}
+{NN_}{VB_ ignore}
+{NN_}{another DT_}{NN_}
+{tear}{NN_}
+{MD_ may}{NN_}
+{NN_}{sail}
+{VBN_}{captain NN_}{NN_}
+{JJ_ black}{NNS_ sail}{NN_ midnight}
+{RB_}{JJ_}{NNS_}
+{NN_ life}{JJ_}
+{NNS_}{fire}
+{NN_}{NNS_}{MD_}{VB_}
+{NN_}{leave}
+{IN_}{JJ_}{NN_}{NN_}
+{NNS_ wench}{NN_}
+{RB_}{MD_}
+{gold}
+{show}{VBP_}
+{NN_}{RB_ nigh}
+{VB_}{NN_}{NN_}{VBP_}
+{NN_}{NN_}{NNS_}{NN_}
+{NN_ reason}
+{NN_ n}{NN_}
+{MD_ would}{VB_}{NN_}
+{JJ_}{night}
+{NNS_ land}
+{look}{RB_}
+{pirate}{VBP_}{JJ_}
+{DT_}{NN_ day}
+{NNS_ tale}{VBD_ tell}
+{NN_}{MD_}{RB_}{JJ_}
+{NN_ crash}{NN_}
+{RB_}{VBD_}{NNS_}
+{NN_ fight}{NN_ huntmaster}
+{JJ_ cold}{NN_}
+{map}{VBN_}
+{VB_ get}{JJ_ drunk}{MD_ can}{VB_ think}
+{NNS_}{NN_ glory}
+{barrel}{NN_}{NN_}
+{NNS_ sword}{VBD_}{NN_}
+{set}{NN_ sail}{NNS_}
+{JJ_ endless}{NN_}
+{NN_}{NN_ curse}
+{VB_}{JJ_}{JJ_}{NN_ beer}

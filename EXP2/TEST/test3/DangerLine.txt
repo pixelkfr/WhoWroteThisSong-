@@ -1,0 +1,23 @@
+{say}	sup=2
+{last}	sup=2
+{may}	sup=2
+{nothing}{shock}{like}{bullet}{hole}	sup=2
+{leave}{fear}{danger}{line}	sup=2
+{leave}{faith}{danger}{line}	sup=2
+{suffer}{man}{never}{know}	sup=2
+{never}{faith}	sup=2
+{never}{mean}	sup=2
+{think}{time}	sup=2
+{think}{d}	sup=2
+{care}	sup=2
+{blood}	sup=2
+{fear}	sup=3
+{one}	sup=3
+{leave}{danger}{line}	sup=4
+{faith}	sup=4
+{time}	sup=5
+{know}	sup=5
+{think}	sup=5
+{leave}	sup=6
+{never}	sup=9
+
